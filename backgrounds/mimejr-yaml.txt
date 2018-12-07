@@ -1,0 +1,7 @@
+# 439
+mimejr:
+    primary: '#F7D8E8'
+    secondary: '#D8F7E7'
+    tertiary: '#E8F7D8 '
+    unibody: '#F7D8E8'
+

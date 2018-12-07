@@ -1,0 +1,7 @@
+# 300
+skitty:
+    primary: '#F59BBF'
+    secondary: '#9BF5D1'
+    tertiary: '#BFF59B '
+    unibody: '#F59BBF'
+

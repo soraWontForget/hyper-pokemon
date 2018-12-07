@@ -1,0 +1,7 @@
+# -female
+nidoran-female:
+    primary: ''
+    secondary: ''
+    tertiary: ' '
+    unibody: ''
+

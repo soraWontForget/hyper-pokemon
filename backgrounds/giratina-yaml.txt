@@ -1,0 +1,7 @@
+# 487
+giratina:
+    primary: '#28292B'
+    secondary: '#2B2A28'
+    tertiary: '#2B2829 '
+    unibody: '#28292B'
+

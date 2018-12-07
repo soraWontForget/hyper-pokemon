@@ -1,0 +1,7 @@
+# 591
+amoonguss:
+    primary: '#C9D2BF'
+    secondary: '#C8BFD2'
+    tertiary: '#BFC9D2 '
+    unibody: '#C9D2BF'
+

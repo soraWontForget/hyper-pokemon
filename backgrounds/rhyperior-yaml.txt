@@ -1,0 +1,7 @@
+# 464
+rhyperior:
+    primary: '#716161'
+    secondary: '#617171'
+    tertiary: '#617161 '
+    unibody: '#716161'
+

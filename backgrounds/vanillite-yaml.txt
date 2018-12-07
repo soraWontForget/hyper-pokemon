@@ -1,0 +1,7 @@
+# 582
+vanillite:
+    primary: '#7FA4D0'
+    secondary: '#D0AB7F'
+    tertiary: '#D07FA4 '
+    unibody: '#7FA4D0'
+

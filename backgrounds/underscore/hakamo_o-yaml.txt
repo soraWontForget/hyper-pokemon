@@ -1,0 +1,5 @@
+hakamo_o:
+    primary: #BCBABA
+    secondary: # Image
+    tertiary: # Image
+    unibody: #BCBABA

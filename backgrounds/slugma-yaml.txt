@@ -1,0 +1,7 @@
+# 218
+slugma:
+    primary: '#EC6444'
+    secondary: '#44CCEC'
+    tertiary: '#44EC64 '
+    unibody: '#EC6444'
+

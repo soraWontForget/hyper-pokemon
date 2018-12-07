@@ -1,0 +1,7 @@
+# 509
+purrloin:
+    primary: '#6E5C76'
+    secondary: '#64765C'
+    tertiary: '#766E5C '
+    unibody: '#6E5C76'
+

@@ -1,0 +1,7 @@
+# 
+nidorino:
+    primary: '#A37DA8'
+    secondary: '#82A87D'
+    tertiary: '#A8A37D '
+    unibody: '#A37DA8'
+

@@ -1,0 +1,5 @@
+alolan_sandshrew:
+    primary: #C3DDE8
+    secondary: # Image
+    tertiary: # Image
+    unibody: #C3DDE8

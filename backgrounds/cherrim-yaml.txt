@@ -1,0 +1,7 @@
+# 421
+cherrim:
+    primary: '#F6CA35'
+    secondary: '#3561F6'
+    tertiary: '#35F6CA '
+    unibody: '#F6CA35'
+

@@ -1,0 +1,7 @@
+# 
+marowak:
+    primary: '#D1A341'
+    secondary: '#416FD1'
+    tertiary: '#41D1A3 '
+    unibody: '#D1A341'
+

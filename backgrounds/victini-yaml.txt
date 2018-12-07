@@ -1,0 +1,7 @@
+# 494
+victini:
+    primary: '#FAEBAA'
+    secondary: '#AAB9FA'
+    tertiary: '#AAFAEB '
+    unibody: '#FAEBAA'
+

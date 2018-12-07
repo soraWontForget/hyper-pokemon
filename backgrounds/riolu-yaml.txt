@@ -1,0 +1,7 @@
+# 447
+riolu:
+    primary: '#78ACC2'
+    secondary: '#C28E78'
+    tertiary: '#C278AC '
+    unibody: '#78ACC2'
+

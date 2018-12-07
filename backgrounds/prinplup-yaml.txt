@@ -1,0 +1,7 @@
+# 394
+prinplup:
+    primary: '#3F608D'
+    secondary: '#8D6C3F'
+    tertiary: '#8D3F60 '
+    unibody: '#3F608D'
+

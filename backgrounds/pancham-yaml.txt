@@ -1,0 +1,7 @@
+# 674
+pancham:
+    primary: '#626473'
+    secondary: '#737162'
+    tertiary: '#736264 '
+    unibody: '#626473'
+

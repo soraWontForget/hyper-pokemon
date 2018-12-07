@@ -1,0 +1,5 @@
+shaymin_sky:
+    primary: #FEFEFE
+    secondary: # Image
+    tertiary: # Image
+    unibody: #FEFEFE

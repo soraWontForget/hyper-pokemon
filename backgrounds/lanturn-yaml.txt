@@ -1,0 +1,7 @@
+# 171
+lanturn:
+    primary: '#79A6CF'
+    secondary: '#CFA279'
+    tertiary: '#CF79A6 '
+    unibody: '#79A6CF'
+

@@ -1,0 +1,5 @@
+minior_core_blue:
+    primary: #1FB8DF
+    secondary: # Image
+    tertiary: # Image
+    unibody: #1FB8DF

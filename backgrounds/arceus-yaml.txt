@@ -1,0 +1,7 @@
+# 493
+arceus:
+    primary: '#EBEBEB'
+    secondary: '#EBEBEB'
+    tertiary: '#EBEBEB '
+    unibody: '#EBEBEB'
+

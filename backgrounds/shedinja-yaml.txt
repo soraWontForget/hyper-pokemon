@@ -1,0 +1,7 @@
+# 292
+shedinja:
+    primary: '#D1B180'
+    secondary: '#80A0D1'
+    tertiary: '#80D1B1 '
+    unibody: '#D1B180'
+

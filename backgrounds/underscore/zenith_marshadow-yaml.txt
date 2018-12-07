@@ -1,0 +1,5 @@
+zenith_marshadow:
+    primary: #737477
+    secondary: # Image
+    tertiary: # Image
+    unibody: #737477

@@ -1,0 +1,7 @@
+# 
+gengar:
+    primary: '#4B294A'
+    secondary: '#294B2A'
+    tertiary: '#4A4B29 '
+    unibody: '#4B294A'
+

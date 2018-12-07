@@ -1,0 +1,7 @@
+# 377
+regirock:
+    primary: '#D4CBC6'
+    secondary: '#C6CFD4'
+    tertiary: '#C6D4CB '
+    unibody: '#D4CBC6'
+

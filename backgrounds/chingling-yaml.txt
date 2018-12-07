@@ -1,0 +1,7 @@
+# 433
+chingling:
+    primary: '#EBD158'
+    secondary: '#5872EB'
+    tertiary: '#58EBD1 '
+    unibody: '#EBD158'
+

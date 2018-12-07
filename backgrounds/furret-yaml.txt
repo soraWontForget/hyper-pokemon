@@ -1,0 +1,7 @@
+# 162
+furret:
+    primary: '#E6C39D'
+    secondary: '#9DC0E6'
+    tertiary: '#9DE6C3 '
+    unibody: '#E6C39D'
+

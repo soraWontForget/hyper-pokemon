@@ -1,0 +1,7 @@
+# 188
+skiploom:
+    primary: '#84C140'
+    secondary: '#7D40C1'
+    tertiary: '#4084C1 '
+    unibody: '#84C140'
+

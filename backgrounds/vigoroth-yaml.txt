@@ -1,0 +1,7 @@
+# 288
+vigoroth:
+    primary: '#EFF0F2'
+    secondary: '#F2F1EF'
+    tertiary: '#F2EFF0 '
+    unibody: '#EFF0F2'
+

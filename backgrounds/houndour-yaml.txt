@@ -1,0 +1,7 @@
+# 228
+houndour:
+    primary: '#4E4A47'
+    secondary: '#474B4E'
+    tertiary: '#474E4A '
+    unibody: '#4E4A47'
+

@@ -1,0 +1,7 @@
+# 361
+snorunt:
+    primary: '#343839'
+    secondary: '#393534'
+    tertiary: '#393438 '
+    unibody: '#343839'
+

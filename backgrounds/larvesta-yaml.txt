@@ -1,0 +1,7 @@
+# 636
+larvesta:
+    primary: '#F6FAFB'
+    secondary: '#FBF7F6'
+    tertiary: '#FBF6FA '
+    unibody: '#F6FAFB'
+

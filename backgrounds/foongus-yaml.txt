@@ -1,0 +1,7 @@
+# 590
+foongus:
+    primary: '#4F4039'
+    secondary: '#39484F'
+    tertiary: '#394F40 '
+    unibody: '#4F4039'
+

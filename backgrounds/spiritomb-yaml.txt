@@ -1,0 +1,7 @@
+# 442
+spiritomb:
+    primary: '#DBA8BB'
+    secondary: '#A8DBC8'
+    tertiary: '#BBDBA8 '
+    unibody: '#DBA8BB'
+

@@ -1,0 +1,7 @@
+# 
+horsea:
+    primary: '#86D4EB'
+    secondary: '#EB9D86'
+    tertiary: '#EB86D4 '
+    unibody: '#86D4EB'
+

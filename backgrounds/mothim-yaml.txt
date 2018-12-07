@@ -1,0 +1,7 @@
+# 414
+mothim:
+    primary: '#484647'
+    secondary: '#464847'
+    tertiary: '#474846 '
+    unibody: '#484647'
+

@@ -1,0 +1,7 @@
+# 529
+drilbur:
+    primary: '#404040'
+    secondary: '#404040'
+    tertiary: '#404040 '
+    unibody: '#404040'
+

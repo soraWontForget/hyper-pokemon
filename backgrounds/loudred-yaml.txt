@@ -1,0 +1,7 @@
+# 294
+loudred:
+    primary: '#757EB5'
+    secondary: '#B5AC75'
+    tertiary: '#B5757E '
+    unibody: '#757EB5'
+

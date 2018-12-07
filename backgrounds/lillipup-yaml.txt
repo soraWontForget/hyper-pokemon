@@ -1,0 +1,7 @@
+# 506
+lillipup:
+    primary: '#F19459'
+    secondary: '#59B6F1'
+    tertiary: '#59F194 '
+    unibody: '#F19459'
+

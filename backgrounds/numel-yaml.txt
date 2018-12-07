@@ -1,0 +1,7 @@
+# 322
+numel:
+    primary: '#F8D67C'
+    secondary: '#7C9EF8'
+    tertiary: '#7CF8D6 '
+    unibody: '#F8D67C'
+

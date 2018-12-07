@@ -1,0 +1,7 @@
+# 400
+bibarel:
+    primary: '#BE8D48'
+    secondary: '#4879BE'
+    tertiary: '#48BE8D '
+    unibody: '#BE8D48'
+

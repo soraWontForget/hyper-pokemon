@@ -1,0 +1,7 @@
+# 243
+raikou:
+    primary: '#EBD079'
+    secondary: '#7994EB'
+    tertiary: '#79EBD0 '
+    unibody: '#EBD079'
+

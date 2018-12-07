@@ -1,0 +1,7 @@
+# 424
+ambipom:
+    primary: '#977BB5'
+    secondary: '#99B57B'
+    tertiary: '#B5977B '
+    unibody: '#977BB5'
+

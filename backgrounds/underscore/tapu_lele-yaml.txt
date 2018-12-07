@@ -1,0 +1,5 @@
+tapu_lele:
+    primary: #E7A0B9
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E7A0B9

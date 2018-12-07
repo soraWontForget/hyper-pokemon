@@ -1,0 +1,5 @@
+lycanroc_midnight:
+    primary: #AD3843
+    secondary: # Image
+    tertiary: # Image
+    unibody: #AD3843

@@ -1,0 +1,7 @@
+# 547
+whimsicott:
+    primary: '#745342'
+    secondary: '#426374'
+    tertiary: '#427453 '
+    unibody: '#745342'
+

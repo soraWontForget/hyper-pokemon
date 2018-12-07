@@ -1,0 +1,7 @@
+# 605
+elgyem:
+    primary: '#A6D8D5'
+    secondary: '#D8A6A9'
+    tertiary: '#D5A6D8 '
+    unibody: '#A6D8D5'
+

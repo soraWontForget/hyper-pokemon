@@ -1,0 +1,7 @@
+# 456
+finneon:
+    primary: '#39464E'
+    secondary: '#4E4139'
+    tertiary: '#4E3946 '
+    unibody: '#39464E'
+

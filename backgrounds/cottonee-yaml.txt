@@ -1,0 +1,7 @@
+# 546
+cottonee:
+    primary: '#FDFDFC'
+    secondary: '#FCFCFD'
+    tertiary: '#FCFDFD '
+    unibody: '#FDFDFC'
+

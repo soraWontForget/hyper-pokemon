@@ -1,0 +1,7 @@
+# 550
+basculin:
+    primary: '#7AB342'
+    secondary: '#7B42B3'
+    tertiary: '#427AB3 '
+    unibody: '#7AB342'
+

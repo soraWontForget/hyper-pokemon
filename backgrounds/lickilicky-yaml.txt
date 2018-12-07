@@ -1,0 +1,7 @@
+# 463
+lickilicky:
+    primary: '#DE869B'
+    secondary: '#86DEC9'
+    tertiary: '#9BDE86 '
+    unibody: '#DE869B'
+

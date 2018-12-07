@@ -1,0 +1,7 @@
+# 515
+panpour:
+    primary: '#8ED4DC'
+    secondary: '#DC968E'
+    tertiary: '#DC8ED4 '
+    unibody: '#8ED4DC'
+

@@ -1,0 +1,7 @@
+# 182
+bellossom:
+    primary: '#BAD69C'
+    secondary: '#B89CD6'
+    tertiary: '#9CBAD6 '
+    unibody: '#BAD69C'
+

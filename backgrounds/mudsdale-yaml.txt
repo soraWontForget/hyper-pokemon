@@ -1,0 +1,7 @@
+# 750
+mudsdale:
+    primary: '#9F7765'
+    secondary: '#658D9F'
+    tertiary: '#659F77 '
+    unibody: '#9F7765'
+

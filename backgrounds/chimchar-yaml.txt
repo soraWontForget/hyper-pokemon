@@ -1,0 +1,7 @@
+# 390
+chimchar:
+    primary: '#E69947'
+    secondary: '#4794E6'
+    tertiary: '#47E699 '
+    unibody: '#E69947'
+

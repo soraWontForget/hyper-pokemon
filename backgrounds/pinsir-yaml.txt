@@ -1,0 +1,7 @@
+# 
+pinsir:
+    primary: ''
+    secondary: ''
+    tertiary: ' '
+    unibody: ''
+

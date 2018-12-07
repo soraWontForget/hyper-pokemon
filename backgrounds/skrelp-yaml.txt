@@ -1,0 +1,7 @@
+# 690
+skrelp:
+    primary: '#885A43'
+    secondary: '#437188'
+    tertiary: '#43885A '
+    unibody: '#885A43'
+

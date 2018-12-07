@@ -1,0 +1,7 @@
+# 
+lickitung:
+    primary: '#EBA5B0'
+    secondary: '#A5EBE0'
+    tertiary: '#B0EBA5 '
+    unibody: '#EBA5B0'
+

@@ -1,0 +1,5 @@
+minior_core_light_blue:
+    primary: #9FD8EE
+    secondary: # Image
+    tertiary: # Image
+    unibody: #9FD8EE

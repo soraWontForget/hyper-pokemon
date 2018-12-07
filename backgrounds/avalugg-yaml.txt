@@ -1,0 +1,7 @@
+# 713
+avalugg:
+    primary: '#D2EEFC'
+    secondary: '#FCE0D2'
+    tertiary: '#FCD2EE '
+    unibody: '#D2EEFC'
+

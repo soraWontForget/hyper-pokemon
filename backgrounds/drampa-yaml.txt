@@ -1,0 +1,7 @@
+# 780
+drampa:
+    primary: '#BDCCAA'
+    secondary: '#B9AACC'
+    tertiary: '#AABDCC '
+    unibody: '#BDCCAA'
+

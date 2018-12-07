@@ -1,0 +1,5 @@
+basculin_blue:
+    primary: #7AB342
+    secondary: # Image
+    tertiary: # Image
+    unibody: #7AB342

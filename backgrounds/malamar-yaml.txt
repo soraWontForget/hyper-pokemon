@@ -1,0 +1,7 @@
+# 687
+malamar:
+    primary: '#8E71A1'
+    secondary: '#84A171'
+    tertiary: '#A18E71 '
+    unibody: '#8E71A1'
+

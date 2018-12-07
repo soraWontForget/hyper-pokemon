@@ -1,0 +1,5 @@
+keldeo_resolute:
+    primary: #D4D2B9
+    secondary: # Image
+    tertiary: # Image
+    unibody: #D4D2B9

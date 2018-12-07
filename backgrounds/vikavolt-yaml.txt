@@ -1,0 +1,7 @@
+# 738
+vikavolt:
+    primary: '#6396AF'
+    secondary: '#AF7C63'
+    tertiary: '#AF6396 '
+    unibody: '#6396AF'
+

@@ -1,0 +1,7 @@
+# 449
+hippopotas:
+    primary: '#D6C47C'
+    secondary: '#7C8ED6'
+    tertiary: '#7CD6C4 '
+    unibody: '#D6C47C'
+

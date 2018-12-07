@@ -1,0 +1,7 @@
+# 
+venonat:
+    primary: '#615A90'
+    secondary: '#89905A'
+    tertiary: '#90615A '
+    unibody: '#615A90'
+

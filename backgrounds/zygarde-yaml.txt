@@ -1,0 +1,7 @@
+# 718
+zygarde:
+    primary: '#2F322E'
+    secondary: '#312E32'
+    tertiary: '#2E2F32 '
+    unibody: '#2F322E'
+

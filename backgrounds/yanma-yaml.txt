@@ -1,0 +1,7 @@
+# 193
+yanma:
+    primary: '#D25738'
+    secondary: '#38B3D2'
+    tertiary: '#38D257 '
+    unibody: '#D25738'
+

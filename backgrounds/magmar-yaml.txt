@@ -1,0 +1,7 @@
+# 
+magmar:
+    primary: '#D84E27'
+    secondary: '#27B1D8'
+    tertiary: '#27D84E '
+    unibody: '#D84E27'
+

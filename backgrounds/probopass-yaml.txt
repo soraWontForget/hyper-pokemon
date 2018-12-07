@@ -1,0 +1,7 @@
+# 476
+probopass:
+    primary: '#6288AC'
+    secondary: '#AC8662'
+    tertiary: '#AC6288 '
+    unibody: '#6288AC'
+

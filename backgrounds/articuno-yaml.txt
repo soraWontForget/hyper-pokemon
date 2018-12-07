@@ -1,0 +1,7 @@
+# 
+articuno:
+    primary: '#73A9DB'
+    secondary: '#DBA573'
+    tertiary: '#DB73A9 '
+    unibody: '#73A9DB'
+

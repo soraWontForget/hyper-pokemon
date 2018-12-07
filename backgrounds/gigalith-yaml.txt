@@ -1,0 +1,7 @@
+# 526
+gigalith:
+    primary: '#242537'
+    secondary: '#373624'
+    tertiary: '#372425 '
+    unibody: '#242537'
+

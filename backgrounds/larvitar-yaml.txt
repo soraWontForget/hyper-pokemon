@@ -1,0 +1,7 @@
+# 246
+larvitar:
+    primary: '#AEA983'
+    secondary: '#8388AE'
+    tertiary: '#83AEA9 '
+    unibody: '#AEA983'
+

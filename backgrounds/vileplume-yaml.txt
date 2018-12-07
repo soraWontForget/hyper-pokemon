@@ -1,0 +1,7 @@
+# 
+vileplume:
+    primary: '#485683'
+    secondary: '#837548'
+    tertiary: '#834856 '
+    unibody: '#485683'
+

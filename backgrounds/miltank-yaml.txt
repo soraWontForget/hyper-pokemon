@@ -1,0 +1,7 @@
+# 241
+miltank:
+    primary: '#ECAAB6'
+    secondary: '#AAECE0'
+    tertiary: '#B6ECAA '
+    unibody: '#ECAAB6'
+

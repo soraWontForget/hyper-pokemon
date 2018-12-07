@@ -1,0 +1,7 @@
+# 386
+deoxys:
+    primary: '#E3946D'
+    secondary: '#6DBCE3'
+    tertiary: '#6DE394 '
+    unibody: '#E3946D'
+

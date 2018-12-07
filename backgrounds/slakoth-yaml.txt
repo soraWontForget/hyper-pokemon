@@ -1,0 +1,7 @@
+# 287
+slakoth:
+    primary: '#E0D8CB'
+    secondary: '#CBD3E0'
+    tertiary: '#CBE0D8 '
+    unibody: '#E0D8CB'
+

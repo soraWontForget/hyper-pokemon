@@ -1,0 +1,7 @@
+# 748
+toxapex:
+    primary: '#A6DAE7'
+    secondary: '#E7B3A6'
+    tertiary: '#E7A6DA '
+    unibody: '#A6DAE7'
+

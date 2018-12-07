@@ -1,0 +1,7 @@
+# 721
+volcanion:
+    primary: '#9D2B2C'
+    secondary: '#2B9D9C'
+    tertiary: '#2C9D2B '
+    unibody: '#9D2B2C'
+

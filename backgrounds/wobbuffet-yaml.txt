@@ -1,0 +1,7 @@
+# 202
+wobbuffet:
+    primary: '#71A5D6'
+    secondary: '#D6A271'
+    tertiary: '#D671A5 '
+    unibody: '#71A5D6'
+

@@ -1,0 +1,5 @@
+jangmo_o:
+    primary: #9C9B9B
+    secondary: # Image
+    tertiary: # Image
+    unibody: #9C9B9B

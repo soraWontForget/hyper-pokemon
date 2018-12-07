@@ -1,0 +1,7 @@
+# 412
+burmy:
+    primary: '#62A146'
+    secondary: '#8546A1'
+    tertiary: '#4662A1 '
+    unibody: '#62A146'
+

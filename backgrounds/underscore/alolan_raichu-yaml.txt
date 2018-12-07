@@ -1,0 +1,5 @@
+alolan_raichu:
+    primary: #C7924E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #C7924E

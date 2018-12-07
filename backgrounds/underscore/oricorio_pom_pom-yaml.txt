@@ -1,0 +1,5 @@
+oricorio_pom_pom:
+    primary: #F1EFA6
+    secondary: # Image
+    tertiary: # Image
+    unibody: #F1EFA6

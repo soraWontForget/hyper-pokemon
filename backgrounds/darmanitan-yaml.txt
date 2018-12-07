@@ -1,0 +1,7 @@
+# 555
+darmanitan:
+    primary: '#AC463A'
+    secondary: '#3AA0AC'
+    tertiary: '#3AAC46 '
+    unibody: '#AC463A'
+

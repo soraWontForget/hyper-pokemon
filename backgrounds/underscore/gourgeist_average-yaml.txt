@@ -1,0 +1,5 @@
+gourgeist_average:
+    primary: #61532E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #61532E

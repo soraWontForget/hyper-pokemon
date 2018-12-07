@@ -1,0 +1,7 @@
+# 263
+zigzagoon:
+    primary: '#E1DDD4'
+    secondary: '#D4D8E1'
+    tertiary: '#D4E1DD '
+    unibody: '#E1DDD4'
+

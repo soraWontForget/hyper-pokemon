@@ -1,0 +1,7 @@
+# 709
+trevenant:
+    primary: '#896A4E'
+    secondary: '#4E6D89'
+    tertiary: '#4E896A '
+    unibody: '#896A4E'
+

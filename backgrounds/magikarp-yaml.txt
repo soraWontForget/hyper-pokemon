@@ -1,0 +1,7 @@
+# 
+magikarp:
+    primary: '#F17960'
+    secondary: '#60D8F1'
+    tertiary: '#60F179 '
+    unibody: '#F17960'
+

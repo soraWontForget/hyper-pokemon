@@ -1,0 +1,7 @@
+# 520
+tranquill:
+    primary: '#A5A8A1'
+    secondary: '#A4A1A8'
+    tertiary: '#A1A5A8 '
+    unibody: '#A5A8A1'
+

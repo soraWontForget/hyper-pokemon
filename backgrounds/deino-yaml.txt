@@ -1,0 +1,7 @@
+# 633
+deino:
+    primary: '#625B55'
+    secondary: '#555C62'
+    tertiary: '#55625B '
+    unibody: '#625B55'
+

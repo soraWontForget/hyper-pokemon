@@ -1,0 +1,7 @@
+# 
+graveler:
+    primary: '#B4B5A5'
+    secondary: '#A6A5B5'
+    tertiary: '#A5B4B5 '
+    unibody: '#B4B5A5'
+

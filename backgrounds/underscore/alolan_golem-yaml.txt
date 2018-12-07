@@ -1,0 +1,5 @@
+alolan_golem:
+    primary: 
+    secondary: # Image
+    tertiary: # Image
+    unibody: 

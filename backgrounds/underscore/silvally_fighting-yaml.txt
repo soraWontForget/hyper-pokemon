@@ -1,0 +1,5 @@
+silvally_fighting:
+    primary: #DFE2E9
+    secondary: # Image
+    tertiary: # Image
+    unibody: #DFE2E9

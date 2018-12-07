@@ -1,0 +1,7 @@
+# 268
+cascoon:
+    primary: '#DCD6E4'
+    secondary: '#DEE4D6'
+    tertiary: '#E4DCD6 '
+    unibody: '#DCD6E4'
+

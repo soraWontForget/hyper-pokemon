@@ -1,0 +1,7 @@
+# 
+goldeen:
+    primary: '#F3F0F8'
+    secondary: '#F5F8F0'
+    tertiary: '#F8F3F0 '
+    unibody: '#F3F0F8'
+

@@ -1,0 +1,7 @@
+# 630
+mandibuzz:
+    primary: '#4F4440'
+    secondary: '#404B4F'
+    tertiary: '#404F44 '
+    unibody: '#4F4440'
+

@@ -1,0 +1,7 @@
+# 
+golem:
+    primary: '#8A8F89'
+    secondary: '#8E898F'
+    tertiary: '#898A8F '
+    unibody: '#8A8F89'
+

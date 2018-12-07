@@ -1,0 +1,7 @@
+# 641
+tornadus:
+    primary: '#F5F4F9'
+    secondary: '#F8F9F4'
+    tertiary: '#F9F5F4 '
+    unibody: '#F5F4F9'
+

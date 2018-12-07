@@ -1,0 +1,7 @@
+# 
+dodrio:
+    primary: '#C99877'
+    secondary: '#77A8C9'
+    tertiary: '#77C998 '
+    unibody: '#C99877'
+

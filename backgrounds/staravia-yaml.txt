@@ -1,0 +1,7 @@
+# 397
+staravia:
+    primary: '#48413B'
+    secondary: '#3B4248'
+    tertiary: '#3B4841 '
+    unibody: '#48413B'
+

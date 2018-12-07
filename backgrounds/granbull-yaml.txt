@@ -1,0 +1,7 @@
+# 210
+granbull:
+    primary: '#B188A8'
+    secondary: '#88B191'
+    tertiary: '#A8B188 '
+    unibody: '#B188A8'
+

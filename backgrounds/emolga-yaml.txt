@@ -1,0 +1,7 @@
+# 587
+emolga:
+    primary: '#E9E4EA'
+    secondary: '#E5EAE4'
+    tertiary: '#EAE9E4 '
+    unibody: '#E9E4EA'
+

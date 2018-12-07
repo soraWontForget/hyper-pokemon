@@ -1,0 +1,7 @@
+# 
+golduck:
+    primary: '#7EB1DF'
+    secondary: '#DFAC7E'
+    tertiary: '#DF7EB1 '
+    unibody: '#7EB1DF'
+

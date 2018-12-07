@@ -1,0 +1,7 @@
+# 670
+floette:
+    primary: '#19987B'
+    secondary: '#981936'
+    tertiary: '#7B1998 '
+    unibody: '#19987B'
+

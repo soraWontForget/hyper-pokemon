@@ -1,0 +1,7 @@
+# 420
+cherubi:
+    primary: '#E8697E'
+    secondary: '#69E8D3'
+    tertiary: '#7EE869 '
+    unibody: '#E8697E'
+

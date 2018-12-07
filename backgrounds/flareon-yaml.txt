@@ -1,0 +1,7 @@
+# 
+flareon:
+    primary: '#E8813E'
+    secondary: '#3EA5E8'
+    tertiary: '#3EE881 '
+    unibody: '#E8813E'
+

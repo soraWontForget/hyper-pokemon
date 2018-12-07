@@ -1,0 +1,7 @@
+# 735
+gumshoos:
+    primary: '#9A7E66'
+    secondary: '#66829A'
+    tertiary: '#669A7E '
+    unibody: '#9A7E66'
+

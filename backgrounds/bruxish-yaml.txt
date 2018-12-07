@@ -1,0 +1,7 @@
+# 779
+bruxish:
+    primary: '#8ECEDC'
+    secondary: '#DC9C8E'
+    tertiary: '#DC8ECE '
+    unibody: '#8ECEDC'
+

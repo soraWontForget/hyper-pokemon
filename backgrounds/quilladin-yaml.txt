@@ -1,0 +1,7 @@
+# 651
+quilladin:
+    primary: '#A5CD5A'
+    secondary: '#825ACD'
+    tertiary: '#5AA5CD '
+    unibody: '#A5CD5A'
+

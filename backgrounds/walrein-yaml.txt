@@ -1,0 +1,7 @@
+# 365
+walrein:
+    primary: '#359CC7'
+    secondary: '#C76035'
+    tertiary: '#C7359C '
+    unibody: '#359CC7'
+

@@ -1,0 +1,7 @@
+# 
+ivysaur:
+    primary: '#278887'
+    secondary: '#882728'
+    tertiary: '#872788 '
+    unibody: '#278887'
+

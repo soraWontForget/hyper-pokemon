@@ -1,0 +1,7 @@
+# 309
+electrike:
+    primary: '#96BF85'
+    secondary: '#AE85BF'
+    tertiary: '#8596BF '
+    unibody: '#96BF85'
+

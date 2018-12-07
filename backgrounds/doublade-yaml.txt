@@ -1,0 +1,7 @@
+# 680
+doublade:
+    primary: '#A49381'
+    secondary: '#8192A4'
+    tertiary: '#81A493 '
+    unibody: '#A49381'
+

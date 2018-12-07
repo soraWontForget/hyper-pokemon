@@ -1,0 +1,7 @@
+# 
+kangaskhan:
+    primary: '#8D746D'
+    secondary: '#6D868D'
+    tertiary: '#6D8D74 '
+    unibody: '#8D746D'
+

@@ -1,0 +1,7 @@
+# 372
+shelgon:
+    primary: '#D5D9DC'
+    secondary: '#DCD8D5'
+    tertiary: '#DCD5D9 '
+    unibody: '#D5D9DC'
+

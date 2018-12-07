@@ -1,0 +1,5 @@
+alolan_ninetales:
+    primary: #F2FAFE
+    secondary: # Image
+    tertiary: # Image
+    unibody: #F2FAFE

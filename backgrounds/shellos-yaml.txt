@@ -1,0 +1,7 @@
+# 422
+shellos:
+    primary: '#43ADC5'
+    secondary: '#C55B43'
+    tertiary: '#C543AD '
+    unibody: '#43ADC5'
+

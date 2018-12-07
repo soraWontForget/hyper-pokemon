@@ -1,0 +1,7 @@
+# 
+mankey:
+    primary: '#F6E5D5'
+    secondary: '#D5E6F6'
+    tertiary: '#D5F6E5 '
+    unibody: '#F6E5D5'
+

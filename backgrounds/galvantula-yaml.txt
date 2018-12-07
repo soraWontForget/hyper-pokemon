@@ -1,0 +1,7 @@
+# 596
+galvantula:
+    primary: '#FEED59'
+    secondary: '#596AFE'
+    tertiary: '#59FEED '
+    unibody: '#FEED59'
+

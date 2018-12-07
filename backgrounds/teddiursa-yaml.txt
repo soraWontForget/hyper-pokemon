@@ -1,0 +1,7 @@
+# 216
+teddiursa:
+    primary: '#ED9B51'
+    secondary: '#51A3ED'
+    tertiary: '#51ED9B '
+    unibody: '#ED9B51'
+

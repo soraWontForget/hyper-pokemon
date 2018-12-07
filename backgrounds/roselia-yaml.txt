@@ -1,0 +1,7 @@
+# 315
+roselia:
+    primary: '#B5D38D'
+    secondary: '#AB8DD3'
+    tertiary: '#8DB5D3 '
+    unibody: '#B5D38D'
+

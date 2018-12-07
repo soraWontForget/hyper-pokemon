@@ -1,0 +1,7 @@
+# 535
+tympole:
+    primary: '#434343'
+    secondary: '#434343'
+    tertiary: '#434343 '
+    unibody: '#434343'
+

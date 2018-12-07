@@ -1,0 +1,7 @@
+# 278
+wingull:
+    primary: '#9DCFF0'
+    secondary: '#F0BE9D'
+    tertiary: '#F09DCF '
+    unibody: '#9DCFF0'
+

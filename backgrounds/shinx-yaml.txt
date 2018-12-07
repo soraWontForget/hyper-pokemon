@@ -1,0 +1,7 @@
+# 403
+shinx:
+    primary: '#77A9C0'
+    secondary: '#C08E77'
+    tertiary: '#C077A9 '
+    unibody: '#77A9C0'
+

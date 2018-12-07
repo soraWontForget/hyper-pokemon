@@ -1,0 +1,7 @@
+# 703
+carbink:
+    primary: '#B8B8C4'
+    secondary: '#C4C4B8'
+    tertiary: '#C4B8B8 '
+    unibody: '#B8B8C4'
+

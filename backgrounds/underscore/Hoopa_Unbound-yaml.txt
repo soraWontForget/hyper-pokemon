@@ -1,0 +1,5 @@
+Hoopa_Unbound:
+    primary: #9F3C6B
+    secondary: # Image
+    tertiary: # Image
+    unibody: #9F3C6B

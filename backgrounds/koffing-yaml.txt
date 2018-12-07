@@ -1,0 +1,7 @@
+# 
+koffing:
+    primary: '#A793C6'
+    secondary: '#B2C693'
+    tertiary: '#C6A793 '
+    unibody: '#A793C6'
+

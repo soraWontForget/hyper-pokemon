@@ -1,0 +1,7 @@
+# 264
+linoone:
+    primary: '#D9C7C5'
+    secondary: '#C5D7D9'
+    tertiary: '#C5D9C7 '
+    unibody: '#D9C7C5'
+

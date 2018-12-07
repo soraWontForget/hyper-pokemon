@@ -1,0 +1,7 @@
+# 471
+glaceon:
+    primary: '#B5DEDA'
+    secondary: '#DEB5B9'
+    tertiary: '#DAB5DE '
+    unibody: '#B5DEDA'
+

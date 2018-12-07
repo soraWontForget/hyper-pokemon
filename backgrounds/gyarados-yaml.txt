@@ -1,0 +1,7 @@
+# 
+gyarados:
+    primary: '#307AA4'
+    secondary: '#A45A30'
+    tertiary: '#A4307A '
+    unibody: '#307AA4'
+

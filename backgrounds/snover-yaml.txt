@@ -1,0 +1,7 @@
+# 459
+snover:
+    primary: '#FFFFFF'
+    secondary: '#FFFFFF'
+    tertiary: '#FFFFFF '
+    unibody: '#FFFFFF'
+

@@ -1,0 +1,7 @@
+# 653
+fennekin:
+    primary: '#F7F387'
+    secondary: '#878BF7'
+    tertiary: '#87F7F3 '
+    unibody: '#F7F387'
+

@@ -1,0 +1,7 @@
+# 270
+lotad:
+    primary: '#2A8AB0'
+    secondary: '#B0502A'
+    tertiary: '#B02A8A '
+    unibody: '#2A8AB0'
+

@@ -1,0 +1,7 @@
+# 212
+scizor:
+    primary: '#A82C24'
+    secondary: '#24A0A8'
+    tertiary: '#24A82C '
+    unibody: '#A82C24'
+

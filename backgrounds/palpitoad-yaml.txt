@@ -1,0 +1,7 @@
+# 536
+palpitoad:
+    primary: '#7392CB'
+    secondary: '#CBAC73'
+    tertiary: '#CB7392 '
+    unibody: '#7392CB'
+

@@ -1,0 +1,7 @@
+# 208
+steelix:
+    primary: '#828EA8'
+    secondary: '#A89C82'
+    tertiary: '#A8828E '
+    unibody: '#828EA8'
+

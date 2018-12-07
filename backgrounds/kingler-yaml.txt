@@ -1,0 +1,7 @@
+# 
+kingler:
+    primary: '#F2E0CA'
+    secondary: '#CADCF2'
+    tertiary: '#CAF2E0 '
+    unibody: '#F2E0CA'
+

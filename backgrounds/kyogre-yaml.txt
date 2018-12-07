@@ -1,0 +1,7 @@
+# 382
+kyogre:
+    primary: '#056DB6'
+    secondary: '#B64E05'
+    tertiary: '#B6056D '
+    unibody: '#056DB6'
+

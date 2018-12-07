@@ -1,0 +1,7 @@
+# 301
+delcatty:
+    primary: '#FAEAB7'
+    secondary: '#B7C7FA'
+    tertiary: '#B7FAEA '
+    unibody: '#FAEAB7'
+

@@ -1,0 +1,7 @@
+# 453
+croagunk:
+    primary: '#7994C1'
+    secondary: '#C1A679'
+    tertiary: '#C17994 '
+    unibody: '#7994C1'
+

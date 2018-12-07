@@ -1,0 +1,7 @@
+# 336
+seviper:
+    primary: '#4A667C'
+    secondary: '#7C604A'
+    tertiary: '#7C4A66 '
+    unibody: '#4A667C'
+

@@ -1,0 +1,7 @@
+# 720
+hoopa:
+    primary: '#AFA4BF'
+    secondary: '#B4BFA4'
+    tertiary: '#BFAFA4 '
+    unibody: '#AFA4BF'
+

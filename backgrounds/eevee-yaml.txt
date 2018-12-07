@@ -1,0 +1,7 @@
+# 
+eevee:
+    primary: '#C08C5C'
+    secondary: '#5C90C0'
+    tertiary: '#5CC08C '
+    unibody: '#C08C5C'
+

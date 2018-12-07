@@ -1,0 +1,7 @@
+# 408
+cranidos:
+    primary: '#71747D'
+    secondary: '#7D7A71'
+    tertiary: '#7D7174 '
+    unibody: '#71747D'
+

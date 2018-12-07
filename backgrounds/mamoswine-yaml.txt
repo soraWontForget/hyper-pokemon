@@ -1,0 +1,7 @@
+# 473
+mamoswine:
+    primary: '#A3764F'
+    secondary: '#4F7CA3'
+    tertiary: '#4FA376 '
+    unibody: '#A3764F'
+

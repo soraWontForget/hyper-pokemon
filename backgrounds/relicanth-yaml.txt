@@ -1,0 +1,7 @@
+# 369
+relicanth:
+    primary: '#4F4B4A'
+    secondary: '#4A4E4F'
+    tertiary: '#4A4F4B '
+    unibody: '#4F4B4A'
+

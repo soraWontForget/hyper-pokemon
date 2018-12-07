@@ -1,0 +1,7 @@
+# 239
+elekid:
+    primary: '#F8BA17'
+    secondary: '#1755F8'
+    tertiary: '#17F8BA '
+    unibody: '#F8BA17'
+

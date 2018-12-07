@@ -1,0 +1,7 @@
+# 199
+slowking:
+    primary: '#D3948F'
+    secondary: '#8FCED3'
+    tertiary: '#8FD394 '
+    unibody: '#D3948F'
+

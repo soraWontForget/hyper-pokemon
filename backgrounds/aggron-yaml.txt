@@ -1,0 +1,7 @@
+# 306
+aggron:
+    primary: '#838488'
+    secondary: '#888783'
+    tertiary: '#888384 '
+    unibody: '#838488'
+

@@ -1,0 +1,7 @@
+# 225
+delibird:
+    primary: '#D93D27'
+    secondary: '#27C3D9'
+    tertiary: '#27D93D '
+    unibody: '#D93D27'
+

@@ -1,0 +1,5 @@
+nidoran_male:
+    primary: #845F8B
+    secondary: # Image
+    tertiary: # Image
+    unibody: #845F8B

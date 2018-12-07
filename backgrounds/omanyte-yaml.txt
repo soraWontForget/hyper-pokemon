@@ -1,0 +1,7 @@
+# 
+omanyte:
+    primary: '#6CBED4'
+    secondary: '#D4826C'
+    tertiary: '#D46CBE '
+    unibody: '#6CBED4'
+

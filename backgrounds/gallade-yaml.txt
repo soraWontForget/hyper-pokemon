@@ -1,0 +1,7 @@
+# 475
+gallade:
+    primary: '#276536'
+    secondary: '#652756'
+    tertiary: '#362765 '
+    unibody: '#276536'
+

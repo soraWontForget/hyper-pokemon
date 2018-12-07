@@ -1,0 +1,5 @@
+shellos_west:
+    primary: #E696B9
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E696B9

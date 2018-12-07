@@ -1,0 +1,7 @@
+# 266
+silcoon:
+    primary: '#D3DEEC'
+    secondary: '#ECE1D3'
+    tertiary: '#ECD3DE '
+    unibody: '#D3DEEC'
+

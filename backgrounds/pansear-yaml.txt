@@ -1,0 +1,7 @@
+# 513
+pansear:
+    primary: '#F47C61'
+    secondary: '#61D9F4'
+    tertiary: '#61F47C '
+    unibody: '#F47C61'
+

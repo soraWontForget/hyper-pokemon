@@ -1,0 +1,7 @@
+# 385
+jirachi:
+    primary: '#FFFFFF'
+    secondary: '#FFFFFF'
+    tertiary: '#FFFFFF '
+    unibody: '#FFFFFF'
+

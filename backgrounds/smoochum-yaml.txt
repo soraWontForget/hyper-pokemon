@@ -1,0 +1,7 @@
+# 238
+smoochum:
+    primary: '#DB81A4'
+    secondary: '#81DBB8'
+    tertiary: '#A4DB81 '
+    unibody: '#DB81A4'
+

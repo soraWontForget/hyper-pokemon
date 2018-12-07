@@ -1,0 +1,7 @@
+# 217
+ursaring:
+    primary: '#9F6D50'
+    secondary: '#50829F'
+    tertiary: '#509F6D '
+    unibody: '#9F6D50'
+

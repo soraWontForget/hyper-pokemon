@@ -1,0 +1,7 @@
+# 324
+torkoal:
+    primary: '#ED987B'
+    secondary: '#7BD0ED'
+    tertiary: '#7BED98 '
+    unibody: '#ED987B'
+

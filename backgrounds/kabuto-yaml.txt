@@ -1,0 +1,7 @@
+# 
+kabuto:
+    primary: '#010101'
+    secondary: '#010101'
+    tertiary: '#010101 '
+    unibody: '#010101'
+

@@ -1,0 +1,7 @@
+# 623
+golurk:
+    primary: '#73AFB0'
+    secondary: '#B07473'
+    tertiary: '#B073AF '
+    unibody: '#73AFB0'
+

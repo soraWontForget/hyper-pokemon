@@ -1,0 +1,7 @@
+# 
+pidgeot:
+    primary: ''
+    secondary: ''
+    tertiary: ' '
+    unibody: ''
+

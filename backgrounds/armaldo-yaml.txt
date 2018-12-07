@@ -1,0 +1,7 @@
+# 348
+armaldo:
+    primary: '#5E89B6'
+    secondary: '#B68B5E'
+    tertiary: '#B65E89 '
+    unibody: '#5E89B6'
+

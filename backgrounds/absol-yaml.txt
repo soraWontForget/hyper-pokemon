@@ -1,0 +1,7 @@
+# 359
+absol:
+    primary: '#D6DCEA'
+    secondary: '#EAE4D6'
+    tertiary: '#EAD6DC '
+    unibody: '#D6DCEA'
+

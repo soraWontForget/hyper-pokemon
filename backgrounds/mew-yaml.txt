@@ -1,0 +1,7 @@
+# 
+mew:
+    primary: '#F4C6D3'
+    secondary: '#C6F4E7'
+    tertiary: '#D3F4C6 '
+    unibody: '#F4C6D3'
+

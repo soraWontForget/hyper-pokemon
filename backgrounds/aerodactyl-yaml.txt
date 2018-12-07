@@ -1,0 +1,7 @@
+# 
+aerodactyl:
+    primary: '#A5B2DC'
+    secondary: '#DCCFA5'
+    tertiary: '#DCA5B2 '
+    unibody: '#A5B2DC'
+

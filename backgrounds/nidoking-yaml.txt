@@ -1,0 +1,7 @@
+# 
+nidoking:
+    primary: '#A86EA1'
+    secondary: '#6EA875'
+    tertiary: '#A1A86E '
+    unibody: '#A86EA1'
+

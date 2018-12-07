@@ -1,0 +1,7 @@
+# 440
+happiny:
+    primary: '#F5CFD2'
+    secondary: '#CFF5F2'
+    tertiary: '#D2F5CF '
+    unibody: '#F5CFD2'
+

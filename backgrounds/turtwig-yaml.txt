@@ -1,0 +1,7 @@
+# 387
+turtwig:
+    primary: '#BAD382'
+    secondary: '#9B82D3'
+    tertiary: '#82BAD3 '
+    unibody: '#BAD382'
+

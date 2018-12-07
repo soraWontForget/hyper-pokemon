@@ -1,0 +1,7 @@
+# 434
+stunky:
+    primary: '#4B3353'
+    secondary: '#3B5333'
+    tertiary: '#534B33 '
+    unibody: '#4B3353'
+

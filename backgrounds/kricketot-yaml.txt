@@ -1,0 +1,7 @@
+# 401
+kricketot:
+    primary: '#D04F39'
+    secondary: '#39BAD0'
+    tertiary: '#39D04F '
+    unibody: '#D04F39'
+

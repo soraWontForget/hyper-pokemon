@@ -1,0 +1,7 @@
+# 755
+morelull:
+    primary: '#FEFAF1'
+    secondary: '#F1F5FE'
+    tertiary: '#F1FEFA '
+    unibody: '#FEFAF1'
+

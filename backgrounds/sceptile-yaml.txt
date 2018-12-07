@@ -1,0 +1,7 @@
+# 254
+sceptile:
+    primary: '#90CA9A'
+    secondary: '#CA90C0'
+    tertiary: '#9A90CA '
+    unibody: '#90CA9A'
+

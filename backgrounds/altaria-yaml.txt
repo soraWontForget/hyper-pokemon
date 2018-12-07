@@ -1,0 +1,7 @@
+# 334
+altaria:
+    primary: '#E4EBF3'
+    secondary: '#F3ECE4'
+    tertiary: '#F3E4EB '
+    unibody: '#E4EBF3'
+

@@ -1,0 +1,7 @@
+# 698
+amaura:
+    primary: '#98CFEE'
+    secondary: '#EEB798'
+    tertiary: '#EE98CF '
+    unibody: '#98CFEE'
+

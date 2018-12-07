@@ -1,0 +1,7 @@
+# 
+grimer:
+    primary: '#8D7B95'
+    secondary: '#83957B'
+    tertiary: '#958D7B '
+    unibody: '#8D7B95'
+

@@ -1,0 +1,7 @@
+# 314
+illumise:
+    primary: '#85C3DC'
+    secondary: '#DC9E85'
+    tertiary: '#DC85C3 '
+    unibody: '#85C3DC'
+

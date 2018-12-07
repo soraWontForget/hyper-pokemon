@@ -1,0 +1,7 @@
+# 611
+fraxure:
+    primary: '#615F60'
+    secondary: '#5F6160'
+    tertiary: '#60615F '
+    unibody: '#615F60'
+

@@ -1,0 +1,7 @@
+# 
+victreebel:
+    primary: '#EAEA6E'
+    secondary: '#6E6EEA'
+    tertiary: '#6EEAEA '
+    unibody: '#EAEA6E'
+

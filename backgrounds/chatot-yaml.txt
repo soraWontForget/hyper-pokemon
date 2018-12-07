@@ -1,0 +1,7 @@
+# 441
+chatot:
+    primary: '#3E8CBC'
+    secondary: '#BC6E3E'
+    tertiary: '#BC3E8C '
+    unibody: '#3E8CBC'
+

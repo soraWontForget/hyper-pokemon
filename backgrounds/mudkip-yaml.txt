@@ -1,0 +1,7 @@
+# 258
+mudkip:
+    primary: '#32A1E4'
+    secondary: '#E47532'
+    tertiary: '#E432A1 '
+    unibody: '#32A1E4'
+

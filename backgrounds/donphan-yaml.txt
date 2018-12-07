@@ -1,0 +1,7 @@
+# 232
+donphan:
+    primary: '#BDCADA'
+    secondary: '#DACDBD'
+    tertiary: '#DABDCA '
+    unibody: '#BDCADA'
+

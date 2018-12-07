@@ -1,0 +1,7 @@
+# 
+seaking:
+    primary: '#D55F41'
+    secondary: '#41B7D5'
+    tertiary: '#41D55F '
+    unibody: '#D55F41'
+

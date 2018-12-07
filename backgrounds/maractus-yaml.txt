@@ -1,0 +1,7 @@
+# 556
+maractus:
+    primary: '#8DC86C'
+    secondary: '#A76CC8'
+    tertiary: '#6C8DC8 '
+    unibody: '#8DC86C'
+

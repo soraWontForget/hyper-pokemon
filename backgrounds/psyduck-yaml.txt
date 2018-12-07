@@ -1,0 +1,7 @@
+# 
+psyduck:
+    primary: ''
+    secondary: ''
+    tertiary: ' '
+    unibody: ''
+

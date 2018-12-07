@@ -1,0 +1,7 @@
+# 340
+whiscash:
+    primary: '#1C4B7F'
+    secondary: '#7F501C'
+    tertiary: '#7F1C4B '
+    unibody: '#1C4B7F'
+

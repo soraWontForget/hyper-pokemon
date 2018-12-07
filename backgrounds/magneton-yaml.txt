@@ -1,0 +1,7 @@
+# 
+magneton:
+    primary: '#A3BEC7'
+    secondary: '#C7ACA3'
+    tertiary: '#C7A3BE '
+    unibody: '#A3BEC7'
+

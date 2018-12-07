@@ -1,0 +1,7 @@
+# 425
+drifloon:
+    primary: '#A086B3'
+    secondary: '#99B386'
+    tertiary: '#B3A086 '
+    unibody: '#A086B3'
+

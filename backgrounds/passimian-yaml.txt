@@ -1,0 +1,7 @@
+# 766
+passimian:
+    primary: '#5D5B55'
+    secondary: '#55575D'
+    tertiary: '#555D5B '
+    unibody: '#5D5B55'
+

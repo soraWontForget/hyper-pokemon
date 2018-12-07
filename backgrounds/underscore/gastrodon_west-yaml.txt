@@ -1,0 +1,5 @@
+gastrodon_west:
+    primary: #E089B3
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E089B3

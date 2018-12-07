@@ -1,0 +1,7 @@
+# 
+onix:
+    primary: '#9B9AA2'
+    secondary: '#A1A29A'
+    tertiary: '#A29B9A '
+    unibody: '#9B9AA2'
+

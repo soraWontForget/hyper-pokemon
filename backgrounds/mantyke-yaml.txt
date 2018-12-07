@@ -1,0 +1,7 @@
+# 458
+mantyke:
+    primary: '#A5D3E3'
+    secondary: '#E3B5A5'
+    tertiary: '#E3A5D3 '
+    unibody: '#A5D3E3'
+

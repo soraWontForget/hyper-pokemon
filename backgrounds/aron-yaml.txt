@@ -1,0 +1,7 @@
+# 304
+aron:
+    primary: '#CACED1'
+    secondary: '#D1CDCA'
+    tertiary: '#D1CACE '
+    unibody: '#CACED1'
+

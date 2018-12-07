@@ -1,0 +1,7 @@
+# 757
+salandit:
+    primary: '#6A6563'
+    secondary: '#63686A'
+    tertiary: '#636A65 '
+    unibody: '#6A6563'
+

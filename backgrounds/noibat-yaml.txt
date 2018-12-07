@@ -1,0 +1,7 @@
+# 714
+noibat:
+    primary: '#4B3F43'
+    secondary: '#3F4B47'
+    tertiary: '#434B3F '
+    unibody: '#4B3F43'
+

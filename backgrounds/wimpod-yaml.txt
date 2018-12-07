@@ -1,0 +1,7 @@
+# 767
+wimpod:
+    primary: '#CEE1D7'
+    secondary: '#E1CED8'
+    tertiary: '#D7CEE1 '
+    unibody: '#CEE1D7'
+

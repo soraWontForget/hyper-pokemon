@@ -1,0 +1,7 @@
+# 770
+palossand:
+    primary: '#F7C286'
+    secondary: '#86BBF7'
+    tertiary: '#86F7C2 '
+    unibody: '#F7C286'
+

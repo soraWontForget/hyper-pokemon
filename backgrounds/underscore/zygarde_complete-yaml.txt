@@ -1,0 +1,5 @@
+zygarde_complete:
+    primary: #3A3532
+    secondary: # Image
+    tertiary: # Image
+    unibody: #3A3532

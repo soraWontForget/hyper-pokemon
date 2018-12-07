@@ -1,0 +1,7 @@
+# 256
+combusken:
+    primary: '#CD7E53'
+    secondary: '#53A2CD'
+    tertiary: '#53CD7E '
+    unibody: '#CD7E53'
+

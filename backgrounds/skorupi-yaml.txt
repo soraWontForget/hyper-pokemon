@@ -1,0 +1,7 @@
+# 451
+skorupi:
+    primary: '#352E57'
+    secondary: '#50572E'
+    tertiary: '#57352E '
+    unibody: '#352E57'
+

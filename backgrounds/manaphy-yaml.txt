@@ -1,0 +1,7 @@
+# 490
+manaphy:
+    primary: '#74C6D4'
+    secondary: '#D48274'
+    tertiary: '#D474C6 '
+    unibody: '#74C6D4'
+

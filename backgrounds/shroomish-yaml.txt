@@ -1,0 +1,7 @@
+# 285
+shroomish:
+    primary: '#6E9C80'
+    secondary: '#9C6E8A'
+    tertiary: '#806E9C '
+    unibody: '#6E9C80'
+

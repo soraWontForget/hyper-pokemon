@@ -1,0 +1,7 @@
+# 627
+rufflet:
+    primary: '#676477'
+    secondary: '#747764'
+    tertiary: '#776764 '
+    unibody: '#676477'
+

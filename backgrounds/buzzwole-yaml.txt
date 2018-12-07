@@ -1,0 +1,7 @@
+# 794
+buzzwole:
+    primary: '#E83F42'
+    secondary: '#3FE8E5'
+    tertiary: '#42E83F '
+    unibody: '#E83F42'
+

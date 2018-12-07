@@ -1,0 +1,7 @@
+# 734
+yungoos:
+    primary: '#BE8976'
+    secondary: '#76ABBE'
+    tertiary: '#76BE89 '
+    unibody: '#BE8976'
+

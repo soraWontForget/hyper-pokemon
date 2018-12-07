@@ -1,0 +1,7 @@
+# 255
+torchic:
+    primary: '#EA8B2F'
+    secondary: '#2F8EEA'
+    tertiary: '#2FEA8B '
+    unibody: '#EA8B2F'
+

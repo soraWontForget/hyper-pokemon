@@ -1,0 +1,7 @@
+# 710
+pumpkaboo:
+    primary: '#524637'
+    secondary: '#374352'
+    tertiary: '#375246 '
+    unibody: '#524637'
+

@@ -1,0 +1,7 @@
+# 711
+gourgeist:
+    primary: '#61532E'
+    secondary: '#2E3C61'
+    tertiary: '#2E6153 '
+    unibody: '#61532E'
+

@@ -1,0 +1,7 @@
+# 317
+swalot:
+    primary: '#9494C6'
+    secondary: '#C6C694'
+    tertiary: '#C69494 '
+    unibody: '#9494C6'
+

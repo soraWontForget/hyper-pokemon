@@ -1,0 +1,7 @@
+# 373
+salamence:
+    primary: '#62B9CC'
+    secondary: '#CC7562'
+    tertiary: '#CC62B9 '
+    unibody: '#62B9CC'
+

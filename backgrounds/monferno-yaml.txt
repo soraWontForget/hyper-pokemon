@@ -1,0 +1,7 @@
+# 391
+monferno:
+    primary: '#E99348'
+    secondary: '#489EE9'
+    tertiary: '#48E993 '
+    unibody: '#E99348'
+

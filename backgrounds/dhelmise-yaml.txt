@@ -1,0 +1,7 @@
+# 781
+dhelmise:
+    primary: '#8F6335'
+    secondary: '#35618F'
+    tertiary: '#358F63 '
+    unibody: '#8F6335'
+

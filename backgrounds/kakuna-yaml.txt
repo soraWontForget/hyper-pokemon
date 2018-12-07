@@ -1,0 +1,7 @@
+# 
+kakuna:
+    primary: '#D8C173'
+    secondary: '#738AD8'
+    tertiary: '#73D8C1 '
+    unibody: '#D8C173'
+

@@ -1,0 +1,7 @@
+# 251
+celebi:
+    primary: '#F9F3BF'
+    secondary: '#BFC5F9'
+    tertiary: '#BFF9F3 '
+    unibody: '#F9F3BF'
+

@@ -1,0 +1,7 @@
+# 543
+venipede:
+    primary: '#BD4862'
+    secondary: '#48BDA3'
+    tertiary: '#62BD48 '
+    unibody: '#BD4862'
+

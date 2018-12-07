@@ -1,0 +1,7 @@
+# 
+hitmonlee:
+    primary: '#9F8880'
+    secondary: '#80979F'
+    tertiary: '#809F88 '
+    unibody: '#9F8880'
+

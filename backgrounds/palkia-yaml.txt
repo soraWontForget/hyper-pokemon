@@ -1,0 +1,7 @@
+# 484
+palkia:
+    primary: '#948D9F'
+    secondary: '#989F8D'
+    tertiary: '#9F948D '
+    unibody: '#948D9F'
+

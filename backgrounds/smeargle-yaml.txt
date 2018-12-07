@@ -1,0 +1,7 @@
+# 235
+smeargle:
+    primary: '#EBEBD1'
+    secondary: '#D1D1EB'
+    tertiary: '#D1EBEB '
+    unibody: '#EBEBD1'
+

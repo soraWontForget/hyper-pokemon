@@ -1,0 +1,7 @@
+# 328
+trapinch:
+    primary: '#E98764'
+    secondary: '#64C6E9'
+    tertiary: '#64E987 '
+    unibody: '#E98764'
+

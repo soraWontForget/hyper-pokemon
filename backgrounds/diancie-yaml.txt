@@ -1,0 +1,7 @@
+# 719
+diancie:
+    primary: '#EFC9DE'
+    secondary: '#C9EFDA'
+    tertiary: '#DEEFC9 '
+    unibody: '#EFC9DE'
+

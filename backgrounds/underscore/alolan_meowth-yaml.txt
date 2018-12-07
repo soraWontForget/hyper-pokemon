@@ -1,0 +1,5 @@
+alolan_meowth:
+    primary: 
+    secondary: # Image
+    tertiary: # Image
+    unibody: 

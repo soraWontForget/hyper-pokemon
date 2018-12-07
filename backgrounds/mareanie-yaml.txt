@@ -1,0 +1,7 @@
+# 747
+mareanie:
+    primary: '#92D0D6'
+    secondary: '#D69892'
+    tertiary: '#D692D0 '
+    unibody: '#92D0D6'
+

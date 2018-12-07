@@ -1,0 +1,7 @@
+# 467
+magmortar:
+    primary: '#C84026'
+    secondary: '#26AEC8'
+    tertiary: '#26C840 '
+    unibody: '#C84026'
+

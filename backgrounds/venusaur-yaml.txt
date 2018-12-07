@@ -1,0 +1,7 @@
+# 
+venusaur:
+    primary: '#58A7A2'
+    secondary: '#A7585D'
+    tertiary: '#A258A7 '
+    unibody: '#58A7A2'
+

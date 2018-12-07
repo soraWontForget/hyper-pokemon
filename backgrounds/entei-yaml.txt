@@ -1,0 +1,7 @@
+# 244
+entei:
+    primary: '#7B0100'
+    secondary: '#007A7B'
+    tertiary: '#007B01 '
+    unibody: '#7B0100'
+

@@ -1,0 +1,7 @@
+# 621
+druddigon:
+    primary: '#14749C'
+    secondary: '#9C3C14'
+    tertiary: '#9C1474 '
+    unibody: '#14749C'
+

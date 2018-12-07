@@ -1,0 +1,7 @@
+# 597
+ferroseed:
+    primary: '#4BA26F'
+    secondary: '#A24B7E'
+    tertiary: '#6F4BA2 '
+    unibody: '#4BA26F'
+

@@ -1,0 +1,7 @@
+# 
+gloom:
+    primary: '#7796CD'
+    secondary: '#CDAE77'
+    tertiary: '#CD7796 '
+    unibody: '#7796CD'
+

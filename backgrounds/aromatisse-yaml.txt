@@ -1,0 +1,7 @@
+# 683
+aromatisse:
+    primary: '#B16BA9'
+    secondary: '#6BB173'
+    tertiary: '#A9B16B '
+    unibody: '#B16BA9'
+

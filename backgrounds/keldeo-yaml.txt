@@ -1,0 +1,7 @@
+# 647
+keldeo:
+    primary: '#F2E8AA'
+    secondary: '#AAB4F2'
+    tertiary: '#AAF2E8 '
+    unibody: '#F2E8AA'
+

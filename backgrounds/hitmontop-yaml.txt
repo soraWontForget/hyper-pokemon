@@ -1,0 +1,7 @@
+# 237
+hitmontop:
+    primary: '#C9A487'
+    secondary: '#87ACC9'
+    tertiary: '#87C9A4 '
+    unibody: '#C9A487'
+

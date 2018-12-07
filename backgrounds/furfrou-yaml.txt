@@ -1,0 +1,7 @@
+# 676
+furfrou:
+    primary: '#EFF3E4'
+    secondary: '#E8E4F3'
+    tertiary: '#E4EFF3 '
+    unibody: '#EFF3E4'
+

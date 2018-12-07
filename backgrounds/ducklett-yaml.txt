@@ -1,0 +1,7 @@
+# 580
+ducklett:
+    primary: '#7FCBE5'
+    secondary: '#E5997F'
+    tertiary: '#E57FCB '
+    unibody: '#7FCBE5'
+

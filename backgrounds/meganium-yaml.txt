@@ -1,0 +1,7 @@
+# 154
+meganium:
+    primary: '#BEBD85'
+    secondary: '#8586BE'
+    tertiary: '#85BEBD '
+    unibody: '#BEBD85'
+

@@ -1,0 +1,7 @@
+# 497
+serperior:
+    primary: '#9CD19B'
+    secondary: '#D09BD1'
+    tertiary: '#9B9CD1 '
+    unibody: '#9CD19B'
+

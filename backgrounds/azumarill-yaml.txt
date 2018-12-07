@@ -1,0 +1,7 @@
+# 184
+azumarill:
+    primary: '#3897CB'
+    secondary: '#CB6C38'
+    tertiary: '#CB3897 '
+    unibody: '#3897CB'
+

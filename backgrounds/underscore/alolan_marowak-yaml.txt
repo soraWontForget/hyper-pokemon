@@ -1,0 +1,5 @@
+alolan_marowak:
+    primary: 
+    secondary: # Image
+    tertiary: # Image
+    unibody: 

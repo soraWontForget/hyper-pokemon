@@ -1,0 +1,7 @@
+# 341
+corphish:
+    primary: '#E0D6CA'
+    secondary: '#CAD4E0'
+    tertiary: '#CAE0D6 '
+    unibody: '#E0D6CA'
+

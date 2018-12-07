@@ -1,0 +1,7 @@
+# 660
+diggersby:
+    primary: '#B4B5B9'
+    secondary: '#B9B8B4'
+    tertiary: '#B9B4B5 '
+    unibody: '#B4B5B9'
+

@@ -1,0 +1,7 @@
+# 752
+araquanid:
+    primary: '#505B6B'
+    secondary: '#6B6050'
+    tertiary: '#6B505B '
+    unibody: '#505B6B'
+

@@ -1,0 +1,7 @@
+# 187
+hoppip:
+    primary: '#F497B2'
+    secondary: '#97F4D9'
+    tertiary: '#B2F497 '
+    unibody: '#F497B2'
+

@@ -1,0 +1,7 @@
+# 549
+lilligant:
+    primary: '#B4D682'
+    secondary: '#A482D6'
+    tertiary: '#82B4D6 '
+    unibody: '#B4D682'
+

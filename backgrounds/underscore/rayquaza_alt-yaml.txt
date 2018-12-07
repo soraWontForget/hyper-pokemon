@@ -1,0 +1,5 @@
+rayquaza_alt:
+    primary: #44937D
+    secondary: # Image
+    tertiary: # Image
+    unibody: #44937D

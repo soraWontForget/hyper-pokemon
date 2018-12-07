@@ -1,0 +1,7 @@
+# 691
+dragalge:
+    primary: '#8C5D43'
+    secondary: '#43728C'
+    tertiary: '#438C5D '
+    unibody: '#8C5D43'
+

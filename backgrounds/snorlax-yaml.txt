@@ -1,0 +1,7 @@
+# 
+snorlax:
+    primary: '#4A736B'
+    secondary: '#734A52'
+    tertiary: '#6B4A73 '
+    unibody: '#4A736B'
+

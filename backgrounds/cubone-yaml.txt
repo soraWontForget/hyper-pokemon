@@ -1,0 +1,7 @@
+# 
+cubone:
+    primary: '#E0AA3D'
+    secondary: '#3D73E0'
+    tertiary: '#3DE0AA '
+    unibody: '#E0AA3D'
+

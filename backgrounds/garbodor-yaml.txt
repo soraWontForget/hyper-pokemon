@@ -1,0 +1,7 @@
+# 569
+garbodor:
+    primary: '#52755D'
+    secondary: '#75526A'
+    tertiary: '#5D5275 '
+    unibody: '#52755D'
+

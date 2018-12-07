@@ -1,0 +1,7 @@
+# 481
+mesprit:
+    primary: '#B3CDE6'
+    secondary: '#E6CCB3'
+    tertiary: '#E6B3CD '
+    unibody: '#B3CDE6'
+

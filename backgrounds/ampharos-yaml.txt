@@ -1,0 +1,7 @@
+# 181
+ampharos:
+    primary: '#EEC873'
+    secondary: '#7399EE'
+    tertiary: '#73EEC8 '
+    unibody: '#EEC873'
+

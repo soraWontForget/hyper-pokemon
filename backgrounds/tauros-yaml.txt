@@ -1,0 +1,7 @@
+# 
+tauros:
+    primary: '#EAA763'
+    secondary: '#63A6EA'
+    tertiary: '#63EAA7 '
+    unibody: '#EAA763'
+

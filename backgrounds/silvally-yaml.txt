@@ -1,0 +1,7 @@
+# 773
+silvally:
+    primary: '#E0E4EB'
+    secondary: '#EBE7E0'
+    tertiary: '#EBE0E4 '
+    unibody: '#E0E4EB'
+

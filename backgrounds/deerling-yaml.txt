@@ -1,0 +1,7 @@
+# 585
+deerling:
+    primary: '#F9F4D6'
+    secondary: '#D6DBF9'
+    tertiary: '#D6F9F4 '
+    unibody: '#F9F4D6'
+

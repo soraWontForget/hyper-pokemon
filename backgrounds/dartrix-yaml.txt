@@ -1,0 +1,7 @@
+# 723
+dartrix:
+    primary: '#FFFFFE'
+    secondary: '#FEFEFF'
+    tertiary: '#FEFFFF '
+    unibody: '#FFFFFE'
+

@@ -1,0 +1,7 @@
+# 200
+misdreavus:
+    primary: '#366378'
+    secondary: '#784B36'
+    tertiary: '#783663 '
+    unibody: '#366378'
+

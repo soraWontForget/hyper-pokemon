@@ -1,0 +1,7 @@
+# 152
+chikorita:
+    primary: '#DDE2B9'
+    secondary: '#BEB9E2'
+    tertiary: '#B9DDE2 '
+    unibody: '#DDE2B9'
+

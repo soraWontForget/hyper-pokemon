@@ -1,0 +1,5 @@
+silvally_bug:
+    primary: #DEE2E9
+    secondary: # Image
+    tertiary: # Image
+    unibody: #DEE2E9

@@ -1,0 +1,7 @@
+# 552
+krokorok:
+    primary: '#DCB558'
+    secondary: '#587FDC'
+    tertiary: '#58DCB5 '
+    unibody: '#DCB558'
+

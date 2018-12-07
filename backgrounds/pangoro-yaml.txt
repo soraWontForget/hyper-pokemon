@@ -1,0 +1,7 @@
+# 675
+pangoro:
+    primary: '#9198AA'
+    secondary: '#AAA391'
+    tertiary: '#AA9198 '
+    unibody: '#9198AA'
+

@@ -1,0 +1,7 @@
+# 409
+rampardos:
+    primary: '#4A4647'
+    secondary: '#464A49'
+    tertiary: '#474A46 '
+    unibody: '#4A4647'
+

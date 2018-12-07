@@ -1,0 +1,7 @@
+# 393
+piplup:
+    primary: '#97CBD8'
+    secondary: '#D8A497'
+    tertiary: '#D897CB '
+    unibody: '#97CBD8'
+

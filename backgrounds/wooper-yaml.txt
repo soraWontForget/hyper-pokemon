@@ -1,0 +1,7 @@
+# 194
+wooper:
+    primary: '#A7DFFA'
+    secondary: '#FAC2A7'
+    tertiary: '#FAA7DF '
+    unibody: '#A7DFFA'
+

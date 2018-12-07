@@ -1,0 +1,7 @@
+# 349
+feebas:
+    primary: '#D2C398'
+    secondary: '#98A7D2'
+    tertiary: '#98D2C3 '
+    unibody: '#D2C398'
+

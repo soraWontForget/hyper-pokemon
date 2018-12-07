@@ -1,0 +1,7 @@
+# 613
+cubchoo:
+    primary: '#FFFFFF'
+    secondary: '#FFFFFF'
+    tertiary: '#FFFFFF '
+    unibody: '#FFFFFF'
+

@@ -1,0 +1,7 @@
+# 418
+buizel:
+    primary: '#E58352'
+    secondary: '#52B4E5'
+    tertiary: '#52E583 '
+    unibody: '#E58352'
+

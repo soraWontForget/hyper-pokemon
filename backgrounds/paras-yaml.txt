@@ -1,0 +1,7 @@
+# 
+paras:
+    primary: '#D89138'
+    secondary: '#387FD8'
+    tertiary: '#38D891 '
+    unibody: '#D89138'
+

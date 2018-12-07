@@ -1,0 +1,7 @@
+# 799
+guzzlord:
+    primary: '#464A52'
+    secondary: '#524E46'
+    tertiary: '#52464A '
+    unibody: '#464A52'
+

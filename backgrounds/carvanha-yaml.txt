@@ -1,0 +1,7 @@
+# 318
+carvanha:
+    primary: '#014F7F'
+    secondary: '#7F3101'
+    tertiary: '#7F014F '
+    unibody: '#014F7F'
+

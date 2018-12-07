@@ -1,0 +1,7 @@
+# 801
+magearna:
+    primary: '#D6CEC9'
+    secondary: '#C9D1D6'
+    tertiary: '#C9D6CE '
+    unibody: '#D6CEC9'
+

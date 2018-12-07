@@ -1,0 +1,7 @@
+# 343
+baltoy:
+    primary: '#D0C399'
+    secondary: '#99A6D0'
+    tertiary: '#99D0C3 '
+    unibody: '#D0C399'
+

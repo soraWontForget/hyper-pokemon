@@ -1,0 +1,7 @@
+# 376
+metagross:
+    primary: '#5991AC'
+    secondary: '#AC7459'
+    tertiary: '#AC5991 '
+    unibody: '#5991AC'
+

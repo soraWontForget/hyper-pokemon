@@ -1,0 +1,7 @@
+# 658
+greninja:
+    primary: '#324496'
+    secondary: '#968432'
+    tertiary: '#963244 '
+    unibody: '#324496'
+

@@ -1,0 +1,7 @@
+# 167
+spinarak:
+    primary: '#9BC73C'
+    secondary: '#683CC7'
+    tertiary: '#3C9BC7 '
+    unibody: '#9BC73C'
+

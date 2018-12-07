@@ -1,0 +1,7 @@
+# 
+gastly:
+    primary: '#7B6DB0'
+    secondary: '#A2B06D'
+    tertiary: '#B07B6D '
+    unibody: '#7B6DB0'
+

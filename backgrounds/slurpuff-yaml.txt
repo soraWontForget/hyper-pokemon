@@ -1,0 +1,7 @@
+# 685
+slurpuff:
+    primary: '#FAF9FC'
+    secondary: '#FBFCF9'
+    tertiary: '#FCFAF9 '
+    unibody: '#FAF9FC'
+

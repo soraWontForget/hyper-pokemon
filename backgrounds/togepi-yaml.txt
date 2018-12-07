@@ -1,0 +1,7 @@
+# 175
+togepi:
+    primary: '#FFFDF0'
+    secondary: '#F0F2FF'
+    tertiary: '#F0FFFD '
+    unibody: '#FFFDF0'
+

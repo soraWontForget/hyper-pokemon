@@ -1,0 +1,7 @@
+# 252
+treecko:
+    primary: '#BED978'
+    secondary: '#9378D9'
+    tertiary: '#78BED9 '
+    unibody: '#BED978'
+

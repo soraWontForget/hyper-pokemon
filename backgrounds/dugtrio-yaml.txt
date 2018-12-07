@@ -1,0 +1,7 @@
+# 
+dugtrio:
+    primary: '#92745C'
+    secondary: '#5C7A92'
+    tertiary: '#5C9274 '
+    unibody: '#92745C'
+

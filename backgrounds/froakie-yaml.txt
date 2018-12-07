@@ -1,0 +1,7 @@
+# 656
+froakie:
+    primary: '#FDFDF1'
+    secondary: '#F1F1FD'
+    tertiary: '#F1FDFD '
+    unibody: '#FDFDF1'
+

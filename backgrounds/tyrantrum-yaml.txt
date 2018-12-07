@@ -1,0 +1,7 @@
+# 697
+tyrantrum:
+    primary: '#A85A56'
+    secondary: '#56A4A8'
+    tertiary: '#56A85A '
+    unibody: '#A85A56'
+

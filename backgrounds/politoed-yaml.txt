@@ -1,0 +1,7 @@
+# 186
+politoed:
+    primary: '#97C046'
+    secondary: '#6F46C0'
+    tertiary: '#4697C0 '
+    unibody: '#97C046'
+

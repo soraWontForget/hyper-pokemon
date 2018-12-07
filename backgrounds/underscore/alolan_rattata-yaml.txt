@@ -1,0 +1,5 @@
+alolan_rattata:
+    primary: #4F524E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #4F524E

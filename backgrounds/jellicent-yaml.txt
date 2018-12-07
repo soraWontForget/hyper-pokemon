@@ -1,0 +1,7 @@
+# 593
+jellicent:
+    primary: '#4BA2D8'
+    secondary: '#D8814B'
+    tertiary: '#D84BA2 '
+    unibody: '#4BA2D8'
+

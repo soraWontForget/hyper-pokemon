@@ -1,0 +1,7 @@
+# 
+chansey:
+    primary: '#FBD3DC'
+    secondary: '#D3FBF2'
+    tertiary: '#DCFBD3 '
+    unibody: '#FBD3DC'
+

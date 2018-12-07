@@ -1,0 +1,7 @@
+# 
+fearow:
+    primary: '#AD7542'
+    secondary: '#427AAD'
+    tertiary: '#42AD75 '
+    unibody: '#AD7542'
+

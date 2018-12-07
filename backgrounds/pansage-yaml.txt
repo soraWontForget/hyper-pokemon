@@ -1,0 +1,7 @@
+# 511
+pansage:
+    primary: '#81C451'
+    secondary: '#9451C4'
+    tertiary: '#5181C4 '
+    unibody: '#81C451'
+

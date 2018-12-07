@@ -1,0 +1,5 @@
+rotom_frost:
+    primary: #E77E4E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E77E4E

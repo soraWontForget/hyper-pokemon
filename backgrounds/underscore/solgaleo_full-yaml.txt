@@ -1,0 +1,5 @@
+solgaleo_full:
+    primary: #FFFFFF
+    secondary: # Image
+    tertiary: # Image
+    unibody: #FFFFFF

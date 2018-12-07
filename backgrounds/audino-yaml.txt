@@ -1,0 +1,7 @@
+# 531
+audino:
+    primary: '#FBF6B6'
+    secondary: '#B6BBFB'
+    tertiary: '#B6FBF6 '
+    unibody: '#FBF6B6'
+

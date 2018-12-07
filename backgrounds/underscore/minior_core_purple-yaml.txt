@@ -1,0 +1,5 @@
+minior_core_purple:
+    primary: #BA8DBE
+    secondary: # Image
+    tertiary: # Image
+    unibody: #BA8DBE

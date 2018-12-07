@@ -1,0 +1,7 @@
+# 692
+clauncher:
+    primary: '#8DD3F5'
+    secondary: '#F5AF8D'
+    tertiary: '#F58DD3 '
+    unibody: '#8DD3F5'
+

@@ -1,0 +1,7 @@
+# 646
+kyurem:
+    primary: '#656E73'
+    secondary: '#736A65'
+    tertiary: '#73656E '
+    unibody: '#656E73'
+

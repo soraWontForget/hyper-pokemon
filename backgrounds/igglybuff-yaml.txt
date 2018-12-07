@@ -1,0 +1,7 @@
+# 174
+igglybuff:
+    primary: '#FCDDE2'
+    secondary: '#DDFCF7'
+    tertiary: '#E2FCDD '
+    unibody: '#FCDDE2'
+

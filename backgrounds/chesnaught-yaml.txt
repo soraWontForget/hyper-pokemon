@@ -1,0 +1,7 @@
+# 652
+chesnaught:
+    primary: '#DBE3B2'
+    secondary: '#BAB2E3'
+    tertiary: '#B2DBE3 '
+    unibody: '#DBE3B2'
+

@@ -1,0 +1,7 @@
+# 444
+gabite:
+    primary: '#5D669D'
+    secondary: '#9D945D'
+    tertiary: '#9D5D66 '
+    unibody: '#5D669D'
+

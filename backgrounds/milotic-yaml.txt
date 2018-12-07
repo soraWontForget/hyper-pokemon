@@ -1,0 +1,7 @@
+# 350
+milotic:
+    primary: '#EEE8AE'
+    secondary: '#AEB4EE'
+    tertiary: '#AEEEE8 '
+    unibody: '#EEE8AE'
+

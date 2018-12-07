@@ -1,0 +1,7 @@
+# 521
+unfezant:
+    primary: '#A8A8AA'
+    secondary: '#AAAAA8'
+    tertiary: '#AAA8A8 '
+    unibody: '#A8A8AA'
+

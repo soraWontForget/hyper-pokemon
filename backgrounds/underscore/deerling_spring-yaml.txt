@@ -1,0 +1,5 @@
+deerling_spring:
+    primary: #F9F4D6
+    secondary: # Image
+    tertiary: # Image
+    unibody: #F9F4D6

@@ -1,0 +1,7 @@
+# 319
+sharpedo:
+    primary: '#D6D7EC'
+    secondary: '#ECEBD6'
+    tertiary: '#ECD6D7 '
+    unibody: '#D6D7EC'
+

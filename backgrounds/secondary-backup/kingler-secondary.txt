@@ -1,0 +1,2 @@
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (51914,56540,62194)  #CADCF2  srgb(202,220,242)

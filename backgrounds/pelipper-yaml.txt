@@ -1,0 +1,7 @@
+# 279
+pelipper:
+    primary: '#E2EBF4'
+    secondary: '#F4EBE2'
+    tertiary: '#F4E2EB '
+    unibody: '#E2EBF4'
+

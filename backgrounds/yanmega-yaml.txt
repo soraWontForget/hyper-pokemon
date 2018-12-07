@@ -1,0 +1,7 @@
+# 469
+yanmega:
+    primary: '#415427'
+    secondary: '#3A2754'
+    tertiary: '#274154 '
+    unibody: '#415427'
+

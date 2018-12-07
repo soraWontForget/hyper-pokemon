@@ -1,0 +1,5 @@
+silvally_steel:
+    primary: #DDE2EA
+    secondary: # Image
+    tertiary: # Image
+    unibody: #DDE2EA

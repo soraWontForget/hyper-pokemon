@@ -1,0 +1,7 @@
+# 185
+sudowoodo:
+    primary: '#AC7D61'
+    secondary: '#6190AC'
+    tertiary: '#61AC7D '
+    unibody: '#AC7D61'
+

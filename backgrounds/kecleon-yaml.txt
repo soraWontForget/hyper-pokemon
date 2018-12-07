@@ -1,0 +1,7 @@
+# 352
+kecleon:
+    primary: '#A7BE64'
+    secondary: '#7B64BE'
+    tertiary: '#64A7BE '
+    unibody: '#A7BE64'
+

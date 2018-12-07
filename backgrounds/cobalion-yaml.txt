@@ -1,0 +1,7 @@
+# 638
+cobalion:
+    primary: '#3196A8'
+    secondary: '#A84331'
+    tertiary: '#A83196 '
+    unibody: '#3196A8'
+

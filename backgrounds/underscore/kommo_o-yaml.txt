@@ -1,0 +1,5 @@
+kommo_o:
+    primary: #A29B97
+    secondary: # Image
+    tertiary: # Image
+    unibody: #A29B97

@@ -1,0 +1,7 @@
+# 195
+quagsire:
+    primary: '#8EC7E5'
+    secondary: '#E5AC8E'
+    tertiary: '#E58EC7 '
+    unibody: '#8EC7E5'
+

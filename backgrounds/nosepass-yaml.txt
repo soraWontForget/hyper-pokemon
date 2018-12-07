@@ -1,0 +1,7 @@
+# 299
+nosepass:
+    primary: '#324B8B'
+    secondary: '#8B7232'
+    tertiary: '#8B324B '
+    unibody: '#324B8B'
+

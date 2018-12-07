@@ -1,0 +1,7 @@
+# 500
+emboar:
+    primary: '#ED6123'
+    secondary: '#23AFED'
+    tertiary: '#23ED61 '
+    unibody: '#ED6123'
+

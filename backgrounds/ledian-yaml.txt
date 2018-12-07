@@ -1,0 +1,7 @@
+# 166
+ledian:
+    primary: '#D54356'
+    secondary: '#43D5C2'
+    tertiary: '#56D543 '
+    unibody: '#D54356'
+

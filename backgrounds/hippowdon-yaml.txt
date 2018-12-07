@@ -1,0 +1,7 @@
+# 450
+hippowdon:
+    primary: '#B09F45'
+    secondary: '#4556B0'
+    tertiary: '#45B09F '
+    unibody: '#B09F45'
+

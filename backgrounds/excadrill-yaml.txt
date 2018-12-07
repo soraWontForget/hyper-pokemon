@@ -1,0 +1,7 @@
+# 530
+excadrill:
+    primary: '#433625'
+    secondary: '#253243'
+    tertiary: '#254336 '
+    unibody: '#433625'
+

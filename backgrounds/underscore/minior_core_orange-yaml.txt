@@ -1,0 +1,5 @@
+minior_core_orange:
+    primary: #F6AD3A
+    secondary: # Image
+    tertiary: # Image
+    unibody: #F6AD3A

@@ -1,0 +1,5 @@
+wormadam_sandy:
+    primary: #BFAE76
+    secondary: # Image
+    tertiary: # Image
+    unibody: #BFAE76

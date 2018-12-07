@@ -1,0 +1,7 @@
+# 180
+flaaffy:
+    primary: '#F6B9C9'
+    secondary: '#B9F6E6'
+    tertiary: '#C9F6B9 '
+    unibody: '#F6B9C9'
+

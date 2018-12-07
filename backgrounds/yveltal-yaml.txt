@@ -1,0 +1,7 @@
+# 717
+yveltal:
+    primary: '#343633'
+    secondary: '#353336'
+    tertiary: '#333436 '
+    unibody: '#343633'
+

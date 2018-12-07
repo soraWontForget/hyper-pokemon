@@ -1,0 +1,7 @@
+# 220
+swinub:
+    primary: '#BB9477'
+    secondary: '#779EBB'
+    tertiary: '#77BB94 '
+    unibody: '#BB9477'
+

@@ -1,0 +1,7 @@
+# 281
+kirlia:
+    primary: '#FAFAFA'
+    secondary: '#FAFAFA'
+    tertiary: '#FAFAFA '
+    unibody: '#FAFAFA'
+

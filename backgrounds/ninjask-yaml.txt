@@ -1,0 +1,7 @@
+# 291
+ninjask:
+    primary: '#24282B'
+    secondary: '#2B2724'
+    tertiary: '#2B2428 '
+    unibody: '#24282B'
+

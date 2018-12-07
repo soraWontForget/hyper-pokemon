@@ -1,0 +1,7 @@
+# 592
+frillish:
+    primary: '#8ED1EE'
+    secondary: '#EEAB8E'
+    tertiary: '#EE8ED1 '
+    unibody: '#8ED1EE'
+

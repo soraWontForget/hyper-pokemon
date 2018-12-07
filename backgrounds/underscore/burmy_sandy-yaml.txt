@@ -1,0 +1,5 @@
+burmy_sandy:
+    primary: #F1DDA8
+    secondary: # Image
+    tertiary: # Image
+    unibody: #F1DDA8

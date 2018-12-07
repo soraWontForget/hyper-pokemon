@@ -1,0 +1,5 @@
+castform_rain:
+    primary: #6473B8
+    secondary: # Image
+    tertiary: # Image
+    unibody: #6473B8

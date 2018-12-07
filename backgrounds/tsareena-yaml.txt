@@ -1,0 +1,7 @@
+# 763
+tsareena:
+    primary: '#AD4C73'
+    secondary: '#4CAD86'
+    tertiary: '#73AD4C '
+    unibody: '#AD4C73'
+

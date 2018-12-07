@@ -1,0 +1,7 @@
+# 446
+munchlax:
+    primary: '#45718C'
+    secondary: '#8C6045'
+    tertiary: '#8C4571 '
+    unibody: '#45718C'
+

@@ -1,0 +1,7 @@
+# 
+ditto:
+    primary: '#CB91C1'
+    secondary: '#91CB9B'
+    tertiary: '#C1CB91 '
+    unibody: '#CB91C1'
+

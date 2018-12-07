@@ -1,0 +1,7 @@
+# 344
+claydol:
+    primary: '#5B514F'
+    secondary: '#4F595B'
+    tertiary: '#4F5B51 '
+    unibody: '#5B514F'
+

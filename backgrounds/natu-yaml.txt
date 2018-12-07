@@ -1,0 +1,7 @@
+# 177
+natu:
+    primary: '#8AC142'
+    secondary: '#7942C1'
+    tertiary: '#428AC1 '
+    unibody: '#8AC142'
+

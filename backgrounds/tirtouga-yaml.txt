@@ -1,0 +1,7 @@
+# 564
+tirtouga:
+    primary: '#79B1E0'
+    secondary: '#E0A879'
+    tertiary: '#E079B1 '
+    unibody: '#79B1E0'
+

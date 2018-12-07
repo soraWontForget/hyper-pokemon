@@ -1,0 +1,7 @@
+# 392
+infernape:
+    primary: '#FFFFFF'
+    secondary: '#FFFFFF'
+    tertiary: '#FFFFFF '
+    unibody: '#FFFFFF'
+

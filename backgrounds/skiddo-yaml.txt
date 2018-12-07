@@ -1,0 +1,7 @@
+# 672
+skiddo:
+    primary: '#6F655C'
+    secondary: '#5C666F'
+    tertiary: '#5C6F65 '
+    unibody: '#6F655C'
+

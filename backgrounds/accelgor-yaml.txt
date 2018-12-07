@@ -1,0 +1,7 @@
+# 617
+accelgor:
+    primary: '#78849C'
+    secondary: '#9C9078'
+    tertiary: '#9C7884 '
+    unibody: '#78849C'
+

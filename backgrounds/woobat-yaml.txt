@@ -1,0 +1,7 @@
+# 527
+woobat:
+    primary: '#9AC2CA'
+    secondary: '#CAA29A'
+    tertiary: '#CA9AC2 '
+    unibody: '#9AC2CA'
+

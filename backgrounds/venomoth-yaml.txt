@@ -1,0 +1,7 @@
+# 
+venomoth:
+    primary: '#A59CC7'
+    secondary: '#BEC79C'
+    tertiary: '#C7A59C '
+    unibody: '#A59CC7'
+

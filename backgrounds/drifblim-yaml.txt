@@ -1,0 +1,7 @@
+# 426
+drifblim:
+    primary: '#88739A'
+    secondary: '#859A73'
+    tertiary: '#9A8873 '
+    unibody: '#88739A'
+

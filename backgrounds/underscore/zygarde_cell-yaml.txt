@@ -1,0 +1,5 @@
+zygarde_cell:
+    primary: #9AC735
+    secondary: # Image
+    tertiary: # Image
+    unibody: #9AC735

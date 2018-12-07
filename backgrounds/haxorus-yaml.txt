@@ -1,0 +1,7 @@
+# 612
+haxorus:
+    primary: '#A39733'
+    secondary: '#333FA3'
+    tertiary: '#33A397 '
+    unibody: '#A39733'
+

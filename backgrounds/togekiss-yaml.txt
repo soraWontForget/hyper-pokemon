@@ -1,0 +1,7 @@
+# 468
+togekiss:
+    primary: '#D8EBE9'
+    secondary: '#EBD8DA'
+    tertiary: '#E9D8EB '
+    unibody: '#D8EBE9'
+

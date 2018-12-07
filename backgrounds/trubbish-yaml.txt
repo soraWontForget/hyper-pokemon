@@ -1,0 +1,7 @@
+# 568
+trubbish:
+    primary: '#788363'
+    secondary: '#6E6383'
+    tertiary: '#637883 '
+    unibody: '#788363'
+

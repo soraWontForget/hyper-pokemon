@@ -1,0 +1,7 @@
+# 
+weedle:
+    primary: '#D19E43'
+    secondary: '#4376D1'
+    tertiary: '#43D19E '
+    unibody: '#D19E43'
+

@@ -1,0 +1,5 @@
+oricorio_pau:
+    primary: #EC8099
+    secondary: # Image
+    tertiary: # Image
+    unibody: #EC8099

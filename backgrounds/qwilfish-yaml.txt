@@ -1,0 +1,7 @@
+# 211
+qwilfish:
+    primary: '#E0EBB1'
+    secondary: '#BCB1EB'
+    tertiary: '#B1E0EB '
+    unibody: '#E0EBB1'
+

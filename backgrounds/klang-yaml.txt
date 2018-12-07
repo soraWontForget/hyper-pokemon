@@ -1,0 +1,7 @@
+# 600
+klang:
+    primary: '#CDD4E6'
+    secondary: '#E6DFCD'
+    tertiary: '#E6CDD4 '
+    unibody: '#CDD4E6'
+

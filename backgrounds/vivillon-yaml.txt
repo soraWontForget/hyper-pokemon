@@ -1,0 +1,7 @@
+# 666
+vivillon:
+    primary: '#CED1D6'
+    secondary: '#D6D3CE'
+    tertiary: '#D6CED1 '
+    unibody: '#CED1D6'
+

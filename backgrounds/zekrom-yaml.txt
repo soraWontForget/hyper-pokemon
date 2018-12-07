@@ -1,0 +1,7 @@
+# 644
+zekrom:
+    primary: '#EEF8F7'
+    secondary: '#F8EEEF'
+    tertiary: '#F7EEF8 '
+    unibody: '#EEF8F7'
+

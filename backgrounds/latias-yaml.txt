@@ -1,0 +1,7 @@
+# 380
+latias:
+    primary: '#FEFEFE'
+    secondary: '#FEFEFE'
+    tertiary: '#FEFEFE '
+    unibody: '#FEFEFE'
+

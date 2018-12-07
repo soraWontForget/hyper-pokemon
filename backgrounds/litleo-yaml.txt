@@ -1,0 +1,7 @@
+# 667
+litleo:
+    primary: '#443B32'
+    secondary: '#323B44'
+    tertiary: '#32443B '
+    unibody: '#443B32'
+

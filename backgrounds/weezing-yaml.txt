@@ -1,0 +1,7 @@
+# 
+weezing:
+    primary: '#B1A4C2'
+    secondary: '#B5C2A4'
+    tertiary: '#C2B1A4 '
+    unibody: '#B1A4C2'
+

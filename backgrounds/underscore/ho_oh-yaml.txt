@@ -1,0 +1,5 @@
+ho_oh:
+    primary: #E4502C
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E4502C

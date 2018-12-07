@@ -1,0 +1,7 @@
+# 648
+meloetta:
+    primary: '#FFFFFF'
+    secondary: '#FFFFFF'
+    tertiary: '#FFFFFF '
+    unibody: '#FFFFFF'
+

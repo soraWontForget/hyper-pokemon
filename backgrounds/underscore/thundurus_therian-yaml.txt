@@ -1,0 +1,5 @@
+thundurus_therian:
+    primary: #86C3E2
+    secondary: # Image
+    tertiary: # Image
+    unibody: #86C3E2

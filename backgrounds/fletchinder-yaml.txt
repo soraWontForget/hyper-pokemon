@@ -1,0 +1,7 @@
+# 662
+fletchinder:
+    primary: '#EB7547'
+    secondary: '#47BDEB'
+    tertiary: '#47EB75 '
+    unibody: '#EB7547'
+

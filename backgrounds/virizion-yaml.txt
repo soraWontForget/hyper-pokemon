@@ -1,0 +1,7 @@
+# 640
+virizion:
+    primary: '#A8CB6D'
+    secondary: '#906DCB'
+    tertiary: '#6DA8CB '
+    unibody: '#A8CB6D'
+

@@ -1,0 +1,7 @@
+# 562
+yamask:
+    primary: '#1E2618'
+    secondary: '#201826'
+    tertiary: '#181E26 '
+    unibody: '#1E2618'
+

@@ -1,0 +1,7 @@
+# 655
+delphox:
+    primary: '#FBEE7C'
+    secondary: '#7C89FB'
+    tertiary: '#7CFBEE '
+    unibody: '#FBEE7C'
+

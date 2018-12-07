@@ -1,0 +1,7 @@
+# 495
+snivy:
+    primary: '#4D8C46'
+    secondary: '#85468C'
+    tertiary: '#464D8C '
+    unibody: '#4D8C46'
+

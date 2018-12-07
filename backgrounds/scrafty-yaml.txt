@@ -1,0 +1,7 @@
+# 560
+scrafty:
+    primary: '#FA9D72'
+    secondary: '#72CFFA'
+    tertiary: '#72FA9D '
+    unibody: '#FA9D72'
+

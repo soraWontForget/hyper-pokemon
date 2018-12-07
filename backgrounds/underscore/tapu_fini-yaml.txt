@@ -1,0 +1,5 @@
+tapu_fini:
+    primary: #7C66A5
+    secondary: # Image
+    tertiary: # Image
+    unibody: #7C66A5

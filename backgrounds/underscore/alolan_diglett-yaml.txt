@@ -1,0 +1,5 @@
+alolan_diglett:
+    primary: #95642E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #95642E

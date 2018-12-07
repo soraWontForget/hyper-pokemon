@@ -1,0 +1,7 @@
+# 435
+skuntank:
+    primary: '#4B3355'
+    secondary: '#3D5533'
+    tertiary: '#554B33 '
+    unibody: '#4B3355'
+

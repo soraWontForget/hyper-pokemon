@@ -1,0 +1,5 @@
+oricorio_baile:
+    primary: #E9535E
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E9535E

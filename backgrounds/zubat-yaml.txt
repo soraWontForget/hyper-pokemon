@@ -1,0 +1,7 @@
+# 
+zubat:
+    primary: '#5486A9'
+    secondary: '#A97754'
+    tertiary: '#A95486 '
+    unibody: '#5486A9'
+

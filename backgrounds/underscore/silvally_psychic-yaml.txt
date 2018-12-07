@@ -1,0 +1,5 @@
+silvally_psychic:
+    primary: #DFE1EA
+    secondary: # Image
+    tertiary: # Image
+    unibody: #DFE1EA

@@ -1,0 +1,7 @@
+# 507
+herdier:
+    primary: '#DF945A'
+    secondary: '#5AA5DF'
+    tertiary: '#5ADF94 '
+    unibody: '#DF945A'
+

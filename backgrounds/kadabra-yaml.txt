@@ -1,0 +1,7 @@
+# 
+kadabra:
+    primary: '#F4E154'
+    secondary: '#5467F4'
+    tertiary: '#54F4E1 '
+    unibody: '#F4E154'
+

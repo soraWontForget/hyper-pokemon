@@ -1,0 +1,7 @@
+# 657
+frogadier:
+    primary: '#54B8E9'
+    secondary: '#E98554'
+    tertiary: '#E954B8 '
+    unibody: '#54B8E9'
+

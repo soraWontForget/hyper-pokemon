@@ -1,0 +1,7 @@
+# 
+cloyster:
+    primary: '#837A95'
+    secondary: '#8C957A'
+    tertiary: '#95837A '
+    unibody: '#837A95'
+

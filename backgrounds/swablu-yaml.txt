@@ -1,0 +1,7 @@
+# 333
+swablu:
+    primary: '#49BDE6'
+    secondary: '#E67249'
+    tertiary: '#E649BD '
+    unibody: '#49BDE6'
+

@@ -1,0 +1,5 @@
+rotom_mow:
+    primary: #E27C4B
+    secondary: # Image
+    tertiary: # Image
+    unibody: #E27C4B

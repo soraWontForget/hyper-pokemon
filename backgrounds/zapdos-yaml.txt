@@ -1,0 +1,7 @@
+# 
+zapdos:
+    primary: '#F8D465'
+    secondary: '#6589F8'
+    tertiary: '#65F8D4 '
+    unibody: '#F8D465'
+

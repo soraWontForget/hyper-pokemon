@@ -1,0 +1,7 @@
+# 362
+glalie:
+    primary: '#48494B'
+    secondary: '#4B4A48'
+    tertiary: '#4B4849 '
+    unibody: '#48494B'
+

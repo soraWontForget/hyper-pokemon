@@ -1,0 +1,7 @@
+# 765
+oranguru:
+    primary: '#F9F9FC'
+    secondary: '#FCFCF9'
+    tertiary: '#FCF9F9 '
+    unibody: '#F9F9FC'
+

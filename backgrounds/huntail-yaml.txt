@@ -1,0 +1,7 @@
+# 367
+huntail:
+    primary: '#5AA4C9'
+    secondary: '#C97F5A'
+    tertiary: '#C95AA4 '
+    unibody: '#5AA4C9'
+

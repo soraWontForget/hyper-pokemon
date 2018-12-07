@@ -1,0 +1,7 @@
+# 366
+clamperl:
+    primary: '#6CABD4'
+    secondary: '#D4956C'
+    tertiary: '#D46CAB '
+    unibody: '#6CABD4'
+

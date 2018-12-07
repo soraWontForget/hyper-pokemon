@@ -1,0 +1,7 @@
+# 
+starmie:
+    primary: '#A297B6'
+    secondary: '#ABB697'
+    tertiary: '#B6A297 '
+    unibody: '#A297B6'
+
