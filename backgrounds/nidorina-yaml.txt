@@ -1,7 +1,0 @@
-# 
-nidorina:
-    primary: '#94B9C1'
-    secondary: '#C19C94'
-    tertiary: '#C194B9 '
-    unibody: '#94B9C1'
-

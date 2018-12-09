@@ -1,7 +1,0 @@
-# 163
-hoothoot:
-    primary: '#A98E73'
-    secondary: '#738EA9'
-    tertiary: '#73A98E '
-    unibody: '#A98E73'
-

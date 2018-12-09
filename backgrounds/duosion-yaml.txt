@@ -1,7 +1,0 @@
-# 578
-duosion:
-    primary: '#D9EAC8'
-    secondary: '#D9C8EA'
-    tertiary: '#C8D9EA '
-    unibody: '#D9EAC8'
-

@@ -1,7 +1,0 @@
-# 739
-crabrawler:
-    primary: '#8761A5'
-    secondary: '#7FA561'
-    tertiary: '#A58761 '
-    unibody: '#8761A5'
-

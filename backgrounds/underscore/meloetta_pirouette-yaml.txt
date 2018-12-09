@@ -1,5 +1,0 @@
-meloetta_pirouette:
-    primary: #FFFFFF
-    secondary: # Image
-    tertiary: # Image
-    unibody: #FFFFFF

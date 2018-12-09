@@ -1,7 +1,0 @@
-# 347
-anorith:
-    primary: '#7D9678'
-    secondary: '#917896'
-    tertiary: '#787D96 '
-    unibody: '#7D9678'
-

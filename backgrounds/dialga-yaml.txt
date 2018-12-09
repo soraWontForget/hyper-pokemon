@@ -1,7 +1,0 @@
-# 483
-dialga:
-    primary: '#2B3B6C'
-    secondary: '#6C5C2B'
-    tertiary: '#6C2B3B '
-    unibody: '#2B3B6C'
-

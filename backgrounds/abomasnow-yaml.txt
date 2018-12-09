@@ -1,7 +1,0 @@
-# 460
-abomasnow:
-    primary: '#FDFDFD'
-    secondary: '#FDFDFD'
-    tertiary: '#FDFDFD '
-    unibody: '#FDFDFD'
-

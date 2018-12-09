@@ -1,7 +1,0 @@
-# 
-jynx:
-    primary: '#552B7F'
-    secondary: '#557F2B'
-    tertiary: '#7F552B '
-    unibody: '#552B7F'
-

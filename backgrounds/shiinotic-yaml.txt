@@ -1,7 +1,0 @@
-# 756
-shiinotic:
-    primary: '#CE92BF'
-    secondary: '#92CEA1'
-    tertiary: '#BFCE92 '
-    unibody: '#CE92BF'
-

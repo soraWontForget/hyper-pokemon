@@ -1,7 +1,0 @@
-# 358
-chimecho:
-    primary: '#BDDCF0'
-    secondary: '#F0D1BD'
-    tertiary: '#F0BDDC '
-    unibody: '#BDDCF0'
-

@@ -1,7 +1,0 @@
-# 399
-bidoof:
-    primary: '#A17035'
-    secondary: '#3566A1'
-    tertiary: '#35A170 '
-    unibody: '#A17035'
-

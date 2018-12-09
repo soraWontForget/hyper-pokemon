@@ -1,5 +1,0 @@
-nidoran_female:
-    primary: #BEC7E6
-    secondary: # Image
-    tertiary: # Image
-    unibody: #BEC7E6

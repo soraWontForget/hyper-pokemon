@@ -1,7 +1,0 @@
-# 701
-hawlucha:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF '
-    unibody: '#FFFFFF'
-

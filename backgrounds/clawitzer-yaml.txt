@@ -1,7 +1,0 @@
-# 693
-clawitzer:
-    primary: '#7DCBF1'
-    secondary: '#F1A37D'
-    tertiary: '#F17DCB '
-    unibody: '#7DCBF1'
-

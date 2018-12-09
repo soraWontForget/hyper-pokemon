@@ -1,7 +1,0 @@
-# 371
-bagon:
-    primary: '#7EB4CC'
-    secondary: '#CC967E'
-    tertiary: '#CC7EB4 '
-    unibody: '#7EB4CC'
-

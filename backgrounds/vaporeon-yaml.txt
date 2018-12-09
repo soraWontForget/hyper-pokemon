@@ -1,7 +1,0 @@
-# 
-vaporeon:
-    primary: '#7FC2DC'
-    secondary: '#DC997F'
-    tertiary: '#DC7FC2 '
-    unibody: '#7FC2DC'
-

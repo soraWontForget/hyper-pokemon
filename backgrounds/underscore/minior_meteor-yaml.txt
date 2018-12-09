@@ -1,5 +1,0 @@
-minior_meteor:
-    primary: #AA8681
-    secondary: # Image
-    tertiary: # Image
-    unibody: #AA8681

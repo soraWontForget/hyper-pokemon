@@ -1,7 +1,0 @@
-# 
-muk:
-    primary: '#8D6DAC'
-    secondary: '#8CAC6D'
-    tertiary: '#AC8D6D '
-    unibody: '#8D6DAC'
-

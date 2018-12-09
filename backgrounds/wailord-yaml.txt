@@ -1,7 +1,0 @@
-# 321
-wailord:
-    primary: '#016EA5'
-    secondary: '#A53801'
-    tertiary: '#A5016E '
-    unibody: '#016EA5'
-

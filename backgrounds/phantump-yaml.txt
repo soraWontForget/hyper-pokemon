@@ -1,7 +1,0 @@
-# 708
-phantump:
-    primary: '#252E35'
-    secondary: '#352C25'
-    tertiary: '#35252E '
-    unibody: '#252E35'
-

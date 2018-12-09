@@ -1,7 +1,0 @@
-# 673
-gogoat:
-    primary: '#988A6F'
-    secondary: '#6F7D98'
-    tertiary: '#6F988A '
-    unibody: '#988A6F'
-

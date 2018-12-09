@@ -1,7 +1,0 @@
-# 
-weepinbell:
-    primary: '#EBEB73'
-    secondary: '#7373EB'
-    tertiary: '#73EBEB '
-    unibody: '#EBEB73'
-

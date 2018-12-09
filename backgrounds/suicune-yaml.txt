@@ -1,7 +1,0 @@
-# 245
-suicune:
-    primary: '#AFCDE7'
-    secondary: '#E7C9AF'
-    tertiary: '#E7AFCD '
-    unibody: '#AFCDE7'
-

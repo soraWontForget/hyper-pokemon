@@ -1,5 +1,0 @@
-castform_sun:
-    primary: #CD5C4C
-    secondary: # Image
-    tertiary: # Image
-    unibody: #CD5C4C

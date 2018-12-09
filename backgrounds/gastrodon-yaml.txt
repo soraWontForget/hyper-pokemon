@@ -1,7 +1,0 @@
-# 423
-gastrodon:
-    primary: '#377F3F'
-    secondary: '#7F3777'
-    tertiary: '#3F377F '
-    unibody: '#377F3F'
-

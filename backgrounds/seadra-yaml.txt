@@ -1,7 +1,0 @@
-# 
-seadra:
-    primary: '#88C9E9'
-    secondary: '#E9A888'
-    tertiary: '#E988C9 '
-    unibody: '#88C9E9'
-

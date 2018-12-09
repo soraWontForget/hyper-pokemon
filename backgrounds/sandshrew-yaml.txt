@@ -1,7 +1,0 @@
-# 
-sandshrew:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

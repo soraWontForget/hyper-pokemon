@@ -1,7 +1,0 @@
-# 758
-salazzle:
-    primary: '#595657'
-    secondary: '#565958'
-    tertiary: '#575956 '
-    unibody: '#595657'
-

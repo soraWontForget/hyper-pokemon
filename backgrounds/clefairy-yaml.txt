@@ -1,7 +1,0 @@
-# 
-clefairy:
-    primary: '#F6CED6'
-    secondary: '#CEF6EE'
-    tertiary: '#D6F6CE '
-    unibody: '#F6CED6'
-

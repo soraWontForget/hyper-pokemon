@@ -1,7 +1,0 @@
-# 
-squirtle:
-    primary: '#84C1D4'
-    secondary: '#D49784'
-    tertiary: '#D484C1 '
-    unibody: '#84C1D4'
-

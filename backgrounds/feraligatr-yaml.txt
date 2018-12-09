@@ -1,7 +1,0 @@
-# 160
-feraligatr:
-    primary: '#5FBDD6'
-    secondary: '#D6785F'
-    tertiary: '#D65FBD '
-    unibody: '#5FBDD6'
-

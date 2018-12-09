@@ -1,7 +1,0 @@
-# 405
-luxray:
-    primary: '#3B3738'
-    secondary: '#373B3A'
-    tertiary: '#383B37 '
-    unibody: '#3B3738'
-

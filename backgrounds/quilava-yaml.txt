@@ -1,7 +1,0 @@
-# 156
-quilava:
-    primary: '#FDED96'
-    secondary: '#96A6FD'
-    tertiary: '#96FDED '
-    unibody: '#FDED96'
-

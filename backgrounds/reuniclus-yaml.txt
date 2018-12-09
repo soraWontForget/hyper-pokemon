@@ -1,7 +1,0 @@
-# 579
-reuniclus:
-    primary: '#E1EED0'
-    secondary: '#DDD0EE'
-    tertiary: '#D0E1EE '
-    unibody: '#E1EED0'
-

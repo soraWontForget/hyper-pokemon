@@ -1,7 +1,0 @@
-# -male
-nidoran-male:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

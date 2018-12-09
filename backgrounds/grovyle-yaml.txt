@@ -1,7 +1,0 @@
-# 253
-grovyle:
-    primary: '#97C98C'
-    secondary: '#BE8CC9'
-    tertiary: '#8C97C9 '
-    unibody: '#97C98C'
-

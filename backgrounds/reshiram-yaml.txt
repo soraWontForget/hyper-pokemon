@@ -1,7 +1,0 @@
-# 643
-reshiram:
-    primary: '#2B2726'
-    secondary: '#262A2B'
-    tertiary: '#262B27 '
-    unibody: '#2B2726'
-

@@ -1,7 +1,0 @@
-# 242
-blissey:
-    primary: '#E9A5BC'
-    secondary: '#A5E9D2'
-    tertiary: '#BCE9A5 '
-    unibody: '#E9A5BC'
-

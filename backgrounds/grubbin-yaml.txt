@@ -1,7 +1,0 @@
-# 736
-grubbin:
-    primary: '#E0E7EE'
-    secondary: '#EEE7E0'
-    tertiary: '#EEE0E7 '
-    unibody: '#E0E7EE'
-

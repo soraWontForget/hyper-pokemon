@@ -1,5 +1,0 @@
-groudon_alt:
-    primary: #C02626
-    secondary: # Image
-    tertiary: # Image
-    unibody: #C02626

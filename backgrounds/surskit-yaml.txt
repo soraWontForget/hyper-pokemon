@@ -1,7 +1,0 @@
-# 283
-surskit:
-    primary: '#82D3F0'
-    secondary: '#F09F82'
-    tertiary: '#F082D3 '
-    unibody: '#82D3F0'
-

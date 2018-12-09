@@ -1,7 +1,0 @@
-# 462
-magnezone:
-    primary: '#B0C3D1'
-    secondary: '#D1BEB0'
-    tertiary: '#D1B0C3 '
-    unibody: '#B0C3D1'
-

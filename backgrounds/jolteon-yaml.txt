@@ -1,7 +1,0 @@
-# 
-jolteon:
-    primary: '#F3D156'
-    secondary: '#5678F3'
-    tertiary: '#56F3D1 '
-    unibody: '#F3D156'
-

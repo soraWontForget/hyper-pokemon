@@ -1,7 +1,0 @@
-# 477
-dusknoir:
-    primary: '#AEB1A0'
-    secondary: '#A3A0B1'
-    tertiary: '#A0AEB1 '
-    unibody: '#AEB1A0'
-

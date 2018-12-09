@@ -1,7 +1,0 @@
-# 
-pikachu:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

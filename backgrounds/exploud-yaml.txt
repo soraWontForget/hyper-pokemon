@@ -1,7 +1,0 @@
-# 295
-exploud:
-    primary: '#969ECC'
-    secondary: '#CCC496'
-    tertiary: '#CC969E '
-    unibody: '#969ECC'
-

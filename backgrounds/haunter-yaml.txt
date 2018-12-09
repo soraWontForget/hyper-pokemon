@@ -1,7 +1,0 @@
-# 
-haunter:
-    primary: '#7D6EB3'
-    secondary: '#A4B36E'
-    tertiary: '#B37D6E '
-    unibody: '#7D6EB3'
-

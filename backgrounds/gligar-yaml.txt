@@ -1,7 +1,0 @@
-# 207
-gligar:
-    primary: '#D08EBC'
-    secondary: '#8ED0A2'
-    tertiary: '#BCD08E '
-    unibody: '#D08EBC'
-

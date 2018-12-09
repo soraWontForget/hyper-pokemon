@@ -1,7 +1,0 @@
-# 
-wigglytuff:
-    primary: '#F8B9C4'
-    secondary: '#B9F8ED'
-    tertiary: '#C4F8B9 '
-    unibody: '#F8B9C4'
-

@@ -1,7 +1,0 @@
-# 604
-eelektross:
-    primary: '#435E7C'
-    secondary: '#7C6143'
-    tertiary: '#7C435E '
-    unibody: '#435E7C'
-

@@ -1,7 +1,0 @@
-# 584
-vanilluxe:
-    primary: '#6F9ECC'
-    secondary: '#CC9D6F'
-    tertiary: '#CC6F9E '
-    unibody: '#6F9ECC'
-

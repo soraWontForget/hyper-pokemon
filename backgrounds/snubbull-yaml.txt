@@ -1,7 +1,0 @@
-# 209
-snubbull:
-    primary: '#EF919F'
-    secondary: '#91EFE1'
-    tertiary: '#9FEF91 '
-    unibody: '#EF919F'
-

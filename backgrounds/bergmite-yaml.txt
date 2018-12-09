@@ -1,7 +1,0 @@
-# 712
-bergmite:
-    primary: '#FDFEFF'
-    secondary: '#FFFEFD'
-    tertiary: '#FFFDFE '
-    unibody: '#FDFEFF'
-

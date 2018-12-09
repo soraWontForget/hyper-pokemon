@@ -1,7 +1,0 @@
-# 247
-pupitar:
-    primary: '#A7B4D6'
-    secondary: '#D6C9A7'
-    tertiary: '#D6A7B4 '
-    unibody: '#A7B4D6'
-

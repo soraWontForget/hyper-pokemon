@@ -1,7 +1,0 @@
-# 795
-pheromosa:
-    primary: '#FCFCFC'
-    secondary: '#FCFCFC'
-    tertiary: '#FCFCFC '
-    unibody: '#FCFCFC'
-

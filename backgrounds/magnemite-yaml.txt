@@ -1,7 +1,0 @@
-# 
-magnemite:
-    primary: '#9DBBC5'
-    secondary: '#C5A79D'
-    tertiary: '#C59DBB '
-    unibody: '#9DBBC5'
-

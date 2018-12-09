@@ -1,7 +1,0 @@
-# 170
-chinchou:
-    primary: '#749BD2'
-    secondary: '#D2AB74'
-    tertiary: '#D2749B '
-    unibody: '#749BD2'
-

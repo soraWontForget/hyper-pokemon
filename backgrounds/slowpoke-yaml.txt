@@ -1,7 +1,0 @@
-# 
-slowpoke:
-    primary: '#E5A6B9'
-    secondary: '#A6E5D2'
-    tertiary: '#B9E5A6 '
-    unibody: '#E5A6B9'
-

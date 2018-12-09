@@ -1,7 +1,0 @@
-# 388
-grotle:
-    primary: '#87AB65'
-    secondary: '#8965AB'
-    tertiary: '#6587AB '
-    unibody: '#87AB65'
-

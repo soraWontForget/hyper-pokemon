@@ -1,7 +1,0 @@
-# 699
-aurorus:
-    primary: '#7D9BD1'
-    secondary: '#D1B37D'
-    tertiary: '#D17D9B '
-    unibody: '#7D9BD1'
-

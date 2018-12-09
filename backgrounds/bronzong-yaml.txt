@@ -1,7 +1,0 @@
-# 437
-bronzong:
-    primary: '#7BACA7'
-    secondary: '#AC7B80'
-    tertiary: '#A77BAC '
-    unibody: '#7BACA7'
-

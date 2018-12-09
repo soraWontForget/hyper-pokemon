@@ -1,7 +1,0 @@
-# 778
-mimikyu:
-    primary: '#030202'
-    secondary: '#020303'
-    tertiary: '#020302 '
-    unibody: '#030202'
-

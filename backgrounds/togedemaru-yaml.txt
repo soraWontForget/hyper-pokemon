@@ -1,7 +1,0 @@
-# 777
-togedemaru:
-    primary: '#6E5039'
-    secondary: '#39576E'
-    tertiary: '#396E50 '
-    unibody: '#6E5039'
-

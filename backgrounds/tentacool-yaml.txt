@@ -1,7 +1,0 @@
-# 
-tentacool:
-    primary: '#6DB4DE'
-    secondary: '#DE976D'
-    tertiary: '#DE6DB4 '
-    unibody: '#6DB4DE'
-

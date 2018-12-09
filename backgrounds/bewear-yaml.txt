@@ -1,7 +1,0 @@
-# 760
-bewear:
-    primary: '#403C39'
-    secondary: '#393D40'
-    tertiary: '#39403C '
-    unibody: '#403C39'
-

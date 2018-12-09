@@ -1,7 +1,0 @@
-# 603
-eelektrik:
-    primary: '#425F7D'
-    secondary: '#7D6042'
-    tertiary: '#7D425F '
-    unibody: '#425F7D'
-

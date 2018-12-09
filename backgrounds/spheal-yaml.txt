@@ -1,7 +1,0 @@
-# 363
-spheal:
-    primary: '#79A8D9'
-    secondary: '#D9AA79'
-    tertiary: '#D979A8 '
-    unibody: '#79A8D9'
-

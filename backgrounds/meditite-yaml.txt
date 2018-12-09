@@ -1,7 +1,0 @@
-# 307
-meditite:
-    primary: '#75C2EC'
-    secondary: '#EC9F75'
-    tertiary: '#EC75C2 '
-    unibody: '#75C2EC'
-

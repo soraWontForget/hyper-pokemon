@@ -1,7 +1,0 @@
-# 
-charmeleon:
-    primary: '#D3675A'
-    secondary: '#5AC6D3'
-    tertiary: '#5AD367 '
-    unibody: '#D3675A'
-

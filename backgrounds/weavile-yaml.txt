@@ -1,7 +1,0 @@
-# 461
-weavile:
-    primary: '#45465A'
-    secondary: '#5A5945'
-    tertiary: '#5A4546 '
-    unibody: '#45465A'
-

@@ -1,7 +1,0 @@
-# 
-arcanine:
-    primary: '#FCE19F'
-    secondary: '#9FBAFC'
-    tertiary: '#9FFCE1 '
-    unibody: '#FCE19F'
-

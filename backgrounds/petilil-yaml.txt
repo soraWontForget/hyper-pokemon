@@ -1,7 +1,0 @@
-# 548
-petilil:
-    primary: '#DEE564'
-    secondary: '#6B64E5'
-    tertiary: '#64DEE5 '
-    unibody: '#DEE564'
-

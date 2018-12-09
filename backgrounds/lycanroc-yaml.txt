@@ -1,7 +1,0 @@
-# 745
-lycanroc:
-    primary: '#E2C7AA'
-    secondary: '#AAC5E2'
-    tertiary: '#AAE2C7 '
-    unibody: '#E2C7AA'
-

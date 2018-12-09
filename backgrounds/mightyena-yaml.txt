@@ -1,7 +1,0 @@
-# 262
-mightyena:
-    primary: '#C5C2CB'
-    secondary: '#C8CBC2'
-    tertiary: '#CBC5C2 '
-    unibody: '#C5C2CB'
-

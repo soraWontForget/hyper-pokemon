@@ -1,5 +1,0 @@
-type_null:
-    primary: #949496
-    secondary: # Image
-    tertiary: # Image
-    unibody: #949496

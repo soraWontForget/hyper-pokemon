@@ -1,7 +1,0 @@
-# 267
-beautifly:
-    primary: '#66646E'
-    secondary: '#6C6E64'
-    tertiary: '#6E6664 '
-    unibody: '#66646E'
-

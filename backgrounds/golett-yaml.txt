@@ -1,7 +1,0 @@
-# 622
-golett:
-    primary: '#4C777D'
-    secondary: '#7D524C'
-    tertiary: '#7D4C77 '
-    unibody: '#4C777D'
-

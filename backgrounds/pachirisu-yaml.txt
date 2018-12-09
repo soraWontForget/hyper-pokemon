@@ -1,7 +1,0 @@
-# 417
-pachirisu:
-    primary: '#DFE8F7'
-    secondary: '#F7EEDF'
-    tertiary: '#F7DFE8 '
-    unibody: '#DFE8F7'
-

@@ -1,5 +1,0 @@
-tornadus_therian:
-    primary: #86C171
-    secondary: # Image
-    tertiary: # Image
-    unibody: #86C171

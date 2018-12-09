@@ -1,7 +1,0 @@
-# 793
-nihilego:
-    primary: '#F1F6F2'
-    secondary: '#F6F1F5'
-    tertiary: '#F2F1F6 '
-    unibody: '#F1F6F2'
-

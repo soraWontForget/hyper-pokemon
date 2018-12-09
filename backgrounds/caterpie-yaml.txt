@@ -1,7 +1,0 @@
-# 
-caterpie:
-    primary: '#8CC979'
-    secondary: '#B679C9'
-    tertiary: '#798CC9 '
-    unibody: '#8CC979'
-

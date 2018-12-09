@@ -1,7 +1,0 @@
-# 499
-pignite:
-    primary: '#F68742'
-    secondary: '#42B1F6'
-    tertiary: '#42F687 '
-    unibody: '#F68742'
-

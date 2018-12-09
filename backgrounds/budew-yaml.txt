@@ -1,7 +1,0 @@
-# 406
-budew:
-    primary: '#87C766'
-    secondary: '#A666C7'
-    tertiary: '#6687C7 '
-    unibody: '#87C766'
-

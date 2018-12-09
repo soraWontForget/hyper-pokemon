@@ -1,7 +1,0 @@
-# 650
-chespin:
-    primary: '#B2D45C'
-    secondary: '#7E5CD4'
-    tertiary: '#5CB2D4 '
-    unibody: '#B2D45C'
-

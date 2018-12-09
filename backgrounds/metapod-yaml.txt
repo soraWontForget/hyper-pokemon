@@ -1,7 +1,0 @@
-# 
-metapod:
-    primary: '#85B243'
-    secondary: '#7043B2'
-    tertiary: '#4385B2 '
-    unibody: '#85B243'
-

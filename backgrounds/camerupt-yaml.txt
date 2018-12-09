@@ -1,7 +1,0 @@
-# 323
-camerupt:
-    primary: '#D9806E'
-    secondary: '#6EC7D9'
-    tertiary: '#6ED980 '
-    unibody: '#D9806E'
-

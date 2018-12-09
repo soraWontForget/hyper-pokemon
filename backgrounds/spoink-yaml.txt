@@ -1,7 +1,0 @@
-# 325
-spoink:
-    primary: '#A7A5A6'
-    secondary: '#A5A7A6'
-    tertiary: '#A6A7A5 '
-    unibody: '#A7A5A6'
-

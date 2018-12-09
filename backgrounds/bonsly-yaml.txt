@@ -1,7 +1,0 @@
-# 438
-bonsly:
-    primary: '#A2814B'
-    secondary: '#4B6CA2'
-    tertiary: '#4BA281 '
-    unibody: '#A2814B'
-

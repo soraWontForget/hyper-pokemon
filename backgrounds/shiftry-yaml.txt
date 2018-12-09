@@ -1,7 +1,0 @@
-# 275
-shiftry:
-    primary: '#B6886E'
-    secondary: '#6E9CB6'
-    tertiary: '#6EB688 '
-    unibody: '#B6886E'
-

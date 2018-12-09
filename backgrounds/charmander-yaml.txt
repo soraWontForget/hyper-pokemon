@@ -1,7 +1,0 @@
-# 
-charmander:
-    primary: '#F4B186'
-    secondary: '#86C9F4'
-    tertiary: '#86F4B1 '
-    unibody: '#F4B186'
-

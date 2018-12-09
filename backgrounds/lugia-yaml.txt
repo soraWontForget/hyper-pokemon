@@ -1,7 +1,0 @@
-# 249
-lugia:
-    primary: '#D8E6F1'
-    secondary: '#F1E3D8'
-    tertiary: '#F1D8E6 '
-    unibody: '#D8E6F1'
-

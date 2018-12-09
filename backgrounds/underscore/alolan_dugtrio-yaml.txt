@@ -1,5 +1,0 @@
-alolan_dugtrio:
-    primary: #92622E
-    secondary: # Image
-    tertiary: # Image
-    unibody: #92622E

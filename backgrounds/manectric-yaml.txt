@@ -1,7 +1,0 @@
-# 310
-manectric:
-    primary: '#74AEC6'
-    secondary: '#C68C74'
-    tertiary: '#C674AE '
-    unibody: '#74AEC6'
-

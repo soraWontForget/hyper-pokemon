@@ -1,7 +1,0 @@
-# 512
-simisage:
-    primary: '#51A545'
-    secondary: '#9945A5'
-    tertiary: '#4551A5 '
-    unibody: '#51A545'
-

@@ -1,7 +1,0 @@
-# 201
-unown:
-    primary: '#525252'
-    secondary: '#525252'
-    tertiary: '#525252 '
-    unibody: '#525252'
-

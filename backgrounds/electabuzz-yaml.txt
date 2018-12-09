@@ -1,7 +1,0 @@
-# 
-electabuzz:
-    primary: '#F8D871'
-    secondary: '#7191F8'
-    tertiary: '#71F8D8 '
-    unibody: '#F8D871'
-

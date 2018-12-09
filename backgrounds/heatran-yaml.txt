@@ -1,7 +1,0 @@
-# 485
-heatran:
-    primary: '#6F301E'
-    secondary: '#1E5D6F'
-    tertiary: '#1E6F30 '
-    unibody: '#6F301E'
-

@@ -1,7 +1,0 @@
-# 554
-darumaka:
-    primary: '#C85A37'
-    secondary: '#37A5C8'
-    tertiary: '#37C85A '
-    unibody: '#C85A37'
-

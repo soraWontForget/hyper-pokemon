@@ -1,7 +1,0 @@
-# 798
-kartana:
-    primary: '#FAFBF9'
-    secondary: '#FAF9FB'
-    tertiary: '#F9FAFB '
-    unibody: '#FAFBF9'
-

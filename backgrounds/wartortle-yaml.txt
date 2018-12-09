@@ -1,7 +1,0 @@
-# 
-wartortle:
-    primary: '#A8BDE2'
-    secondary: '#E2CDA8'
-    tertiary: '#E2A8BD '
-    unibody: '#A8BDE2'
-

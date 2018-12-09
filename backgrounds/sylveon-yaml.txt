@@ -1,7 +1,0 @@
-# 700
-sylveon:
-    primary: '#E5D9E5'
-    secondary: '#D9E5D9'
-    tertiary: '#E5E5D9 '
-    unibody: '#E5D9E5'
-

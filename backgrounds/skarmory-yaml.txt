@@ -1,7 +1,0 @@
-# 227
-skarmory:
-    primary: '#C9D7E4'
-    secondary: '#E4D6C9'
-    tertiary: '#E4C9D7 '
-    unibody: '#C9D7E4'
-

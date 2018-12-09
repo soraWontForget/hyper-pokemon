@@ -1,5 +1,0 @@
-porygon_z:
-    primary: #BF3A4F
-    secondary: # Image
-    tertiary: # Image
-    unibody: #BF3A4F

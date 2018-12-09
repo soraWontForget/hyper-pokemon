@@ -1,7 +1,0 @@
-# 540
-sewaddle:
-    primary: '#95C33C'
-    secondary: '#6A3CC3'
-    tertiary: '#3C95C3 '
-    unibody: '#95C33C'
-

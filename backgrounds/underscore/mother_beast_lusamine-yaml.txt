@@ -1,5 +1,0 @@
-mother_beast_lusamine:
-    primary: #2B2B46
-    secondary: # Image
-    tertiary: # Image
-    unibody: #2B2B46

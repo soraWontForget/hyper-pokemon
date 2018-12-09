@@ -1,5 +1,0 @@
-alolan_vulpix:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

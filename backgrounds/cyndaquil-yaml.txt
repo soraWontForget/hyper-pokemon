@@ -1,7 +1,0 @@
-# 155
-cyndaquil:
-    primary: '#FCF2CF'
-    secondary: '#CFD9FC'
-    tertiary: '#CFFCF2 '
-    unibody: '#FCF2CF'
-

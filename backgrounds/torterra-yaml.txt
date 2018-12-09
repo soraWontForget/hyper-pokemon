@@ -1,7 +1,0 @@
-# 389
-torterra:
-    primary: '#3E854B'
-    secondary: '#853E78'
-    tertiary: '#4B3E85 '
-    unibody: '#3E854B'
-

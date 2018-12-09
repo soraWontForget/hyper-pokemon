@@ -1,5 +1,0 @@
-alolan_persian:
-    primary: #D1D2DC
-    secondary: # Image
-    tertiary: # Image
-    unibody: #D1D2DC

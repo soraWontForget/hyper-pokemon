@@ -1,7 +1,0 @@
-# 411
-bastiodon:
-    primary: '#FBD688'
-    secondary: '#88ADFB'
-    tertiary: '#88FBD6 '
-    unibody: '#FBD688'
-

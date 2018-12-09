@@ -1,7 +1,0 @@
-# 429
-mismagius:
-    primary: '#504162'
-    secondary: '#536241'
-    tertiary: '#625041 '
-    unibody: '#504162'
-

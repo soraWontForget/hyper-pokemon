@@ -1,7 +1,0 @@
-# 
-dragonair:
-    primary: '#77A2D5'
-    secondary: '#D5AA77'
-    tertiary: '#D577A2 '
-    unibody: '#77A2D5'
-

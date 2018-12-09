@@ -1,7 +1,0 @@
-# 769
-sandygast:
-    primary: '#D8D3B8'
-    secondary: '#B8BDD8'
-    tertiary: '#B8D8D3 '
-    unibody: '#D8D3B8'
-

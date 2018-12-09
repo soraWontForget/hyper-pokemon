@@ -1,7 +1,0 @@
-# 342
-crawdaunt:
-    primary: '#DE5238'
-    secondary: '#38C4DE'
-    tertiary: '#38DE52 '
-    unibody: '#DE5238'
-

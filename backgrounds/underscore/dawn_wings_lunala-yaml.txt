@@ -1,5 +1,0 @@
-dawn_wings_lunala:
-    primary: #CBE0F0
-    secondary: # Image
-    tertiary: # Image
-    unibody: #CBE0F0

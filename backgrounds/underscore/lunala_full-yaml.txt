@@ -1,5 +1,0 @@
-lunala_full:
-    primary: #BDDCE8
-    secondary: # Image
-    tertiary: # Image
-    unibody: #BDDCE8

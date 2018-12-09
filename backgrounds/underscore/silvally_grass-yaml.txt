@@ -1,5 +1,0 @@
-silvally_grass:
-    primary: #DEE2EA
-    secondary: # Image
-    tertiary: # Image
-    unibody: #DEE2EA

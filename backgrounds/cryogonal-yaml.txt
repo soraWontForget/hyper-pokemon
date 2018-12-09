@@ -1,7 +1,0 @@
-# 615
-cryogonal:
-    primary: '#DBE1EF'
-    secondary: '#EFE9DB'
-    tertiary: '#EFDBE1 '
-    unibody: '#DBE1EF'
-

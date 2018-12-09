@@ -1,7 +1,0 @@
-# 802
-marshadow:
-    primary: '#707277'
-    secondary: '#777570'
-    tertiary: '#777072 '
-    unibody: '#707277'
-

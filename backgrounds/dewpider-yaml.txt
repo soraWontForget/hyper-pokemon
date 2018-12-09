@@ -1,7 +1,0 @@
-# 751
-dewpider:
-    primary: '#5E6974'
-    secondary: '#74695E'
-    tertiary: '#745E69 '
-    unibody: '#5E6974'
-

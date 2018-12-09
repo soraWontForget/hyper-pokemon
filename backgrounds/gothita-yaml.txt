@@ -1,7 +1,0 @@
-# 574
-gothita:
-    primary: '#303426'
-    secondary: '#2A2634'
-    tertiary: '#263034 '
-    unibody: '#303426'
-

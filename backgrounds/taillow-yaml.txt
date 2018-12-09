@@ -1,7 +1,0 @@
-# 276
-taillow:
-    primary: '#515F7C'
-    secondary: '#7C6E51'
-    tertiary: '#7C515F '
-    unibody: '#515F7C'
-

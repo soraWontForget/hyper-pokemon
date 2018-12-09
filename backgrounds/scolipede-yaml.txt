@@ -1,7 +1,0 @@
-# 545
-scolipede:
-    primary: '#B14F4C'
-    secondary: '#4CAEB1'
-    tertiary: '#4CB14F '
-    unibody: '#B14F4C'
-

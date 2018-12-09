@@ -1,7 +1,0 @@
-# 523
-zebstrika:
-    primary: '#524E4D'
-    secondary: '#4D5152'
-    tertiary: '#4D524E '
-    unibody: '#524E4D'
-

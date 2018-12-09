@@ -1,7 +1,0 @@
-# 303
-mawile:
-    primary: '#FBE38D'
-    secondary: '#8DA5FB'
-    tertiary: '#8DFBE3 '
-    unibody: '#FBE38D'
-

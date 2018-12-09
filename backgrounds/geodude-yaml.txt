@@ -1,7 +1,0 @@
-# 
-geodude:
-    primary: '#B5A66D'
-    secondary: '#6D7CB5'
-    tertiary: '#6DB5A6 '
-    unibody: '#B5A66D'
-

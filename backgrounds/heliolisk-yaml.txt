@@ -1,7 +1,0 @@
-# 695
-heliolisk:
-    primary: '#FBE969'
-    secondary: '#697BFB'
-    tertiary: '#69FBE9 '
-    unibody: '#FBE969'
-

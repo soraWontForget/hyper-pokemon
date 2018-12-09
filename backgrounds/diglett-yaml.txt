@@ -1,7 +1,0 @@
-# 
-diglett:
-    primary: '#A88975'
-    secondary: '#7594A8'
-    tertiary: '#75A889 '
-    unibody: '#A88975'
-

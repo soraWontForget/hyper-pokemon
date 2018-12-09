@@ -1,7 +1,0 @@
-# 610
-axew:
-    primary: '#8CA182'
-    secondary: '#9782A1'
-    tertiary: '#828CA1 '
-    unibody: '#8CA182'
-

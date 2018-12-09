@@ -1,7 +1,0 @@
-# 368
-gorebyss:
-    primary: '#EEB0C9'
-    secondary: '#B0EED5'
-    tertiary: '#C9EEB0 '
-    unibody: '#EEB0C9'
-

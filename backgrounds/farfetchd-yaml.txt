@@ -1,7 +1,0 @@
-# 
-farfetchd:
-    primary: '#B2927D'
-    secondary: '#7D9DB2'
-    tertiary: '#7DB292 '
-    unibody: '#B2927D'
-

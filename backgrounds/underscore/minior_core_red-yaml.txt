@@ -1,5 +1,0 @@
-minior_core_red:
-    primary: #E95283
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E95283

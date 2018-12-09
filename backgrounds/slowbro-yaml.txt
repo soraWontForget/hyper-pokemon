@@ -1,7 +1,0 @@
-# 
-slowbro:
-    primary: '#DD9DAE'
-    secondary: '#9DDDCC'
-    tertiary: '#AEDD9D '
-    unibody: '#DD9DAE'
-

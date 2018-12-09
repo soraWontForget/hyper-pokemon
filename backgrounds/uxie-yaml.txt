@@ -1,7 +1,0 @@
-# 480
-uxie:
-    primary: '#B8D6F0'
-    secondary: '#F0D2B8'
-    tertiary: '#F0B8D6 '
-    unibody: '#B8D6F0'
-

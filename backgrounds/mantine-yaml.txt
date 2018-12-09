@@ -1,7 +1,0 @@
-# 226
-mantine:
-    primary: '#B9B1C9'
-    secondary: '#C1C9B1'
-    tertiary: '#C9B9B1 '
-    unibody: '#B9B1C9'
-

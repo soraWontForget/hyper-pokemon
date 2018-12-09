@@ -1,7 +1,0 @@
-# 583
-vanillish:
-    primary: '#6AA0CE'
-    secondary: '#CE986A'
-    tertiary: '#CE6AA0 '
-    unibody: '#6AA0CE'
-

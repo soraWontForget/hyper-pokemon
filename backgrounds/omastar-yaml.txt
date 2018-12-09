@@ -1,7 +1,0 @@
-# 
-omastar:
-    primary: '#97CCDC'
-    secondary: '#DCA797'
-    tertiary: '#DC97CC '
-    unibody: '#97CCDC'
-

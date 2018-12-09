@@ -1,7 +1,0 @@
-# 761
-bounsweet:
-    primary: '#768D64'
-    secondary: '#7B648D'
-    tertiary: '#64768D '
-    unibody: '#768D64'
-

@@ -1,7 +1,0 @@
-# 374
-beldum:
-    primary: '#52A5AD'
-    secondary: '#AD5A52'
-    tertiary: '#AD52A5 '
-    unibody: '#52A5AD'
-

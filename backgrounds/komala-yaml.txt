@@ -1,7 +1,0 @@
-# 775
-komala:
-    primary: '#ABBFD7'
-    secondary: '#D7C3AB'
-    tertiary: '#D7ABBF '
-    unibody: '#ABBFD7'
-

@@ -1,7 +1,0 @@
-# 791
-solgaleo:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF '
-    unibody: '#FFFFFF'
-

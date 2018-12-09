@@ -1,7 +1,0 @@
-# 505
-watchog:
-    primary: '#6A3628'
-    secondary: '#285C6A'
-    tertiary: '#286A36 '
-    unibody: '#6A3628'
-

@@ -1,7 +1,0 @@
-# 272
-ludicolo:
-    primary: '#9BC65B'
-    secondary: '#865BC6'
-    tertiary: '#5B9BC6 '
-    unibody: '#9BC65B'
-

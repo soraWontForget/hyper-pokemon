@@ -1,2 +1,0 @@
-# ImageMagick pixel enumeration: 1,1,65535,srgb
-0,0: (46517,42662,28013)  #B5A66D  srgb(181,166,109)

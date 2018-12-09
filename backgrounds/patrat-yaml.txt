@@ -1,7 +1,0 @@
-# 504
-patrat:
-    primary: '#B58E57'
-    secondary: '#577EB5'
-    tertiary: '#57B58E '
-    unibody: '#B58E57'
-

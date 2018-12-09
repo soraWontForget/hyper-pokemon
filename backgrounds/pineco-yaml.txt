@@ -1,7 +1,0 @@
-# 204
-pineco:
-    primary: '#5B8A82'
-    secondary: '#8A5B63'
-    tertiary: '#825B8A '
-    unibody: '#5B8A82'
-

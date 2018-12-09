@@ -1,7 +1,0 @@
-# 602
-tynamo:
-    primary: '#EBF5F7'
-    secondary: '#F7EDEB'
-    tertiary: '#F7EBF5 '
-    unibody: '#EBF5F7'
-

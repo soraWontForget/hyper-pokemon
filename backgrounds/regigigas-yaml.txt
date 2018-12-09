@@ -1,7 +1,0 @@
-# 486
-regigigas:
-    primary: '#F5F6FB'
-    secondary: '#FBFAF5'
-    tertiary: '#FBF5F6 '
-    unibody: '#F5F6FB'
-

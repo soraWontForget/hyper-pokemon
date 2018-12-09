@@ -1,5 +1,0 @@
-dunsparce_alt:
-    primary: #FEF27A
-    secondary: # Image
-    tertiary: # Image
-    unibody: #FEF27A

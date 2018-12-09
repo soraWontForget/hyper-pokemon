@@ -1,7 +1,0 @@
-# -megay
-mewtwo-megay:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

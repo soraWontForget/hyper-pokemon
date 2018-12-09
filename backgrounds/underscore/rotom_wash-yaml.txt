@@ -1,5 +1,0 @@
-rotom_wash:
-    primary: #E17D4B
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E17D4B

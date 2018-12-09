@@ -1,7 +1,0 @@
-# 671
-florges:
-    primary: '#EB545D'
-    secondary: '#54EBE2'
-    tertiary: '#5DEB54 '
-    unibody: '#EB545D'
-

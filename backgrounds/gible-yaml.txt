@@ -1,7 +1,0 @@
-# 443
-gible:
-    primary: '#5F8093'
-    secondary: '#93725F'
-    tertiary: '#935F80 '
-    unibody: '#5F8093'
-

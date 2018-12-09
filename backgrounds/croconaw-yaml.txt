@@ -1,7 +1,0 @@
-# 159
-croconaw:
-    primary: '#77BBAE'
-    secondary: '#BB7784'
-    tertiary: '#AE77BB '
-    unibody: '#77BBAE'
-

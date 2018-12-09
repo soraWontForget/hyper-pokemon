@@ -1,7 +1,0 @@
-# 606
-beheeyem:
-    primary: '#CEA593'
-    secondary: '#93BCCE'
-    tertiary: '#93CEA5 '
-    unibody: '#CEA593'
-

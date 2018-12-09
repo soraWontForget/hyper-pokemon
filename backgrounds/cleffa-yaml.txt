@@ -1,7 +1,0 @@
-# 173
-cleffa:
-    primary: '#FBD6CD'
-    secondary: '#CDF2FB'
-    tertiary: '#CDFBD6 '
-    unibody: '#FBD6CD'
-

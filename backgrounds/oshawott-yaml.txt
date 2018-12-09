@@ -1,7 +1,0 @@
-# 501
-oshawott:
-    primary: '#D5DCE6'
-    secondary: '#E6DFD5'
-    tertiary: '#E6D5DC '
-    unibody: '#D5DCE6'
-

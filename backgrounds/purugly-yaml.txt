@@ -1,7 +1,0 @@
-# 432
-purugly:
-    primary: '#646873'
-    secondary: '#736F64'
-    tertiary: '#736468 '
-    unibody: '#646873'
-

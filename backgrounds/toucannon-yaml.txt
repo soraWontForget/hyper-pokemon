@@ -1,7 +1,0 @@
-# 733
-toucannon:
-    primary: '#554F4D'
-    secondary: '#4D5355'
-    tertiary: '#4D554F '
-    unibody: '#554F4D'
-

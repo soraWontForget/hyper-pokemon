@@ -1,7 +1,0 @@
-# 792
-lunala:
-    primary: '#5F3287'
-    secondary: '#5A8732'
-    tertiary: '#875F32 '
-    unibody: '#5F3287'
-

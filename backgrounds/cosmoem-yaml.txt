@@ -1,7 +1,0 @@
-# 790
-cosmoem:
-    primary: '#1D2088'
-    secondary: '#88851D'
-    tertiary: '#881D20 '
-    unibody: '#1D2088'
-

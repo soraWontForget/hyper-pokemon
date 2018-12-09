@@ -1,7 +1,0 @@
-# 
-staryu:
-    primary: '#B1853C'
-    secondary: '#3C68B1'
-    tertiary: '#3CB185 '
-    unibody: '#B1853C'
-

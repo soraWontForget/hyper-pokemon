@@ -1,7 +1,0 @@
-# 354
-banette:
-    primary: '#949899'
-    secondary: '#999594'
-    tertiary: '#999498 '
-    unibody: '#949899'
-

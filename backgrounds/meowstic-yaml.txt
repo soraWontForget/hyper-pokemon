@@ -1,7 +1,0 @@
-# 678
-meowstic:
-    primary: '#365895'
-    secondary: '#957336'
-    tertiary: '#953658 '
-    unibody: '#365895'
-

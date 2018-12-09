@@ -1,5 +1,0 @@
-zygarde_complete_top:
-    primary: #393431
-    secondary: # Image
-    tertiary: # Image
-    unibody: #393431

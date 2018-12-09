@@ -1,7 +1,0 @@
-# 214
-heracross:
-    primary: '#255174'
-    secondary: '#744825'
-    tertiary: '#742551 '
-    unibody: '#255174'
-

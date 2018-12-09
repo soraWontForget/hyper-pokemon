@@ -1,7 +1,0 @@
-# 566
-archen:
-    primary: '#F8E96A'
-    secondary: '#6A79F8'
-    tertiary: '#6AF8E9 '
-    unibody: '#F8E96A'
-

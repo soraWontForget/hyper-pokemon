@@ -1,5 +1,0 @@
-alolan_exeggutor_bottom:
-    primary: #A07F5B
-    secondary: # Image
-    tertiary: # Image
-    unibody: #A07F5B

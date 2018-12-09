@@ -1,7 +1,0 @@
-# 190
-aipom:
-    primary: '#AA77B0'
-    secondary: '#7DB077'
-    tertiary: '#B0AA77 '
-    unibody: '#AA77B0'
-

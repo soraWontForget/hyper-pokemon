@@ -1,7 +1,0 @@
-# 542
-leavanny:
-    primary: '#A3CD39'
-    secondary: '#6339CD'
-    tertiary: '#39A3CD '
-    unibody: '#A3CD39'
-

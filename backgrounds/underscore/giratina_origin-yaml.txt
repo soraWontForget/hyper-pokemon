@@ -1,5 +1,0 @@
-giratina_origin:
-    primary: #3A2C3D
-    secondary: # Image
-    tertiary: # Image
-    unibody: #3A2C3D

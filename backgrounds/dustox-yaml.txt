@@ -1,7 +1,0 @@
-# 269
-dustox:
-    primary: '#AA8FBC'
-    secondary: '#A1BC8F'
-    tertiary: '#BCAA8F '
-    unibody: '#AA8FBC'
-

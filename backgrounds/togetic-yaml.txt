@@ -1,7 +1,0 @@
-# 176
-togetic:
-    primary: '#E8EDF1'
-    secondary: '#F1ECE8'
-    tertiary: '#F1E8ED '
-    unibody: '#E8EDF1'
-

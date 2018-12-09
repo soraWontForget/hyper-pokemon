@@ -1,7 +1,0 @@
-# 
-dratini:
-    primary: '#97BDE4'
-    secondary: '#E4BE97'
-    tertiary: '#E497BD '
-    unibody: '#97BDE4'
-

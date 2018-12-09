@@ -1,7 +1,0 @@
-# 297
-hariyama:
-    primary: '#E8E3DD'
-    secondary: '#DDE2E8'
-    tertiary: '#DDE8E3 '
-    unibody: '#E8E3DD'
-

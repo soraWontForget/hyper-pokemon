@@ -1,7 +1,0 @@
-# 
-hitmonchan:
-    primary: '#C2B5A5'
-    secondary: '#A5B2C2'
-    tertiary: '#A5C2B5 '
-    unibody: '#C2B5A5'
-

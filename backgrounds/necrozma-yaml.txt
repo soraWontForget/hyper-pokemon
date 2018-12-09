@@ -1,7 +1,0 @@
-# 800
-necrozma:
-    primary: '#1A1C1D'
-    secondary: '#1D1B1A'
-    tertiary: '#1D1A1C '
-    unibody: '#1A1C1D'
-

@@ -1,7 +1,0 @@
-# 
-dragonite:
-    primary: '#F2B36D'
-    secondary: '#6DACF2'
-    tertiary: '#6DF2B3 '
-    unibody: '#F2B36D'
-

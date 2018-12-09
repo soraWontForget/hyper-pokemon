@@ -1,7 +1,0 @@
-# 577
-solosis:
-    primary: '#EDF2BC'
-    secondary: '#C1BCF2'
-    tertiary: '#BCEDF2 '
-    unibody: '#EDF2BC'
-

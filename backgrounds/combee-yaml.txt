@@ -1,7 +1,0 @@
-# 415
-combee:
-    primary: '#F5C533'
-    secondary: '#3363F5'
-    tertiary: '#33F5C5 '
-    unibody: '#F5C533'
-

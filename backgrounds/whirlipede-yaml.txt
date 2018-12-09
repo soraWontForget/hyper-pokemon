@@ -1,7 +1,0 @@
-# 544
-whirlipede:
-    primary: '#A09BB1'
-    secondary: '#ACB19B'
-    tertiary: '#B1A09B '
-    unibody: '#A09BB1'
-

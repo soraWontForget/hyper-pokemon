@@ -1,7 +1,0 @@
-# 539
-sawk:
-    primary: '#4583C0'
-    secondary: '#C08245'
-    tertiary: '#C04583 '
-    unibody: '#4583C0'
-

@@ -1,7 +1,0 @@
-# 378
-regice:
-    primary: '#88C5E2'
-    secondary: '#E2A588'
-    tertiary: '#E288C5 '
-    unibody: '#88C5E2'
-

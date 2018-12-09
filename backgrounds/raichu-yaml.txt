@@ -1,7 +1,0 @@
-# 
-raichu:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

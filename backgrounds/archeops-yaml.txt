@@ -1,7 +1,0 @@
-# 567
-archeops:
-    primary: '#F0C880'
-    secondary: '#80A8F0'
-    tertiary: '#80F0C8 '
-    unibody: '#F0C880'
-

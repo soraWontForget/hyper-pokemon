@@ -1,5 +1,0 @@
-sawsbuck_winter:
-    primary: #573C21
-    secondary: # Image
-    tertiary: # Image
-    unibody: #573C21

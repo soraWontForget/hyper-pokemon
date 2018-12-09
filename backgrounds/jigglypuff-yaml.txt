@@ -1,7 +1,0 @@
-# 
-jigglypuff:
-    primary: '#FAC9D8'
-    secondary: '#C9FAEB'
-    tertiary: '#D8FAC9 '
-    unibody: '#FAC9D8'
-

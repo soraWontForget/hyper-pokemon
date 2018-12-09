@@ -1,7 +1,0 @@
-# 635
-hydreigon:
-    primary: '#222423'
-    secondary: '#242223'
-    tertiary: '#232224 '
-    unibody: '#222423'
-

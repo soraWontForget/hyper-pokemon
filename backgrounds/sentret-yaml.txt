@@ -1,7 +1,0 @@
-# 161
-sentret:
-    primary: '#B4725B'
-    secondary: '#5B9DB4'
-    tertiary: '#5BB472 '
-    unibody: '#B4725B'
-

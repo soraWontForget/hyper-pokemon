@@ -1,7 +1,0 @@
-# 654
-braixen:
-    primary: '#F4E371'
-    secondary: '#7182F4'
-    tertiary: '#71F4E3 '
-    unibody: '#F4E371'
-

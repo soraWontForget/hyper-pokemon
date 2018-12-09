@@ -1,7 +1,0 @@
-# 164
-noctowl:
-    primary: '#967059'
-    secondary: '#597F96'
-    tertiary: '#599670 '
-    unibody: '#967059'
-

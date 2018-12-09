@@ -1,7 +1,0 @@
-# 598
-ferrothorn:
-    primary: '#4A9665'
-    secondary: '#964A7B'
-    tertiary: '#654A96 '
-    unibody: '#4A9665'
-

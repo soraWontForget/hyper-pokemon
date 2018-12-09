@@ -1,7 +1,0 @@
-# 472
-gliscor:
-    primary: '#9CA7C7'
-    secondary: '#C7BC9C'
-    tertiary: '#C79CA7 '
-    unibody: '#9CA7C7'
-

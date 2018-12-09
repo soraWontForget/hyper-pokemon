@@ -1,7 +1,0 @@
-# 436
-bronzor:
-    primary: '#54A0AE'
-    secondary: '#AE6254'
-    tertiary: '#AE54A0 '
-    unibody: '#54A0AE'
-

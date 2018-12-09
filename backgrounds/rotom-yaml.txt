@@ -1,7 +1,0 @@
-# 479
-rotom:
-    primary: '#E37536'
-    secondary: '#36A4E3'
-    tertiary: '#36E375 '
-    unibody: '#E37536'
-

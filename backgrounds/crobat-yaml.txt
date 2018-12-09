@@ -1,7 +1,0 @@
-# 169
-crobat:
-    primary: '#8D71A4'
-    secondary: '#88A471'
-    tertiary: '#A48D71 '
-    unibody: '#8D71A4'
-

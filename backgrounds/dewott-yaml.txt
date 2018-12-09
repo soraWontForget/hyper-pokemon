@@ -1,7 +1,0 @@
-# 502
-dewott:
-    primary: '#85A9C1'
-    secondary: '#C19D85'
-    tertiary: '#C185A9 '
-    unibody: '#85A9C1'
-

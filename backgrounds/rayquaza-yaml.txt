@@ -1,7 +1,0 @@
-# 384
-rayquaza:
-    primary: '#558464'
-    secondary: '#845575'
-    tertiary: '#645584 '
-    unibody: '#558464'
-

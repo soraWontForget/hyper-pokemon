@@ -1,7 +1,0 @@
-# 260
-swampert:
-    primary: '#65A5D1'
-    secondary: '#D19165'
-    tertiary: '#D165A5 '
-    unibody: '#65A5D1'
-

@@ -1,7 +1,0 @@
-# 457
-lumineon:
-    primary: '#394750'
-    secondary: '#504239'
-    tertiary: '#503947 '
-    unibody: '#394750'
-

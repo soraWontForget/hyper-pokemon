@@ -1,7 +1,0 @@
-# 280
-ralts:
-    primary: '#F6F7FB'
-    secondary: '#FBFAF6'
-    tertiary: '#FBF6F7 '
-    unibody: '#F6F7FB'
-

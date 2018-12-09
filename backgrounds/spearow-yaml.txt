@@ -1,7 +1,0 @@
-# 
-spearow:
-    primary: '#9B6C55'
-    secondary: '#55849B'
-    tertiary: '#559B6C '
-    unibody: '#9B6C55'
-

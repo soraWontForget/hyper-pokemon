@@ -1075,4406 +1075,5139 @@ pokemon:
 
   # 460
   abomasnow:
-    primary: '#FDFDFD'
-    secondary: '#FDFDFD'
-    tertiary: '#FDFDFD'
-    unibody: '#FDFDFD'
+      primary: '#CEACCD'
+      secondary: '#ACCEAD'
+      tertiary: '#CDCEAC'
+      unibody: '#FDFDFD'
 
   # 359
   absol:
-    primary: '#D6DCEA'
-    secondary: '#EAE4D6'
-    tertiary: '#EAD6DC'
-    unibody: '#D6DCEA'
+      primary: '#3A5A83'
+      secondary: '#83633A'
+      tertiary: '#833A5A'
+      unibody: '#D6DCEA'
 
   # 617
   accelgor:
-    primary: '#78849C'
-    secondary: '#9C9078'
-    tertiary: '#9C7884'
-    unibody: '#78849C'
+      primary: '#252429'
+      secondary: '#282924'
+      tertiary: '#292524'
+      unibody: '#78849C'
 
   # 681
   aegislash:
-    primary: '#CEC068'
-    secondary: '#6876CE'
-    tertiary: '#68CEC0'
-    unibody: '#CEC068'
+      primary: '#887845'
+      secondary: '#455588'
+      tertiary: '#458878'
+      unibody: '#CEC068'
 
   # 306
   aggron:
-    primary: '#838488'
-    secondary: '#888783'
-    tertiary: '#888384'
-    unibody: '#838488'
+      primary: '#696969'
+      secondary: '#696969'
+      tertiary: '#696969'
+      unibody: '#838488'
 
   # 190
   aipom:
-    primary: '#AA77B0'
-    secondary: '#7DB077'
-    tertiary: '#B0AA77'
-    unibody: '#AA77B0'
+      primary: '#F4EAAC'
+      secondary: '#ACB6F4'
+      tertiary: '#ACF4EA'
+      unibody: '#AA77B0'
 
   # 594
   alomomola:
-    primary: '#F7D5D3'
-    secondary: '#D3F5F7'
-    tertiary: '#D3F7D5'
-    unibody: '#F7D5D3'
+      primary: '#F09AB7'
+      secondary: '#9AF0D3'
+      tertiary: '#B7F09A'
+      unibody: '#F7D5D3'
 
   # 334
   altaria:
-    primary: '#E4EBF3'
-    secondary: '#F3ECE4'
-    tertiary: '#F3E4EB'
-    unibody: '#E4EBF3'
+      primary: '#A7D7F1'
+      secondary: '#F1C1A7'
+      tertiary: '#F1A7D7'
+      unibody: '#E4EBF3'
 
   # 698
   amaura:
-    primary: '#98CFEE'
-    secondary: '#EEB798'
-    tertiary: '#EE98CF'
-    unibody: '#98CFEE'
+      primary: '#F8D8AF'
+      secondary: '#AFCFF8'
+      tertiary: '#AFF8D8'
+      unibody: '#98CFEE'
 
   # 424
   ambipom:
-    primary: '#977BB5'
-    secondary: '#99B57B'
-    tertiary: '#B5977B'
-    unibody: '#977BB5'
+      primary: '#FBEBAF'
+      secondary: '#AFBFFB'
+      tertiary: '#AFFBEB'
+      unibody: '#977BB5'
 
   # 591
   amoonguss:
-    primary: '#C9D2BF'
-    secondary: '#C8BFD2'
-    tertiary: '#BFC9D2'
-    unibody: '#C9D2BF'
+      primary: '#363636'
+      secondary: '#363636'
+      tertiary: '#363636'
+      unibody: '#C9D2BF'
 
   # 181
   ampharos:
-    primary: '#EEC873'
-    secondary: '#7399EE'
-    tertiary: '#73EEC8'
-    unibody: '#EEC873'
+      primary: '#2A2324'
+      secondary: '#232A29'
+      tertiary: '#242A23'
+      unibody: '#EEC873'
 
   # 347
   anorith:
-    primary: '#7D9678'
-    secondary: '#917896'
-    tertiary: '#787D96'
-    unibody: '#7D9678'
+      primary: '#505554'
+      secondary: '#555051'
+      tertiary: '#545055'
+      unibody: '#7D9678'
 
   # 752
   araquanid:
-    primary: '#505B6B'
-    secondary: '#6B6050'
-    tertiary: '#6B505B'
-    unibody: '#505B6B'
+      primary: '#CCE2EC'
+      secondary: '#ECD6CC'
+      tertiary: '#ECCCE2'
+      unibody: '#505B6BFF'
 
   # 493
   arceus:
-    primary: '#EBEBEB'
-    secondary: '#EBEBEB'
-    tertiary: '#EBEBEB'
-    unibody: '#EBEBEB'
+      primary: '#DEBD25'
+      secondary: '#2546DE'
+      tertiary: '#25DEBD'
+      unibody: '#EBEBEB'
 
   # 566
   archen:
-    primary: '#F8E96A'
-    secondary: '#6A79F8'
-    tertiary: '#6AF8E9'
-    unibody: '#F8E96A'
+      primary: '#EF6848'
+      secondary: '#48CFEF'
+      tertiary: '#48EF68'
+      unibody: '#F8E96A'
 
   # 567
   archeops:
-    primary: '#F0C880'
-    secondary: '#80A8F0'
-    tertiary: '#80F0C8'
-    unibody: '#F0C880'
+      primary: '#2096D4'
+      secondary: '#D45E20'
+      tertiary: '#D42096'
+      unibody: '#F0C880'
 
   # 168
   ariados:
-    primary: '#BA644D'
-    secondary: '#4DA3BA'
-    tertiary: '#4DBA64'
-    unibody: '#BA644D'
+      primary: '#FDD575'
+      secondary: '#759DFD'
+      tertiary: '#75FDD5'
+      unibody: '#BA644D'
 
   # 348
   armaldo:
-    primary: '#5E89B6'
-    secondary: '#B68B5E'
-    tertiary: '#B65E89'
-    unibody: '#5E89B6'
+      primary: '#434748'
+      secondary: '#484443'
+      tertiary: '#484347'
+      unibody: '#5E89B6'
 
   # 683
   aromatisse:
-    primary: '#B16BA9'
-    secondary: '#6BB173'
-    tertiary: '#A9B16B'
-    unibody: '#B16BA9'
+      primary: '#F496AA'
+      secondary: '#96F4E0'
+      tertiary: '#AAF496'
+      unibody: '#B16BA9'
 
   # 304
   aron:
-    primary: '#CACED1'
-    secondary: '#D1CDCA'
-    tertiary: '#D1CACE'
-    unibody: '#CACED1'
+      primary: '#050706'
+      secondary: '#070506'
+      tertiary: '#060507'
+      unibody: '#CACED1'
 
   # 531
   audino:
-    primary: '#FBF6B6'
-    secondary: '#B6BBFB'
-    tertiary: '#B6FBF6'
-    unibody: '#FBF6B6'
+      primary: '#F7ABAF'
+      secondary: '#ABF7F3'
+      tertiary: '#AFF7AB'
+      unibody: '#FBF6B6'
 
   # 699
   aurorus:
-    primary: '#7D9BD1'
-    secondary: '#D1B37D'
-    tertiary: '#D17D9B'
-    unibody: '#7D9BD1'
+      primary: '#F6F4A7'
+      secondary: '#A7A9F6'
+      tertiary: '#A7F6F4'
+      unibody: '#7D9BD1'
 
   # 713
   avalugg:
-    primary: '#D2EEFC'
-    secondary: '#FCE0D2'
-    tertiary: '#FCD2EE'
-    unibody: '#D2EEFC'
+      primary: '#B7CDDA'
+      secondary: '#DAC4B7'
+      tertiary: '#DAB7CD'
+      unibody: '#D2EEFC'
 
   # 610
   axew:
-    primary: '#8CA182'
-    secondary: '#9782A1'
-    tertiary: '#828CA1'
-    unibody: '#8CA182'
+      primary: '#4A542F'
+      secondary: '#392F54'
+      tertiary: '#2F4A54'
+      unibody: '#8CA182'
 
   # 482
   azelf:
-    primary: '#B5CDE5'
-    secondary: '#E5CDB5'
-    tertiary: '#E5B5CD'
-    unibody: '#B5CDE5'
+      primary: '#599CAD'
+      secondary: '#AD6A59'
+      tertiary: '#AD599C'
+      unibody: '#B5CDE5'
 
   # 184
   azumarill:
-    primary: '#3897CB'
-    secondary: '#CB6C38'
-    tertiary: '#CB3897'
-    unibody: '#3897CB'
+      primary: '#FDFBF3'
+      secondary: '#F3F5FD'
+      tertiary: '#F3FDFB'
+      unibody: '#3897CB'
 
   # 298
   azurill:
-    primary: '#2B8FCD'
-    secondary: '#CD692B'
-    tertiary: '#CD2B8F'
-    unibody: '#2B8FCD'
+      primary: '#167FC3'
+      secondary: '#C35A16'
+      tertiary: '#C3167F'
+      unibody: '#2B8FCD'
 
   # 371
   bagon:
-    primary: '#7EB4CC'
-    secondary: '#CC967E'
-    tertiary: '#CC7EB4'
-    unibody: '#7EB4CC'
+      primary: '#C9CDCE'
+      secondary: '#CECAC9'
+      tertiary: '#CEC9CD'
+      unibody: '#7EB4CC'
 
   # 343
   baltoy:
-    primary: '#D0C399'
-    secondary: '#99A6D0'
-    tertiary: '#99D0C3'
-    unibody: '#D0C399'
+      primary: '#B8A988'
+      secondary: '#8897B8'
+      tertiary: '#88B8A9'
+      unibody: '#D0C399'
 
   # 354
   banette:
-    primary: '#949899'
-    secondary: '#999594'
-    tertiary: '#999498'
-    unibody: '#949899'
+      primary: '#717171'
+      secondary: '#717171'
+      tertiary: '#717171'
+      unibody: '#949899'
 
   # 689
   barbaracle:
-    primary: '#C6D7E8'
-    secondary: '#E8D7C6'
-    tertiary: '#E8C6D7'
-    unibody: '#C6D7E8'
+      primary: '#3D3F1A'
+      secondary: '#1C1A3F'
+      tertiary: '#1A3D3F'
+      unibody: '#C6D7E8'
 
   # 339
   barboach:
-    primary: '#C7CDCD'
-    secondary: '#CDC7C7'
-    tertiary: '#CDC7CD'
-    unibody: '#C7CDCD'
+      primary: '#7BC4E7'
+      secondary: '#E79E7B'
+      tertiary: '#E77BC4'
+      unibody: '#C7CDCD'
 
   # 550
   basculin:
-    primary: '#7AB342'
+      primary: '#F7FAF2'
+      secondary: '#F5F2FA'
+      tertiary: '#F2F7FA'
+      unibody: '#7AB342'
+
+  # 411
+  bastiodon:
+      primary: '#696768'
+      secondary: '#676968'
+      tertiary: '#686967'
+      unibody: '#FBD688'
+
+  # 153
+  bayleef:
+      primary: '#9DC161'
+      secondary: '#8561C1'
+      tertiary: '#619DC1'
+      unibody: '#FBEB9D'
+
+  # 614
+  beartic:
+      primary: '#9BD8EA'
+      secondary: '#EAAD9B'
+      tertiary: '#EA9BD8'
+      unibody: '#E9F4FA'
+
+  # 267
+  beautifly:
+      primary: '#D5B363'
+      secondary: '#6385D5'
+      tertiary: '#63D5B3'
+      unibody: '#66646E'
+
+  # 606
+  beheeyem:
+      primary: '#3C3A3A'
+      secondary: '#3A3C3C'
+      tertiary: '#3A3C3A'
+      unibody: '#CEA593'
+
+  # 374
+  beldum:
+      primary: '#16736B'
+      secondary: '#73161E'
+      tertiary: '#6B1673'
+      unibody: '#52A5AD'
+
+  # 182
+  bellossom:
+      primary: '#64A271'
+      secondary: '#A26495'
+      tertiary: '#7164A2'
+      unibody: '#BAD69C'
+
+  # 712
+  bergmite:
+      primary: '#B7CDDA'
+      secondary: '#DAC4B7'
+      tertiary: '#DAB7CD'
+      unibody: '#FDFEFF'
+
+  # 760
+  bewear:
+      primary: '#EDA5B3'
+      secondary: '#A5EDDF'
+      tertiary: '#B3EDA5'
+      unibody: '#403C39'
+
+  # 400
+  bibarel:
+      primary: '#F7EAA6'
+      secondary: '#A6B3F7'
+      tertiary: '#A6F7EA'
+      unibody: '#BE8D48'
+
+  # 399
+  bidoof:
+      primary: '#453832'
+      secondary: '#323F45'
+      tertiary: '#324538'
+      unibody: '#A17035'
+
+  # 688
+  binacle:
+      primary: '#8D6D46'
+      secondary: '#46668D'
+      tertiary: '#468D6D'
+      unibody: '#C3C9D8'
+
+  # 625
+  bisharp:
+      primary: '#FEFEFE'
+      secondary: '#FEFEFE'
+      tertiary: '#FEFEFE'
+      unibody: '#9D484B'
+
+  # 257
+  blaziken:
+      primary: '#B34433'
+      secondary: '#33A2B3'
+      tertiary: '#33B344'
+      unibody: '#ECDDBE'
+
+  # 242
+  blissey:
+      primary: '#F7ECF4'
+      secondary: '#ECF7EF'
+      tertiary: '#F4F7EC'
+      unibody: '#E9A5BC'
+
+  # 522
+  blitzle:
+      primary: '#EEEBE6'
+      secondary: '#E6E9EE'
+      tertiary: '#E6EEEB'
+      unibody: '#4F4B48'
+
+  # 525
+  boldore:
+      primary: '#E36B48'
+      secondary: '#48C0E3'
+      tertiary: '#48E36B'
+      unibody: '#2F3451'
+
+  # 438
+  bonsly:
+      primary: '#1C9546'
+      secondary: '#951C6B'
+      tertiary: '#461C95'
+      unibody: '#A2814B'
+
+  # 626
+  bouffalant:
+      primary: '#59482C'
+      secondary: '#2C3D59'
+      tertiary: '#2C5948'
+      unibody: '#8F6E29'
+
+  # 761
+  bounsweet:
+      primary: '#CC5C87'
+      secondary: '#5CCCA1'
+      tertiary: '#87CC5C'
+      unibody: '#768D64FF'
+
+  # 654
+  braixen:
+      primary: '#F9FDFD'
+      secondary: '#FDF9F9'
+      tertiary: '#FDF9FD'
+      unibody: '#F4E371'
+
+  # 628
+  braviary:
+      primary: '#D9DCE5'
+      secondary: '#E5E2D9'
+      tertiary: '#E5D9DC'
+      unibody: '#562A2B'
+
+  # 286
+  breloom:
+      primary: '#729F64'
+      secondary: '#91649F'
+      tertiary: '#64729F'
+      unibody: '#EADEB9'
+
+  # 437
+  bronzong:
+      primary: '#9A8677'
+      secondary: '#778B9A'
+      tertiary: '#779A86'
+      unibody: '#7BACA7'
+
+  # 436
+  bronzor:
+      primary: '#396B82'
+      secondary: '#825039'
+      tertiary: '#82396B'
+      unibody: '#54A0AE'
+
+  # 779
+  bruxish:
+      primary: '#D46EA5'
+      secondary: '#6ED49D'
+      tertiary: '#A5D46E'
+      unibody: '#8ECEDCFF'
+
+  # 406
+  budew:
+      primary: '#DEE676'
+      secondary: '#7E76E6'
+      tertiary: '#76DEE6'
+      unibody: '#87C766'
+
+  # 418
+  buizel:
+      primary: '#F7CB52'
+      secondary: '#527EF7'
+      tertiary: '#52F7CB'
+      unibody: '#E58352'
+
+  # 427
+  buneary:
+      primary: '#F8E3AC'
+      secondary: '#ACC1F8'
+      tertiary: '#ACF8E3'
+      unibody: '#B27A63'
+
+  # 659
+  bunnelby:
+      primary: '#68421C'
+      secondary: '#1C4268'
+      tertiary: '#1C6842'
+      unibody: '#B3B3B3'
+
+  # 412
+  burmy:
+      primary: '#6F726B'
+      secondary: '#6E6B72'
+      tertiary: '#6B6F72'
+      unibody: '#62A146'
+
+  # 794
+  buzzwole:
+      primary: '#613733'
+      secondary: '#335D61'
+      tertiary: '#336137'
+      unibody: '#E83F42FF'
+
+  # 331
+  cacnea:
+      primary: '#333435'
+      secondary: '#353433'
+      tertiary: '#353334'
+      unibody: '#94B469'
+
+  # 332
+  cacturne:
+      primary: '#496C54'
+      secondary: '#6C4961'
+      tertiary: '#54496C'
+      unibody: '#A5C097'
+
+  # 323
+  camerupt:
+      primary: '#AEA599'
+      secondary: '#99A2AE'
+      tertiary: '#99AEA5'
+      unibody: '#D9806E'
+
+  # 703
+  carbink:
+      primary: '#E8F5FD'
+      secondary: '#FDF0E8'
+      tertiary: '#FDE8F5'
+      unibody: '#B8B8C4'
+
+  # 455
+  carnivine:
+      primary: '#5F9340'
+      secondary: '#744093'
+      tertiary: '#405F93'
+      unibody: '#B1CE72'
+
+  # 565
+  carracosta:
+      primary: '#5D6A8A'
+      secondary: '#8A7D5D'
+      tertiary: '#8A5D6A'
+      unibody: '#6DA5D6'
+
+  # 318
+  carvanha:
+      primary: '#FCDE8D'
+      secondary: '#8DABFC'
+      tertiary: '#8DFCDE'
+      unibody: '#014F7F'
+
+  # 268
+  cascoon:
+      primary: '#A291BB'
+      secondary: '#AABB91'
+      tertiary: '#BBA291'
+      unibody: '#DCD6E4'
+
+  # 351
+  castform:
+      primary: '#BEC1C8'
+      secondary: '#C8C5BE'
+      tertiary: '#C8BEC1'
+      unibody: '#CFD3DC'
+
+  # 251
+  celebi:
+      primary: '#ABBD54'
+      secondary: '#6654BD'
+      tertiary: '#54ABBD'
+      unibody: '#F9F3BF'
+
+  # 797
+  celesteela:
+      primary: '#6AA89F'
+      secondary: '#A86A73'
+      tertiary: '#9F6AA8'
+      unibody: '#8FA9A4FF'
+
+  # 609
+  chandelure:
+      primary: '#7F83C2'
+      secondary: '#C2BE7F'
+      tertiary: '#C27F83'
+      unibody: '#67666C'
+
+  # 737
+  charjabug:
+      primary: '#BDC2BD'
+      secondary: '#C2BDC2'
+      tertiary: '#BDBDC2'
+      unibody: '#7D9C70FF'
+
+  # 441
+  chatot:
+      primary: '#393738'
+      secondary: '#373938'
+      tertiary: '#383937'
+      unibody: '#3E8CBC'
+
+  # 421
+  cherrim:
+      primary: '#DF9896'
+      secondary: '#96DDDF'
+      tertiary: '#96DF98'
+      unibody: '#F6CA35'
+
+  # 420
+  cherubi:
+      primary: '#51B35E'
+      secondary: '#B351A6'
+      tertiary: '#5E51B3'
+      unibody: '#E8697E'
+
+  # 652
+  chesnaught:
+      primary: '#90B171'
+      secondary: '#9271B1'
+      tertiary: '#7190B1'
+      unibody: '#DBE3B2'
+
+  # 650
+  chespin:
+      primary: '#F9B677'
+      secondary: '#77BAF9'
+      tertiary: '#77F9B6'
+      unibody: '#B2D45C'
+
+  # 152
+  chikorita:
+      primary: '#9EBB8F'
+      secondary: '#AC8FBB'
+      tertiary: '#8F9EBB'
+      unibody: '#DDE2B9'
+
+  # 390
+  chimchar:
+      primary: '#F6E1A2'
+      secondary: '#A2B7F6'
+      tertiary: '#A2F6E1'
+      unibody: '#E69947'
+
+  # 358
+  chimecho:
+      primary: '#D0667A'
+      secondary: '#66D0BC'
+      tertiary: '#7AD066'
+      unibody: '#BDDCF0'
+
+  # 170
+  chinchou:
+      primary: '#FCDE8E'
+      secondary: '#8EACFC'
+      tertiary: '#8EFCDE'
+      unibody: '#749BD2'
+
+  # 433
+  chingling:
+      primary: '#E1645E'
+      secondary: '#5EDBE1'
+      tertiary: '#5EE164'
+      unibody: '#EBD158'
+
+  # 573
+  cinccino:
+      primary: '#F7F8FC'
+      secondary: '#FCFBF7'
+      tertiary: '#FCF7F8'
+      unibody: '#BAB9B7'
+
+  # 366
+  clamperl:
+      primary: '#2061AA'
+      secondary: '#AA6920'
+      tertiary: '#AA2061'
+      unibody: '#6CABD4'
+
+  # 692
+  clauncher:
+      primary: '#5D5E5F'
+      secondary: '#5F5E5D'
+      tertiary: '#5F5D5E'
+      unibody: '#8DD3F5'
+
+  # 693
+  clawitzer:
+      primary: '#0C70B7'
+      secondary: '#B7530C'
+      tertiary: '#B70C70'
+      unibody: '#7DCBF1'
+
+  # 344
+  claydol:
+      primary: '#D66E6F'
+      secondary: '#6ED6D5'
+      tertiary: '#6FD66E'
+      unibody: '#5B514F'
+
+  # 173
+  cleffa:
+      primary: '#6E5843'
+      secondary: '#43596E'
+      tertiary: '#436E58'
+      unibody: '#FBD6CD'
+
+  # 638
+  cobalion:
+      primary: '#DEB683'
+      secondary: '#83ABDE'
+      tertiary: '#83DEB6'
+      unibody: '#3196A8'
+
+  # 563
+  cofagrigus:
+      primary: '#211F20'
+      secondary: '#1F2120'
+      tertiary: '#20211F'
+      unibody: '#F9BF5E'
+
+  # 415
+  combee:
+      primary: '#C3CFDD'
+      secondary: '#DDD1C3'
+      tertiary: '#DDC3CF'
+      unibody: '#F5C533'
+
+  # 256
+  combusken:
+      primary: '#DCC486'
+      secondary: '#869EDC'
+      tertiary: '#86DCC4'
+      unibody: '#CD7E53'
+
+  # 764
+  comfey:
+      primary: '#E05C52'
+      secondary: '#52D6E0'
+      tertiary: '#52E05C'
+      unibody: '#DBE496FF'
+
+  # 534
+  conkeldurr:
+      primary: '#D7C7C8'
+      secondary: '#C7D7D6'
+      tertiary: '#C8D7C7'
+      unibody: '#B48F75'
+
+  # 341
+  corphish:
+      primary: '#F57F5B'
+      secondary: '#5BD1F5'
+      tertiary: '#5BF57F'
+      unibody: '#E0D6CA'
+
+  # 222
+  corsola:
+      primary: '#CA7882'
+      secondary: '#78CAC0'
+      tertiary: '#82CA78'
+      unibody: '#F397A4'
+
+  # 790
+  cosmoem:
+      primary: '#FFF798'
+      secondary: '#98A0FF'
+      tertiary: '#98FFF7'
+      unibody: '#1D2088FF'
+
+  # 789
+  cosmog:
+      primary: '#1998D4'
+      secondary: '#D45519'
+      tertiary: '#D41998'
+      unibody: '#303A81FF'
+
+  # 546
+  cottonee:
+      primary: '#CCDBA0'
+      secondary: '#AFA0DB'
+      tertiary: '#A0CCDB'
+      unibody: '#FDFDFC'
+
+  # 740
+  crabominable:
+      primary: '#5D5679'
+      secondary: '#727956'
+      tertiary: '#795D56'
+      unibody: '#F5F9FCFF'
+
+  # 739
+  crabrawler:
+      primary: '#03B1D3'
+      secondary: '#D32503'
+      tertiary: '#D303B1'
+      unibody: '#8761A5FF'
+
+  # 346
+  cradily:
+      primary: '#D8B6AB'
+      secondary: '#ABCDD8'
+      tertiary: '#ABD8B6'
+      unibody: '#A5B473'
+
+  # 408
+  cranidos:
+      primary: '#689BC8'
+      secondary: '#C89568'
+      tertiary: '#C8689B'
+      unibody: '#71747D'
+
+  # 342
+  crawdaunt:
+      primary: '#BF5847'
+      secondary: '#47AEBF'
+      tertiary: '#47BF58'
+      unibody: '#DE5238'
+
+  # 488
+  cresselia:
+      primary: '#D29BAE'
+      secondary: '#9BD2BF'
+      tertiary: '#AED29B'
+      unibody: '#93B0CE'
+
+  # 453
+  croagunk:
+      primary: '#5A5954'
+      secondary: '#54555A'
+      tertiary: '#545A59'
+      unibody: '#7994C1'
+
+  # 169
+  crobat:
+      primary: '#62979F'
+      secondary: '#9F6A62'
+      tertiary: '#9F6297'
+      unibody: '#8D71A4'
+
+  # 159
+  croconaw:
+      primary: '#E7E4AF'
+      secondary: '#AFB2E7'
+      tertiary: '#AFE7E4'
+      unibody: '#77BBAE'
+
+  # 558
+  crustle:
+      primary: '#605148'
+      secondary: '#485760'
+      tertiary: '#486051'
+      unibody: '#A59179'
+
+  # 615
+  cryogonal:
+      primary: '#44629E'
+      secondary: '#9E8044'
+      tertiary: '#9E4462'
+      unibody: '#DBE1EF'
+
+  # 613
+  cubchoo:
+      primary: '#94D6F0'
+      secondary: '#F0AE94'
+      tertiary: '#F094D6'
+      unibody: '#FFFFFF'
+
+  # 742
+  cutiefly:
+      primary: '#302B27'
+      secondary: '#272C30'
+      tertiary: '#27302B'
+      unibody: '#FEFEF7FF'
+
+  # 155
+  cyndaquil:
+      primary: '#BB4F42'
+      secondary: '#42AEBB'
+      tertiary: '#42BB4F'
+      unibody: '#FCF2CF'
+
+  # 491
+  darkrai:
+      primary: '#FFF8F2'
+      secondary: '#F2F9FF'
+      tertiary: '#F2FFF8'
+      unibody: '#504742'
+
+  # 555
+  darmanitan:
+      primary: '#F1A96F'
+      secondary: '#6FB7F1'
+      tertiary: '#6FF1A9'
+      unibody: '#AC463A'
+
+  # 723
+  dartrix:
+      primary: '#97C267'
+      secondary: '#9267C2'
+      tertiary: '#6797C2'
+      unibody: '#FFFFFEFF'
+
+  # 554
+  darumaka:
+      primary: '#FDCE42'
+      secondary: '#4271FD'
+      tertiary: '#42FDCE'
+      unibody: '#C85A37'
+
+  # 702
+  dedenne:
+      primary: '#E6A225'
+      secondary: '#2569E6'
+      tertiary: '#25E6A2'
+      unibody: '#F2F1C1'
+
+  # 585
+  deerling:
+      primary: '#E79BA8'
+      secondary: '#9BE7DA'
+      tertiary: '#A8E79B'
+      unibody: '#F9F4D6'
+
+  # 633
+  deino:
+      primary: '#6B8AB8'
+      secondary: '#B8996B'
+      tertiary: '#B86B8A'
+      unibody: '#625B55'
+
+  # 301
+  delcatty:
+      primary: '#A982B7'
+      secondary: '#90B782'
+      tertiary: '#B7A982'
+      unibody: '#FAEAB7'
+
+  # 225
+  delibird:
+      primary: '#E9F0F1'
+      secondary: '#F1EAE9'
+      tertiary: '#F1E9F0'
+      unibody: '#D93D27'
+
+  # 655
+  delphox:
+      primary: '#AF4C3E'
+      secondary: '#3EA1AF'
+      tertiary: '#3EAF4C'
+      unibody: '#FBEE7C'
+
+  # 386
+  deoxys:
+      primary: '#C67F61'
+      secondary: '#61A8C6'
+      tertiary: '#61C67F'
+      unibody: '#E3946D'
+
+  # 502
+  dewott:
+      primary: '#556D9D'
+      secondary: '#9D8555'
+      tertiary: '#9D556D'
+      unibody: '#85A9C1'
+
+  # 751
+  dewpider:
+      primary: '#72899D'
+      secondary: '#9D8672'
+      tertiary: '#9D7289'
+      unibody: '#5E6974FF'
+
+  # 781
+  dhelmise:
+      primary: '#3A8790'
+      secondary: '#90433A'
+      tertiary: '#903A87'
+      unibody: '#8F6335FF'
+
+  # 483
+  dialga:
+      primary: '#CAD2DE'
+      secondary: '#DED6CA'
+      tertiary: '#DECAD2'
+      unibody: '#2B3B6C'
+
+  # 719
+  diancie:
+      primary: '#EAB4CE'
+      secondary: '#B4EAD0'
+      tertiary: '#CEEAB4'
+      unibody: '#EFC9DE'
+
+  # 660
+  diggersby:
+      primary: '#876646'
+      secondary: '#466787'
+      tertiary: '#468766'
+      unibody: '#B4B5B9'
+
+  # 232
+  donphan:
+      primary: '#657785'
+      secondary: '#857365'
+      tertiary: '#856577'
+      unibody: '#BDCADA'
+
+  # 680
+  doublade:
+      primary: '#A3947F'
+      secondary: '#7F8EA3'
+      tertiary: '#7FA394'
+      unibody: '#A49381'
+
+  # 691
+  dragalge:
+      primary: '#603D30'
+      secondary: '#305360'
+      tertiary: '#30603D'
+      unibody: '#8C5D43'
+
+  # 780
+  drampa:
+      primary: '#F0F2E7'
+      secondary: '#E9E7F2'
+      tertiary: '#E7F0F2'
+      unibody: '#BDCCAAFF'
+
+  # 452
+  drapion:
+      primary: '#ECF7FB'
+      secondary: '#FBF0EC'
+      tertiary: '#FBECF7'
+      unibody: '#AC73A8'
+
+  # 426
+  drifblim:
+      primary: '#FEFDFB'
+      secondary: '#FBFCFE'
+      tertiary: '#FBFEFD'
+      unibody: '#88739A'
+
+  # 425
+  drifloon:
+      primary: '#FAF6F3'
+      secondary: '#F3F7FA'
+      tertiary: '#F3FAF6'
+      unibody: '#A086B3'
+
+  # 529
+  drilbur:
+      primary: '#DCEBE8'
+      secondary: '#EBDCDF'
+      tertiary: '#E8DCEB'
+      unibody: '#404040'
+
+  # 621
+  druddigon:
+      primary: '#BB3B54'
+      secondary: '#3BBBA2'
+      tertiary: '#54BB3B'
+      unibody: '#14749C'
+
+  # 580
+  ducklett:
+      primary: '#B0DDDE'
+      secondary: '#DEB1B0'
+      tertiary: '#DEB0DD'
+      unibody: '#7FCBE5'
+
+  # 206
+  dunsparce:
+      primary: '#F4F1E7'
+      secondary: '#E7EAF4'
+      tertiary: '#E7F4F1'
+      unibody: '#F9E09E'
+
+  # 578
+  duosion:
+      primary: '#88C599'
+      secondary: '#C588B4'
+      tertiary: '#9988C5'
+      unibody: '#D9EAC8'
+
+  # 632
+  durant:
+      primary: '#AEAEAE'
+      secondary: '#AEAEAE'
+      tertiary: '#AEAEAE'
+      unibody: '#3A3B3F'
+
+  # 356
+  dusclops:
+      primary: '#B9BDC0'
+      secondary: '#C0BCB9'
+      tertiary: '#C0B9BD'
+      unibody: '#B4B9BC'
+
+  # 477
+  dusknoir:
+      primary: '#DAC23C'
+      secondary: '#3C54DA'
+      tertiary: '#3CDAC2'
+      unibody: '#AEB1A0'
+
+  # 355
+  duskull:
+      primary: '#DFD6AD'
+      secondary: '#ADB6DF'
+      tertiary: '#ADDFD6'
+      unibody: '#53534B'
+
+  # 269
+  dustox:
+      primary: '#768E38'
+      secondary: '#50388E'
+      tertiary: '#38768E'
+      unibody: '#AA8FBC'
+
+  # 557
+  dwebble:
+      primary: '#6F6462'
+      secondary: '#626D6F'
+      tertiary: '#626F64'
+      unibody: '#E89454'
+
+  # 603
+  eelektrik:
+      primary: '#E6E3AC'
+      secondary: '#ACAFE6'
+      tertiary: '#ACE6E3'
+      unibody: '#425F7D'
+
+  # 604
+  eelektross:
+      primary: '#F0EDB6'
+      secondary: '#B6B9F0'
+      tertiary: '#B6F0ED'
+      unibody: '#435E7C'
+
+  # 466
+  electivire:
+      primary: '#DDBD66'
+      secondary: '#6686DD'
+      tertiary: '#66DDBD'
+      unibody: '#F2D170'
+
+  # 309
+  electrike:
+      primary: '#F8D76A'
+      secondary: '#6A8BF8'
+      tertiary: '#6AF8D7'
+      unibody: '#96BF85'
+
+  # 239
+  elekid:
+      primary: '#262931'
+      secondary: '#312E26'
+      tertiary: '#312629'
+      unibody: '#F8BA17'
+
+  # 605
+  elgyem:
+      primary: '#574D4C'
+      secondary: '#4C5657'
+      tertiary: '#4C574D'
+      unibody: '#A6D8D5'
+
+  # 500
+  emboar:
+      primary: '#313131'
+      secondary: '#313131'
+      tertiary: '#313131'
+      unibody: '#ED6123'
+
+  # 587
+  emolga:
+      primary: '#312624'
+      secondary: '#242F31'
+      tertiary: '#243126'
+      unibody: '#E9E4EA'
+
+  # 395
+  empoleon:
+      primary: '#F3BF76'
+      secondary: '#76AAF3'
+      tertiary: '#76F3BF'
+      unibody: '#303539'
+
+  # 244
+  entei:
+      primary: '#B42524'
+      secondary: '#24B3B4'
+      tertiary: '#24B425'
+      unibody: '#7B0100'
+
+  # 589
+  escavalier:
+      primary: '#D4C7C1'
+      secondary: '#C1CED4'
+      tertiary: '#C1D4C7'
+      unibody: '#353535'
+
+  # 196
+  espeon:
+      primary: '#6D4B7E'
+      secondary: '#5C7E4B'
+      tertiary: '#7E6D4B'
+      unibody: '#D4B7D5'
+
+  # 677
+  espurr:
+      primary: '#817E8C'
+      secondary: '#898C7E'
+      tertiary: '#8C817E'
+      unibody: '#A1A3BA'
+
+  # 530
+  excadrill:
+      primary: '#BFC5B7'
+      secondary: '#BDB7C5'
+      tertiary: '#B7BFC5'
+      unibody: '#433625'
+
+  # 295
+  exploud:
+      primary: '#8E4572'
+      secondary: '#458E61'
+      tertiary: '#728E45'
+      unibody: '#969ECC'
+
+  # 349
+  feebas:
+      primary: '#6C97B3'
+      secondary: '#B3886C'
+      tertiary: '#B36C97'
+      unibody: '#D2C398'
+
+  # 653
+  fennekin:
+      primary: '#E64D2E'
+      secondary: '#2EC7E6'
+      tertiary: '#2EE64D'
+      unibody: '#F7F387'
+
+  # 160
+  feraligatr:
+      primary: '#EC2046'
+      secondary: '#20ECC6'
+      tertiary: '#46EC20'
+      unibody: '#5FBDD6'
+
+  # 597
+  ferroseed:
+      primary: '#C7C7C7'
+      secondary: '#C7C7C7'
+      tertiary: '#C7C7C7'
+      unibody: '#4BA26F'
+
+  # 598
+  ferrothorn:
+      primary: '#DCDCDC'
+      secondary: '#DCDCDC'
+      tertiary: '#DCDCDC'
+      unibody: '#4A9665'
+
+  # 456
+  finneon:
+      primary: '#ACDCDE'
+      secondary: '#DEAEAC'
+      tertiary: '#DEACDC'
+      unibody: '#39464E'
+
+  # 180
+  flaaffy:
+      primary: '#E0EEEE'
+      secondary: '#EEE0E0'
+      tertiary: '#EEE0EE'
+      unibody: '#F6B9C9'
+
+  # 662
+  fletchinder:
+      primary: '#3B3C37'
+      secondary: '#38373C'
+      tertiary: '#373B3C'
+      unibody: '#EB7547'
+
+  # 661
+  fletchling:
+      primary: '#2A2B23'
+      secondary: '#24232B'
+      tertiary: '#232A2B'
+      unibody: '#D2D3E8'
+
+  # 419
+  floatzel:
+      primary: '#F2E19B'
+      secondary: '#9BACF2'
+      tertiary: '#9BF2E1'
+      unibody: '#DA713A'
+
+  # 670
+  floette:
+      primary: '#D15659'
+      secondary: '#56D1CE'
+      tertiary: '#59D156'
+      unibody: '#19987B'
+
+  # 671
+  florges:
+      primary: '#CF91B1'
+      secondary: '#91CFAF'
+      tertiary: '#B1CF91'
+      unibody: '#EB545D'
+
+  # 330
+  flygon:
+      primary: '#D26572'
+      secondary: '#65D2C5'
+      tertiary: '#72D265'
+      unibody: '#B7D188'
+
+  # 753
+  fomantis:
+      primary: '#79BFA3'
+      secondary: '#BF7995'
+      tertiary: '#A379BF'
+      unibody: '#F4CED1FF'
+
+  # 590
+  foongus:
+      primary: '#FCF8EC'
+      secondary: '#ECF0FC'
+      tertiary: '#ECFCF8'
+      unibody: '#4F4039'
+
+  # 205
+  forretress:
+      primary: '#BB362E'
+      secondary: '#2EB3BB'
+      tertiary: '#2EBB36'
+      unibody: '#C2B2B3'
+
+  # 611
+  fraxure:
+      primary: '#67925D'
+      secondary: '#885D92'
+      tertiary: '#5D6792'
+      unibody: '#615F60'
+
+  # 592
+  frillish:
+      primary: '#D1EBF8'
+      secondary: '#F8DED1'
+      tertiary: '#F8D1EB'
+      unibody: '#8ED1EE'
+
+  # 656
+  froakie:
+      primary: '#66CDF0'
+      secondary: '#F08966'
+      tertiary: '#F066CD'
+      unibody: '#FDFDF1'
+
+  # 657
+  frogadier:
+      primary: '#09528C'
+      secondary: '#8C4309'
+      tertiary: '#8C0952'
+      unibody: '#54B8E9'
+
+  # 478
+  froslass:
+      primary: '#ACD9EE'
+      secondary: '#EEC1AC'
+      tertiary: '#EEACD9'
+      unibody: '#F9F8F3'
+
+  # 676
+  furfrou:
+      primary: '#9D9A96'
+      secondary: '#96999D'
+      tertiary: '#969D9A'
+      unibody: '#EFF3E4'
+
+  # 162
+  furret:
+      primary: '#6E3D2C'
+      secondary: '#2C5D6E'
+      tertiary: '#2C6E3D'
+      unibody: '#E6C39D'
+
+  # 444
+  gabite:
+      primary: '#4C4E74'
+      secondary: '#74724C'
+      tertiary: '#744C4E'
+      unibody: '#5D669D'
+
+  # 475
+  gallade:
+      primary: '#6CB1AC'
+      secondary: '#B16C71'
+      tertiary: '#AC6CB1'
+      unibody: '#276536'
+
+  # 596
+  galvantula:
+      primary: '#636E8C'
+      secondary: '#8C8163'
+      tertiary: '#8C636E'
+      unibody: '#FEED59'
+
+  # 569
+  garbodor:
+      primary: '#B2A38E'
+      secondary: '#8E9DB2'
+      tertiary: '#8EB2A3'
+      unibody: '#52755D'
+
+  # 445
+  garchomp:
+      primary: '#3A405A'
+      secondary: '#5A543A'
+      tertiary: '#5A3A40'
+      unibody: '#4B537A'
+
+  # 282
+  gardevoir:
+      primary: '#FEFFFE'
+      secondary: '#FFFEFF'
+      tertiary: '#FEFEFF'
+      unibody: '#7EAE7A'
+
+  # 423
+  gastrodon:
+      primary: '#38ADC1'
+      secondary: '#C14C38'
+      tertiary: '#C138AD'
+      unibody: '#377F3F'
+
+  # 649
+  genesect:
+      primary: '#D5C6CD'
+      secondary: '#C6D5CE'
+      tertiary: '#CDD5C6'
+      unibody: '#A06C9C'
+
+  # 443
+  gible:
+      primary: '#5B5A63'
+      secondary: '#62635A'
+      tertiary: '#635B5A'
+      unibody: '#5F8093'
+
+  # 526
+  gigalith:
+      primary: '#9F402C'
+      secondary: '#2C8B9F'
+      tertiary: '#2C9F40'
+      unibody: '#242537'
+
+  # 203
+  girafarig:
+      primary: '#37221A'
+      secondary: '#1A2F37'
+      tertiary: '#1A3722'
+      unibody: '#EDB321'
+
+  # 487
+  giratina:
+      primary: '#D4BA4B'
+      secondary: '#4B65D4'
+      tertiary: '#4BD4BA'
+      unibody: '#28292B'
+
+  # 471
+  glaceon:
+      primary: '#3A7C8C'
+      secondary: '#8C4A3A'
+      tertiary: '#8C3A7C'
+      unibody: '#B5DEDA'
+
+  # 362
+  glalie:
+      primary: '#E3EAF4'
+      secondary: '#F4EDE3'
+      tertiary: '#F4E3EA'
+      unibody: '#48494B'
+
+  # 431
+  glameow:
+      primary: '#F8F6F2'
+      secondary: '#F2F4F8'
+      tertiary: '#F2F8F6'
+      unibody: '#8C98A6'
+
+  # 207
+  gligar:
+      primary: '#B783A9'
+      secondary: '#83B791'
+      tertiary: '#A9B783'
+      unibody: '#D08EBC'
+
+  # 472
+  gliscor:
+      primary: '#DD5F5A'
+      secondary: '#5AD8DD'
+      tertiary: '#5ADD5F'
+      unibody: '#9CA7C7'
+
+  # 673
+  gogoat:
+      primary: '#1F6F37'
+      secondary: '#6F1F57'
+      tertiary: '#371F6F'
+      unibody: '#988A6F'
+
+  # 622
+  golett:
+      primary: '#2D4A5C'
+      secondary: '#5C3F2D'
+      tertiary: '#5C2D4A'
+      unibody: '#4C777D'
+
+  # 768
+  golisopod:
+      primary: '#AFADA9'
+      secondary: '#A9ABAF'
+      tertiary: '#A9AFAD'
+      unibody: '#D3DFD8FF'
+
+  # 623
+  golurk:
+      primary: '#3C6A79'
+      secondary: '#794B3C'
+      tertiary: '#793C6A'
+      unibody: '#73AFB0'
+
+  # 706
+  goodra:
+      primary: '#A49ACC'
+      secondary: '#C2CC9A'
+      tertiary: '#CCA49A'
+      unibody: '#E7D6E8'
+
+  # 704
+  goomy:
+      primary: '#A49ACC'
+      secondary: '#C2CC9A'
+      tertiary: '#CCA49A'
+      unibody: '#E7D6E8'
+
+  # 368
+  gorebyss:
+      primary: '#D199BD'
+      secondary: '#99D1AD'
+      tertiary: '#BDD199'
+      unibody: '#EEB0C9'
+
+  # 574
+  gothita:
+      primary: '#CCA8CE'
+      secondary: '#AACEA8'
+      tertiary: '#CECCA8'
+      unibody: '#303426'
+
+  # 576
+  gothitelle:
+      primary: '#F5F3F4'
+      secondary: '#F3F5F4'
+      tertiary: '#F4F5F3'
+      unibody: '#393738'
+
+  # 575
+  gothorita:
+      primary: '#EDF1F4'
+      secondary: '#F4F0ED'
+      tertiary: '#F4EDF1'
+      unibody: '#35363A'
+
+  # 711
+  gourgeist:
+      primary: '#E27B58'
+      secondary: '#58BFE2'
+      tertiary: '#58E27B'
+      unibody: '#61532E'
+
+  # 210
+  granbull:
+      primary: '#9A7A9E'
+      secondary: '#7E9E7A'
+      tertiary: '#9E9A7A'
+      unibody: '#B188A8'
+
+  # 658
+  greninja:
+      primary: '#E67A8F'
+      secondary: '#7AE6D1'
+      tertiary: '#8FE67A'
+      unibody: '#324496'
+
+  # 388
+  grotle:
+      primary: '#3A7947'
+      secondary: '#793A6C'
+      tertiary: '#473A79'
+      unibody: '#87AB65'
+
+  # 383
+  groudon:
+      primary: '#C02427'
+      secondary: '#24C0BD'
+      tertiary: '#27C024'
+      unibody: '#09090B'
+
+  # 253
+  grovyle:
+      primary: '#4F754E'
+      secondary: '#744E75'
+      tertiary: '#4E4F75'
+      unibody: '#97C98C'
+
+  # 736
+  grubbin:
+      primary: '#F6D37B'
+      secondary: '#7B9EF6'
+      tertiary: '#7BF6D3'
+      unibody: '#E0E7EEFF'
+
+  # 326
+  grumpig:
+      primary: '#4E5253'
+      secondary: '#534F4E'
+      tertiary: '#534E52'
+      unibody: '#B494C3'
+
+  # 316
+  gulpin:
+      primary: '#FED685'
+      secondary: '#85ADFE'
+      tertiary: '#85FED6'
+      unibody: '#99C39F'
+
+  # 735
+  gumshoos:
+      primary: '#DDCD74'
+      secondary: '#7484DD'
+      tertiary: '#74DDCD'
+      unibody: '#9A7E66FF'
+
+  # 533
+  gurdurr:
+      primary: '#A6535B'
+      secondary: '#53A69E'
+      tertiary: '#5BA653'
+      unibody: '#D0C8B5'
+
+  # 799
+  guzzlord:
+      primary: '#3F91AE'
+      secondary: '#AE5C3F'
+      tertiary: '#AE3F91'
+      unibody: '#464A52FF'
+
+  # 440
+  happiny:
+      primary: '#EFBBC3'
+      secondary: '#BBEFE7'
+      tertiary: '#C3EFBB'
+      unibody: '#F5CFD2'
+
+  # 297
+  hariyama:
+      primary: '#EA9674'
+      secondary: '#74C8EA'
+      tertiary: '#74EA96'
+      unibody: '#E8E3DD'
+
+  # 701
+  hawlucha:
+      primary: '#E61B45'
+      secondary: '#1BE6BC'
+      tertiary: '#45E61B'
+      unibody: '#FFFFFF'
+
+  # 612
+  haxorus:
+      primary: '#362B33'
+      secondary: '#2B362E'
+      tertiary: '#33362B'
+      unibody: '#A39733'
+
+  # 631
+  heatmor:
+      primary: '#C94A43'
+      secondary: '#43C2C9'
+      tertiary: '#43C94A'
+      unibody: '#A48C74'
+
+  # 485
+  heatran:
+      primary: '#BFBFB5'
+      secondary: '#B5B5BF'
+      tertiary: '#B5BFBF'
+      unibody: '#6F301E'
+
+  # 695
+  heliolisk:
+      primary: '#3F3E46'
+      secondary: '#45463E'
+      tertiary: '#463F3E'
+      unibody: '#FBE969'
+
+  # 694
+  helioptile:
+      primary: '#3A352E'
+      secondary: '#2E333A'
+      tertiary: '#2E3A35'
+      unibody: '#EFE262'
+
+  # 214
+  heracross:
+      primary: '#1B3E54'
+      secondary: '#54311B'
+      tertiary: '#541B3E'
+      unibody: '#255174'
+
+  # 507
+  herdier:
+      primary: '#4A4B6A'
+      secondary: '#6A694A'
+      tertiary: '#6A4A4B'
+      unibody: '#DF945A'
+
+  # 449
+  hippopotas:
+      primary: '#654723'
+      secondary: '#234165'
+      tertiary: '#236547'
+      unibody: '#D6C47C'
+
+  # 450
+  hippowdon:
+      primary: '#DED685'
+      secondary: '#858DDE'
+      tertiary: '#85DED6'
+      unibody: '#B09F45'
+
+  # 237
+  hitmontop:
+      primary: '#5488BB'
+      secondary: '#BB8754'
+      tertiary: '#BB5488'
+      unibody: '#C9A487'
+
+  # 430
+  honchkrow:
+      primary: '#233F50'
+      secondary: '#503423'
+      tertiary: '#50233F'
+      unibody: '#325169'
+
+  # 679
+  honedge:
+      primary: '#22A9E0'
+      secondary: '#E05922'
+      tertiary: '#E022A9'
+      unibody: '#4C576B'
+
+  # 720
+  hoopa:
+      primary: '#D6496E'
+      secondary: '#49D6B1'
+      tertiary: '#6ED649'
+      unibody: '#AFA4BFFF'
+
+  # 163
+  hoothoot:
+      primary: '#222222'
+      secondary: '#222222'
+      tertiary: '#222222'
+      unibody: '#A98E73'
+
+  # 187
+  hoppip:
+      primary: '#74A843'
+      secondary: '#7743A8'
+      tertiary: '#4374A8'
+      unibody: '#F497B2'
+
+  # 229
+  houndoom:
+      primary: '#EAE8EB'
+      secondary: '#E9EBE8'
+      tertiary: '#EBEAE8'
+      unibody: '#52596B'
+
+  # 228
+  houndour:
+      primary: '#DB7F4C'
+      secondary: '#4CA8DB'
+      tertiary: '#4CDB7F'
+      unibody: '#4E4A47'
+
+  # 367
+  huntail:
+      primary: '#EC9D61'
+      secondary: '#61B0EC'
+      tertiary: '#61EC9D'
+      unibody: '#5AA4C9'
+
+  # 635
+  hydreigon:
+      primary: '#344B6D'
+      secondary: '#6D5634'
+      tertiary: '#6D344B'
+      unibody: '#222423'
+
+  # 174
+  igglybuff:
+      primary: '#C8ABB0'
+      secondary: '#ABC8C3'
+      tertiary: '#B0C8AB'
+      unibody: '#FCDDE2'
+
+  # 314
+  illumise:
+      primary: '#9879B2'
+      secondary: '#93B279'
+      tertiary: '#B29879'
+      unibody: '#85C3DC'
+
+  # 392
+  infernape:
+      primary: '#CF5444'
+      secondary: '#44BFCF'
+      tertiary: '#44CF54'
+      unibody: '#FFFFFF'
+
+  # 686
+  inkay:
+      primary: '#E6E7E7'
+      secondary: '#E7E6E6'
+      tertiary: '#E7E6E7'
+      unibody: '#A3D0F1'
+
+  # 593
+  jellicent:
+      primary: '#E3F4FC'
+      secondary: '#FCEBE3'
+      tertiary: '#FCE3F4'
+      unibody: '#4BA2D8'
+
+  # 385
+  jirachi:
+      primary: '#FCE794'
+      secondary: '#94A9FC'
+      tertiary: '#94FCE7'
+      unibody: '#FFFFFF'
+
+  # 595
+  joltik:
+      primary: '#D5BA3D'
+      secondary: '#3D58D5'
+      tertiary: '#3DD5BA'
+      unibody: '#F8E96A'
+
+  # 189
+  jumpluff:
+      primary: '#FEF7D2'
+      secondary: '#D2D9FE'
+      tertiary: '#D2FEF7'
+      unibody: '#6F89C4'
+
+  # 588
+  karrablast:
+      primary: '#615D5E'
+      secondary: '#5D6160'
+      tertiary: '#5E615D'
+      unibody: '#2380C3'
+
+  # 798
+  kartana:
+      primary: '#B7BCB7'
+      secondary: '#BCB7BC'
+      tertiary: '#B7B7BC'
+      unibody: '#FAFBF9FF'
+
+  # 352
+  kecleon:
+      primary: '#F7D583'
+      secondary: '#83A5F7'
+      tertiary: '#83F7D5'
+      unibody: '#A7BE64'
+
+  # 647
+  keldeo:
+      primary: '#D15428'
+      secondary: '#28A5D1'
+      tertiary: '#28D154'
+      unibody: '#F2E8AA'
+
+  # 230
+  kingdra:
+      primary: '#7098AD'
+      secondary: '#AD8570'
+      tertiary: '#AD7098'
+      unibody: '#7DAECF'
+
+  # 281
+  kirlia:
+      primary: '#9CCE9B'
+      secondary: '#CD9BCE'
+      tertiary: '#9B9CCE'
+      unibody: '#FAFAFA'
+
+  # 600
+  klang:
+      primary: '#6F7072'
+      secondary: '#72716F'
+      tertiary: '#726F70'
+      unibody: '#CDD4E6'
+
+  # 707
+  klefki:
+      primary: '#FAEA94'
+      secondary: '#94A4FA'
+      tertiary: '#94FAEA'
+      unibody: '#F0F5F9'
+
+  # 601
+  klinklang:
+      primary: '#A1A1A2'
+      secondary: '#A2A2A1'
+      tertiary: '#A2A1A1'
+      unibody: '#CDD4E6'
+
+  # 599
+  klink:
+      primary: '#636768'
+      secondary: '#686463'
+      tertiary: '#686367'
+      unibody: '#C4C7D5'
+
+  # 775
+  komala:
+      primary: '#E0C8A9'
+      secondary: '#A9C1E0'
+      tertiary: '#A9E0C8'
+      unibody: '#ABBFD7FF'
+
+  # 401
+  kricketot:
+      primary: '#F8E89D'
+      secondary: '#9DADF8'
+      tertiary: '#9DF8E8'
+      unibody: '#D04F39'
+
+  # 402
+  kricketune:
+      primary: '#413C3A'
+      secondary: '#3A3F41'
+      tertiary: '#3A413C'
+      unibody: '#CF5138'
+
+  # 552
+  krokorok:
+      primary: '#3A3F2B'
+      secondary: '#302B3F'
+      tertiary: '#2B3A3F'
+      unibody: '#DCB558'
+
+  # 553
+  krookodile:
+      primary: '#BDC6CF'
+      secondary: '#CFC6BD'
+      tertiary: '#CFBDC6'
+      unibody: '#C65253'
+
+  # 382
+  kyogre:
+      primary: '#EBF6FC'
+      secondary: '#FCF1EB'
+      tertiary: '#FCEBF6'
+      unibody: '#056DB6'
+
+  # 646
+  kyurem:
+      primary: '#8DA2A3'
+      secondary: '#A38E8D'
+      tertiary: '#A38DA2'
+      unibody: '#656E73'
+
+  # 305
+  lairon:
+      primary: '#E4E9EC'
+      secondary: '#ECE7E4'
+      tertiary: '#ECE4E9'
+      unibody: '#5C6061'
+
+  # 608
+  lampent:
+      primary: '#53565C'
+      secondary: '#5C5953'
+      tertiary: '#5C5356'
+      unibody: '#3A3A3A'
+
+  # 645
+  landorus:
+      primary: '#806E60'
+      secondary: '#607280'
+      tertiary: '#60806E'
+      unibody: '#F5F4F9'
+
+  # 171
+  lanturn:
+      primary: '#EAC479'
+      secondary: '#799FEA'
+      tertiary: '#79EAC4'
+      unibody: '#79A6CF'
+
+  # 636
+  larvesta:
+      primary: '#D9784B'
+      secondary: '#4BACD9'
+      tertiary: '#4BD978'
+      unibody: '#F6FAFB'
+
+  # 246
+  larvitar:
+      primary: '#9F9A77'
+      secondary: '#777C9F'
+      tertiary: '#779F9A'
+      unibody: '#AEA983'
+
+  # 380
+  latias:
+      primary: '#CC2127'
+      secondary: '#21CCC6'
+      tertiary: '#27CC21'
+      unibody: '#FEFEFE'
+
+  # 381
+  latios:
+      primary: '#2C80BE'
+      secondary: '#BE6A2C'
+      tertiary: '#BE2C80'
+      unibody: '#DEE9ED'
+
+  # 470
+  leafeon:
+      primary: '#6ABA87'
+      secondary: '#BA6A9D'
+      tertiary: '#876ABA'
+      unibody: '#FCEDB2'
+
+  # 542
+  leavanny:
+      primary: '#718E3B'
+      secondary: '#583B8E'
+      tertiary: '#3B718E'
+      unibody: '#A3CD39'
+
+  # 166
+  ledian:
+      primary: '#F5E6A2'
+      secondary: '#A2B1F5'
+      tertiary: '#A2F5E6'
+      unibody: '#D54356'
+
+  # 165
+  ledyba:
+      primary: '#E6DA9C'
+      secondary: '#9CA8E6'
+      tertiary: '#9CE6DA'
+      unibody: '#C66753'
+
+  # 463
+  lickilicky:
+      primary: '#FCFAF7'
+      secondary: '#F7F9FC'
+      tertiary: '#F7FCFA'
+      unibody: '#DE869B'
+
+  # 510
+  liepard:
+      primary: '#EBCA3F'
+      secondary: '#3F60EB'
+      tertiary: '#3FEBCA'
+      unibody: '#6C5C76'
+
+  # 345
+  lileep:
+      primary: '#D9B7AE'
+      secondary: '#AED0D9'
+      tertiary: '#AED9B7'
+      unibody: '#826CAA'
+
+  # 549
+  lilligant:
+      primary: '#E0945A'
+      secondary: '#5AA6E0'
+      tertiary: '#5AE094'
+      unibody: '#B4D682'
+
+  # 506
+  lillipup:
+      primary: '#FAED7D'
+      secondary: '#7D8AFA'
+      tertiary: '#7DFAED'
+      unibody: '#F19459'
+
+  # 264
+  linoone:
+      primary: '#8A736B'
+      secondary: '#6B828A'
+      tertiary: '#6B8A73'
+      unibody: '#D9C7C5'
+
+  # 667
+  litleo:
+      primary: '#D3A873'
+      secondary: '#739ED3'
+      tertiary: '#73D3A8'
+      unibody: '#443B32'
+
+  # 607
+  litwick:
+      primary: '#8C7AB8'
+      secondary: '#A6B87A'
+      tertiary: '#B88C7A'
+      unibody: '#EFE1EE'
+
+  # 271
+  lombre:
+      primary: '#B9DDD1'
+      secondary: '#DDB9C5'
+      tertiary: '#D1B9DD'
+      unibody: '#9FC163'
+
+  # 428
+  lopunny:
+      primary: '#F8E59F'
+      secondary: '#9FB2F8'
+      tertiary: '#9FF8E5'
+      unibody: '#AB7656'
+
+  # 270
+  lotad:
+      primary: '#63A770'
+      secondary: '#A7639A'
+      tertiary: '#7063A7'
+      unibody: '#2A8AB0'
+
+  # 294
+  loudred:
+      primary: '#D4A3C3'
+      secondary: '#A3D4B4'
+      tertiary: '#C3D4A3'
+      unibody: '#757EB5'
+
+  # 448
+  lucario:
+      primary: '#3F3D3E'
+      secondary: '#3D3F3E'
+      tertiary: '#3E3F3D'
+      unibody: '#7798AB'
+
+  # 272
+  ludicolo:
+      primary: '#668444'
+      secondary: '#624484'
+      tertiary: '#446684'
+      unibody: '#9BC65B'
+
+  # 249
+  lugia:
+      primary: '#859AB8'
+      secondary: '#B8A385'
+      tertiary: '#B8859A'
+      unibody: '#D8E6F1'
+
+  # 457
+  lumineon:
+      primary: '#A9DDDB'
+      secondary: '#DDA9AB'
+      tertiary: '#DBA9DD'
+      unibody: '#394750'
+
+  # 792
+  lunala:
+      primary: '#F9FCFE'
+      secondary: '#FEFBF9'
+      tertiary: '#FEF9FC'
+      unibody: '#5F3287FF'
+
+  # 337
+  lunatone:
+      primary: '#242527'
+      secondary: '#272624'
+      tertiary: '#272425'
+      unibody: '#E5DEB4'
+
+  # 754
+  lurantis:
+      primary: '#E27079'
+      secondary: '#70E2D9'
+      tertiary: '#79E270'
+      unibody: '#F5CFD3FF'
+
+  # 370
+  luvdisc:
+      primary: '#DA7889'
+      secondary: '#78DAC9'
+      tertiary: '#89DA78'
+      unibody: '#E69EA9'
+
+  # 404
+  luxio:
+      primary: '#363533'
+      secondary: '#333436'
+      tertiary: '#333635'
+      unibody: '#80B8C9'
+
+  # 405
+  luxray:
+      primary: '#80C1D3'
+      secondary: '#D39280'
+      tertiary: '#D380C1'
+      unibody: '#3B3738'
+
+  # 745
+  lycanroc:
+      primary: '#FEFDFD'
+      secondary: '#FDFEFE'
+      tertiary: '#FDFEFD'
+      unibody: '#E2C7AAFF'
+
+  # 240
+  magby:
+      primary: '#E97B81'
+      secondary: '#7BE9E3'
+      tertiary: '#81E97B'
+      unibody: '#E47675'
+
+  # 219
+  magcargo:
+      primary: '#5E6C86'
+      secondary: '#86785E'
+      tertiary: '#865E6C'
+      unibody: '#D78285'
+
+  # 801
+  magearna:
+      primary: '#C8B9B4'
+      secondary: '#B4C3C8'
+      tertiary: '#B4C8B9'
+      unibody: '#D6CEC9FF'
+
+  # 467
+  magmortar:
+      primary: '#E5B235'
+      secondary: '#3568E5'
+      tertiary: '#35E5B2'
+      unibody: '#C84026'
+
+  # 462
+  magnezone:
+      primary: '#F6F6F1'
+      secondary: '#F1F1F6'
+      tertiary: '#F1F6F6'
+      unibody: '#B0C3D1'
+
+  # 296
+  makuhita:
+      primary: '#444C5C'
+      secondary: '#5C5444'
+      tertiary: '#5C444C'
+      unibody: '#FBE18A'
+
+  # 687
+  malamar:
+      primary: '#F1EFF8'
+      secondary: '#F6F8EF'
+      tertiary: '#F8F1EF'
+      unibody: '#8E71A1'
+
+  # 473
+  mamoswine:
+      primary: '#F2EBE5'
+      secondary: '#E5ECF2'
+      tertiary: '#E5F2EB'
+      unibody: '#A3764F'
+
+  # 490
+  manaphy:
+      primary: '#4E8D9B'
+      secondary: '#9B5C4E'
+      tertiary: '#9B4E8D'
+      unibody: '#74C6D4'
+
+  # 630
+  mandibuzz:
+      primary: '#CBA69A'
+      secondary: '#9ABFCB'
+      tertiary: '#9ACBA6'
+      unibody: '#4F4440'
+
+  # 310
+  manectric:
+      primary: '#EBD99E'
+      secondary: '#9EB0EB'
+      tertiary: '#9EEBD9'
+      unibody: '#74AEC6'
+
+  # 226
+  mantine:
+      primary: '#465983'
+      secondary: '#837046'
+      tertiary: '#834659'
+      unibody: '#B9B1C9'
+
+  # 458
+  mantyke:
+      primary: '#2478BD'
+      secondary: '#BD6924'
+      tertiary: '#BD2478'
+      unibody: '#A5D3E3'
+
+  # 556
+  maractus:
+      primary: '#E38BB5'
+      secondary: '#8BE3B9'
+      tertiary: '#B5E38B'
+      unibody: '#8DC86C'
+
+  # 747
+  mareanie:
+      primary: '#B088BC'
+      secondary: '#94BC88'
+      tertiary: '#BCB088'
+      unibody: '#92D0D6FF'
+
+  # 179
+  mareep:
+      primary: '#3D7BB8'
+      secondary: '#B87A3D'
+      tertiary: '#B83D7B'
+      unibody: '#FFF6BB'
+
+  # 183
+  marill:
+      primary: '#D9D9D9'
+      secondary: '#D9D9D9'
+      tertiary: '#D9D9D9'
+      unibody: '#4FB4E5'
+
+  # 802
+  marshadow:
+      primary: '#8A887D'
+      secondary: '#7D7F8A'
+      tertiary: '#7D8A88'
+      unibody: '#707277FF'
+
+  # 259
+  marshtomp:
+      primary: '#E78E6B'
+      secondary: '#6BC4E7'
+      tertiary: '#6BE78E'
+      unibody: '#53AEAF'
+
+  # 284
+  masquerain:
+      primary: '#ED9783'
+      secondary: '#83D9ED'
+      tertiary: '#83ED97'
+      unibody: '#B1D5EB'
+
+  # 303
+  mawile:
+      primary: '#595D5E'
+      secondary: '#5E5A59'
+      tertiary: '#5E595D'
+      unibody: '#FBE38D'
+
+  # 308
+  medicham:
+      primary: '#D3668D'
+      secondary: '#66D3AC'
+      tertiary: '#8DD366'
+      unibody: '#D7DBDE'
+
+  # 307
+  meditite:
+      primary: '#DFE3E4'
+      secondary: '#E4E0DF'
+      tertiary: '#E4DFE3'
+      unibody: '#75C2EC'
+
+  # 154
+  meganium:
+      primary: '#CE5276'
+      secondary: '#52CEAA'
+      tertiary: '#76CE52'
+      unibody: '#BEBD85'
+
+  # 648
+  meloetta:
+      primary: '#C9E0A3'
+      secondary: '#BAA3E0'
+      tertiary: '#A3C9E0'
+      unibody: '#FFFFFF'
+
+  # 678
+  meowstic:
+      primary: '#F8FDFF'
+      secondary: '#FFFAF8'
+      tertiary: '#FFF8FD'
+      unibody: '#365895'
+
+  # 481
+  mesprit:
+      primary: '#E180A6'
+      secondary: '#80E1BB'
+      tertiary: '#A6E180'
+      unibody: '#B3CDE6'
+
+  # 376
+  metagross:
+      primary: '#517F91'
+      secondary: '#916351'
+      tertiary: '#91517F'
+      unibody: '#5991AC'
+
+  # 375
+  metang:
+      primary: '#F6F9F8'
+      secondary: '#F9F6F7'
+      tertiary: '#F8F6F9'
+      unibody: '#5C90A8'
+
+  # 619
+  mienfoo:
+      primary: '#D26F83'
+      secondary: '#6FD2BE'
+      tertiary: '#83D26F'
+      unibody: '#F3F19E'
+
+  # 620
+  mienshao:
+      primary: '#B8A2C9'
+      secondary: '#B3C9A2'
+      tertiary: '#C9B8A2'
+      unibody: '#E5E1DE'
+
+  # 262
+  mightyena:
+      primary: '#36333E'
+      secondary: '#3B3E33'
+      tertiary: '#3E3633'
+      unibody: '#C5C2CB'
+
+  # 350
+  milotic:
+      primary: '#C83851'
+      secondary: '#38C8AF'
+      tertiary: '#51C838'
+      unibody: '#EEE8AE'
+
+  # 241
+  miltank:
+      primary: '#3D3B40'
+      secondary: '#3E403B'
+      tertiary: '#403D3B'
+      unibody: '#ECAAB6'
+
+  # 439
+  mimejr:
+      primary: '#69748A'
+      secondary: '#8A7F69'
+      tertiary: '#8A6974'
+      unibody: '#F7D8E8'
+
+  # 778
+  mimikyu:
+      primary: '#B1AB8D'
+      secondary: '#8D93B1'
+      tertiary: '#8DB1AB'
+      unibody: '#030202FF'
+
+  # 572
+  minccino:
+      primary: '#A59E9A'
+      secondary: '#9AA1A5'
+      tertiary: '#9AA59E'
+      unibody: '#D9D6D1'
+
+  # 312
+  minun:
+      primary: '#50BEE8'
+      secondary: '#E87A50'
+      tertiary: '#E850BE'
+      unibody: '#FFEDBF'
+
+  # 200
+  misdreavus:
+      primary: '#F9CA87'
+      secondary: '#87B6F9'
+      tertiary: '#87F9CA'
+      unibody: '#366378'
+
+  # 429
+  mismagius:
+      primary: '#846A99'
+      secondary: '#7F996A'
+      tertiary: '#99846A'
+      unibody: '#504162'
+
+  # 391
+  monferno:
+      primary: '#3781A8'
+      secondary: '#A85E37'
+      tertiary: '#A83781'
+      unibody: '#E99348'
+
+  # 755
+  morelull:
+      primary: '#C498C0'
+      secondary: '#98C49C'
+      tertiary: '#C0C498'
+      unibody: '#FEFAF1FF'
+
+  # 414
+  mothim:
+      primary: '#F3D366'
+      secondary: '#6686F3'
+      tertiary: '#66F3D3'
+      unibody: '#484647'
+
+  # 749
+  mudbray:
+      primary: '#5A5B5D'
+      secondary: '#5D5C5A'
+      tertiary: '#5D5A5B'
+      unibody: '#9D7564FF'
+
+  # 750
+  mudsdale:
+      primary: '#464C55'
+      secondary: '#554F46'
+      tertiary: '#55464C'
+      unibody: '#9F7765FF'
+
+  # 446
+  munchlax:
+      primary: '#FAE5B6'
+      secondary: '#B6CBFA'
+      tertiary: '#B6FAE5'
+      unibody: '#45718C'
+
+  # 517
+  munna:
+      primary: '#B389BB'
+      secondary: '#91BB89'
+      tertiary: '#BBB389'
+      unibody: '#F4D3DA'
+
+  # 198
+  murkrow:
+      primary: '#FAEE5A'
+      secondary: '#5A66FA'
+      tertiary: '#5AFAEE'
+      unibody: '#142535'
+
+  # 518
+  musharna:
+      primary: '#EA92A0'
+      secondary: '#92EADC'
+      tertiary: '#A0EA92'
+      unibody: '#A291C5'
+
+  # 177
+  natu:
+      primary: '#F4D543'
+      secondary: '#4362F4'
+      tertiary: '#43F4D5'
+      unibody: '#8AC142'
+
+  # 800
+  necrozma:
+      primary: '#9C9691'
+      secondary: '#91979C'
+      tertiary: '#919C96'
+      unibody: '#1A1C1DFF'
+
+  # 793
+  nihilego:
+      primary: '#57C3E9'
+      secondary: '#E97D57'
+      tertiary: '#E957C3'
+      unibody: '#F1F6F2FF'
+
+  # 290
+  nincada:
+      primary: '#9F968E'
+      secondary: '#8E979F'
+      tertiary: '#8E9F96'
+      unibody: '#F5F9FC'
+
+  # 291
+  ninjask:
+      primary: '#FBD87E'
+      secondary: '#7EA1FB'
+      tertiary: '#7EFBD8'
+      unibody: '#24282B'
+
+  # 164
+  noctowl:
+      primary: '#5E433C'
+      secondary: '#3C575E'
+      tertiary: '#3C5E43'
+      unibody: '#967059'
+
+  # 714
+  noibat:
+      primary: '#BCA8CD'
+      secondary: '#B9CDA8'
+      tertiary: '#CDBCA8'
+      unibody: '#4B3F43'
+
+  # 715
+  noivern:
+      primary: '#835A9E'
+      secondary: '#759E5A'
+      tertiary: '#9E835A'
+      unibody: '#453A3E'
+
+  # 299
+  nosepass:
+      primary: '#1F2F50'
+      secondary: '#50401F'
+      tertiary: '#501F2F'
+      unibody: '#324B8B'
+
+  # 322
+  numel:
+      primary: '#F3E8B8'
+      secondary: '#B8C3F3'
+      tertiary: '#B8F3E8'
+      unibody: '#F8D67C'
+
+  # 274
+  nuzleaf:
+      primary: '#E1D7CB'
+      secondary: '#CBD5E1'
+      tertiary: '#CBE1D7'
+      unibody: '#B2968A'
+
+  # 224
+  octillery:
+      primary: '#B9454F'
+      secondary: '#45B9AF'
+      tertiary: '#4FB945'
+      unibody: '#C2434E'
+
+  # 765
+  oranguru:
+      primary: '#659855'
+      secondary: '#885598'
+      tertiary: '#556598'
+      unibody: '#F9F9FCFF'
+
+  # 501
+  oshawott:
+      primary: '#7DC4C6'
+      secondary: '#C67F7D'
+      tertiary: '#C67DC4'
+      unibody: '#D5DCE6'
+
+  # 417
+  pachirisu:
+      primary: '#76C0C9'
+      secondary: '#C97F76'
+      tertiary: '#C976C0'
+      unibody: '#DFE8F7'
+
+  # 484
+  palkia:
+      primary: '#DFE1F0'
+      secondary: '#F0EEDF'
+      tertiary: '#F0DFE1'
+      unibody: '#948D9F'
+
+  # 770
+  palossand:
+      primary: '#4B3121'
+      secondary: '#213B4B'
+      tertiary: '#214B31'
+      unibody: '#F7C286FF'
+
+  # 536
+  palpitoad:
+      primary: '#453C33'
+      secondary: '#333C45'
+      tertiary: '#33453C'
+      unibody: '#7392CB'
+
+  # 674
+  pancham:
+      primary: '#D3D8AF'
+      secondary: '#B4AFD8'
+      tertiary: '#AFD3D8'
+      unibody: '#626473'
+
+  # 675
+  pangoro:
+      primary: '#505558'
+      secondary: '#585350'
+      tertiary: '#585055'
+      unibody: '#9198AA'
+
+  # 515
+  panpour:
+      primary: '#F9F379'
+      secondary: '#797FF9'
+      tertiary: '#79F9F3'
+      unibody: '#8ED4DC'
+
+  # 511
+  pansage:
+      primary: '#F9F379'
+      secondary: '#797FF9'
+      tertiary: '#79F9F3'
+      unibody: '#81C451'
+
+  # 513
+  pansear:
+      primary: '#A64F37'
+      secondary: '#378EA6'
+      tertiary: '#37A64F'
+      unibody: '#F47C61'
+
+  # 766
+  passimian:
+      primary: '#F7F8F0'
+      secondary: '#F1F0F8'
+      tertiary: '#F0F7F8'
+      unibody: '#5D5B55FF'
+
+  # 504
+  patrat:
+      primary: '#E3D7C5'
+      secondary: '#C5D1E3'
+      tertiary: '#C5E3D7'
+      unibody: '#B58E57'
+
+  # 624
+  pawniard:
+      primary: '#F5F9FC'
+      secondary: '#FCF8F5'
+      tertiary: '#FCF5F9'
+      unibody: '#9D484B'
+
+  # 279
+  pelipper:
+      primary: '#F9E69B'
+      secondary: '#9BAEF9'
+      tertiary: '#9BF9E6'
+      unibody: '#E2EBF4'
+
+  # 548
+  petilil:
+      primary: '#73BF43'
+      secondary: '#8F43BF'
+      tertiary: '#4373BF'
+      unibody: '#DEE564'
+
+  # 231
+  phanpy:
+      primary: '#CF6734'
+      secondary: '#349CCF'
+      tertiary: '#34CF67'
+      unibody: '#96C2CF'
+
+  # 708
+  phantump:
+      primary: '#896A4E'
+      secondary: '#4E6D89'
+      tertiary: '#4E896A'
+      unibody: '#252E35'
+
+  # 795
+  pheromosa:
+      primary: '#EAD7A1'
+      secondary: '#A1B4EA'
+      tertiary: '#A1EAD7'
+      unibody: '#FCFCFCFF'
+
+  # 489
+  phione:
+      primary: '#279AD3'
+      secondary: '#D36027'
+      tertiary: '#D3279A'
+      unibody: '#6DB9C9'
+
+  # 172
+  pichu:
+      primary: '#110E0E'
+      secondary: '#0E1111'
+      tertiary: '#0E110E'
+      unibody: '#FCF38C'
+
+  # 519
+  pidove:
+      primary: '#EAE7DE'
+      secondary: '#DEE1EA'
+      tertiary: '#DEEAE7'
+      unibody: '#AAA6A3'
+
+  # 499
+  pignite:
+      primary: '#312D22'
+      secondary: '#222631'
+      tertiary: '#22312D'
+      unibody: '#F68742'
+
+  # 221
+  piloswine:
+      primary: '#664B3D'
+      secondary: '#3D5866'
+      tertiary: '#3D664B'
+      unibody: '#B28160'
+
+  # 204
+  pineco:
+      primary: '#2E4B5D'
+      secondary: '#5D402E'
+      tertiary: '#5D2E4B'
+      unibody: '#5B8A82'
+
+  # 393
+  piplup:
+      primary: '#4087BF'
+      secondary: '#BF7840'
+      tertiary: '#BF4087'
+      unibody: '#97CBD8'
+
+  # 311
+  plusle:
+      primary: '#DF616C'
+      secondary: '#61DFD4'
+      tertiary: '#6CDF61'
+      unibody: '#FFEDBF'
+
+  # 186
+  politoed:
+      primary: '#F8EB7E'
+      secondary: '#7E8BF8'
+      tertiary: '#7EF8EB'
+      unibody: '#97C046'
+
+  # 261
+  poochyena:
+      primary: '#525659'
+      secondary: '#595552'
+      tertiary: '#595256'
+      unibody: '#ABB0B4'
+
+  # 233
+  porygon2:
+      primary: '#62C0DB'
+      secondary: '#DB7D62'
+      tertiary: '#DB62C0'
+      unibody: '#E1576E'
+
+  # 394
+  prinplup:
+      primary: '#DBB33A'
+      secondary: '#3A62DB'
+      tertiary: '#3ADBB3'
+      unibody: '#3F608D'
+
+  # 476
+  probopass:
+      primary: '#CA7270'
+      secondary: '#70C8CA'
+      tertiary: '#70CA72'
+      unibody: '#6288AC'
+
+  # 710
+  pumpkaboo:
+      primary: '#E29D81'
+      secondary: '#81C6E2'
+      tertiary: '#81E29D'
+      unibody: '#524637'
+
+  # 247
+  pupitar:
+      primary: '#8A91AB'
+      secondary: '#ABA48A'
+      tertiary: '#AB8A91'
+      unibody: '#A7B4D6'
+
+  # 509
+  purrloin:
+      primary: '#FBF8C1'
+      secondary: '#C1C4FB'
+      tertiary: '#C1FBF8'
+      unibody: '#6E5C76'
+
+  # 432
+  purugly:
+      primary: '#A88FAF'
+      secondary: '#96AF8F'
+      tertiary: '#AFA88F'
+      unibody: '#646873'
+
+  # 668
+  pyroar:
+      primary: '#DD3C28'
+      secondary: '#28C9DD'
+      tertiary: '#28DD3C'
+      unibody: '#4C413F'
+
+  # 771
+  pyukumuku:
+      primary: '#A05972'
+      secondary: '#59A087'
+      tertiary: '#72A059'
+      unibody: '#4B4847FF'
+
+  # 195
+  quagsire:
+      primary: '#5B4B78'
+      secondary: '#68784B'
+      tertiary: '#785B4B'
+      unibody: '#8EC7E5'
+
+  # 156
+  quilava:
+      primary: '#ED3024'
+      secondary: '#24E1ED'
+      tertiary: '#24ED30'
+      unibody: '#FDED96'
+
+  # 651
+  quilladin:
+      primary: '#66472B'
+      secondary: '#2B4A66'
+      tertiary: '#2B6647'
+      unibody: '#A5CD5A'
+
+  # 211
+  qwilfish:
+      primary: '#3F7778'
+      secondary: '#78403F'
+      tertiary: '#783F77'
+      unibody: '#E0EBB1'
+
+  # 243
+  raikou:
+      primary: '#C39BB5'
+      secondary: '#9BC3A9'
+      tertiary: '#B5C39B'
+      unibody: '#EBD079'
+
+  # 280
+  ralts:
+      primary: '#9CCE8F'
+      secondary: '#C18FCE'
+      tertiary: '#8F9CCE'
+      unibody: '#F6F7FB'
+
+  # 409
+  rampardos:
+      primary: '#3B659F'
+      secondary: '#9F753B'
+      tertiary: '#9F3B65'
+      unibody: '#4A4647'
+
+  # 384
+  rayquaza:
+      primary: '#4B7357'
+      secondary: '#734B67'
+      tertiary: '#574B73'
+      unibody: '#558464'
+
+  # 378
+  regice:
+      primary: '#4A9EC0'
+      secondary: '#C06C4A'
+      tertiary: '#C04A9E'
+      unibody: '#88C5E2'
+
+  # 486
+  regigigas:
+      primary: '#F5D95C'
+      secondary: '#5C78F5'
+      tertiary: '#5CF5D9'
+      unibody: '#F5F6FB'
+
+  # 377
+  regirock:
+      primary: '#C98562'
+      secondary: '#62A6C9'
+      tertiary: '#62C985'
+      unibody: '#D4CBC6'
+
+  # 379
+  registeel:
+      primary: '#2D2E30'
+      secondary: '#302F2D'
+      tertiary: '#302D2E'
+      unibody: '#C9CDCE'
+
+  # 369
+  relicanth:
+      primary: '#AD9883'
+      secondary: '#8398AD'
+      tertiary: '#83AD98'
+      unibody: '#4F4B4A'
+
+  # 223
+  remoraid:
+      primary: '#E6EDE0'
+      secondary: '#E7E0ED'
+      tertiary: '#E0E6ED'
+      unibody: '#B8D5C1'
+
+  # 643
+  reshiram:
+      primary: '#F6F6F6'
+      secondary: '#F6F6F6'
+      tertiary: '#F6F6F6'
+      unibody: '#2B2726'
+
+  # 579
+  reuniclus:
+      primary: '#98CDA1'
+      secondary: '#CD98C4'
+      tertiary: '#A198CD'
+      unibody: '#E1EED0'
+
+  # 464
+  rhyperior:
+      primary: '#DC7F3C'
+      secondary: '#3C99DC'
+      tertiary: '#3CDC7F'
+      unibody: '#716161'
+
+  # 743
+  ribombee:
+      primary: '#F9F5DB'
+      secondary: '#DBDFF9'
+      tertiary: '#DBF9F5'
+      unibody: '#EDD969FF'
+
+  # 447
+  riolu:
+      primary: '#56595C'
+      secondary: '#5C5956'
+      tertiary: '#5C5659'
+      unibody: '#78ACC2'
+
+  # 744
+  rockruff:
+      primary: '#74615A'
+      secondary: '#5A6D74'
+      tertiary: '#5A7461'
+      unibody: '#D1B6ABFF'
+
+  # 524
+  roggenrola:
+      primary: '#8C6C31'
+      secondary: '#31518C'
+      tertiary: '#318C6C'
+      unibody: '#2D334B'
+
+  # 315
+  roselia:
+      primary: '#127CB0'
+      secondary: '#B04612'
+      tertiary: '#B0127C'
+      unibody: '#B5D38D'
+
+  # 407
+  roserade:
+      primary: '#ECF0F9'
+      secondary: '#F9F5EC'
+      tertiary: '#F9ECF0'
+      unibody: '#A9D8B4'
+
+  # 479
+  rotom:
+      primary: '#FEFEFE'
+      secondary: '#FEFEFE'
+      tertiary: '#FEFEFE'
+      unibody: '#E37536'
+
+  # 722
+  rowlet:
+      primary: '#EEC8AA'
+      secondary: '#AAD0EE'
+      tertiary: '#AAEEC8'
+      unibody: '#F9F7F3FF'
+
+  # 627
+  rufflet:
+      primary: '#F2F2E0'
+      secondary: '#E0E0F2'
+      tertiary: '#E0F2F2'
+      unibody: '#676477'
+
+  # 302
+  sableye:
+      primary: '#5298D3'
+      secondary: '#D38D52'
+      tertiary: '#D35298'
+      unibody: '#7360A0'
+
+  # 373
+  salamence:
+      primary: '#5AA8B3'
+      secondary: '#B3655A'
+      tertiary: '#B35AA8'
+      unibody: '#62B9CC'
+
+  # 757
+  salandit:
+      primary: '#433E3C'
+      secondary: '#3C4143'
+      tertiary: '#3C433E'
+      unibody: '#6A6563FF'
+
+  # 758
+  salazzle:
+      primary: '#E62F82'
+      secondary: '#2FE693'
+      tertiary: '#82E62F'
+      unibody: '#595657FF'
+
+  # 503
+  samurott:
+      primary: '#D5C57A'
+      secondary: '#7A8AD5'
+      tertiary: '#7AD5C5'
+      unibody: '#205B9D'
+
+  # 551
+  sandile:
+      primary: '#232220'
+      secondary: '#202123'
+      tertiary: '#202322'
+      unibody: '#D1AD79'
+
+  # 769
+  sandygast:
+      primary: '#453D30'
+      secondary: '#303845'
+      tertiary: '#30453D'
+      unibody: '#D8D3B8FF'
+
+  # 539
+  sawk:
+      primary: '#443E3E'
+      secondary: '#3E4444'
+      tertiary: '#3E443E'
+      unibody: '#4583C0'
+
+  # 586
+  sawsbuck:
+      primary: '#F8E467'
+      secondary: '#677BF8'
+      tertiary: '#67F8E4'
+      unibody: '#573C21'
+
+  # 664
+  scatterbug:
+      primary: '#45473A'
+      secondary: '#3C3A47'
+      tertiary: '#3A4547'
+      unibody: '#585A4D'
+
+  # 254
+  sceptile:
+      primary: '#82AF88'
+      secondary: '#AF82A9'
+      tertiary: '#8882AF'
+      unibody: '#90CA9A'
+
+  # 212
+  scizor:
+      primary: '#E13938'
+      secondary: '#38E0E1'
+      tertiary: '#38E139'
+      unibody: '#A82C24'
+
+  # 545
+  scolipede:
+      primary: '#3D3B22'
+      secondary: '#22243D'
+      tertiary: '#223D3B'
+      unibody: '#B14F4C'
+
+  # 560
+  scrafty:
+      primary: '#F9CF79'
+      secondary: '#79A3F9'
+      tertiary: '#79F9CF'
+      unibody: '#FA9D72'
+
+  # 559
+  scraggy:
+      primary: '#DDAA3D'
+      secondary: '#3D70DD'
+      tertiary: '#3DDDAA'
+      unibody: '#ECE58A'
+
+  # 364
+  sealeo:
+      primary: '#E0ECF5'
+      secondary: '#F5E9E0'
+      tertiary: '#F5E0EC'
+      unibody: '#58C2E9'
+
+  # 273
+  seedot:
+      primary: '#999A9C'
+      secondary: '#9C9B99'
+      tertiary: '#9C999A'
+      unibody: '#96806B'
+
+  # 537
+  seismitoad:
+      primary: '#B1EAE1'
+      secondary: '#EAB1BA'
+      tertiary: '#E1B1EA'
+      unibody: '#7190D0'
+
+  # 161
+  sentret:
+      primary: '#C27B65'
+      secondary: '#65ACC2'
+      tertiary: '#65C27B'
+      unibody: '#B4725B'
+
+  # 497
+  serperior:
+      primary: '#189D4C'
+      secondary: '#9D1869'
+      tertiary: '#4C189D'
+      unibody: '#9CD19B'
+
+  # 496
+  servine:
+      primary: '#F8F9D9'
+      secondary: '#DAD9F9'
+      tertiary: '#D9F8F9'
+      unibody: '#86C445'
+
+  # 336
+  seviper:
+      primary: '#E8B870'
+      secondary: '#70A0E8'
+      tertiary: '#70E8B8'
+      unibody: '#4A667C'
+
+  # 540
+  sewaddle:
+      primary: '#F8D368'
+      secondary: '#688DF8'
+      tertiary: '#68F8D3'
+      unibody: '#95C33C'
+
+  # 319
+  sharpedo:
+      primary: '#0D5786'
+      secondary: '#863C0D'
+      tertiary: '#860D57'
+      unibody: '#D6D7EC'
+
+  # 492
+  shaymin:
+      primary: '#9CC964'
+      secondary: '#9164C9'
+      tertiary: '#649CC9'
+      unibody: '#F7F9F8'
+
+  # 292
+  shedinja:
+      primary: '#FFFFFE'
+      secondary: '#FEFEFF'
+      tertiary: '#FEFFFF'
+      unibody: '#D1B180'
+
+  # 372
+  shelgon:
+      primary: '#595A5C'
+      secondary: '#5C5B59'
+      tertiary: '#5C595A'
+      unibody: '#D5D9DC'
+
+  # 422
+  shellos:
+      primary: '#E6D864'
+      secondary: '#6472E6'
+      tertiary: '#64E6D8'
+      unibody: '#43ADC5'
+
+  # 616
+  shelmet:
+      primary: '#D5CCC5'
+      secondary: '#C5CED5'
+      tertiary: '#C5D5CC'
+      unibody: '#FB717E'
+
+  # 410
+  shieldon:
+      primary: '#353535'
+      secondary: '#353535'
+      tertiary: '#353535'
+      unibody: '#FBCF66'
+
+  # 275
+  shiftry:
+      primary: '#F1F2F5'
+      secondary: '#F5F4F1'
+      tertiary: '#F5F1F2'
+      unibody: '#B6886E'
+
+  # 756
+  shiinotic:
+      primary: '#FADBE1'
+      secondary: '#DBFAF4'
+      tertiary: '#E1FADB'
+      unibody: '#CE92BFFF'
+
+  # 403
+  shinx:
+      primary: '#E3B023'
+      secondary: '#2356E3'
+      tertiary: '#23E3B0'
+      unibody: '#77A9C0'
+
+  # 285
+  shroomish:
+      primary: '#DDCDB4'
+      secondary: '#B4C4DD'
+      tertiary: '#B4DDCD'
+      unibody: '#6E9C80'
+
+  # 213
+  shuckle:
+      primary: '#FBD81E'
+      secondary: '#1E41FB'
+      tertiary: '#1EFBD8'
+      unibody: '#D93830'
+
+  # 353
+  shuppet:
+      primary: '#050709'
+      secondary: '#090705'
+      tertiary: '#090507'
+      unibody: '#7887B2'
+
+  # 561
+  sigilyph:
+      primary: '#393738'
+      secondary: '#373938'
+      tertiary: '#383937'
+      unibody: '#F0B45C'
+
+  # 266
+  silcoon:
+      primary: ''
+      secondary: '#FFFFFF'
+      tertiary: '#FFFFFF'
+      unibody: '#D3DEEC'
+
+  # 773
+  silvally:
+      primary: '#BDC2C6'
+      secondary: '#C6C1BD'
+      tertiary: '#C6BDC2'
+      unibody: '#E0E4EBFF'
+
+  # 516
+  simipour:
+      primary: '#4EC0E2'
+      secondary: '#E2704E'
+      tertiary: '#E24EC0'
+      unibody: '#52BFE0'
+
+  # 512
+  simisage:
+      primary: '#F0C64D'
+      secondary: '#4D77F0'
+      tertiary: '#4DF0C6'
+      unibody: '#51A545'
+
+  # 514
+  simisear:
+      primary: '#F0D98B'
+      secondary: '#8BA2F0'
+      tertiary: '#8BF0D9'
+      unibody: '#B75951'
+
+  # 227
+  skarmory:
+      primary: '#D7535E'
+      secondary: '#53D7CC'
+      tertiary: '#5ED753'
+      unibody: '#C9D7E4'
+
+  # 672
+  skiddo:
+      primary: '#0D9253'
+      secondary: '#920D4C'
+      tertiary: '#530D92'
+      unibody: '#6F655C'
+
+  # 188
+  skiploom:
+      primary: '#F2E777'
+      secondary: '#7782F2'
+      tertiary: '#77F2E7'
+      unibody: '#84C140'
+
+  # 300
+  skitty:
+      primary: '#F59BC1'
+      secondary: '#9BF5CF'
+      tertiary: '#C1F59B'
+      unibody: '#F59BBF'
+
+  # 451
+  skorupi:
+      primary: '#FDFCF9'
+      secondary: '#F9FAFD'
+      tertiary: '#F9FDFC'
+      unibody: '#352E57'
+
+  # 690
+  skrelp:
+      primary: '#764C3E'
+      secondary: '#3E6876'
+      tertiary: '#3E764C'
+      unibody: '#885A43'
+
+  # 435
+  skuntank:
+      primary: '#F9ECC3'
+      secondary: '#C3D0F9'
+      tertiary: '#C3F9EC'
+      unibody: '#4B3355'
+
+  # 289
+  slaking:
+      primary: '#EBE6E0'
+      secondary: '#E0E5EB'
+      tertiary: '#E0EBE6'
+      unibody: '#7D6752'
+
+  # 287
+  slakoth:
+      primary: '#6D503E'
+      secondary: '#3E5B6D'
+      tertiary: '#3E6D50'
+      unibody: '#E0D8CB'
+
+  # 705
+  sliggoo:
+      primary: '#A49ACC'
+      secondary: '#C2CC9A'
+      tertiary: '#CCA49A'
+      unibody: '#E7D6E8'
+
+  # 199
+  slowking:
+      primary: '#CFBFC1'
+      secondary: '#BFCFCD'
+      tertiary: '#C1CFBF'
+      unibody: '#D3948F'
+
+  # 218
+  slugma:
+      primary: '#D7593E'
+      secondary: '#3EBCD7'
+      tertiary: '#3ED759'
+      unibody: '#EC6444'
+
+  # 685
+  slurpuff:
+      primary: '#E8B7C9'
+      secondary: '#B7E8D6'
+      tertiary: '#C9E8B7'
+      unibody: '#FAF9FC'
+
+  # 235
+  smeargle:
+      primary: '#6F5C3E'
+      secondary: '#3E516F'
+      tertiary: '#3E6F5C'
+      unibody: '#EBEBD1'
+
+  # 238
+  smoochum:
+      primary: '#F2ECA5'
+      secondary: '#A5ABF2'
+      tertiary: '#A5F2EC'
+      unibody: '#DB81A4'
+
+  # 215
+  sneasel:
+      primary: '#254137'
+      secondary: '#41252F'
+      tertiary: '#372541'
+      unibody: '#253F36'
+
+  # 495
+  snivy:
+      primary: '#EEF1BC'
+      secondary: '#BFBCF1'
+      tertiary: '#BCEEF1'
+      unibody: '#4D8C46'
+
+  # 361
+  snorunt:
+      primary: '#FDE09C'
+      secondary: '#9CB9FD'
+      tertiary: '#9CFDE0'
+      unibody: '#343839'
+
+  # 459
+  snover:
+      primary: '#A19283'
+      secondary: '#8392A1'
+      tertiary: '#83A192'
+      unibody: '#FFFFFF'
+
+  # 209
+  snubbull:
+      primary: '#333331'
+      secondary: '#313133'
+      tertiary: '#313333'
+      unibody: '#EF919F'
+
+  # 791
+  solgaleo:
+      primary: '#FAE254'
+      secondary: '#546CFA'
+      tertiary: '#54FAE2'
+      unibody: '#FFFFFFFF'
+
+  # 577
+  solosis:
+      primary: '#9BCF7A'
+      secondary: '#AE7ACF'
+      tertiary: '#7A9BCF'
+      unibody: '#EDF2BC'
+
+  # 338
+  solrock:
+      primary: '#FBE075'
+      secondary: '#7590FB'
+      tertiary: '#75FBE0'
+      unibody: '#D3642F'
+
+  # 665
+  spewpa:
+      primary: '#E0EBF1'
+      secondary: '#F1E6E0'
+      tertiary: '#F1E0EB'
+      unibody: '#585A4D'
+
+  # 363
+  spheal:
+      primary: '#E8D8B6'
+      secondary: '#B6C6E8'
+      tertiary: '#B6E8D8'
+      unibody: '#79A8D9'
+
+  # 167
+  spinarak:
+      primary: '#EFEC49'
+      secondary: '#494CEF'
+      tertiary: '#49EFEC'
+      unibody: '#9BC73C'
+
+  # 327
+  spinda:
+      primary: '#DB6F75'
+      secondary: '#6FDBD5'
+      tertiary: '#75DB6F'
+      unibody: '#E0D6CA'
+
+  # 442
+  spiritomb:
+      primary: '#71BB5C'
+      secondary: '#A65CBB'
+      tertiary: '#5C71BB'
+      unibody: '#DBA8BB'
+
+  # 325
+  spoink:
+      primary: '#787580'
+      secondary: '#7D8075'
+      tertiary: '#807875'
+      unibody: '#A7A5A6'
+
+  # 682
+  spritzee:
+      primary: '#E6EEF6'
+      secondary: '#F6EEE6'
+      tertiary: '#F6E6EE'
+      unibody: '#F6B7CC'
+
+  # 234
+  stantler:
+      primary: '#FCF388'
+      secondary: '#8891FC'
+      tertiary: '#88FCF3'
+      unibody: '#C29D80'
+
+  # 398
+  staraptor:
+      primary: '#DBD7D6'
+      secondary: '#D6DADB'
+      tertiary: '#D6DBD7'
+      unibody: '#827272'
+
+  # 397
+  staravia:
+      primary: '#E0E1DC'
+      secondary: '#DDDCE1'
+      tertiary: '#DCE0E1'
+      unibody: '#48413B'
+
+  # 396
+  starly:
+      primary: '#DCDCDC'
+      secondary: '#DCDCDC'
+      tertiary: '#DCDCDC'
+      unibody: '#413936'
+
+  # 208
+  steelix:
+      primary: '#464976'
+      secondary: '#767346'
+      tertiary: '#764649'
+      unibody: '#828EA8'
+
+  # 762
+  steenee:
+      primary: '#AFD17B'
+      secondary: '#9D7BD1'
+      tertiary: '#7BAFD1'
+      unibody: '#AB507C'
+
+  # 508
+  stoutland:
+      primary: '#F5E19C'
+      secondary: '#9CB0F5'
+      tertiary: '#9CF5E1'
+      unibody: '#A47036'
+
+  # 759
+  stufful:
+      primary: '#FFFEFE'
+      secondary: '#FEFFFF'
+      tertiary: '#FEFFFE'
+      unibody: '#ECA7B5FF'
+
+  # 618
+  stunfisk:
+      primary: '#F0E07E'
+      secondary: '#7E8EF0'
+      tertiary: '#7EF0E0'
+      unibody: '#AA7450'
+
+  # 434
+  stunky:
+      primary: '#F5ECC4'
+      secondary: '#C4CDF5'
+      tertiary: '#C4F5EC'
+      unibody: '#4B3353'
+
+  # 185
+  sudowoodo:
+      primary: '#6AB74A'
+      secondary: '#974AB7'
+      tertiary: '#4A6AB7'
+      unibody: '#AC7D61'
+
+  # 245
+  suicune:
+      primary: '#8F72B4'
+      secondary: '#97B472'
+      tertiary: '#B48F72'
+      unibody: '#AFCDE7'
+
+  # 192
+  sunflora:
+      primary: '#FCF7B2'
+      secondary: '#B2B7FC'
+      tertiary: '#B2FCF7'
+      unibody: '#FFE16E'
+
+  # 191
+  sunkern:
+      primary: '#58483A'
+      secondary: '#3A4A58'
+      tertiary: '#3A5848'
+      unibody: '#EDDA71'
+
+  # 283
+  surskit:
+      primary: '#71B9CD'
+      secondary: '#CD8571'
+      tertiary: '#CD71B9'
+      unibody: '#82D3F0'
+
+  # 333
+  swablu:
+      primary: '#FEFFFF'
+      secondary: '#FFFEFE'
+      tertiary: '#FFFEFF'
+      unibody: '#49BDE6'
+
+  # 541
+  swadloon:
+      primary: '#F2EC6A'
+      secondary: '#6A70F2'
+      tertiary: '#6AF2EC'
+      unibody: '#9CCB3F'
+
+  # 317
+  swalot:
+      primary: '#313A39'
+      secondary: '#3A3132'
+      tertiary: '#39313A'
+      unibody: '#9494C6'
+
+  # 260
+  swampert:
+      primary: '#3E4B5B'
+      secondary: '#5B4E3E'
+      tertiary: '#5B3E4B'
+      unibody: '#65A5D1'
+
+  # 581
+  swanna:
+      primary: '#9AC6EB'
+      secondary: '#EBBF9A'
+      tertiary: '#EB9AC6'
+      unibody: '#F6F8F5'
+
+  # 277
+  swellow:
+      primary: '#CA6C86'
+      secondary: '#6CCAB0'
+      tertiary: '#86CA6C'
+      unibody: '#364969'
+
+  # 220
+  swinub:
+      primary: '#5B351F'
+      secondary: '#1F455B'
+      tertiary: '#1F5B35'
+      unibody: '#BB9477'
+
+  # 684
+  swirlix:
+      primary: '#D4B4CE'
+      secondary: '#B4D4BA'
+      tertiary: '#CED4B4'
+      unibody: '#EDF0F5'
+
+  # 528
+  swoobat:
+      primary: '#4B4B53'
+      secondary: '#53534B'
+      tertiary: '#534B4B'
+      unibody: '#12A4CD'
+
+  # 700
+  sylveon:
+      primary: '#E39EA9'
+      secondary: '#9EE3D8'
+      tertiary: '#A9E39E'
+      unibody: '#E5D9E5'
+
+  # 276
+  taillow:
+      primary: '#DA7289'
+      secondary: '#72DAC3'
+      tertiary: '#89DA72'
+      unibody: '#515F7C'
+
+  # 663
+  talonflame:
+      primary: '#4C4D4C'
+      secondary: '#4D4C4D'
+      tertiary: '#4C4C4D'
+      unibody: '#E66D40'
+
+  # 465
+  tangrowth:
+      primary: '#5E80A7'
+      secondary: '#A7855E'
+      tertiary: '#A75E80'
+      unibody: '#5C7DA5'
+
+  # 216
+  teddiursa:
+      primary: '#F2E38A'
+      secondary: '#8A99F2'
+      tertiary: '#8AF2E3'
+      unibody: '#ED9B51'
+
+  # 498
+  tepig:
+      primary: '#483D39'
+      secondary: '#394448'
+      tertiary: '#39483D'
+      unibody: '#E99453'
+
+  # 639
+  terrakion:
+      primary: '#61524B'
+      secondary: '#4B5A61'
+      tertiary: '#4B6152'
+      unibody: '#A3A3A3'
+
+  # 538
+  throh:
+      primary: '#464140'
+      secondary: '#404546'
+      tertiary: '#404641'
+      unibody: '#C5655E'
+
+  # 642
+  thundurus:
+      primary: '#4D4C4A'
+      secondary: '#4A4B4D'
+      tertiary: '#4A4D4C'
+      unibody: '#F5F4F9'
+
+  # 532
+  timburr:
+      primary: '#906733'
+      secondary: '#335C90'
+      tertiary: '#339067'
+      unibody: '#CAC2AD'
+
+  # 564
+  tirtouga:
+      primary: '#586B74'
+      secondary: '#746158'
+      tertiary: '#74586B'
+      unibody: '#79B1E0'
+
+  # 777
+  togedemaru:
+      primary: '#A0A199'
+      secondary: '#9A99A1'
+      tertiary: '#99A0A1'
+      unibody: '#6E5039FF'
+
+  # 468
+  togekiss:
+      primary: '#3283C5'
+      secondary: '#C57432'
+      tertiary: '#C53283'
+      unibody: '#D8EBE9'
+
+  # 175
+  togepi:
+      primary: '#FCEBA6'
+      secondary: '#A6B7FC'
+      tertiary: '#A6FCEB'
+      unibody: '#FFFDF0'
+
+  # 176
+  togetic:
+      primary: '#ADBED7'
+      secondary: '#D7C6AD'
+      tertiary: '#D7ADBE'
+      unibody: '#E8EDF1'
+
+  # 255
+  torchic:
+      primary: '#F7CC3F'
+      secondary: '#3F6AF7'
+      tertiary: '#3FF7CC'
+      unibody: '#EA8B2F'
+
+  # 324
+  torkoal:
+      primary: '#ECD4BC'
+      secondary: '#BCD4EC'
+      tertiary: '#BCECD4'
+      unibody: '#ED987B'
+
+  # 641
+  tornadus:
+      primary: '#875EA0'
+      secondary: '#77A05E'
+      tertiary: '#A0875E'
+      unibody: '#F5F4F9'
+
+  # 389
+  torterra:
+      primary: '#37733D'
+      secondary: '#73376D'
+      tertiary: '#3D3773'
+      unibody: '#3E854B'
+
+  # 158
+  totodile:
+      primary: '#6093B9'
+      secondary: '#B98660'
+      tertiary: '#B96093'
+      unibody: '#5DA5D1'
+
+  # 733
+  toucannon:
+      primary: '#FBFCF7'
+      secondary: '#F8F7FC'
+      tertiary: '#F7FBFC'
+      unibody: '#554F4DFF'
+
+  # 748
+  toxapex:
+      primary: '#676399'
+      secondary: '#959963'
+      tertiary: '#996763'
+      unibody: '#A6DAE7FF'
+
+  # 454
+  toxicroak:
+      primary: '#2C2B31'
+      secondary: '#30312B'
+      tertiary: '#312C2B'
+      unibody: '#6191C2'
+
+  # 520
+  tranquill:
+      primary: '#3C3932'
+      secondary: '#32353C'
+      tertiary: '#323C39'
+      unibody: '#A5A8A1'
+
+  # 328
+  trapinch:
+      primary: '#CD795A'
+      secondary: '#5AAECD'
+      tertiary: '#5ACD79'
+      unibody: '#E98764'
+
+  # 252
+  treecko:
+      primary: '#D57287'
+      secondary: '#72D5C0'
+      tertiary: '#87D572'
+      unibody: '#BED978'
+
+  # 709
+  trevenant:
+      primary: '#058A58'
+      secondary: '#8A0537'
+      tertiary: '#58058A'
+      unibody: '#896A4E'
+
+  # 357
+  tropius:
+      primary: '#60A76F'
+      secondary: '#A76098'
+      tertiary: '#6F60A7'
+      unibody: '#A38D7F'
+
+  # 568
+  trubbish:
+      primary: '#65674E'
+      secondary: '#504E67'
+      tertiary: '#4E6567'
+      unibody: '#788363'
+
+  # 763
+  tsareena:
+      primary: '#B8D37F'
+      secondary: '#9A7FD3'
+      tertiary: '#7FB8D3'
+      unibody: '#AD4C73FF'
+
+  # 776
+  turtonator:
+      primary: '#EA6065'
+      secondary: '#60EAE5'
+      tertiary: '#65EA60'
+      unibody: '#F1D749FF'
+
+  # 387
+  turtwig:
+      primary: '#1F9948'
+      secondary: '#991F70'
+      tertiary: '#481F99'
+      unibody: '#BAD382'
+
+  # 535
+  tympole:
+      primary: '#F0D9C7'
+      secondary: '#C7DEF0'
+      tertiary: '#C7F0D9'
+      unibody: '#434343'
+
+  # 602
+  tynamo:
+      primary: '#B4C6DE'
+      secondary: '#DECCB4'
+      tertiary: '#DEB4C6'
+      unibody: '#EBF5F7'
+
+  # 157
+  typhlosion:
+      primary: '#E15834'
+      secondary: '#34BDE1'
+      tertiary: '#34E158'
+      unibody: '#FAE997'
+
+  # 248
+  tyranitar:
+      primary: '#6EA6BE'
+      secondary: '#BE866E'
+      tertiary: '#BE6EA6'
+      unibody: '#C3C19A'
+
+  # 697
+  tyrantrum:
+      primary: '#F6F9FC'
+      secondary: '#FCF9F6'
+      tertiary: '#FCF6F9'
+      unibody: '#A85A56'
+
+  # 236
+  tyrogue:
+      primary: '#9A778C'
+      secondary: '#779A85'
+      tertiary: '#8C9A77'
+      unibody: '#D5B3D4'
+
+  # 696
+  tyrunt:
+      primary: '#856A5E'
+      secondary: '#5E7985'
+      tertiary: '#5E856A'
+      unibody: '#7F6860'
+
+  # 197
+  umbreon:
+      primary: '#DF2027'
+      secondary: '#20DFD8'
+      tertiary: '#27DF20'
+      unibody: '#21201E'
+
+  # 521
+  unfezant:
+      primary: '#DD617B'
+      secondary: '#61DDC3'
+      tertiary: '#7BDD61'
+      unibody: '#A8A8AA'
+
+  # 201
+  unown:
+      primary: '#343434'
+      secondary: '#343434'
+      tertiary: '#343434'
+      unibody: '#525252'
+
+  # 217
+  ursaring:
+      primary: '#C6AE68'
+      secondary: '#6880C6'
+      tertiary: '#68C6AE'
+      unibody: '#9F6D50'
+
+  # 480
+  uxie:
+      primary: '#EFCF81'
+      secondary: '#81A1EF'
+      tertiary: '#81EFCF'
+      unibody: '#B8D6F0'
+
+  # 583
+  vanillish:
+      primary: '#FDFEFF'
+      secondary: '#FFFEFD'
+      tertiary: '#FFFDFE'
+      unibody: '#6AA0CE'
+
+  # 582
+  vanillite:
+      primary: '#F8F9FD'
+      secondary: '#FDFCF8'
+      tertiary: '#FDF8F9'
+      unibody: '#7FA4D0'
+
+  # 584
+  vanilluxe:
+      primary: '#F7FBFC'
+      secondary: '#FCF8F7'
+      tertiary: '#FCF7FB'
+      unibody: '#6F9ECC'
+
+  # 543
+  venipede:
+      primary: '#413B3D'
+      secondary: '#3B413F'
+      tertiary: '#3D413B'
+      unibody: '#BD4862'
+
+  # 416
+  vespiquen:
+      primary: '#3C3E3D'
+      secondary: '#3E3C3D'
+      tertiary: '#3D3C3E'
+      unibody: '#F3C053'
+
+  # 329
+  vibrava:
+      primary: '#3A3A39'
+      secondary: '#39393A'
+      tertiary: '#393A3A'
+      unibody: '#E1E18B'
+
+  # 494
+  victini:
+      primary: '#ED763C'
+      secondary: '#3CB3ED'
+      tertiary: '#3CED76'
+      unibody: '#FAEBAA'
+
+  # 288
+  vigoroth:
+      primary: '#896F60'
+      secondary: '#607A89'
+      tertiary: '#60896F'
+      unibody: '#EFF0F2'
+
+  # 738
+  vikavolt:
+      primary: '#96B9CB'
+      secondary: '#CBA896'
+      tertiary: '#CB96B9'
+      unibody: '#6396AFFF'
+
+  # 640
+  virizion:
+      primary: '#EAEEDF'
+      secondary: '#E3DFEE'
+      tertiary: '#DFEAEE'
+      unibody: '#A8CB6D'
+
+  # 666
+  vivillon:
+      primary: '#EEA1C5'
+      secondary: '#A1EECA'
+      tertiary: '#C5EEA1'
+      unibody: '#CED1D6'
+
+  # 313
+  volbeat:
+      primary: '#D54441'
+      secondary: '#41D2D5'
+      tertiary: '#41D544'
+      unibody: '#92A3BD'
+
+  # 721
+  volcanion:
+      primary: '#EBA23D'
+      secondary: '#3D86EB'
+      tertiary: '#3DEBA2'
+      unibody: '#9D2B2CFF'
+
+  # 637
+  volcarona:
+      primary: '#EE7421'
+      secondary: '#219BEE'
+      tertiary: '#21EE74'
+      unibody: '#E6E6E6'
+
+  # 629
+  vullaby:
+      primary: '#EFE3CB'
+      secondary: '#CBD7EF'
+      tertiary: '#CBEFE3'
+      unibody: '#635854'
+
+  # 320
+  wailmer:
+      primary: '#FAE9B5'
+      secondary: '#B5C6FA'
+      tertiary: '#B5FAE9'
+      unibody: '#00609A'
+
+  # 321
+  wailord:
+      primary: '#F0EDE8'
+      secondary: '#E8EBF0'
+      tertiary: '#E8F0ED'
+      unibody: '#016EA5'
+
+  # 365
+  walrein:
+      primary: '#F6FBF6'
+      secondary: '#FBF6FB'
+      tertiary: '#F6F6FB'
+      unibody: '#359CC7'
+
+  # 505
+  watchog:
+      primary: '#FBAD25'
+      secondary: '#2573FB'
+      tertiary: '#25FBAD'
+      unibody: '#6A3628'
+
+  # 461
+  weavile:
+      primary: '#B82746'
+      secondary: '#27B899'
+      tertiary: '#46B827'
+      unibody: '#45465A'
+
+  # 547
+  whimsicott:
+      primary: '#E6DFCD'
+      secondary: '#CDD4E6'
+      tertiary: '#CDE6DF'
+      unibody: '#745342'
+
+  # 544
+  whirlipede:
+      primary: '#4E4A49'
+      secondary: '#494D4E'
+      tertiary: '#494E4A'
+      unibody: '#A09BB1'
+
+  # 340
+  whiscash:
+      primary: '#1D4C82'
+      secondary: '#82531D'
+      tertiary: '#821D4C'
+      unibody: '#1C4B7F'
+
+  # 293
+  whismur:
+      primary: '#F7D574'
+      secondary: '#7496F7'
+      tertiary: '#74F7D5'
+      unibody: '#D9C1DB'
+
+  # 767
+  wimpod:
+      primary: '#8F6E94'
+      secondary: '#73946E'
+      tertiary: '#948F6E'
+      unibody: '#CEE1D7FF'
+
+  # 278
+  wingull:
+      primary: '#F8FDFE'
+      secondary: '#FEF9F8'
+      tertiary: '#FEF8FD'
+      unibody: '#9DCFF0'
+
+  # 746
+  wishiwashi:
+      primary: '#ACBECF'
+      secondary: '#CFBDAC'
+      tertiary: '#CFACBE'
+      unibody: '#FAFCFDFF'
+
+  # 202
+  wobbuffet:
+      primary: '#6698BF'
+      secondary: '#BF8D66'
+      tertiary: '#BF6698'
+      unibody: '#71A5D6'
+
+  # 527
+  woobat:
+      primary: '#1B2C46'
+      secondary: '#46351B'
+      tertiary: '#461B2C'
+      unibody: '#9AC2CA'
+
+  # 194
+  wooper:
+      primary: '#CDB4D3'
+      secondary: '#BAD3B4'
+      tertiary: '#D3CDB4'
+      unibody: '#A7DFFA'
+
+  # 413
+  wormadam:
+      primary: '#258152'
+      secondary: '#812554'
+      tertiary: '#522581'
+      unibody: '#529744'
+
+  # 265
+  wurmple:
+      primary: '#DF6872'
+      secondary: '#68DFD5'
+      tertiary: '#72DF68'
+      unibody: '#EBEAE5'
+
+  # 360
+  wynaut:
+      primary: '#5AA9AD'
+      secondary: '#AD5E5A'
+      tertiary: '#AD5AA9'
+      unibody: '#6AC9CF'
+
+  # 178
+  xatu:
+      primary: '#F3BC17'
+      secondary: '#174EF3'
+      tertiary: '#17F3BC'
+      unibody: '#8CC63E'
+
+  # 716
+  xerneas:
+      primary: '#D3D1AB'
+      secondary: '#ABADD3'
+      tertiary: '#ABD3D1'
+      unibody: '#343633'
+
+  # 796
+  xurkitree:
+      primary: '#E4EDEB'
+      secondary: '#EDE4E6'
+      tertiary: '#EBE4ED'
+      unibody: '#43433DFF'
+
+  # 562
+  yamask:
+      primary: '#523922'
+      secondary: '#223B52'
+      tertiary: '#225239'
+      unibody: '#1E2618'
+
+  # 193
+  yanma:
+      primary: '#FCFBFC'
+      secondary: '#FBFCFB'
+      tertiary: '#FCFCFB'
+      unibody: '#D25738'
+
+  # 469
+  yanmega:
+      primary: '#D9463F'
+      secondary: '#3FD2D9'
+      tertiary: '#3FD946'
+      unibody: '#415427'
+
+  # 734
+  yungoos:
+      primary: '#F9DB83'
+      secondary: '#83A1F9'
+      tertiary: '#83F9DB'
+      unibody: '#BE8976FF'
+
+  # 717
+  yveltal:
+      primary: '#EC6757'
+      secondary: '#57DCEC'
+      tertiary: '#57EC67'
+      unibody: '#343633'
+
+  # 335
+  zangoose:
+      primary: '#DC5164'
+      secondary: '#51DCC9'
+      tertiary: '#64DC51'
+      unibody: '#FDFEFF'
+
+  # 523
+  zebstrika:
+      primary: '#F3F6F9'
+      secondary: '#F9F6F3'
+      tertiary: '#F9F3F6'
+      unibody: '#524E4D'
+
+  # 644
+  zekrom:
+      primary: '#2A2625'
+      secondary: '#25292A'
+      tertiary: '#252A26'
+      unibody: '#EEF8F7'
+
+  # 263
+  zigzagoon:
+      primary: '#8B796B'
+      secondary: '#6B7D8B'
+      tertiary: '#6B8B79'
+      unibody: '#E1DDD4'
+
+  # 571
+  zoroark:
+      primary: '#A53039'
+      secondary: '#30A59C'
+      tertiary: '#39A530'
+      unibody: '#5C5B6B'
+
+  # 570
+  zorua:
+      primary: '#9C2C3A'
+      secondary: '#2C9C8E'
+      tertiary: '#3A9C2C'
+      unibody: '#635B73'
+
+  # 634
+  zweilous:
+      primary: '#45433F'
+      secondary: '#8a8678'
+      tertiary: '#3F4543'
+      unibody: '#534B48'
+
+  # 718
+  zygarde:
+      primary: '#96C040'
+      secondary: '#6A40C0'
+      tertiary: '#4096C0'
+      unibody: '#2F322E'
+
+
+  alolan_diglett:
+    primary: '#E2677C'
+    secondary: '#2E5F95'
+    tertiary: '#2E9564'
+    unibody: '#E2677C'
+
+  alolan_dugtrio:
+    primary: '#F0E68E'
+    secondary: '#2E5E92'
+    tertiary: '#2E9262'
+    unibody: '#F0E68E'
+
+  alolan_exeggutor_bottom:
+    primary: '#578A42'
+    secondary: '#5B7CA0'
+    tertiary: '#5BA07F'
+    unibody: '#578A42'
+
+  alolan_exeggutor_full:
+    primary: '#568A41'
+    secondary: '#5B7CA0'
+    tertiary: '#5BA07F'
+    unibody: '#568A41'
+
+  alolan_exeggutor_top:
+    primary: '#568A41'
+    secondary: '#5B7CA0'
+    tertiary: '#5BA07F'
+    unibody: '#568A41'
+
+  alolan_geodude:
+    primary: '#8C837C'
+    secondary: '#CDCAB8'
+    tertiary: '#CDB8BB'
+    unibody: '#8C837C'
+
+  alolan_golem:
+    primary: '#555561'
+    secondary: '#95919D'
+    tertiary: '#91999D'
+    unibody: '#555561'
+
+  alolan_graveler:
+    primary: '#7D766B'
+    secondary: '#A3A3AC'
+    tertiary: '#A3ACAC'
+    unibody: '#7D766B'
+
+  alolan_grimer:
+    primary: '#396948'
+    secondary: '#9A7297'
+    tertiary: '#75729A'
+    unibody: '#396948'
+
+  alolan_marowak:
+    primary: '#D5D3CF'
+    secondary: '#3B4D35'
+    tertiary: '#4D4735'
+    unibody: '#D5D3CF'
+
+  alolan_meowth:
+    primary: '#4C596D'
+    secondary: '#D7D3BE'
+    tertiary: '#D7BEC2'
+    unibody: '#4C596D'
+
+  alolan_muk:
+    primary: '#E96FA6'
+    secondary: '#997397'
+    tertiary: '#757399'
+    unibody: '#E96FA6'
+
+  alolan_ninetales:
+    primary: '#AFD9EE'
+    secondary: '#FEF6F2'
+    tertiary: '#FEF2FA'
+    unibody: '#AFD9EE'
+
+  alolan_persian:
+    primary: '#4C5B6E'
+    secondary: '#DCDBD1'
+    tertiary: '#DCD1D2'
+    unibody: '#4C5B6E'
+
+  alolan_raichu:
+    primary: '#E8E06A'
+    secondary: '#4E83C7'
+    tertiary: '#4EC792'
+    unibody: '#E8E06A'
+
+  alolan_raticate:
+    primary: '#846F60'
+    secondary: '#524E53'
+    tertiary: '#4E4F53'
+    unibody: '#846F60'
+
+  alolan_rattata:
+    primary: '#7C7E8B'
+    secondary: '#514E52'
+    tertiary: '#4E4F52'
+    unibody: '#7C7E8B'
+
+  alolan_sandshrew:
+    primary: '#EBE8B9'
+    secondary: '#E8CEC3'
+    tertiary: '#E8C3DD'
+    unibody: '#EBE8B9'
+
+  alolan_sandslash:
+    primary: '#66AFC7'
+    secondary: '#E9C5B7'
+    tertiary: '#E9B7DB'
+    unibody: '#66AFC7'
+
+  alolan_vulpix:
+    primary: '#ACC1D5'
+    secondary: '#FEFAF7'
+    tertiary: '#FEF7FB'
+    unibody: '#ACC1D5'
+
+  arceus_special:
+    primary: '#504F4D'
+    secondary: '#7a7876'
+    tertiary: '#fd018a'
+    unibody: '#EBEBEB'
+
+  basculin_blue:
+    primary: '#FAFBF3'
     secondary: '#7B42B3'
     tertiary: '#427AB3'
     unibody: '#7AB342'
 
-  # 411
-  bastiodon:
-    primary: '#FBD688'
-    secondary: '#88ADFB'
-    tertiary: '#88FBD6'
-    unibody: '#FBD688'
-
-  # 153
-  bayleef:
-    primary: '#FBEB9D'
-    secondary: '#9DADFB'
-    tertiary: '#9DFBEB'
-    unibody: '#FBEB9D'
-
-  # 614
-  beartic:
-    primary: '#E9F4FA'
-    secondary: '#FAEFE9'
-    tertiary: '#FAE9F4'
-    unibody: '#E9F4FA'
-
-  # 267
-  beautifly:
-    primary: '#66646E'
-    secondary: '#6C6E64'
-    tertiary: '#6E6664'
-    unibody: '#66646E'
-
-  # 606
-  beheeyem:
-    primary: '#CEA593'
-    secondary: '#93BCCE'
-    tertiary: '#93CEA5'
-    unibody: '#CEA593'
-
-  # 374
-  beldum:
-    primary: '#52A5AD'
-    secondary: '#AD5A52'
-    tertiary: '#AD52A5'
-    unibody: '#52A5AD'
-
-  # 182
-  bellossom:
-    primary: '#BAD69C'
-    secondary: '#B89CD6'
-    tertiary: '#9CBAD6'
-    unibody: '#BAD69C'
-
-  # 712
-  bergmite:
-    primary: '#FDFEFF'
-    secondary: '#FFFEFD'
-    tertiary: '#FFFDFE'
-    unibody: '#FDFEFF'
-
-  # 760
-  bewear:
-    primary: '#403C39'
-    secondary: '#393D40'
-    tertiary: '#39403C'
-    unibody: '#403C39'
-
-  # 400
-  bibarel:
-    primary: '#BE8D48'
-    secondary: '#4879BE'
-    tertiary: '#48BE8D'
-    unibody: '#BE8D48'
-
-  # 399
-  bidoof:
-    primary: '#A17035'
-    secondary: '#3566A1'
-    tertiary: '#35A170'
-    unibody: '#A17035'
-
-  # 688
-  binacle:
-    primary: '#C3C9D8'
-    secondary: '#D8D2C3'
-    tertiary: '#D8C3C9'
-    unibody: '#C3C9D8'
-
-  # 625
-  bisharp:
-    primary: '#9D484B'
-    secondary: '#489D9A'
-    tertiary: '#4B9D48'
-    unibody: '#9D484B'
-
-  # 257
-  blaziken:
-    primary: '#ECDDBE'
-    secondary: '#BECDEC'
-    tertiary: '#BEECDD'
-    unibody: '#ECDDBE'
-
-  # 242
-  blissey:
-    primary: '#E9A5BC'
-    secondary: '#A5E9D2'
-    tertiary: '#BCE9A5'
-    unibody: '#E9A5BC'
-
-  # 522
-  blitzle:
-    primary: '#4F4B48'
-    secondary: '#484C4F'
-    tertiary: '#484F4B'
-    unibody: '#4F4B48'
-
-  # 525
-  boldore:
-    primary: '#2F3451'
-    secondary: '#514C2F'
-    tertiary: '#512F34'
-    unibody: '#2F3451'
-
-  # 438
-  bonsly:
-    primary: '#A2814B'
-    secondary: '#4B6CA2'
-    tertiary: '#4BA281'
-    unibody: '#A2814B'
-
-  # 626
-  bouffalant:
-    primary: '#8F6E29'
-    secondary: '#294A8F'
-    tertiary: '#298F6E'
-    unibody: '#8F6E29'
-
-  # 761
-  bounsweet:
-    primary: '#768D64'
-    secondary: '#7B648D'
-    tertiary: '#64768D'
-    unibody: '#768D64'
-
-  # 654
-  braixen:
-    primary: '#F4E371'
-    secondary: '#7182F4'
-    tertiary: '#71F4E3'
-    unibody: '#F4E371'
-
-  # 628
-  braviary:
-    primary: '#562A2B'
-    secondary: '#2A5655'
-    tertiary: '#2B562A'
-    unibody: '#562A2B'
-
-  # 286
-  breloom:
-    primary: '#EADEB9'
-    secondary: '#B9C5EA'
-    tertiary: '#B9EADE'
-    unibody: '#EADEB9'
-
-  # 437
-  bronzong:
-    primary: '#7BACA7'
-    secondary: '#AC7B80'
-    tertiary: '#A77BAC'
-    unibody: '#7BACA7'
-
-  # 436
-  bronzor:
-    primary: '#54A0AE'
-    secondary: '#AE6254'
-    tertiary: '#AE54A0'
-    unibody: '#54A0AE'
-
-  # 779
-  bruxish:
-    primary: '#8ECEDC'
-    secondary: '#DC9C8E'
-    tertiary: '#DC8ECE'
-    unibody: '#8ECEDC'
-
-  # 406
-  budew:
-    primary: '#87C766'
-    secondary: '#A666C7'
-    tertiary: '#6687C7'
-    unibody: '#87C766'
-
-  # 418
-  buizel:
-    primary: '#E58352'
-    secondary: '#52B4E5'
-    tertiary: '#52E583'
-    unibody: '#E58352'
-
-  # 427
-  buneary:
-    primary: '#B27A63'
-    secondary: '#639BB2'
-    tertiary: '#63B27A'
-    unibody: '#B27A63'
-
-  # 659
-  bunnelby:
-    primary: '#B3B3B3'
-    secondary: '#B3B3B3'
-    tertiary: '#B3B3B3'
-    unibody: '#B3B3B3'
-
-  # 412
-  burmy:
-    primary: '#62A146'
-    secondary: '#8546A1'
-    tertiary: '#4662A1'
-    unibody: '#62A146'
-
-  # 794
-  buzzwole:
-    primary: '#E83F42'
-    secondary: '#3FE8E5'
-    tertiary: '#42E83F'
-    unibody: '#E83F42'
-
-  # 331
-  cacnea:
-    primary: '#94B469'
-    secondary: '#8969B4'
-    tertiary: '#6994B4'
-    unibody: '#94B469'
-
-  # 332
-  cacturne:
-    primary: '#A5C097'
-    secondary: '#B297C0'
-    tertiary: '#97A5C0'
-    unibody: '#A5C097'
-
-  # 323
-  camerupt:
-    primary: '#D9806E'
-    secondary: '#6EC7D9'
-    tertiary: '#6ED980'
-    unibody: '#D9806E'
-
-  # 703
-  carbink:
-    primary: '#B8B8C4'
-    secondary: '#C4C4B8'
-    tertiary: '#C4B8B8'
-    unibody: '#B8B8C4'
-
-  # 455
-  carnivine:
-    primary: '#B1CE72'
-    secondary: '#8F72CE'
-    tertiary: '#72B1CE'
-    unibody: '#B1CE72'
-
-  # 565
-  carracosta:
-    primary: '#6DA5D6'
-    secondary: '#D69E6D'
-    tertiary: '#D66DA5'
-    unibody: '#6DA5D6'
-
-  # 318
-  carvanha:
-    primary: '#014F7F'
-    secondary: '#7F3101'
-    tertiary: '#7F014F'
-    unibody: '#014F7F'
-
-  # 268
-  cascoon:
-    primary: '#DCD6E4'
-    secondary: '#DEE4D6'
-    tertiary: '#E4DCD6'
-    unibody: '#DCD6E4'
-
-  # 351
-  castform:
-    primary: '#CFD3DC'
-    secondary: '#DCD8CF'
-    tertiary: '#DCCFD3'
-    unibody: '#CFD3DC'
-
-  # 251
-  celebi:
-    primary: '#F9F3BF'
-    secondary: '#BFC5F9'
-    tertiary: '#BFF9F3'
-    unibody: '#F9F3BF'
-
-  # 797
-  celesteela:
-    primary: '#8FA9A4'
-    secondary: '#A98F94'
-    tertiary: '#A48FA9'
-    unibody: '#8FA9A4'
-
-  # 609
-  chandelure:
-    primary: '#67666C'
-    secondary: '#6B6C66'
-    tertiary: '#6C6766'
-    unibody: '#67666C'
-
-  # 737
-  charjabug:
-    primary: '#7D9C70'
-    secondary: '#8F709C'
-    tertiary: '#707D9C'
-    unibody: '#7D9C70'
-
-  # 441
-  chatot:
-    primary: '#3E8CBC'
-    secondary: '#BC6E3E'
-    tertiary: '#BC3E8C'
-    unibody: '#3E8CBC'
-
-  # 421
-  cherrim:
-    primary: '#F6CA35'
-    secondary: '#3561F6'
-    tertiary: '#35F6CA'
-    unibody: '#F6CA35'
-
-  # 420
-  cherubi:
-    primary: '#E8697E'
-    secondary: '#69E8D3'
-    tertiary: '#7EE869'
-    unibody: '#E8697E'
-
-  # 652
-  chesnaught:
-    primary: '#DBE3B2'
-    secondary: '#BAB2E3'
-    tertiary: '#B2DBE3'
-    unibody: '#DBE3B2'
-
-  # 650
-  chespin:
-    primary: '#B2D45C'
-    secondary: '#7E5CD4'
-    tertiary: '#5CB2D4'
-    unibody: '#B2D45C'
-
-  # 152
-  chikorita:
-    primary: '#DDE2B9'
-    secondary: '#BEB9E2'
-    tertiary: '#B9DDE2'
-    unibody: '#DDE2B9'
-
-  # 390
-  chimchar:
-    primary: '#E69947'
-    secondary: '#4794E6'
-    tertiary: '#47E699'
-    unibody: '#E69947'
-
-  # 358
-  chimecho:
-    primary: '#BDDCF0'
-    secondary: '#F0D1BD'
-    tertiary: '#F0BDDC'
-    unibody: '#BDDCF0'
-
-  # 170
-  chinchou:
-    primary: '#749BD2'
-    secondary: '#D2AB74'
-    tertiary: '#D2749B'
-    unibody: '#749BD2'
-
-  # 433
-  chingling:
-    primary: '#EBD158'
-    secondary: '#5872EB'
-    tertiary: '#58EBD1'
-    unibody: '#EBD158'
-
-  # 573
-  cinccino:
-    primary: '#BAB9B7'
-    secondary: '#B7B8BA'
-    tertiary: '#B7BAB9'
-    unibody: '#BAB9B7'
-
-  # 366
-  clamperl:
-    primary: '#6CABD4'
-    secondary: '#D4956C'
-    tertiary: '#D46CAB'
-    unibody: '#6CABD4'
-
-  # 692
-  clauncher:
-    primary: '#8DD3F5'
-    secondary: '#F5AF8D'
-    tertiary: '#F58DD3'
-    unibody: '#8DD3F5'
-
-  # 693
-  clawitzer:
-    primary: '#7DCBF1'
-    secondary: '#F1A37D'
-    tertiary: '#F17DCB'
-    unibody: '#7DCBF1'
-
-  # 344
-  claydol:
-    primary: '#5B514F'
-    secondary: '#4F595B'
-    tertiary: '#4F5B51'
-    unibody: '#5B514F'
-
-  # 173
-  cleffa:
-    primary: '#FBD6CD'
-    secondary: '#CDF2FB'
-    tertiary: '#CDFBD6'
-    unibody: '#FBD6CD'
-
-  # 638
-  cobalion:
-    primary: '#3196A8'
-    secondary: '#A84331'
-    tertiary: '#A83196'
-    unibody: '#3196A8'
-
-  # 563
-  cofagrigus:
-    primary: '#F9BF5E'
-    secondary: '#5E98F9'
-    tertiary: '#5EF9BF'
-    unibody: '#F9BF5E'
-
-  # 415
-  combee:
-    primary: '#F5C533'
-    secondary: '#3363F5'
-    tertiary: '#33F5C5'
-    unibody: '#F5C533'
-
-  # 256
-  combusken:
-    primary: '#CD7E53'
-    secondary: '#53A2CD'
-    tertiary: '#53CD7E'
-    unibody: '#CD7E53'
-
-  # 764
-  comfey:
-    primary: '#DBE496'
-    secondary: '#9F96E4'
-    tertiary: '#96DBE4'
-    unibody: '#DBE496'
-
-  # 534
-  conkeldurr:
-    primary: '#B48F75'
-    secondary: '#759AB4'
-    tertiary: '#75B48F'
-    unibody: '#B48F75'
-
-  # 341
-  corphish:
-    primary: '#E0D6CA'
-    secondary: '#CAD4E0'
-    tertiary: '#CAE0D6'
-    unibody: '#E0D6CA'
-
-  # 222
-  corsola:
-    primary: '#F397A4'
-    secondary: '#97F3E6'
-    tertiary: '#A4F397'
-    unibody: '#F397A4'
-
-  # 790
-  cosmoem:
-    primary: '#1D2088'
-    secondary: '#88851D'
-    tertiary: '#881D20'
-    unibody: '#1D2088'
-
-  # 789
-  cosmog:
-    primary: '#303A81'
-    secondary: '#817730'
-    tertiary: '#81303A'
-    unibody: '#303A81'
-
-  # 546
-  cottonee:
-    primary: '#FDFDFC'
-    secondary: '#FCFCFD'
-    tertiary: '#FCFDFD'
-    unibody: '#FDFDFC'
-
-  # 740
-  crabominable:
-    primary: '#F5F9FC'
-    secondary: '#FCF8F5'
-    tertiary: '#FCF5F9'
-    unibody: '#F5F9FC'
-
-  # 739
-  crabrawler:
-    primary: '#8761A5'
-    secondary: '#7FA561'
-    tertiary: '#A58761'
-    unibody: '#8761A5'
-
-  # 346
-  cradily:
-    primary: '#A5B473'
-    secondary: '#8273B4'
-    tertiary: '#73A5B4'
-    unibody: '#A5B473'
-
-  # 408
-  cranidos:
-    primary: '#71747D'
-    secondary: '#7D7A71'
-    tertiary: '#7D7174'
-    unibody: '#71747D'
-
-  # 342
-  crawdaunt:
-    primary: '#DE5238'
-    secondary: '#38C4DE'
-    tertiary: '#38DE52'
-    unibody: '#DE5238'
-
-  # 488
-  cresselia:
-    primary: '#93B0CE'
-    secondary: '#CEB193'
-    tertiary: '#CE93B0'
-    unibody: '#93B0CE'
-
-  # 453
-  croagunk:
-    primary: '#7994C1'
-    secondary: '#C1A679'
-    tertiary: '#C17994'
-    unibody: '#7994C1'
-
-  # 169
-  crobat:
-    primary: '#8D71A4'
-    secondary: '#88A471'
-    tertiary: '#A48D71'
-    unibody: '#8D71A4'
-
-  # 159
-  croconaw:
-    primary: '#77BBAE'
-    secondary: '#BB7784'
-    tertiary: '#AE77BB'
-    unibody: '#77BBAE'
-
-  # 558
-  crustle:
-    primary: '#A59179'
-    secondary: '#798DA5'
-    tertiary: '#79A591'
-    unibody: '#A59179'
-
-  # 615
-  cryogonal:
-    primary: '#DBE1EF'
-    secondary: '#EFE9DB'
-    tertiary: '#EFDBE1'
-    unibody: '#DBE1EF'
-
-  # 613
-  cubchoo:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 742
-  cutiefly:
-    primary: '#FEFEF7'
-    secondary: '#F7F7FE'
-    tertiary: '#F7FEFE'
-    unibody: '#FEFEF7'
-
-  # 155
-  cyndaquil:
-    primary: '#FCF2CF'
-    secondary: '#CFD9FC'
-    tertiary: '#CFFCF2'
-    unibody: '#FCF2CF'
-
-  # 491
-  darkrai:
-    primary: '#504742'
-    secondary: '#424B50'
-    tertiary: '#425047'
-    unibody: '#504742'
-
-  # 555
-  darmanitan:
-    primary: '#AC463A'
-    secondary: '#3AA0AC'
-    tertiary: '#3AAC46'
-    unibody: '#AC463A'
-
-  # 723
-  dartrix:
-    primary: '#FFFFFE'
-    secondary: '#FEFEFF'
-    tertiary: '#FEFFFF'
-    unibody: '#FFFFFE'
-
-  # 554
-  darumaka:
-    primary: '#C85A37'
-    secondary: '#37A5C8'
-    tertiary: '#37C85A'
-    unibody: '#C85A37'
-
-  # 702
-  dedenne:
-    primary: '#F2F1C1'
-    secondary: '#C1C2F2'
-    tertiary: '#C1F2F1'
-    unibody: '#F2F1C1'
-
-  # 585
-  deerling:
-    primary: '#F9F4D6'
+  burmy_sandy:
+    primary: '#626063'
+    secondary: '#A8BCF1'
+    tertiary: '#A8F1DD'
+    unibody: '#F1DDA8'
+
+  burmy_trash:
+    primary: '#626063'
+    secondary: '#9DE8E1'
+    tertiary: '#A4E89D'
+    unibody: '#E89DA4'
+
+  castform_hail:
+    primary: '#BEE3EB'
+    secondary: '#83A357'
+    tertiary: '#A37757'
+    unibody: '#7757A3'
+
+  castform_rain:
+    primary: '#8FCBDE'
+    secondary: '#B8A964'
+    tertiary: '#B86473'
+    unibody: '#6473B8'
+
+  castform_sun:
+    primary: '#F79963'
+    secondary: '#4CBDCD'
+    tertiary: '#4CCD5C'
+    unibody: '#CD5C4C'
+
+  dawn_wings_lunala:
+    primary: '#1C1F20'
+    secondary: '#F0DBCB'
+    tertiary: '#F0CBE0'
+    unibody: '#CBE0F0'
+
+  deerling_fall:
+    primary: '#DE8239'
+    secondary: '#D8DDFA'
+    tertiary: '#D8FAF5'
+    unibody: '#FAF5D8'
+
+  deerling_spring:
+    primary: '#E79BA8'
     secondary: '#D6DBF9'
     tertiary: '#D6F9F4'
     unibody: '#F9F4D6'
 
-  # 633
-  deino:
-    primary: '#625B55'
-    secondary: '#555C62'
-    tertiary: '#55625B'
-    unibody: '#625B55'
-
-  # 301
-  delcatty:
-    primary: '#FAEAB7'
-    secondary: '#B7C7FA'
-    tertiary: '#B7FAEA'
-    unibody: '#FAEAB7'
-
-  # 225
-  delibird:
-    primary: '#D93D27'
-    secondary: '#27C3D9'
-    tertiary: '#27D93D'
-    unibody: '#D93D27'
-
-  # 655
-  delphox:
-    primary: '#FBEE7C'
-    secondary: '#7C89FB'
-    tertiary: '#7CFBEE'
-    unibody: '#FBEE7C'
-
-  # 386
-  deoxys:
-    primary: '#E3946D'
-    secondary: '#6DBCE3'
-    tertiary: '#6DE394'
-    unibody: '#E3946D'
-
-  # 502
-  dewott:
-    primary: '#85A9C1'
-    secondary: '#C19D85'
-    tertiary: '#C185A9'
-    unibody: '#85A9C1'
-
-  # 751
-  dewpider:
-    primary: '#5E6974'
-    secondary: '#74695E'
-    tertiary: '#745E69'
-    unibody: '#5E6974'
-
-  # 781
-  dhelmise:
-    primary: '#8F6335'
-    secondary: '#35618F'
-    tertiary: '#358F63'
-    unibody: '#8F6335'
-
-  # 483
-  dialga:
-    primary: '#2B3B6C'
-    secondary: '#6C5C2B'
-    tertiary: '#6C2B3B'
-    unibody: '#2B3B6C'
-
-  # 719
-  diancie:
-    primary: '#EFC9DE'
-    secondary: '#C9EFDA'
-    tertiary: '#DEEFC9'
-    unibody: '#EFC9DE'
-
-  # 660
-  diggersby:
-    primary: '#B4B5B9'
-    secondary: '#B9B8B4'
-    tertiary: '#B9B4B5'
-    unibody: '#B4B5B9'
-
-  # 232
-  donphan:
-    primary: '#BDCADA'
-    secondary: '#DACDBD'
-    tertiary: '#DABDCA'
-    unibody: '#BDCADA'
-
-  # 680
-  doublade:
-    primary: '#A49381'
-    secondary: '#8192A4'
-    tertiary: '#81A493'
-    unibody: '#A49381'
-
-  # 691
-  dragalge:
-    primary: '#8C5D43'
-    secondary: '#43728C'
-    tertiary: '#438C5D'
-    unibody: '#8C5D43'
-
-  # 780
-  drampa:
-    primary: '#BDCCAA'
-    secondary: '#B9AACC'
-    tertiary: '#AABDCC'
-    unibody: '#BDCCAA'
-
-  # 452
-  drapion:
-    primary: '#AC73A8'
-    secondary: '#73AC77'
-    tertiary: '#A8AC73'
-    unibody: '#AC73A8'
-
-  # 426
-  drifblim:
-    primary: '#88739A'
-    secondary: '#859A73'
-    tertiary: '#9A8873'
-    unibody: '#88739A'
-
-  # 425
-  drifloon:
-    primary: '#A086B3'
-    secondary: '#99B386'
-    tertiary: '#B3A086'
-    unibody: '#A086B3'
-
-  # 529
-  drilbur:
-    primary: '#404040'
-    secondary: '#404040'
-    tertiary: '#404040'
-    unibody: '#404040'
-
-  # 621
-  druddigon:
-    primary: '#14749C'
-    secondary: '#9C3C14'
-    tertiary: '#9C1474'
-    unibody: '#14749C'
-
-  # 580
-  ducklett:
-    primary: '#7FCBE5'
-    secondary: '#E5997F'
-    tertiary: '#E57FCB'
-    unibody: '#7FCBE5'
-
-  # 206
-  dunsparce:
-    primary: '#F9E09E'
-    secondary: '#9EB7F9'
-    tertiary: '#9EF9E0'
-    unibody: '#F9E09E'
-
-  # 578
-  duosion:
-    primary: '#D9EAC8'
-    secondary: '#D9C8EA'
-    tertiary: '#C8D9EA'
-    unibody: '#D9EAC8'
-
-  # 632
-  durant:
-    primary: '#3A3B3F'
-    secondary: '#3F3E3A'
-    tertiary: '#3F3A3B'
-    unibody: '#3A3B3F'
-
-  # 356
-  dusclops:
-    primary: '#B4B9BC'
-    secondary: '#BCB7B4'
-    tertiary: '#BCB4B9'
-    unibody: '#B4B9BC'
-
-  # 477
-  dusknoir:
-    primary: '#AEB1A0'
-    secondary: '#A3A0B1'
-    tertiary: '#A0AEB1'
-    unibody: '#AEB1A0'
-
-  # 355
-  duskull:
-    primary: '#53534B'
-    secondary: '#4B4B53'
-    tertiary: '#4B5353'
-    unibody: '#53534B'
-
-  # 269
-  dustox:
-    primary: '#AA8FBC'
-    secondary: '#A1BC8F'
-    tertiary: '#BCAA8F'
-    unibody: '#AA8FBC'
-
-  # 557
-  dwebble:
-    primary: '#E89454'
-    secondary: '#54A8E8'
-    tertiary: '#54E894'
-    unibody: '#E89454'
-
-  # 603
-  eelektrik:
-    primary: '#425F7D'
-    secondary: '#7D6042'
-    tertiary: '#7D425F'
-    unibody: '#425F7D'
-
-  # 604
-  eelektross:
-    primary: '#435E7C'
-    secondary: '#7C6143'
-    tertiary: '#7C435E'
-    unibody: '#435E7C'
-
-  # 466
-  electivire:
-    primary: '#F2D170'
-    secondary: '#7091F2'
-    tertiary: '#70F2D1'
-    unibody: '#F2D170'
-
-  # 309
-  electrike:
-    primary: '#96BF85'
-    secondary: '#AE85BF'
-    tertiary: '#8596BF'
-    unibody: '#96BF85'
-
-  # 239
-  elekid:
-    primary: '#F8BA17'
-    secondary: '#1755F8'
-    tertiary: '#17F8BA'
-    unibody: '#F8BA17'
-
-  # 605
-  elgyem:
-    primary: '#A6D8D5'
-    secondary: '#D8A6A9'
-    tertiary: '#D5A6D8'
-    unibody: '#A6D8D5'
-
-  # 500
-  emboar:
-    primary: '#ED6123'
-    secondary: '#23AFED'
-    tertiary: '#23ED61'
-    unibody: '#ED6123'
-
-  # 587
-  emolga:
-    primary: '#E9E4EA'
-    secondary: '#E5EAE4'
-    tertiary: '#EAE9E4'
-    unibody: '#E9E4EA'
-
-  # 395
-  empoleon:
-    primary: '#303539'
-    secondary: '#393430'
-    tertiary: '#393035'
-    unibody: '#303539'
-
-  # 244
-  entei:
-    primary: '#7B0100'
-    secondary: '#007A7B'
-    tertiary: '#007B01'
-    unibody: '#7B0100'
-
-  # 589
-  escavalier:
-    primary: '#353535'
-    secondary: '#353535'
-    tertiary: '#353535'
-    unibody: '#353535'
-
-  # 196
-  espeon:
-    primary: '#D4B7D5'
-    secondary: '#B8D5B7'
-    tertiary: '#D5D4B7'
-    unibody: '#D4B7D5'
-
-  # 677
-  espurr:
-    primary: '#A1A3BA'
-    secondary: '#BAB8A1'
-    tertiary: '#BAA1A3'
-    unibody: '#A1A3BA'
-
-  # 530
-  excadrill:
-    primary: '#433625'
-    secondary: '#253243'
-    tertiary: '#254336'
-    unibody: '#433625'
-
-  # 295
-  exploud:
-    primary: '#969ECC'
-    secondary: '#CCC496'
-    tertiary: '#CC969E'
-    unibody: '#969ECC'
-
-  # 349
-  feebas:
-    primary: '#D2C398'
-    secondary: '#98A7D2'
-    tertiary: '#98D2C3'
-    unibody: '#D2C398'
-
-  # 653
-  fennekin:
-    primary: '#F7F387'
-    secondary: '#878BF7'
-    tertiary: '#87F7F3'
-    unibody: '#F7F387'
-
-  # 160
-  feraligatr:
-    primary: '#5FBDD6'
-    secondary: '#D6785F'
-    tertiary: '#D65FBD'
-    unibody: '#5FBDD6'
-
-  # 597
-  ferroseed:
-    primary: '#4BA26F'
-    secondary: '#A24B7E'
-    tertiary: '#6F4BA2'
-    unibody: '#4BA26F'
-
-  # 598
-  ferrothorn:
-    primary: '#4A9665'
-    secondary: '#964A7B'
-    tertiary: '#654A96'
-    unibody: '#4A9665'
-
-  # 456
-  finneon:
-    primary: '#39464E'
-    secondary: '#4E4139'
-    tertiary: '#4E3946'
-    unibody: '#39464E'
-
-  # 180
-  flaaffy:
-    primary: '#F6B9C9'
-    secondary: '#B9F6E6'
-    tertiary: '#C9F6B9'
-    unibody: '#F6B9C9'
-
-  # 662
-  fletchinder:
-    primary: '#EB7547'
-    secondary: '#47BDEB'
-    tertiary: '#47EB75'
-    unibody: '#EB7547'
-
-  # 661
-  fletchling:
-    primary: '#D2D3E8'
-    secondary: '#E8E7D2'
-    tertiary: '#E8D2D3'
-    unibody: '#D2D3E8'
-
-  # 419
-  floatzel:
-    primary: '#DA713A'
-    secondary: '#3AA3DA'
-    tertiary: '#3ADA71'
-    unibody: '#DA713A'
-
-  # 670
-  floette:
-    primary: '#19987B'
-    secondary: '#981936'
-    tertiary: '#7B1998'
-    unibody: '#19987B'
-
-  # 671
-  florges:
-    primary: '#EB545D'
-    secondary: '#54EBE2'
-    tertiary: '#5DEB54'
-    unibody: '#EB545D'
-
-  # 330
-  flygon:
-    primary: '#B7D188'
-    secondary: '#A288D1'
-    tertiary: '#88B7D1'
-    unibody: '#B7D188'
-
-  # 753
-  fomantis:
-    primary: '#F4CED1'
-    secondary: '#CEF4F1'
-    tertiary: '#D1F4CE'
-    unibody: '#F4CED1'
-
-  # 590
-  foongus:
-    primary: '#4F4039'
-    secondary: '#39484F'
-    tertiary: '#394F40'
-    unibody: '#4F4039'
-
-  # 205
-  forretress:
-    primary: '#C2B2B3'
-    secondary: '#B2C2C1'
-    tertiary: '#B3C2B2'
-    unibody: '#C2B2B3'
-
-  # 611
-  fraxure:
-    primary: '#615F60'
-    secondary: '#5F6160'
-    tertiary: '#60615F'
-    unibody: '#615F60'
-
-  # 592
-  frillish:
-    primary: '#8ED1EE'
-    secondary: '#EEAB8E'
-    tertiary: '#EE8ED1'
-    unibody: '#8ED1EE'
-
-  # 656
-  froakie:
-    primary: '#FDFDF1'
-    secondary: '#F1F1FD'
-    tertiary: '#F1FDFD'
-    unibody: '#FDFDF1'
-
-  # 657
-  frogadier:
-    primary: '#54B8E9'
-    secondary: '#E98554'
-    tertiary: '#E954B8'
-    unibody: '#54B8E9'
-
-  # 478
-  froslass:
-    primary: '#F9F8F3'
-    secondary: '#F3F4F9'
-    tertiary: '#F3F9F8'
-    unibody: '#F9F8F3'
-
-  # 676
-  furfrou:
-    primary: '#EFF3E4'
-    secondary: '#E8E4F3'
-    tertiary: '#E4EFF3'
-    unibody: '#EFF3E4'
-
-  # 162
-  furret:
-    primary: '#E6C39D'
-    secondary: '#9DC0E6'
-    tertiary: '#9DE6C3'
-    unibody: '#E6C39D'
-
-  # 444
-  gabite:
-    primary: '#5D669D'
-    secondary: '#9D945D'
-    tertiary: '#9D5D66'
-    unibody: '#5D669D'
-
-  # 475
-  gallade:
-    primary: '#276536'
-    secondary: '#652756'
-    tertiary: '#362765'
-    unibody: '#276536'
-
-  # 596
-  galvantula:
-    primary: '#FEED59'
-    secondary: '#596AFE'
-    tertiary: '#59FEED'
-    unibody: '#FEED59'
-
-  # 569
-  garbodor:
-    primary: '#52755D'
-    secondary: '#75526A'
-    tertiary: '#5D5275'
-    unibody: '#52755D'
-
-  # 445
-  garchomp:
-    primary: '#4B537A'
-    secondary: '#7A724B'
-    tertiary: '#7A4B53'
-    unibody: '#4B537A'
-
-  # 282
-  gardevoir:
-    primary: '#7EAE7A'
-    secondary: '#AA7AAE'
-    tertiary: '#7A7EAE'
-    unibody: '#7EAE7A'
-
-  # 423
-  gastrodon:
-    primary: '#377F3F'
-    secondary: '#7F3777'
-    tertiary: '#3F377F'
-    unibody: '#377F3F'
-
-  # 649
-  genesect:
-    primary: '#A06C9C'
-    secondary: '#6CA070'
-    tertiary: '#9CA06C'
-    unibody: '#A06C9C'
-
-  # 443
-  gible:
-    primary: '#5F8093'
-    secondary: '#93725F'
-    tertiary: '#935F80'
-    unibody: '#5F8093'
-
-  # 526
-  gigalith:
-    primary: '#242537'
-    secondary: '#373624'
-    tertiary: '#372425'
-    unibody: '#242537'
-
-  # 203
-  girafarig:
-    primary: '#EDB321'
-    secondary: '#215BED'
-    tertiary: '#21EDB3'
-    unibody: '#EDB321'
-
-  # 487
-  giratina:
-    primary: '#28292B'
-    secondary: '#2B2A28'
-    tertiary: '#2B2829'
-    unibody: '#28292B'
-
-  # 471
-  glaceon:
-    primary: '#B5DEDA'
-    secondary: '#DEB5B9'
-    tertiary: '#DAB5DE'
-    unibody: '#B5DEDA'
-
-  # 362
-  glalie:
-    primary: '#48494B'
-    secondary: '#4B4A48'
-    tertiary: '#4B4849'
-    unibody: '#48494B'
-
-  # 431
-  glameow:
-    primary: '#8C98A6'
-    secondary: '#A69A8C'
-    tertiary: '#A68C98'
-    unibody: '#8C98A6'
-
-  # 207
-  gligar:
-    primary: '#D08EBC'
-    secondary: '#8ED0A2'
-    tertiary: '#BCD08E'
-    unibody: '#D08EBC'
-
-  # 472
-  gliscor:
-    primary: '#9CA7C7'
-    secondary: '#C7BC9C'
-    tertiary: '#C79CA7'
-    unibody: '#9CA7C7'
-
-  # 673
-  gogoat:
-    primary: '#988A6F'
-    secondary: '#6F7D98'
-    tertiary: '#6F988A'
-    unibody: '#988A6F'
-
-  # 622
-  golett:
-    primary: '#4C777D'
-    secondary: '#7D524C'
-    tertiary: '#7D4C77'
-    unibody: '#4C777D'
-
-  # 768
-  golisopod:
-    primary: '#D3DFD8'
-    secondary: '#DFD3DA'
-    tertiary: '#D8D3DF'
-    unibody: '#D3DFD8'
-
-  # 623
-  golurk:
-    primary: '#73AFB0'
-    secondary: '#B07473'
-    tertiary: '#B073AF'
-    unibody: '#73AFB0'
-
-  # 706
-  goodra:
-    primary: '#E7D6E8'
-    secondary: '#D7E8D6'
-    tertiary: '#E8E7D6'
-    unibody: '#E7D6E8'
-
-  # 704
-  goomy:
-    primary: '#E7D6E8'
-    secondary: '#D7E8D6'
-    tertiary: '#E8E7D6'
-    unibody: '#E7D6E8'
-
-  # 368
-  gorebyss:
-    primary: '#EEB0C9'
-    secondary: '#B0EED5'
-    tertiary: '#C9EEB0'
-    unibody: '#EEB0C9'
-
-  # 574
-  gothita:
-    primary: '#303426'
-    secondary: '#2A2634'
-    tertiary: '#263034'
-    unibody: '#303426'
-
-  # 576
-  gothitelle:
-    primary: '#393738'
-    secondary: '#373938'
-    tertiary: '#383937'
-    unibody: '#393738'
-
-  # 575
-  gothorita:
-    primary: '#35363A'
-    secondary: '#3A3935'
-    tertiary: '#3A3536'
-    unibody: '#35363A'
-
-  # 711
-  gourgeist:
-    primary: '#61532E'
+  deerling_summer:
+    primary: '#80BB47'
+    secondary: '#D8DDFA'
+    tertiary: '#D8FAF5'
+    unibody: '#FAF5D8'
+
+  deerling_winter:
+    primary: '#A08363'
+    secondary: '#D8DDFA'
+    tertiary: '#D8FAF5'
+    unibody: '#FAF5D8'
+
+  deoxys_attack:
+    primary: '#4A8DA1'
+    secondary: '#6EBDE4'
+    tertiary: '#6EE495'
+    unibody: '#E4956E'
+
+  deoxys_defense:
+    primary: '#498DA1'
+    secondary: '#6EBDE4'
+    tertiary: '#6EE495'
+    unibody: '#E4956E'
+
+  deoxys_speed:
+    primary: '#4A8DA1'
+    secondary: '#6EBDE4'
+    tertiary: '#6EE495'
+    unibody: '#E4956E'
+
+  dunsparce_alt:
+    primary: '#7DB5E4'
+    secondary: '#7A86FE'
+    tertiary: '#7AFEF2'
+    unibody: '#FEF27A'
+
+  dusk_mane_necrozma:
+    primary: '#0E0F0F'
+    secondary: '#E4EFFE'
+    tertiary: '#E4FEF3'
+    unibody: '#FEF3E4'
+
+  gastrodon_west:
+    primary: '#835E32'
+    secondary: '#89E0B6'
+    tertiary: '#B3E089'
+    unibody: '#E089B3'
+
+  giratina_origin:
+    primary: '#D8BD64'
+    secondary: '#2F3D2C'
+    tertiary: '#3D3A2C'
+    unibody: '#3A2C3D'
+
+  gourgeist_average:
+    primary: '#E27B58'
     secondary: '#2E3C61'
     tertiary: '#2E6153'
     unibody: '#61532E'
 
-  # 210
-  granbull:
-    primary: '#B188A8'
-    secondary: '#88B191'
-    tertiary: '#A8B188'
-    unibody: '#B188A8'
+  gourgeist_large:
+    primary: '#E27B58'
+    secondary: '#2E3C61'
+    tertiary: '#2E6153'
+    unibody: '#61532E'
 
-  # 658
-  greninja:
-    primary: '#324496'
-    secondary: '#968432'
-    tertiary: '#963244'
-    unibody: '#324496'
+  gourgeist_super:
+    primary: '#E27B58'
+    secondary: '#2E3C61'
+    tertiary: '#2E6153'
+    unibody: '#61532E'
 
-  # 388
-  grotle:
-    primary: '#87AB65'
-    secondary: '#8965AB'
-    tertiary: '#6587AB'
-    unibody: '#87AB65'
+  gourgeist_tiny:
+    primary: '#E27B58'
+    secondary: '#2E3C61'
+    tertiary: '#2E6153'
+    unibody: '#61532E'
 
-  # 383
-  groudon:
-    primary: '#09090B'
-    secondary: '#0B0B09'
-    tertiary: '#0B0909'
-    unibody: '#09090B'
+  groudon_alt:
+    primary: '#09080A'
+    secondary: '#26C0C0'
+    tertiary: '#26C026'
+    unibody: '#C02626'
 
-  # 253
-  grovyle:
-    primary: '#97C98C'
-    secondary: '#BE8CC9'
-    tertiary: '#8C97C9'
-    unibody: '#97C98C'
+  hakamo_o:
+    primary: '#DAC862'
+    secondary: '#BABCBC'
+    tertiary: '#BABCBA'
+    unibody: '#BCBABA'
 
-  # 736
-  grubbin:
-    primary: '#E0E7EE'
-    secondary: '#EEE7E0'
-    tertiary: '#EEE0E7'
-    unibody: '#E0E7EE'
+  ho_oh:
+    primary: '#F4BC18'
+    secondary: '#2CC0E4'
+    tertiary: '#2CE450'
+    unibody: '#E4502C'
 
-  # 326
-  grumpig:
-    primary: '#B494C3'
-    secondary: '#A3C394'
-    tertiary: '#C3B494'
-    unibody: '#B494C3'
+  Hoopa_Unbound:
+    primary: '#B0C5D8'
+    secondary: '#3C9F70'
+    tertiary: '#6B9F3C'
+    unibody: '#9F3C6B'
 
-  # 316
-  gulpin:
-    primary: '#99C39F'
-    secondary: '#C399BD'
-    tertiary: '#9F99C3'
-    unibody: '#99C39F'
+  jangmo_o:
+    primary: '#D9D8D8'
+    secondary: '#9B9C9C'
+    tertiary: '#9B9C9B'
+    unibody: '#9C9B9B'
 
-  # 735
-  gumshoos:
-    primary: '#9A7E66'
-    secondary: '#66829A'
-    tertiary: '#669A7E'
-    unibody: '#9A7E66'
+  keldeo_resolute:
+    primary: '#C36947'
+    secondary: '#B9BBD4'
+    tertiary: '#B9D4D2'
+    unibody: '#D4D2B9'
 
-  # 533
-  gurdurr:
-    primary: '#D0C8B5'
-    secondary: '#B5BDD0'
-    tertiary: '#B5D0C8'
-    unibody: '#D0C8B5'
+  kommo_o:
+    primary: '#D5C762'
+    secondary: '#979EA2'
+    tertiary: '#97A29B'
+    unibody: '#A29B97'
 
-  # 799
-  guzzlord:
-    primary: '#464A52'
-    secondary: '#524E46'
-    tertiary: '#52464A'
-    unibody: '#464A52'
-
-  # 440
-  happiny:
-    primary: '#F5CFD2'
-    secondary: '#CFF5F2'
-    tertiary: '#D2F5CF'
-    unibody: '#F5CFD2'
-
-  # 297
-  hariyama:
-    primary: '#E8E3DD'
-    secondary: '#DDE2E8'
-    tertiary: '#DDE8E3'
-    unibody: '#E8E3DD'
-
-  # 701
-  hawlucha:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 612
-  haxorus:
-    primary: '#A39733'
-    secondary: '#333FA3'
-    tertiary: '#33A397'
-    unibody: '#A39733'
-
-  # 631
-  heatmor:
-    primary: '#A48C74'
-    secondary: '#748CA4'
-    tertiary: '#74A48C'
-    unibody: '#A48C74'
-
-  # 485
-  heatran:
-    primary: '#6F301E'
-    secondary: '#1E5D6F'
-    tertiary: '#1E6F30'
-    unibody: '#6F301E'
-
-  # 695
-  heliolisk:
-    primary: '#FBE969'
-    secondary: '#697BFB'
-    tertiary: '#69FBE9'
-    unibody: '#FBE969'
-
-  # 694
-  helioptile:
-    primary: '#EFE262'
-    secondary: '#626FEF'
-    tertiary: '#62EFE2'
-    unibody: '#EFE262'
-
-  # 214
-  heracross:
-    primary: '#255174'
-    secondary: '#744825'
-    tertiary: '#742551'
-    unibody: '#255174'
-
-  # 507
-  herdier:
-    primary: '#DF945A'
-    secondary: '#5AA5DF'
-    tertiary: '#5ADF94'
-    unibody: '#DF945A'
-
-  # 449
-  hippopotas:
-    primary: '#D6C47C'
-    secondary: '#7C8ED6'
-    tertiary: '#7CD6C4'
-    unibody: '#D6C47C'
-
-  # 450
-  hippowdon:
-    primary: '#B09F45'
-    secondary: '#4556B0'
-    tertiary: '#45B09F'
-    unibody: '#B09F45'
-
-  # 237
-  hitmontop:
-    primary: '#C9A487'
-    secondary: '#87ACC9'
-    tertiary: '#87C9A4'
-    unibody: '#C9A487'
-
-  # 430
-  honchkrow:
-    primary: '#325169'
-    secondary: '#694A32'
-    tertiary: '#693251'
-    unibody: '#325169'
-
-  # 679
-  honedge:
-    primary: '#4C576B'
-    secondary: '#6B604C'
-    tertiary: '#6B4C57'
-    unibody: '#4C576B'
-
-  # 720
-  hoopa:
-    primary: '#AFA4BF'
-    secondary: '#B4BFA4'
-    tertiary: '#BFAFA4'
-    unibody: '#AFA4BF'
-
-  # 163
-  hoothoot:
-    primary: '#A98E73'
-    secondary: '#738EA9'
-    tertiary: '#73A98E'
-    unibody: '#A98E73'
-
-  # 187
-  hoppip:
-    primary: '#F497B2'
-    secondary: '#97F4D9'
-    tertiary: '#B2F497'
-    unibody: '#F497B2'
-
-  # 229
-  houndoom:
-    primary: '#52596B'
-    secondary: '#6B6452'
-    tertiary: '#6B5259'
-    unibody: '#52596B'
-
-  # 228
-  houndour:
-    primary: '#4E4A47'
-    secondary: '#474B4E'
-    tertiary: '#474E4A'
-    unibody: '#4E4A47'
-
-  # 367
-  huntail:
-    primary: '#5AA4C9'
-    secondary: '#C97F5A'
-    tertiary: '#C95AA4'
-    unibody: '#5AA4C9'
-
-  # 635
-  hydreigon:
-    primary: '#222423'
-    secondary: '#242223'
-    tertiary: '#232224'
-    unibody: '#222423'
-
-  # 174
-  igglybuff:
-    primary: '#FCDDE2'
-    secondary: '#DDFCF7'
-    tertiary: '#E2FCDD'
-    unibody: '#FCDDE2'
-
-  # 314
-  illumise:
-    primary: '#85C3DC'
-    secondary: '#DC9E85'
-    tertiary: '#DC85C3'
-    unibody: '#85C3DC'
-
-  # 392
-  infernape:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 686
-  inkay:
-    primary: '#A3D0F1'
-    secondary: '#F1C4A3'
-    tertiary: '#F1A3D0'
-    unibody: '#A3D0F1'
-
-  # 593
-  jellicent:
-    primary: '#4BA2D8'
-    secondary: '#D8814B'
-    tertiary: '#D84BA2'
-    unibody: '#4BA2D8'
-
-  # 385
-  jirachi:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 595
-  joltik:
-    primary: '#F8E96A'
-    secondary: '#6A79F8'
-    tertiary: '#6AF8E9'
-    unibody: '#F8E96A'
-
-  # 189
-  jumpluff:
-    primary: '#6F89C4'
-    secondary: '#C4AA6F'
-    tertiary: '#C46F89'
-    unibody: '#6F89C4'
-
-  # 588
-  karrablast:
-    primary: '#2380C3'
-    secondary: '#C36623'
-    tertiary: '#C32380'
-    unibody: '#2380C3'
-
-  # 798
-  kartana:
-    primary: '#FAFBF9'
-    secondary: '#FAF9FB'
-    tertiary: '#F9FAFB'
-    unibody: '#FAFBF9'
-
-  # 352
-  kecleon:
-    primary: '#A7BE64'
-    secondary: '#7B64BE'
-    tertiary: '#64A7BE'
-    unibody: '#A7BE64'
-
-  # 647
-  keldeo:
-    primary: '#F2E8AA'
-    secondary: '#AAB4F2'
-    tertiary: '#AAF2E8'
-    unibody: '#F2E8AA'
-
-  # 230
-  kingdra:
-    primary: '#7DAECF'
-    secondary: '#CF9E7D'
-    tertiary: '#CF7DAE'
-    unibody: '#7DAECF'
-
-  # 281
-  kirlia:
-    primary: '#FAFAFA'
-    secondary: '#FAFAFA'
-    tertiary: '#FAFAFA'
-    unibody: '#FAFAFA'
-
-  # 600
-  klang:
-    primary: '#CDD4E6'
-    secondary: '#E6DFCD'
-    tertiary: '#E6CDD4'
-    unibody: '#CDD4E6'
-
-  # 707
-  klefki:
-    primary: '#F0F5F9'
-    secondary: '#F9F4F0'
-    tertiary: '#F9F0F5'
-    unibody: '#F0F5F9'
-
-  # 601
-  klinklang:
-    primary: '#CDD4E6'
-    secondary: '#E6DFCD'
-    tertiary: '#E6CDD4'
-    unibody: '#CDD4E6'
-
-  # 599
-  klink:
-    primary: '#C4C7D5'
-    secondary: '#D5D2C4'
-    tertiary: '#D5C4C7'
-    unibody: '#C4C7D5'
-
-  # 775
-  komala:
-    primary: '#ABBFD7'
-    secondary: '#D7C3AB'
-    tertiary: '#D7ABBF'
-    unibody: '#ABBFD7'
-
-  # 401
-  kricketot:
-    primary: '#D04F39'
-    secondary: '#39BAD0'
-    tertiary: '#39D04F'
-    unibody: '#D04F39'
-
-  # 402
-  kricketune:
-    primary: '#CF5138'
-    secondary: '#38B6CF'
-    tertiary: '#38CF51'
-    unibody: '#CF5138'
-
-  # 552
-  krokorok:
-    primary: '#DCB558'
-    secondary: '#587FDC'
-    tertiary: '#58DCB5'
-    unibody: '#DCB558'
-
-  # 553
-  krookodile:
-    primary: '#C65253'
-    secondary: '#52C6C5'
-    tertiary: '#53C652'
-    unibody: '#C65253'
-
-  # 382
-  kyogre:
-    primary: '#056DB6'
+  kyogre_alt:
+    primary: '#EB4C59'
     secondary: '#B64E05'
     tertiary: '#B6056D'
     unibody: '#056DB6'
 
-  # 646
-  kyurem:
-    primary: '#656E73'
-    secondary: '#736A65'
-    tertiary: '#73656E'
-    unibody: '#656E73'
+  landorus_therian:
+    primary: '#F8F8F8'
+    secondary: '#5BAAE2'
+    tertiary: '#5BE293'
+    unibody: '#E2935B'
 
-  # 305
-  lairon:
-    primary: '#5C6061'
-    secondary: '#615D5C'
-    tertiary: '#615C60'
-    unibody: '#5C6061'
+  lunala_full:
+    primary: '#434056'
+    secondary: '#E8C9BD'
+    tertiary: '#E8BDDC'
+    unibody: '#BDDCE8'
 
-  # 608
-  lampent:
-    primary: '#3A3A3A'
-    secondary: '#3A3A3A'
-    tertiary: '#3A3A3A'
-    unibody: '#3A3A3A'
+  lycanroc_midnight:
+    primary: '#E4E3E0'
+    secondary: '#38ADA2'
+    tertiary: '#43AD38'
+    unibody: '#AD3843'
 
-  # 645
-  landorus:
-    primary: '#F5F4F9'
-    secondary: '#F8F9F4'
-    tertiary: '#F9F5F4'
-    unibody: '#F5F4F9'
-
-  # 171
-  lanturn:
-    primary: '#79A6CF'
-    secondary: '#CFA279'
-    tertiary: '#CF79A6'
-    unibody: '#79A6CF'
-
-  # 636
-  larvesta:
-    primary: '#F6FAFB'
-    secondary: '#FBF7F6'
-    tertiary: '#FBF6FA'
-    unibody: '#F6FAFB'
-
-  # 246
-  larvitar:
-    primary: '#AEA983'
-    secondary: '#8388AE'
-    tertiary: '#83AEA9'
-    unibody: '#AEA983'
-
-  # 380
-  latias:
-    primary: '#FEFEFE'
-    secondary: '#FEFEFE'
-    tertiary: '#FEFEFE'
-    unibody: '#FEFEFE'
-
-  # 381
-  latios:
-    primary: '#DEE9ED'
-    secondary: '#EDE2DE'
-    tertiary: '#EDDEE9'
-    unibody: '#DEE9ED'
-
-  # 470
-  leafeon:
-    primary: '#FCEDB2'
-    secondary: '#B2C1FC'
-    tertiary: '#B2FCED'
-    unibody: '#FCEDB2'
-
-  # 542
-  leavanny:
-    primary: '#A3CD39'
-    secondary: '#6339CD'
-    tertiary: '#39A3CD'
-    unibody: '#A3CD39'
-
-  # 166
-  ledian:
-    primary: '#D54356'
-    secondary: '#43D5C2'
-    tertiary: '#56D543'
-    unibody: '#D54356'
-
-  # 165
-  ledyba:
-    primary: '#C66753'
-    secondary: '#53B2C6'
-    tertiary: '#53C667'
-    unibody: '#C66753'
-
-  # 463
-  lickilicky:
-    primary: '#DE869B'
-    secondary: '#86DEC9'
-    tertiary: '#9BDE86'
-    unibody: '#DE869B'
-
-  # 510
-  liepard:
-    primary: '#6C5C76'
-    secondary: '#66765C'
-    tertiary: '#766C5C'
-    unibody: '#6C5C76'
-
-  # 345
-  lileep:
-    primary: '#826CAA'
-    secondary: '#94AA6C'
-    tertiary: '#AA826C'
-    unibody: '#826CAA'
-
-  # 549
-  lilligant:
-    primary: '#B4D682'
-    secondary: '#A482D6'
-    tertiary: '#82B4D6'
-    unibody: '#B4D682'
-
-  # 506
-  lillipup:
-    primary: '#F19459'
-    secondary: '#59B6F1'
-    tertiary: '#59F194'
-    unibody: '#F19459'
-
-  # 264
-  linoone:
-    primary: '#D9C7C5'
-    secondary: '#C5D7D9'
-    tertiary: '#C5D9C7'
-    unibody: '#D9C7C5'
-
-  # 667
-  litleo:
-    primary: '#443B32'
-    secondary: '#323B44'
-    tertiary: '#32443B'
-    unibody: '#443B32'
-
-  # 607
-  litwick:
-    primary: '#EFE1EE'
-    secondary: '#E1EFE2'
-    tertiary: '#EEEFE1'
-    unibody: '#EFE1EE'
-
-  # 271
-  lombre:
-    primary: '#9FC163'
-    secondary: '#8563C1'
-    tertiary: '#639FC1'
-    unibody: '#9FC163'
-
-  # 428
-  lopunny:
-    primary: '#AB7656'
-    secondary: '#568BAB'
-    tertiary: '#56AB76'
-    unibody: '#AB7656'
-
-  # 270
-  lotad:
-    primary: '#2A8AB0'
-    secondary: '#B0502A'
-    tertiary: '#B02A8A'
-    unibody: '#2A8AB0'
-
-  # 294
-  loudred:
-    primary: '#757EB5'
-    secondary: '#B5AC75'
-    tertiary: '#B5757E'
-    unibody: '#757EB5'
-
-  # 448
-  lucario:
-    primary: '#7798AB'
-    secondary: '#AB8A77'
-    tertiary: '#AB7798'
-    unibody: '#7798AB'
-
-  # 272
-  ludicolo:
-    primary: '#9BC65B'
-    secondary: '#865BC6'
-    tertiary: '#5B9BC6'
-    unibody: '#9BC65B'
-
-  # 249
-  lugia:
-    primary: '#D8E6F1'
-    secondary: '#F1E3D8'
-    tertiary: '#F1D8E6'
-    unibody: '#D8E6F1'
-
-  # 457
-  lumineon:
-    primary: '#394750'
-    secondary: '#504239'
-    tertiary: '#503947'
-    unibody: '#394750'
-
-  # 792
-  lunala:
-    primary: '#5F3287'
-    secondary: '#5A8732'
-    tertiary: '#875F32'
-    unibody: '#5F3287'
-
-  # 337
-  lunatone:
-    primary: '#E5DEB4'
-    secondary: '#B4BBE5'
-    tertiary: '#B4E5DE'
-    unibody: '#E5DEB4'
-
-  # 754
-  lurantis:
-    primary: '#F5CFD3'
-    secondary: '#CFF5F1'
-    tertiary: '#D3F5CF'
-    unibody: '#F5CFD3'
-
-  # 370
-  luvdisc:
-    primary: '#E69EA9'
-    secondary: '#9EE6DB'
-    tertiary: '#A9E69E'
-    unibody: '#E69EA9'
-
-  # 404
-  luxio:
-    primary: '#80B8C9'
-    secondary: '#C99180'
-    tertiary: '#C980B8'
-    unibody: '#80B8C9'
-
-  # 405
-  luxray:
-    primary: '#3B3738'
-    secondary: '#373B3A'
-    tertiary: '#383B37'
-    unibody: '#3B3738'
-
-  # 745
-  lycanroc:
-    primary: '#E2C7AA'
-    secondary: '#AAC5E2'
-    tertiary: '#AAE2C7'
-    unibody: '#E2C7AA'
-
-  # 240
-  magby:
-    primary: '#E47675'
-    secondary: '#75E3E4'
-    tertiary: '#75E476'
-    unibody: '#E47675'
-
-  # 219
-  magcargo:
-    primary: '#D78285'
-    secondary: '#82D7D4'
-    tertiary: '#85D782'
-    unibody: '#D78285'
-
-  # 801
-  magearna:
-    primary: '#D6CEC9'
-    secondary: '#C9D1D6'
-    tertiary: '#C9D6CE'
-    unibody: '#D6CEC9'
-
-  # 467
-  magmortar:
-    primary: '#C84026'
-    secondary: '#26AEC8'
-    tertiary: '#26C840'
-    unibody: '#C84026'
-
-  # 462
-  magnezone:
-    primary: '#B0C3D1'
-    secondary: '#D1BEB0'
-    tertiary: '#D1B0C3'
-    unibody: '#B0C3D1'
-
-  # 296
-  makuhita:
-    primary: '#FBE18A'
-    secondary: '#8AA4FB'
-    tertiary: '#8AFBE1'
-    unibody: '#FBE18A'
-
-  # 687
-  malamar:
-    primary: '#8E71A1'
-    secondary: '#84A171'
-    tertiary: '#A18E71'
-    unibody: '#8E71A1'
-
-  # 473
-  mamoswine:
-    primary: '#A3764F'
-    secondary: '#4F7CA3'
-    tertiary: '#4FA376'
-    unibody: '#A3764F'
-
-  # 490
-  manaphy:
-    primary: '#74C6D4'
-    secondary: '#D48274'
-    tertiary: '#D474C6'
-    unibody: '#74C6D4'
-
-  # 630
-  mandibuzz:
-    primary: '#4F4440'
-    secondary: '#404B4F'
-    tertiary: '#404F44'
-    unibody: '#4F4440'
-
-  # 310
-  manectric:
-    primary: '#74AEC6'
-    secondary: '#C68C74'
-    tertiary: '#C674AE'
-    unibody: '#74AEC6'
-
-  # 226
-  mantine:
-    primary: '#B9B1C9'
-    secondary: '#C1C9B1'
-    tertiary: '#C9B9B1'
-    unibody: '#B9B1C9'
-
-  # 458
-  mantyke:
-    primary: '#A5D3E3'
-    secondary: '#E3B5A5'
-    tertiary: '#E3A5D3'
-    unibody: '#A5D3E3'
-
-  # 556
-  maractus:
-    primary: '#8DC86C'
-    secondary: '#A76CC8'
-    tertiary: '#6C8DC8'
-    unibody: '#8DC86C'
-
-  # 747
-  mareanie:
-    primary: '#92D0D6'
-    secondary: '#D69892'
-    tertiary: '#D692D0'
-    unibody: '#92D0D6'
-
-  # 179
-  mareep:
-    primary: '#FFF6BB'
-    secondary: '#BBC4FF'
-    tertiary: '#BBFFF6'
-    unibody: '#FFF6BB'
-
-  # 183
-  marill:
-    primary: '#4FB4E5'
-    secondary: '#E5804F'
-    tertiary: '#E54FB4'
-    unibody: '#4FB4E5'
-
-  # 802
-  marshadow:
-    primary: '#707277'
-    secondary: '#777570'
-    tertiary: '#777072'
-    unibody: '#707277'
-
-  # 259
-  marshtomp:
-    primary: '#53AEAF'
-    secondary: '#AF5453'
-    tertiary: '#AF53AE'
-    unibody: '#53AEAF'
-
-  # 284
-  masquerain:
-    primary: '#B1D5EB'
-    secondary: '#EBC7B1'
-    tertiary: '#EBB1D5'
-    unibody: '#B1D5EB'
-
-  # 303
-  mawile:
-    primary: '#FBE38D'
-    secondary: '#8DA5FB'
-    tertiary: '#8DFBE3'
-    unibody: '#FBE38D'
-
-  # 308
-  medicham:
-    primary: '#D7DBDE'
-    secondary: '#DEDAD7'
-    tertiary: '#DED7DB'
-    unibody: '#D7DBDE'
-
-  # 307
-  meditite:
-    primary: '#75C2EC'
-    secondary: '#EC9F75'
-    tertiary: '#EC75C2'
-    unibody: '#75C2EC'
-
-  # 154
-  meganium:
-    primary: '#BEBD85'
-    secondary: '#8586BE'
-    tertiary: '#85BEBD'
-    unibody: '#BEBD85'
-
-  # 648
-  meloetta:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
+  meloetta_pirouette:
+    primary: '#817060'
+    secondary: '#48BCED'
+    tertiary: '#48ED79'
     unibody: '#FFFFFF'
 
-  # 678
-  meowstic:
-    primary: '#365895'
-    secondary: '#957336'
-    tertiary: '#953658'
-    unibody: '#365895'
-
-  # 481
-  mesprit:
-    primary: '#B3CDE6'
-    secondary: '#E6CCB3'
-    tertiary: '#E6B3CD'
-    unibody: '#B3CDE6'
-
-  # 376
-  metagross:
-    primary: '#5991AC'
-    secondary: '#AC7459'
-    tertiary: '#AC5991'
-    unibody: '#5991AC'
-
-  # 375
-  metang:
-    primary: '#5C90A8'
-    secondary: '#A8745C'
-    tertiary: '#A85C90'
-    unibody: '#5C90A8'
-
-  # -megay
-  mewtwo-megay:
-    primary: ''
-    secondary: ''
-    tertiary: ''
-    unibody: ''
-
-  # 619
-  mienfoo:
-    primary: '#F3F19E'
-    secondary: '#9EA0F3'
-    tertiary: '#9EF3F1'
-    unibody: '#F3F19E'
-
-  # 620
-  mienshao:
-    primary: '#E5E1DE'
-    secondary: '#DEE2E5'
-    tertiary: '#DEE5E1'
-    unibody: '#E5E1DE'
-
-  # 262
-  mightyena:
-    primary: '#C5C2CB'
-    secondary: '#C8CBC2'
-    tertiary: '#CBC5C2'
-    unibody: '#C5C2CB'
-
-  # 350
-  milotic:
-    primary: '#EEE8AE'
-    secondary: '#AEB4EE'
-    tertiary: '#AEEEE8'
-    unibody: '#EEE8AE'
-
-  # 241
-  miltank:
-    primary: '#ECAAB6'
-    secondary: '#AAECE0'
-    tertiary: '#B6ECAA'
-    unibody: '#ECAAB6'
-
-  # 439
-  mimejr:
-    primary: '#F7D8E8'
-    secondary: '#D8F7E7'
-    tertiary: '#E8F7D8'
-    unibody: '#F7D8E8'
-
-  # 778
-  mimikyu:
-    primary: '#030202'
-    secondary: '#020303'
-    tertiary: '#020302'
-    unibody: '#030202'
-
-  # 572
-  minccino:
-    primary: '#D9D6D1'
-    secondary: '#D1D4D9'
-    tertiary: '#D1D9D6'
-    unibody: '#D9D6D1'
-
-  # 312
-  minun:
-    primary: '#FFEDBF'
-    secondary: '#BFD1FF'
-    tertiary: '#BFFFED'
-    unibody: '#FFEDBF'
-
-  # 200
-  misdreavus:
-    primary: '#366378'
-    secondary: '#784B36'
-    tertiary: '#783663'
-    unibody: '#366378'
-
-  # 429
-  mismagius:
-    primary: '#504162'
-    secondary: '#536241'
-    tertiary: '#625041'
-    unibody: '#504162'
-
-  # 391
-  monferno:
-    primary: '#E99348'
-    secondary: '#489EE9'
-    tertiary: '#48E993'
-    unibody: '#E99348'
-
-  # 755
-  morelull:
-    primary: '#FEFAF1'
-    secondary: '#F1F5FE'
-    tertiary: '#F1FEFA'
-    unibody: '#FEFAF1'
-
-  # 414
-  mothim:
-    primary: '#484647'
-    secondary: '#464847'
-    tertiary: '#474846'
-    unibody: '#484647'
-
-  # 749
-  mudbray:
-    primary: '#9D7564'
-    secondary: '#648C9D'
-    tertiary: '#649D75'
-    unibody: '#9D7564'
-
-  # 750
-  mudsdale:
-    primary: '#9F7765'
-    secondary: '#658D9F'
-    tertiary: '#659F77'
-    unibody: '#9F7765'
-
-  # 446
-  munchlax:
-    primary: '#45718C'
-    secondary: '#8C6045'
-    tertiary: '#8C4571'
-    unibody: '#45718C'
-
-  # 517
-  munna:
-    primary: '#F4D3DA'
-    secondary: '#D3F4ED'
-    tertiary: '#DAF4D3'
-    unibody: '#F4D3DA'
-
-  # 198
-  murkrow:
-    primary: '#142535'
-    secondary: '#352414'
-    tertiary: '#351425'
-    unibody: '#142535'
-
-  # 518
-  musharna:
-    primary: '#A291C5'
-    secondary: '#B4C591'
-    tertiary: '#C5A291'
-    unibody: '#A291C5'
-
-  # 177
-  natu:
-    primary: '#8AC142'
-    secondary: '#7942C1'
-    tertiary: '#428AC1'
-    unibody: '#8AC142'
-
-  # 800
-  necrozma:
-    primary: '#1A1C1D'
-    secondary: '#1D1B1A'
-    tertiary: '#1D1A1C'
-    unibody: '#1A1C1D'
-
-  # 793
-  nihilego:
-    primary: '#F1F6F2'
-    secondary: '#F6F1F5'
-    tertiary: '#F2F1F6'
-    unibody: '#F1F6F2'
-
-  # 290
-  nincada:
-    primary: '#F5F9FC'
-    secondary: '#FCF8F5'
-    tertiary: '#FCF5F9'
-    unibody: '#F5F9FC'
-
-  # 291
-  ninjask:
-    primary: '#24282B'
-    secondary: '#2B2724'
-    tertiary: '#2B2428'
-    unibody: '#24282B'
-
-  # 164
-  noctowl:
-    primary: '#967059'
-    secondary: '#597F96'
-    tertiary: '#599670'
-    unibody: '#967059'
-
-  # 714
-  noibat:
-    primary: '#4B3F43'
-    secondary: '#3F4B47'
-    tertiary: '#434B3F'
-    unibody: '#4B3F43'
-
-  # 715
-  noivern:
-    primary: '#453A3E'
-    secondary: '#3A4541'
-    tertiary: '#3E453A'
-    unibody: '#453A3E'
-
-  # 299
-  nosepass:
-    primary: '#324B8B'
-    secondary: '#8B7232'
-    tertiary: '#8B324B'
-    unibody: '#324B8B'
-
-  # 322
-  numel:
-    primary: '#F8D67C'
-    secondary: '#7C9EF8'
-    tertiary: '#7CF8D6'
-    unibody: '#F8D67C'
-
-  # 274
-  nuzleaf:
-    primary: '#B2968A'
-    secondary: '#8AA6B2'
-    tertiary: '#8AB296'
-    unibody: '#B2968A'
-
-  # 224
-  octillery:
-    primary: '#C2434E'
-    secondary: '#43C2B7'
-    tertiary: '#4EC243'
-    unibody: '#C2434E'
-
-  # 765
-  oranguru:
-    primary: '#F9F9FC'
-    secondary: '#FCFCF9'
-    tertiary: '#FCF9F9'
-    unibody: '#F9F9FC'
-
-  # 501
-  oshawott:
-    primary: '#D5DCE6'
-    secondary: '#E6DFD5'
-    tertiary: '#E6D5DC'
-    unibody: '#D5DCE6'
-
-  # 417
-  pachirisu:
-    primary: '#DFE8F7'
-    secondary: '#F7EEDF'
-    tertiary: '#F7DFE8'
-    unibody: '#DFE8F7'
-
-  # 484
-  palkia:
-    primary: '#948D9F'
-    secondary: '#989F8D'
-    tertiary: '#9F948D'
-    unibody: '#948D9F'
-
-  # 770
-  palossand:
-    primary: '#F7C286'
-    secondary: '#86BBF7'
-    tertiary: '#86F7C2'
-    unibody: '#F7C286'
-
-  # 536
-  palpitoad:
-    primary: '#7392CB'
-    secondary: '#CBAC73'
-    tertiary: '#CB7392'
-    unibody: '#7392CB'
-
-  # 674
-  pancham:
-    primary: '#626473'
-    secondary: '#737162'
-    tertiary: '#736264'
-    unibody: '#626473'
-
-  # 675
-  pangoro:
-    primary: '#9198AA'
-    secondary: '#AAA391'
-    tertiary: '#AA9198'
-    unibody: '#9198AA'
-
-  # 515
-  panpour:
-    primary: '#8ED4DC'
-    secondary: '#DC968E'
-    tertiary: '#DC8ED4'
-    unibody: '#8ED4DC'
-
-  # 511
-  pansage:
-    primary: '#81C451'
-    secondary: '#9451C4'
-    tertiary: '#5181C4'
-    unibody: '#81C451'
-
-  # 513
-  pansear:
-    primary: '#F47C61'
-    secondary: '#61D9F4'
-    tertiary: '#61F47C'
-    unibody: '#F47C61'
-
-  # 766
-  passimian:
-    primary: '#5D5B55'
-    secondary: '#55575D'
-    tertiary: '#555D5B'
-    unibody: '#5D5B55'
-
-  # 504
-  patrat:
-    primary: '#B58E57'
-    secondary: '#577EB5'
-    tertiary: '#57B58E'
-    unibody: '#B58E57'
-
-  # 624
-  pawniard:
-    primary: '#9D484B'
-    secondary: '#489D9A'
-    tertiary: '#4B9D48'
-    unibody: '#9D484B'
-
-  # 279
-  pelipper:
-    primary: '#E2EBF4'
-    secondary: '#F4EBE2'
-    tertiary: '#F4E2EB'
-    unibody: '#E2EBF4'
-
-  # 548
-  petilil:
-    primary: '#DEE564'
-    secondary: '#6B64E5'
-    tertiary: '#64DEE5'
-    unibody: '#DEE564'
-
-  # 231
-  phanpy:
-    primary: '#96C2CF'
-    secondary: '#CFA396'
-    tertiary: '#CF96C2'
-    unibody: '#96C2CF'
-
-  # 708
-  phantump:
-    primary: '#252E35'
-    secondary: '#352C25'
-    tertiary: '#35252E'
-    unibody: '#252E35'
-
-  # 795
-  pheromosa:
-    primary: '#FCFCFC'
-    secondary: '#FCFCFC'
-    tertiary: '#FCFCFC'
-    unibody: '#FCFCFC'
-
-  # 489
-  phione:
-    primary: '#6DB9C9'
-    secondary: '#C97D6D'
-    tertiary: '#C96DB9'
-    unibody: '#6DB9C9'
-
-  # 172
-  pichu:
-    primary: '#FCF38C'
-    secondary: '#8C95FC'
-    tertiary: '#8CFCF3'
-    unibody: '#FCF38C'
-
-  # 519
-  pidove:
-    primary: '#AAA6A3'
-    secondary: '#A3A7AA'
-    tertiary: '#A3AAA6'
-    unibody: '#AAA6A3'
-
-  # 499
-  pignite:
-    primary: '#F68742'
-    secondary: '#42B1F6'
-    tertiary: '#42F687'
-    unibody: '#F68742'
-
-  # 221
-  piloswine:
-    primary: '#B28160'
-    secondary: '#6091B2'
-    tertiary: '#60B281'
-    unibody: '#B28160'
-
-  # 204
-  pineco:
-    primary: '#5B8A82'
-    secondary: '#8A5B63'
-    tertiary: '#825B8A'
-    unibody: '#5B8A82'
-
-  # 393
-  piplup:
-    primary: '#97CBD8'
-    secondary: '#D8A497'
-    tertiary: '#D897CB'
-    unibody: '#97CBD8'
-
-  # 311
-  plusle:
-    primary: '#FFEDBF'
-    secondary: '#BFD1FF'
-    tertiary: '#BFFFED'
-    unibody: '#FFEDBF'
-
-  # 186
-  politoed:
-    primary: '#97C046'
-    secondary: '#6F46C0'
-    tertiary: '#4697C0'
-    unibody: '#97C046'
-
-  # 261
-  poochyena:
-    primary: '#ABB0B4'
-    secondary: '#B4AFAB'
-    tertiary: '#B4ABB0'
-    unibody: '#ABB0B4'
-
-  # 233
-  porygon2:
-    primary: '#E1576E'
-    secondary: '#57E1CA'
-    tertiary: '#6EE157'
-    unibody: '#E1576E'
-
-  # 394
-  prinplup:
-    primary: '#3F608D'
-    secondary: '#8D6C3F'
-    tertiary: '#8D3F60'
-    unibody: '#3F608D'
-
-  # 476
-  probopass:
-    primary: '#6288AC'
-    secondary: '#AC8662'
-    tertiary: '#AC6288'
-    unibody: '#6288AC'
-
-  # 710
-  pumpkaboo:
-    primary: '#524637'
+  mewtwo_megay:
+    primary: '#B39597'
+    secondary: '#E2E0E1'
+    tertiary: '#E1E0E2'
+    unibody: '#E0E2E1'
+
+  minior_core_blue:
+    primary: '#47BEDF'
+    secondary: '#DF461F'
+    tertiary: '#DF1FB8'
+    unibody: '#1FB8DF'
+
+  minior_core_green:
+    primary: '#F3F8E8'
+    secondary: '#A76DC6'
+    tertiary: '#6D8CC6'
+    unibody: '#8CC66D'
+
+  minior_core_light_blue:
+    primary: '#F3F9F4'
+    secondary: '#EEB59F'
+    tertiary: '#EE9FD8'
+    unibody: '#9FD8EE'
+
+  minior_core_orange:
+    primary: '#FFF8DC'
+    secondary: '#3A83F6'
+    tertiary: '#3AF6AD'
+    unibody: '#F6AD3A'
+
+  minior_core_purple:
+    primary: '#C8ABD0'
+    secondary: '#91BE8D'
+    tertiary: '#BEBA8D'
+    unibody: '#BA8DBE'
+
+  minior_core_red:
+    primary: '#FEF3F2'
+    secondary: '#52E9B8'
+    tertiary: '#83E952'
+    unibody: '#E95283'
+
+  minior_core_yellow:
+    primary: '#FEEBA7'
+    secondary: '#626DFF'
+    tertiary: '#62FFF4'
+    unibody: '#FFF462'
+
+  minior_meteor:
+    primary: '#745150'
+    secondary: '#81A5AA'
+    tertiary: '#81AA86'
+    unibody: '#AA8681'
+
+  mother_beast_lusamine:
+    primary: '#9193A2'
+    secondary: '#46462B'
+    tertiary: '#462B2B'
+    unibody: '#2B2B46'
+
+  nidoran_female:
+    primary: '#494989'
+    secondary: '#E6DDBE'
+    tertiary: '#E6BEC7'
+    unibody: '#BEC7E6'
+
+  nidoran_male:
+    primary: '#1A756C'
+    secondary: '#668B5F'
+    tertiary: '#8B845F'
+    unibody: '#845F8B'
+
+  oricorio_baile:
+    primary: '#4D4640'
+    secondary: '#53E9DE'
+    tertiary: '#5EE953'
+    unibody: '#E9535E'
+
+  oricorio_pau:
+    primary: '#F3E2DA'
+    secondary: '#80ECD3'
+    tertiary: '#99EC80'
+    unibody: '#EC8099'
+
+  oricorio_pom_pom:
+    primary: '#EDE241'
+    secondary: '#A6A8F1'
+    tertiary: '#A6F1EF'
+    unibody: '#F1EFA6'
+
+  oricorio_sensu:
+    primary: '#B8DFE0'
+    secondary: '#CACB98'
+    tertiary: '#CB9998'
+    unibody: '#9998CB'
+
+  porygon_z:
+    primary: '#C13950'
+    secondary: '#3ABFAA'
+    tertiary: '#4FBF3A'
+    unibody: '#BF3A4F'
+
+  pumpkaboo_average:
+    primary: '#E29D81'
     secondary: '#374352'
     tertiary: '#375246'
     unibody: '#524637'
 
-  # 247
-  pupitar:
-    primary: '#A7B4D6'
-    secondary: '#D6C9A7'
-    tertiary: '#D6A7B4'
-    unibody: '#A7B4D6'
+  pumpkaboo_large:
+    primary: '#E39D81'
+    secondary: '#374352'
+    tertiary: '#375246'
+    unibody: '#524637'
 
-  # 509
-  purrloin:
-    primary: '#6E5C76'
-    secondary: '#64765C'
-    tertiary: '#766E5C'
-    unibody: '#6E5C76'
+  pumpkaboo_super:
+    primary: '#E39D81'
+    secondary: '#374352'
+    tertiary: '#375246'
+    unibody: '#524637'
 
-  # 432
-  purugly:
-    primary: '#646873'
-    secondary: '#736F64'
-    tertiary: '#736468'
-    unibody: '#646873'
+  pumpkaboo_tiny:
+    primary: '#E29D81'
+    secondary: '#374352'
+    tertiary: '#375246'
+    unibody: '#524637'
 
-  # 668
-  pyroar:
-    primary: '#4C413F'
-    secondary: '#3F4A4C'
-    tertiary: '#3F4C41'
-    unibody: '#4C413F'
+  rayquaza_alt:
+    primary: '#D6B371'
+    secondary: '#93445A'
+    tertiary: '#7D4493'
+    unibody: '#44937D'
 
-  # 771
-  pyukumuku:
-    primary: '#4B4847'
-    secondary: '#474A4B'
-    tertiary: '#474B48'
-    unibody: '#4B4847'
+  rotom_fan:
+    primary: '#F3DF80'
+    secondary: '#4BAFE1'
+    tertiary: '#4BE17D'
+    unibody: '#E17D4B'
 
-  # 195
-  quagsire:
-    primary: '#8EC7E5'
-    secondary: '#E5AC8E'
-    tertiary: '#E58EC7'
-    unibody: '#8EC7E5'
+  rotom_frost:
+    primary: '#9C80A9'
+    secondary: '#4EB7E7'
+    tertiary: '#4EE77E'
+    unibody: '#E77E4E'
 
-  # 156
-  quilava:
-    primary: '#FDED96'
-    secondary: '#96A6FD'
-    tertiary: '#96FDED'
-    unibody: '#FDED96'
+  rotom_heat:
+    primary: '#E6804C'
+    secondary: '#4BB4E5'
+    tertiary: '#4BE57C'
+    unibody: '#E57C4B'
 
-  # 651
-  quilladin:
-    primary: '#A5CD5A'
-    secondary: '#825ACD'
-    tertiary: '#5AA5CD'
-    unibody: '#A5CD5A'
+  rotom_mow:
+    primary: '#9EC64C'
+    secondary: '#4BB1E2'
+    tertiary: '#4BE27C'
+    unibody: '#E27C4B'
 
-  # 211
-  qwilfish:
-    primary: '#E0EBB1'
-    secondary: '#BCB1EB'
-    tertiary: '#B1E0EB'
-    unibody: '#E0EBB1'
+  rotom_wash:
+    primary: '#2C9DB8'
+    secondary: '#4BAFE1'
+    tertiary: '#4BE17D'
+    unibody: '#E17D4B'
 
-  # 243
-  raikou:
-    primary: '#EBD079'
-    secondary: '#7994EB'
-    tertiary: '#79EBD0'
-    unibody: '#EBD079'
-
-  # 280
-  ralts:
-    primary: '#F6F7FB'
-    secondary: '#FBFAF6'
-    tertiary: '#FBF6F7'
-    unibody: '#F6F7FB'
-
-  # 409
-  rampardos:
-    primary: '#4A4647'
-    secondary: '#464A49'
-    tertiary: '#474A46'
-    unibody: '#4A4647'
-
-  # 384
-  rayquaza:
-    primary: '#558464'
-    secondary: '#845575'
-    tertiary: '#645584'
-    unibody: '#558464'
-
-  # 378
-  regice:
-    primary: '#88C5E2'
-    secondary: '#E2A588'
-    tertiary: '#E288C5'
-    unibody: '#88C5E2'
-
-  # 486
-  regigigas:
-    primary: '#F5F6FB'
-    secondary: '#FBFAF5'
-    tertiary: '#FBF5F6'
-    unibody: '#F5F6FB'
-
-  # 377
-  regirock:
-    primary: '#D4CBC6'
-    secondary: '#C6CFD4'
-    tertiary: '#C6D4CB'
-    unibody: '#D4CBC6'
-
-  # 379
-  registeel:
-    primary: '#C9CDCE'
-    secondary: '#CECAC9'
-    tertiary: '#CEC9CD'
-    unibody: '#C9CDCE'
-
-  # 369
-  relicanth:
-    primary: '#4F4B4A'
-    secondary: '#4A4E4F'
-    tertiary: '#4A4F4B'
-    unibody: '#4F4B4A'
-
-  # 223
-  remoraid:
-    primary: '#B8D5C1'
-    secondary: '#D5B8CC'
-    tertiary: '#C1B8D5'
-    unibody: '#B8D5C1'
-
-  # 643
-  reshiram:
-    primary: '#2B2726'
-    secondary: '#262A2B'
-    tertiary: '#262B27'
-    unibody: '#2B2726'
-
-  # 579
-  reuniclus:
-    primary: '#E1EED0'
-    secondary: '#DDD0EE'
-    tertiary: '#D0E1EE'
-    unibody: '#E1EED0'
-
-  # 464
-  rhyperior:
-    primary: '#716161'
-    secondary: '#617171'
-    tertiary: '#617161'
-    unibody: '#716161'
-
-  # 743
-  ribombee:
-    primary: '#EDD969'
-    secondary: '#697DED'
-    tertiary: '#69EDD9'
-    unibody: '#EDD969'
-
-  # 447
-  riolu:
-    primary: '#78ACC2'
-    secondary: '#C28E78'
-    tertiary: '#C278AC'
-    unibody: '#78ACC2'
-
-  # 744
-  rockruff:
-    primary: '#D1B6AB'
-    secondary: '#ABC6D1'
-    tertiary: '#ABD1B6'
-    unibody: '#D1B6AB'
-
-  # 524
-  roggenrola:
-    primary: '#2D334B'
-    secondary: '#4B452D'
-    tertiary: '#4B2D33'
-    unibody: '#2D334B'
-
-  # 315
-  roselia:
-    primary: '#B5D38D'
-    secondary: '#AB8DD3'
-    tertiary: '#8DB5D3'
-    unibody: '#B5D38D'
-
-  # 407
-  roserade:
-    primary: '#A9D8B4'
-    secondary: '#D8A9CD'
-    tertiary: '#B4A9D8'
-    unibody: '#A9D8B4'
-
-  # 479
-  rotom:
-    primary: '#E37536'
-    secondary: '#36A4E3'
-    tertiary: '#36E375'
-    unibody: '#E37536'
-
-  # 722
-  rowlet:
-    primary: '#F9F7F3'
-    secondary: '#F3F5F9'
-    tertiary: '#F3F9F7'
-    unibody: '#F9F7F3'
-
-  # 627
-  rufflet:
-    primary: '#676477'
-    secondary: '#747764'
-    tertiary: '#776764'
-    unibody: '#676477'
-
-  # 302
-  sableye:
-    primary: '#7360A0'
-    secondary: '#8DA060'
-    tertiary: '#A07360'
-    unibody: '#7360A0'
-
-  # 373
-  salamence:
-    primary: '#62B9CC'
-    secondary: '#CC7562'
-    tertiary: '#CC62B9'
-    unibody: '#62B9CC'
-
-  # 757
-  salandit:
-    primary: '#6A6563'
-    secondary: '#63686A'
-    tertiary: '#636A65'
-    unibody: '#6A6563'
-
-  # 758
-  salazzle:
-    primary: '#595657'
-    secondary: '#565958'
-    tertiary: '#575956'
-    unibody: '#595657'
-
-  # 503
-  samurott:
-    primary: '#205B9D'
-    secondary: '#9D6220'
-    tertiary: '#9D205B'
-    unibody: '#205B9D'
-
-  # 551
-  sandile:
-    primary: '#D1AD79'
-    secondary: '#799DD1'
-    tertiary: '#79D1AD'
-    unibody: '#D1AD79'
-
-  # 769
-  sandygast:
-    primary: '#D8D3B8'
-    secondary: '#B8BDD8'
-    tertiary: '#B8D8D3'
-    unibody: '#D8D3B8'
-
-  # 539
-  sawk:
-    primary: '#4583C0'
-    secondary: '#C08245'
-    tertiary: '#C04583'
-    unibody: '#4583C0'
-
-  # 586
-  sawsbuck:
-    primary: '#573C21'
+  sawsbuck_fall:
+    primary: '#D66652'
     secondary: '#213C57'
     tertiary: '#21573C'
     unibody: '#573C21'
 
-  # 664
-  scatterbug:
-    primary: '#585A4D'
-    secondary: '#4F4D5A'
-    tertiary: '#4D585A'
-    unibody: '#585A4D'
+  sawsbuck_spring:
+    primary: '#F8E467'
+    secondary: '#213C57'
+    tertiary: '#21573C'
+    unibody: '#573C21'
 
-  # 254
-  sceptile:
-    primary: '#90CA9A'
-    secondary: '#CA90C0'
-    tertiary: '#9A90CA'
-    unibody: '#90CA9A'
+  sawsbuck_summer:
+    primary: '#5B7E37'
+    secondary: '#213C57'
+    tertiary: '#21573C'
+    unibody: '#573C21'
 
-  # 212
-  scizor:
-    primary: '#A82C24'
-    secondary: '#24A0A8'
-    tertiary: '#24A82C'
-    unibody: '#A82C24'
-
-  # 545
-  scolipede:
-    primary: '#B14F4C'
-    secondary: '#4CAEB1'
-    tertiary: '#4CB14F'
-    unibody: '#B14F4C'
-
-  # 560
-  scrafty:
-    primary: '#FA9D72'
-    secondary: '#72CFFA'
-    tertiary: '#72FA9D'
-    unibody: '#FA9D72'
-
-  # 559
-  scraggy:
-    primary: '#ECE58A'
-    secondary: '#8A91EC'
-    tertiary: '#8AECE5'
-    unibody: '#ECE58A'
-
-  # 364
-  sealeo:
-    primary: '#58C2E9'
-    secondary: '#E97F58'
-    tertiary: '#E958C2'
-    unibody: '#58C2E9'
-
-  # 273
-  seedot:
-    primary: '#96806B'
-    secondary: '#6B8196'
-    tertiary: '#6B9680'
-    unibody: '#96806B'
-
-  # 537
-  seismitoad:
-    primary: '#7190D0'
-    secondary: '#D0B171'
-    tertiary: '#D07190'
-    unibody: '#7190D0'
-
-  # 161
-  sentret:
-    primary: '#B4725B'
-    secondary: '#5B9DB4'
-    tertiary: '#5BB472'
-    unibody: '#B4725B'
-
-  # 497
-  serperior:
-    primary: '#9CD19B'
-    secondary: '#D09BD1'
-    tertiary: '#9B9CD1'
-    unibody: '#9CD19B'
-
-  # 496
-  servine:
-    primary: '#86C445'
-    secondary: '#8345C4'
-    tertiary: '#4586C4'
-    unibody: '#86C445'
-
-  # 336
-  seviper:
-    primary: '#4A667C'
-    secondary: '#7C604A'
-    tertiary: '#7C4A66'
-    unibody: '#4A667C'
-
-  # 540
-  sewaddle:
-    primary: '#95C33C'
-    secondary: '#6A3CC3'
-    tertiary: '#3C95C3'
-    unibody: '#95C33C'
-
-  # 319
-  sharpedo:
-    primary: '#D6D7EC'
-    secondary: '#ECEBD6'
-    tertiary: '#ECD6D7'
-    unibody: '#D6D7EC'
-
-  # 492
-  shaymin:
-    primary: '#F7F9F8'
-    secondary: '#F9F7F8'
-    tertiary: '#F8F7F9'
-    unibody: '#F7F9F8'
-
-  # 292
-  shedinja:
-    primary: '#D1B180'
-    secondary: '#80A0D1'
-    tertiary: '#80D1B1'
-    unibody: '#D1B180'
-
-  # 372
-  shelgon:
-    primary: '#D5D9DC'
-    secondary: '#DCD8D5'
-    tertiary: '#DCD5D9'
-    unibody: '#D5D9DC'
-
-  # 422
-  shellos:
-    primary: '#43ADC5'
-    secondary: '#C55B43'
-    tertiary: '#C543AD'
-    unibody: '#43ADC5'
-
-  # 616
-  shelmet:
-    primary: '#FB717E'
-    secondary: '#71FBEE'
-    tertiary: '#7EFB71'
-    unibody: '#FB717E'
-
-  # 410
-  shieldon:
-    primary: '#FBCF66'
-    secondary: '#6692FB'
-    tertiary: '#66FBCF'
-    unibody: '#FBCF66'
-
-  # 275
-  shiftry:
-    primary: '#B6886E'
-    secondary: '#6E9CB6'
-    tertiary: '#6EB688'
-    unibody: '#B6886E'
-
-  # 756
-  shiinotic:
-    primary: '#CE92BF'
-    secondary: '#92CEA1'
-    tertiary: '#BFCE92'
-    unibody: '#CE92BF'
-
-  # 403
-  shinx:
-    primary: '#77A9C0'
-    secondary: '#C08E77'
-    tertiary: '#C077A9'
-    unibody: '#77A9C0'
-
-  # 285
-  shroomish:
-    primary: '#6E9C80'
-    secondary: '#9C6E8A'
-    tertiary: '#806E9C'
-    unibody: '#6E9C80'
-
-  # 213
-  shuckle:
-    primary: '#D93830'
-    secondary: '#30D1D9'
-    tertiary: '#30D938'
-    unibody: '#D93830'
-
-  # 353
-  shuppet:
-    primary: '#7887B2'
-    secondary: '#B2A378'
-    tertiary: '#B27887'
-    unibody: '#7887B2'
-
-  # 561
-  sigilyph:
-    primary: '#F0B45C'
-    secondary: '#5C98F0'
-    tertiary: '#5CF0B4'
-    unibody: '#F0B45C'
-
-  # 266
-  silcoon:
-    primary: '#D3DEEC'
-    secondary: '#ECE1D3'
-    tertiary: '#ECD3DE'
-    unibody: '#D3DEEC'
-
-  # 773
-  silvally:
-    primary: '#E0E4EB'
-    secondary: '#EBE7E0'
-    tertiary: '#EBE0E4'
-    unibody: '#E0E4EB'
-
-  # 516
-  simipour:
-    primary: '#52BFE0'
-    secondary: '#E07352'
-    tertiary: '#E052BF'
-    unibody: '#52BFE0'
-
-  # 512
-  simisage:
-    primary: '#51A545'
-    secondary: '#9945A5'
-    tertiary: '#4551A5'
-    unibody: '#51A545'
-
-  # 514
-  simisear:
-    primary: '#B75951'
-    secondary: '#51AFB7'
-    tertiary: '#51B759'
-    unibody: '#B75951'
-
-  # 227
-  skarmory:
-    primary: '#C9D7E4'
-    secondary: '#E4D6C9'
-    tertiary: '#E4C9D7'
-    unibody: '#C9D7E4'
-
-  # 672
-  skiddo:
-    primary: '#6F655C'
-    secondary: '#5C666F'
-    tertiary: '#5C6F65'
-    unibody: '#6F655C'
-
-  # 188
-  skiploom:
-    primary: '#84C140'
-    secondary: '#7D40C1'
-    tertiary: '#4084C1'
-    unibody: '#84C140'
-
-  # 300
-  skitty:
-    primary: '#F59BBF'
-    secondary: '#9BF5D1'
-    tertiary: '#BFF59B'
-    unibody: '#F59BBF'
-
-  # 451
-  skorupi:
-    primary: '#352E57'
-    secondary: '#50572E'
-    tertiary: '#57352E'
-    unibody: '#352E57'
-
-  # 690
-  skrelp:
-    primary: '#885A43'
-    secondary: '#437188'
-    tertiary: '#43885A'
-    unibody: '#885A43'
-
-  # 435
-  skuntank:
-    primary: '#4B3355'
-    secondary: '#3D5533'
-    tertiary: '#554B33'
-    unibody: '#4B3355'
-
-  # 289
-  slaking:
-    primary: '#7D6752'
-    secondary: '#52687D'
-    tertiary: '#527D67'
-    unibody: '#7D6752'
-
-  # 287
-  slakoth:
-    primary: '#E0D8CB'
-    secondary: '#CBD3E0'
-    tertiary: '#CBE0D8'
-    unibody: '#E0D8CB'
-
-  # 705
-  sliggoo:
-    primary: '#E7D6E8'
-    secondary: '#D7E8D6'
-    tertiary: '#E8E7D6'
-    unibody: '#E7D6E8'
-
-  # 199
-  slowking:
-    primary: '#D3948F'
-    secondary: '#8FCED3'
-    tertiary: '#8FD394'
-    unibody: '#D3948F'
-
-  # 218
-  slugma:
-    primary: '#EC6444'
-    secondary: '#44CCEC'
-    tertiary: '#44EC64'
-    unibody: '#EC6444'
-
-  # 685
-  slurpuff:
-    primary: '#FAF9FC'
-    secondary: '#FBFCF9'
-    tertiary: '#FCFAF9'
-    unibody: '#FAF9FC'
-
-  # 235
-  smeargle:
-    primary: '#EBEBD1'
-    secondary: '#D1D1EB'
-    tertiary: '#D1EBEB'
-    unibody: '#EBEBD1'
-
-  # 238
-  smoochum:
-    primary: '#DB81A4'
-    secondary: '#81DBB8'
-    tertiary: '#A4DB81'
-    unibody: '#DB81A4'
-
-  # 215
-  sneasel:
-    primary: '#253F36'
-    secondary: '#3F252E'
-    tertiary: '#36253F'
-    unibody: '#253F36'
-
-  # 495
-  snivy:
-    primary: '#4D8C46'
-    secondary: '#85468C'
-    tertiary: '#464D8C'
-    unibody: '#4D8C46'
-
-  # 361
-  snorunt:
-    primary: '#343839'
-    secondary: '#393534'
-    tertiary: '#393438'
-    unibody: '#343839'
-
-  # 459
-  snover:
+  sawsbuck_winter:
     primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 209
-  snubbull:
-    primary: '#EF919F'
-    secondary: '#91EFE1'
-    tertiary: '#9FEF91'
-    unibody: '#EF919F'
-
-  # 791
-  solgaleo:
-    primary: '#FFFFFF'
-    secondary: '#FFFFFF'
-    tertiary: '#FFFFFF'
-    unibody: '#FFFFFF'
-
-  # 577
-  solosis:
-    primary: '#EDF2BC'
-    secondary: '#C1BCF2'
-    tertiary: '#BCEDF2'
-    unibody: '#EDF2BC'
-
-  # 338
-  solrock:
-    primary: '#D3642F'
-    secondary: '#2F9ED3'
-    tertiary: '#2FD364'
-    unibody: '#D3642F'
-
-  # 665
-  spewpa:
-    primary: '#585A4D'
-    secondary: '#4F4D5A'
-    tertiary: '#4D585A'
-    unibody: '#585A4D'
-
-  # 363
-  spheal:
-    primary: '#79A8D9'
-    secondary: '#D9AA79'
-    tertiary: '#D979A8'
-    unibody: '#79A8D9'
-
-  # 167
-  spinarak:
-    primary: '#9BC73C'
-    secondary: '#683CC7'
-    tertiary: '#3C9BC7'
-    unibody: '#9BC73C'
-
-  # 327
-  spinda:
-    primary: '#E0D6CA'
-    secondary: '#CAD4E0'
-    tertiary: '#CAE0D6'
-    unibody: '#E0D6CA'
-
-  # 442
-  spiritomb:
-    primary: '#DBA8BB'
-    secondary: '#A8DBC8'
-    tertiary: '#BBDBA8'
-    unibody: '#DBA8BB'
-
-  # 325
-  spoink:
-    primary: '#A7A5A6'
-    secondary: '#A5A7A6'
-    tertiary: '#A6A7A5'
-    unibody: '#A7A5A6'
-
-  # 682
-  spritzee:
-    primary: '#F6B7CC'
-    secondary: '#B7F6E1'
-    tertiary: '#CCF6B7'
-    unibody: '#F6B7CC'
-
-  # 234
-  stantler:
-    primary: '#C29D80'
-    secondary: '#80A5C2'
-    tertiary: '#80C29D'
-    unibody: '#C29D80'
-
-  # 398
-  staraptor:
-    primary: '#827272'
-    secondary: '#728282'
-    tertiary: '#728272'
-    unibody: '#827272'
-
-  # 397
-  staravia:
-    primary: '#48413B'
-    secondary: '#3B4248'
-    tertiary: '#3B4841'
-    unibody: '#48413B'
-
-  # 396
-  starly:
-    primary: '#413936'
-    secondary: '#363E41'
-    tertiary: '#364139'
-    unibody: '#413936'
-
-  # 208
-  steelix:
-    primary: '#828EA8'
-    secondary: '#A89C82'
-    tertiary: '#A8828E'
-    unibody: '#828EA8'
-
-  # 762
-  steenee:
-    primary: '#AB507C'
-    secondary: '#50AB7F'
-    tertiary: '#7CAB50'
-    unibody: '#AB507C'
-
-  # 508
-  stoutland:
-    primary: '#A47036'
-    secondary: '#366AA4'
-    tertiary: '#36A470'
-    unibody: '#A47036'
-
-  # 759
-  stufful:
-    primary: '#ECA7B5'
-    secondary: '#A7ECDE'
-    tertiary: '#B5ECA7'
-    unibody: '#ECA7B5'
-
-  # 618
-  stunfisk:
-    primary: '#AA7450'
-    secondary: '#5086AA'
-    tertiary: '#50AA74'
-    unibody: '#AA7450'
-
-  # 434
-  stunky:
-    primary: '#4B3353'
-    secondary: '#3B5333'
-    tertiary: '#534B33'
-    unibody: '#4B3353'
-
-  # 185
-  sudowoodo:
-    primary: '#AC7D61'
-    secondary: '#6190AC'
-    tertiary: '#61AC7D'
-    unibody: '#AC7D61'
-
-  # 245
-  suicune:
-    primary: '#AFCDE7'
-    secondary: '#E7C9AF'
-    tertiary: '#E7AFCD'
-    unibody: '#AFCDE7'
-
-  # 192
-  sunflora:
-    primary: '#FFE16E'
-    secondary: '#6E8CFF'
-    tertiary: '#6EFFE1'
-    unibody: '#FFE16E'
-
-  # 191
-  sunkern:
-    primary: '#EDDA71'
-    secondary: '#7184ED'
-    tertiary: '#71EDDA'
-    unibody: '#EDDA71'
-
-  # 283
-  surskit:
-    primary: '#82D3F0'
-    secondary: '#F09F82'
-    tertiary: '#F082D3'
-    unibody: '#82D3F0'
-
-  # 333
-  swablu:
-    primary: '#49BDE6'
-    secondary: '#E67249'
-    tertiary: '#E649BD'
-    unibody: '#49BDE6'
-
-  # 541
-  swadloon:
-    primary: '#9CCB3F'
-    secondary: '#6E3FCB'
-    tertiary: '#3F9CCB'
-    unibody: '#9CCB3F'
-
-  # 317
-  swalot:
-    primary: '#9494C6'
-    secondary: '#C6C694'
-    tertiary: '#C69494'
-    unibody: '#9494C6'
-
-  # 260
-  swampert:
-    primary: '#65A5D1'
-    secondary: '#D19165'
-    tertiary: '#D165A5'
-    unibody: '#65A5D1'
-
-  # 581
-  swanna:
-    primary: '#F6F8F5'
-    secondary: '#F7F5F8'
-    tertiary: '#F5F6F8'
-    unibody: '#F6F8F5'
-
-  # 277
-  swellow:
-    primary: '#364969'
-    secondary: '#695636'
-    tertiary: '#693649'
-    unibody: '#364969'
-
-  # 220
-  swinub:
-    primary: '#BB9477'
-    secondary: '#779EBB'
-    tertiary: '#77BB94'
-    unibody: '#BB9477'
-
-  # 684
-  swirlix:
-    primary: '#EDF0F5'
-    secondary: '#F5F2ED'
-    tertiary: '#F5EDF0'
-    unibody: '#EDF0F5'
-
-  # 528
-  swoobat:
-    primary: '#12A4CD'
-    secondary: '#CD3B12'
-    tertiary: '#CD12A4'
-    unibody: '#12A4CD'
-
-  # 700
-  sylveon:
-    primary: '#E5D9E5'
-    secondary: '#D9E5D9'
-    tertiary: '#E5E5D9'
-    unibody: '#E5D9E5'
-
-  # 276
-  taillow:
-    primary: '#515F7C'
-    secondary: '#7C6E51'
-    tertiary: '#7C515F'
-    unibody: '#515F7C'
-
-  # 663
-  talonflame:
-    primary: '#E66D40'
-    secondary: '#40B9E6'
-    tertiary: '#40E66D'
-    unibody: '#E66D40'
-
-  # 465
-  tangrowth:
-    primary: '#5C7DA5'
-    secondary: '#A5845C'
-    tertiary: '#A55C7D'
-    unibody: '#5C7DA5'
-
-  # 216
-  teddiursa:
-    primary: '#ED9B51'
-    secondary: '#51A3ED'
-    tertiary: '#51ED9B'
-    unibody: '#ED9B51'
-
-  # 498
-  tepig:
-    primary: '#E99453'
-    secondary: '#53A8E9'
-    tertiary: '#53E994'
-    unibody: '#E99453'
-
-  # 639
-  terrakion:
-    primary: '#A3A3A3'
-    secondary: '#A3A3A3'
-    tertiary: '#A3A3A3'
-    unibody: '#A3A3A3'
-
-  # 538
-  throh:
-    primary: '#C5655E'
-    secondary: '#5EBEC5'
-    tertiary: '#5EC565'
-    unibody: '#C5655E'
-
-  # 642
-  thundurus:
-    primary: '#F5F4F9'
-    secondary: '#F8F9F4'
-    tertiary: '#F9F5F4'
-    unibody: '#F5F4F9'
-
-  # 532
-  timburr:
-    primary: '#CAC2AD'
-    secondary: '#ADB5CA'
-    tertiary: '#ADCAC2'
-    unibody: '#CAC2AD'
-
-  # 564
-  tirtouga:
-    primary: '#79B1E0'
-    secondary: '#E0A879'
-    tertiary: '#E079B1'
-    unibody: '#79B1E0'
-
-  # 777
-  togedemaru:
-    primary: '#6E5039'
-    secondary: '#39576E'
-    tertiary: '#396E50'
-    unibody: '#6E5039'
-
-  # 468
-  togekiss:
-    primary: '#D8EBE9'
-    secondary: '#EBD8DA'
-    tertiary: '#E9D8EB'
-    unibody: '#D8EBE9'
-
-  # 175
-  togepi:
-    primary: '#FFFDF0'
-    secondary: '#F0F2FF'
-    tertiary: '#F0FFFD'
-    unibody: '#FFFDF0'
-
-  # 176
-  togetic:
-    primary: '#E8EDF1'
-    secondary: '#F1ECE8'
-    tertiary: '#F1E8ED'
-    unibody: '#E8EDF1'
-
-  # 255
-  torchic:
-    primary: '#EA8B2F'
-    secondary: '#2F8EEA'
-    tertiary: '#2FEA8B'
-    unibody: '#EA8B2F'
-
-  # 324
-  torkoal:
-    primary: '#ED987B'
-    secondary: '#7BD0ED'
-    tertiary: '#7BED98'
-    unibody: '#ED987B'
-
-  # 641
-  tornadus:
-    primary: '#F5F4F9'
-    secondary: '#F8F9F4'
-    tertiary: '#F9F5F4'
-    unibody: '#F5F4F9'
-
-  # 389
-  torterra:
-    primary: '#3E854B'
-    secondary: '#853E78'
-    tertiary: '#4B3E85'
-    unibody: '#3E854B'
-
-  # 158
-  totodile:
-    primary: '#5DA5D1'
-    secondary: '#D1895D'
-    tertiary: '#D15DA5'
-    unibody: '#5DA5D1'
-
-  # 733
-  toucannon:
-    primary: '#554F4D'
-    secondary: '#4D5355'
-    tertiary: '#4D554F'
-    unibody: '#554F4D'
-
-  # 748
-  toxapex:
-    primary: '#A6DAE7'
-    secondary: '#E7B3A6'
-    tertiary: '#E7A6DA'
-    unibody: '#A6DAE7'
-
-  # 454
-  toxicroak:
-    primary: '#6191C2'
-    secondary: '#C29261'
-    tertiary: '#C26191'
-    unibody: '#6191C2'
-
-  # 520
-  tranquill:
-    primary: '#A5A8A1'
-    secondary: '#A4A1A8'
-    tertiary: '#A1A5A8'
-    unibody: '#A5A8A1'
-
-  # 328
-  trapinch:
-    primary: '#E98764'
-    secondary: '#64C6E9'
-    tertiary: '#64E987'
-    unibody: '#E98764'
-
-  # 252
-  treecko:
-    primary: '#BED978'
-    secondary: '#9378D9'
-    tertiary: '#78BED9'
-    unibody: '#BED978'
-
-  # 709
-  trevenant:
-    primary: '#896A4E'
-    secondary: '#4E6D89'
-    tertiary: '#4E896A'
-    unibody: '#896A4E'
-
-  # 357
-  tropius:
-    primary: '#A38D7F'
-    secondary: '#7F95A3'
-    tertiary: '#7FA38D'
-    unibody: '#A38D7F'
-
-  # 568
-  trubbish:
-    primary: '#788363'
-    secondary: '#6E6383'
-    tertiary: '#637883'
-    unibody: '#788363'
-
-  # 763
-  tsareena:
-    primary: '#AD4C73'
-    secondary: '#4CAD86'
-    tertiary: '#73AD4C'
-    unibody: '#AD4C73'
-
-  # 776
-  turtonator:
-    primary: '#F1D749'
-    secondary: '#4963F1'
-    tertiary: '#49F1D7'
-    unibody: '#F1D749'
-
-  # 387
-  turtwig:
-    primary: '#BAD382'
-    secondary: '#9B82D3'
-    tertiary: '#82BAD3'
-    unibody: '#BAD382'
-
-  # 535
-  tympole:
-    primary: '#434343'
-    secondary: '#434343'
-    tertiary: '#434343'
-    unibody: '#434343'
-
-  # 602
-  tynamo:
-    primary: '#EBF5F7'
-    secondary: '#F7EDEB'
-    tertiary: '#F7EBF5'
-    unibody: '#EBF5F7'
-
-  # 157
-  typhlosion:
-    primary: '#FAE997'
-    secondary: '#97A8FA'
-    tertiary: '#97FAE9'
-    unibody: '#FAE997'
-
-  # 248
-  tyranitar:
-    primary: '#C3C19A'
-    secondary: '#9A9CC3'
-    tertiary: '#9AC3C1'
-    unibody: '#C3C19A'
-
-  # 697
-  tyrantrum:
-    primary: '#A85A56'
-    secondary: '#56A4A8'
-    tertiary: '#56A85A'
-    unibody: '#A85A56'
-
-  # 236
-  tyrogue:
-    primary: '#D5B3D4'
-    secondary: '#B3D5B4'
-    tertiary: '#D4D5B3'
-    unibody: '#D5B3D4'
-
-  # 696
-  tyrunt:
-    primary: '#7F6860'
-    secondary: '#60777F'
-    tertiary: '#607F68'
-    unibody: '#7F6860'
-
-  # 197
-  umbreon:
-    primary: '#21201E'
-    secondary: '#1E1F21'
-    tertiary: '#1E2120'
-    unibody: '#21201E'
-
-  # 521
-  unfezant:
-    primary: '#A8A8AA'
-    secondary: '#AAAAA8'
-    tertiary: '#AAA8A8'
-    unibody: '#A8A8AA'
-
-  # 201
-  unown:
-    primary: '#525252'
-    secondary: '#525252'
-    tertiary: '#525252'
-    unibody: '#525252'
-
-  # 217
-  ursaring:
-    primary: '#9F6D50'
-    secondary: '#50829F'
-    tertiary: '#509F6D'
-    unibody: '#9F6D50'
-
-  # 480
-  uxie:
-    primary: '#B8D6F0'
-    secondary: '#F0D2B8'
-    tertiary: '#F0B8D6'
-    unibody: '#B8D6F0'
-
-  # 583
-  vanillish:
-    primary: '#6AA0CE'
-    secondary: '#CE986A'
-    tertiary: '#CE6AA0'
-    unibody: '#6AA0CE'
-
-  # 582
-  vanillite:
-    primary: '#7FA4D0'
-    secondary: '#D0AB7F'
-    tertiary: '#D07FA4'
-    unibody: '#7FA4D0'
-
-  # 584
-  vanilluxe:
-    primary: '#6F9ECC'
-    secondary: '#CC9D6F'
-    tertiary: '#CC6F9E'
-    unibody: '#6F9ECC'
-
-  # 543
-  venipede:
-    primary: '#BD4862'
-    secondary: '#48BDA3'
-    tertiary: '#62BD48'
-    unibody: '#BD4862'
-
-  # 416
-  vespiquen:
-    primary: '#F3C053'
-    secondary: '#5386F3'
-    tertiary: '#53F3C0'
-    unibody: '#F3C053'
-
-  # 329
-  vibrava:
-    primary: '#E1E18B'
-    secondary: '#8B8BE1'
-    tertiary: '#8BE1E1'
-    unibody: '#E1E18B'
-
-  # 494
-  victini:
-    primary: '#FAEBAA'
-    secondary: '#AAB9FA'
-    tertiary: '#AAFAEB'
-    unibody: '#FAEBAA'
-
-  # 288
-  vigoroth:
-    primary: '#EFF0F2'
-    secondary: '#F2F1EF'
-    tertiary: '#F2EFF0'
-    unibody: '#EFF0F2'
-
-  # 738
-  vikavolt:
-    primary: '#6396AF'
-    secondary: '#AF7C63'
-    tertiary: '#AF6396'
-    unibody: '#6396AF'
-
-  # 640
-  virizion:
-    primary: '#A8CB6D'
-    secondary: '#906DCB'
-    tertiary: '#6DA8CB'
-    unibody: '#A8CB6D'
-
-  # 666
-  vivillon:
-    primary: '#CED1D6'
-    secondary: '#D6D3CE'
-    tertiary: '#D6CED1'
-    unibody: '#CED1D6'
-
-  # 313
-  volbeat:
-    primary: '#92A3BD'
-    secondary: '#BDAC92'
-    tertiary: '#BD92A3'
-    unibody: '#92A3BD'
-
-  # 721
-  volcanion:
-    primary: '#9D2B2C'
-    secondary: '#2B9D9C'
-    tertiary: '#2C9D2B'
-    unibody: '#9D2B2C'
-
-  # 637
-  volcarona:
-    primary: '#E6E6E6'
-    secondary: '#E6E6E6'
-    tertiary: '#E6E6E6'
-    unibody: '#E6E6E6'
-
-  # 629
-  vullaby:
-    primary: '#635854'
-    secondary: '#545F63'
-    tertiary: '#546358'
-    unibody: '#635854'
-
-  # 320
-  wailmer:
-    primary: '#00609A'
-    secondary: '#9A3A00'
-    tertiary: '#9A0060'
-    unibody: '#00609A'
-
-  # 321
-  wailord:
-    primary: '#016EA5'
-    secondary: '#A53801'
-    tertiary: '#A5016E'
-    unibody: '#016EA5'
-
-  # 365
-  walrein:
-    primary: '#359CC7'
-    secondary: '#C76035'
-    tertiary: '#C7359C'
-    unibody: '#359CC7'
-
-  # 505
-  watchog:
-    primary: '#6A3628'
-    secondary: '#285C6A'
-    tertiary: '#286A36'
-    unibody: '#6A3628'
-
-  # 461
-  weavile:
-    primary: '#45465A'
-    secondary: '#5A5945'
-    tertiary: '#5A4546'
-    unibody: '#45465A'
-
-  # 547
-  whimsicott:
-    primary: '#745342'
-    secondary: '#426374'
-    tertiary: '#427453'
-    unibody: '#745342'
-
-  # 544
-  whirlipede:
-    primary: '#A09BB1'
-    secondary: '#ACB19B'
-    tertiary: '#B1A09B'
-    unibody: '#A09BB1'
-
-  # 340
-  whiscash:
-    primary: '#1C4B7F'
-    secondary: '#7F501C'
-    tertiary: '#7F1C4B'
-    unibody: '#1C4B7F'
-
-  # 293
-  whismur:
-    primary: '#D9C1DB'
-    secondary: '#C3DBC1'
-    tertiary: '#DBD9C1'
-    unibody: '#D9C1DB'
-
-  # 767
-  wimpod:
-    primary: '#CEE1D7'
-    secondary: '#E1CED8'
-    tertiary: '#D7CEE1'
-    unibody: '#CEE1D7'
-
-  # 278
-  wingull:
-    primary: '#9DCFF0'
-    secondary: '#F0BE9D'
-    tertiary: '#F09DCF'
-    unibody: '#9DCFF0'
-
-  # 746
-  wishiwashi:
-    primary: '#FAFCFD'
-    secondary: '#FDFBFA'
-    tertiary: '#FDFAFC'
-    unibody: '#FAFCFD'
-
-  # 202
-  wobbuffet:
-    primary: '#71A5D6'
-    secondary: '#D6A271'
-    tertiary: '#D671A5'
-    unibody: '#71A5D6'
-
-  # 527
-  woobat:
-    primary: '#9AC2CA'
-    secondary: '#CAA29A'
-    tertiary: '#CA9AC2'
-    unibody: '#9AC2CA'
-
-  # 194
-  wooper:
-    primary: '#A7DFFA'
-    secondary: '#FAC2A7'
-    tertiary: '#FAA7DF'
-    unibody: '#A7DFFA'
-
-  # 413
-  wormadam:
-    primary: '#529744'
-    secondary: '#894497'
-    tertiary: '#445297'
-    unibody: '#529744'
-
-  # 265
-  wurmple:
-    primary: '#EBEAE5'
-    secondary: '#E5E6EB'
-    tertiary: '#E5EBEA'
-    unibody: '#EBEAE5'
-
-  # 360
-  wynaut:
-    primary: '#6AC9CF'
-    secondary: '#CF706A'
-    tertiary: '#CF6AC9'
-    unibody: '#6AC9CF'
-
-  # 178
-  xatu:
-    primary: '#8CC63E'
-    secondary: '#783EC6'
-    tertiary: '#3E8CC6'
-    unibody: '#8CC63E'
-
-  # 716
-  xerneas:
-    primary: '#343633'
-    secondary: '#353336'
-    tertiary: '#333436'
-    unibody: '#343633'
-
-  # 796
-  xurkitree:
-    primary: '#43433D'
-    secondary: '#3D3D43'
-    tertiary: '#3D4343'
-    unibody: '#43433D'
-
-  # 562
-  yamask:
-    primary: '#1E2618'
-    secondary: '#201826'
-    tertiary: '#181E26'
-    unibody: '#1E2618'
-
-  # 193
-  yanma:
-    primary: '#D25738'
-    secondary: '#38B3D2'
-    tertiary: '#38D257'
-    unibody: '#D25738'
-
-  # 469
-  yanmega:
-    primary: '#415427'
-    secondary: '#3A2754'
-    tertiary: '#274154'
-    unibody: '#415427'
-
-  # 734
-  yungoos:
-    primary: '#BE8976'
-    secondary: '#76ABBE'
-    tertiary: '#76BE89'
-    unibody: '#BE8976'
-
-  # 717
-  yveltal:
-    primary: '#343633'
-    secondary: '#353336'
-    tertiary: '#333436'
-    unibody: '#343633'
-
-  # 335
-  zangoose:
-    primary: '#FDFEFF'
-    secondary: '#FFFEFD'
-    tertiary: '#FFFDFE'
-    unibody: '#FDFEFF'
-
-  # 523
-  zebstrika:
-    primary: '#524E4D'
-    secondary: '#4D5152'
-    tertiary: '#4D524E'
-    unibody: '#524E4D'
-
-  # 644
-  zekrom:
-    primary: '#EEF8F7'
-    secondary: '#F8EEEF'
-    tertiary: '#F7EEF8'
-    unibody: '#EEF8F7'
-
-  # 263
-  zigzagoon:
-    primary: '#E1DDD4'
-    secondary: '#D4D8E1'
-    tertiary: '#D4E1DD'
-    unibody: '#E1DDD4'
-
-  # 571
-  zoroark:
-    primary: '#5C5B6B'
-    secondary: '#6A6B5B'
-    tertiary: '#6B5C5B'
-    unibody: '#5C5B6B'
-
-  # 570
-  zorua:
-    primary: '#635B73'
-    secondary: '#6B735B'
-    tertiary: '#73635B'
-    unibody: '#635B73'
-
-  # 634
-  zweilous:
-    primary: '#534B48'
-    secondary: '#485053'
-    tertiary: '#48534B'
-    unibody: '#534B48'
-
-  # 718
-  zygarde:
-    primary: '#2F322E'
-    secondary: '#312E32'
-    tertiary: '#2E2F32'
-    unibody: '#2F322E'
+    secondary: '#213C57'
+    tertiary: '#21573C'
+    unibody: '#573C21'
+
+  shaymin_sky:
+    primary: '#DA5C36'
+    secondary: '#FEFEFE'
+    tertiary: '#FEFEFE'
+    unibody: '#FEFEFE'
+
+  shellos_west:
+    primary: '#E9D677'
+    secondary: '#96E6C3'
+    tertiary: '#B9E696'
+    unibody: '#E696B9'
+
+  silvally_bug:
+    primary: '#8FC871'
+    secondary: '#E9E5DE'
+    tertiary: '#E9DEE2'
+    unibody: '#DEE2E9'
+
+  silvally_dark:
+    primary: '#121212'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_dragon:
+    primary: '#A2D7E7'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_electric:
+    primary: '#F4EE55'
+    secondary: '#E9E5DE'
+    tertiary: '#E9DEE2'
+    unibody: '#DEE2E9'
+
+  silvally_fairy:
+    primary: '#B4B9C5'
+    secondary: '#E9E8E1'
+    tertiary: '#E9E1E2'
+    unibody: '#E1E2E9'
+
+  silvally_fighting:
+    primary: '#F39F5B'
+    secondary: '#E9E6DF'
+    tertiary: '#E9DFE2'
+    unibody: '#DFE2E9'
+
+  silvally_fire:
+    primary: '#E60928'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_flying:
+    primary: '#0377C2'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_ghost:
+    primary: '#675CA5'
+    secondary: '#EAE7DE'
+    tertiary: '#EADEE1'
+    unibody: '#DEE1EA'
+
+  silvally_grass:
+    primary: '#119F50'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_ground:
+    primary: '#CF7207'
+    secondary: '#E9E5DE'
+    tertiary: '#E9DEE2'
+    unibody: '#DEE2E9'
+
+  silvally_gx:
+    primary: '#182AFC'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  silvally_ice:
+    primary: '#ACCFD8'
+    secondary: '#ECE6DE'
+    tertiary: '#ECDEE4'
+    unibody: '#DEE4EC'
+
+  silvally_poison:
+    primary: '#B879A5'
+    secondary: '#EAE7DE'
+    tertiary: '#EADEE1'
+    unibody: '#DEE1EA'
+
+  silvally_psychic:
+    primary: '#EC8BB6'
+    secondary: '#EAE8DF'
+    tertiary: '#EADFE1'
+    unibody: '#DFE1EA'
+
+  silvally_rock:
+    primary: '#C6BDA9'
+    secondary: '#E9E5DE'
+    tertiary: '#E9DEE2'
+    unibody: '#DEE2E9'
+
+  silvally_steel:
+    primary: '#96ACCA'
+    secondary: '#EAE5DD'
+    tertiary: '#EADDE2'
+    unibody: '#DDE2EA'
+
+  silvally_water:
+    primary: '#21B9ED'
+    secondary: '#EAE6DE'
+    tertiary: '#EADEE2'
+    unibody: '#DEE2EA'
+
+  solgaleo_full:
+      primary: '#353130'
+      secondary: '#31acde'
+      tertiary: '#DE6331'
+      unibody: '#FFFFFF'
+
+  tapu_bulu:
+    primary: '#484945'
+    secondary: '#4DCACF'
+    tertiary: '#4DCF52'
+    unibody: '#CF524D'
+
+  tapu_fini:
+    primary: '#4B494C'
+    secondary: '#8FA566'
+    tertiary: '#A57C66'
+    unibody: '#7C66A5'
+
+  tapu_koko:
+    primary: '#484A3F'
+    secondary: '#4D55EE'
+    tertiary: '#4DEEE6'
+    unibody: '#EEE64D'
+
+  tapu_lele:
+    primary: '#E16A7C'
+    secondary: '#A0E7CE'
+    tertiary: '#B9E7A0'
+    unibody: '#E7A0B9'
+
+  thundurus_therian:
+    primary: '#EFEEFC'
+    secondary: '#E2A586'
+    tertiary: '#E286C3'
+    unibody: '#86C3E2'
+
+  tornadus_therian:
+    primary: '#9674A7'
+    secondary: '#AC71C1'
+    tertiary: '#7186C1'
+    unibody: '#86C171'
+
+  type_null:
+    primary: '#A97E68'
+    secondary: '#969694'
+    tertiary: '#969494'
+    unibody: '#949496'
+
+  wishiwashi_school:
+    primary: '#26364B'
+    secondary: '#B7914E'
+    tertiary: '#B74E74'
+    unibody: '#4E74B7'
+
+  wormadam_sandy:
+    primary: '#5E5E5F'
+    secondary: '#7687BF'
+    tertiary: '#76BFAE'
+    unibody: '#BFAE76'
+
+  wormadam_trash:
+    primary: '#626463'
+    secondary: '#79CBC5'
+    tertiary: '#7FCB79'
+    unibody: '#CB797F'
+
+  zenith_marshadow:
+    primary: '#297F87'
+    secondary: '#777673'
+    tertiary: '#777374'
+    unibody: '#737477'
+
+  zygarde_10:
+    primary: '#93C41B'
+    secondary: '#32373A'
+    tertiary: '#323A35'
+    unibody: '#3A3532'
+
+  zygarde_cell:
+    primary: '#86AA2F'
+    secondary: '#6235C7'
+    tertiary: '#359AC7'
+    unibody: '#9AC735'
+
+  zygarde_complete:
+    primary: '#93C41B'
+    secondary: '#32373A'
+    tertiary: '#323A35'
+    unibody: '#3A3532'
+
+  zygarde_complete_top:
+    primary: '#5B5754'
+    secondary: '#313639'
+    tertiary: '#313934'
+    unibody: '#393431'
+
+  zygarde_core:
+    primary: '#F5F7F9'
+    secondary: '#8363D4'
+    tertiary: '#63B4D4'
+    unibody: '#B4D463'
+
 
 
 ##

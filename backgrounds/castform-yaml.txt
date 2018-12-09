@@ -1,7 +1,0 @@
-# 351
-castform:
-    primary: '#CFD3DC'
-    secondary: '#DCD8CF'
-    tertiary: '#DCCFD3 '
-    unibody: '#CFD3DC'
-

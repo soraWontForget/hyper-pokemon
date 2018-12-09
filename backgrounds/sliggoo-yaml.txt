@@ -1,7 +1,0 @@
-# 705
-sliggoo:
-    primary: '#E7D6E8'
-    secondary: '#D7E8D6'
-    tertiary: '#E8E7D6 '
-    unibody: '#E7D6E8'
-

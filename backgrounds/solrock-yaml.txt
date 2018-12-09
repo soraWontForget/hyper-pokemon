@@ -1,7 +1,0 @@
-# 338
-solrock:
-    primary: '#D3642F'
-    secondary: '#2F9ED3'
-    tertiary: '#2FD364 '
-    unibody: '#D3642F'
-

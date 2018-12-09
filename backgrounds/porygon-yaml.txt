@@ -1,7 +1,0 @@
-# 
-porygon:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

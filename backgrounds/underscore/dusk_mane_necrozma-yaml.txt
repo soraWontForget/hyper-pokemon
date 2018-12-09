@@ -1,5 +1,0 @@
-dusk_mane_necrozma:
-    primary: #FEF3E4
-    secondary: # Image
-    tertiary: # Image
-    unibody: #FEF3E4

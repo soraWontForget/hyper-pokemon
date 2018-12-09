@@ -1,7 +1,0 @@
-# 516
-simipour:
-    primary: '#52BFE0'
-    secondary: '#E07352'
-    tertiary: '#E052BF '
-    unibody: '#52BFE0'
-

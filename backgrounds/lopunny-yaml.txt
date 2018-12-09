@@ -1,7 +1,0 @@
-# 428
-lopunny:
-    primary: '#AB7656'
-    secondary: '#568BAB'
-    tertiary: '#56AB76 '
-    unibody: '#AB7656'
-

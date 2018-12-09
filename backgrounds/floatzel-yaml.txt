@@ -1,7 +1,0 @@
-# 419
-floatzel:
-    primary: '#DA713A'
-    secondary: '#3AA3DA'
-    tertiary: '#3ADA71 '
-    unibody: '#DA713A'
-

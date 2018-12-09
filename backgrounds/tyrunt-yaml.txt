@@ -1,7 +1,0 @@
-# 696
-tyrunt:
-    primary: '#7F6860'
-    secondary: '#60777F'
-    tertiary: '#607F68 '
-    unibody: '#7F6860'
-

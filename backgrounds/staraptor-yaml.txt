@@ -1,7 +1,0 @@
-# 398
-staraptor:
-    primary: '#827272'
-    secondary: '#728282'
-    tertiary: '#728272 '
-    unibody: '#827272'
-

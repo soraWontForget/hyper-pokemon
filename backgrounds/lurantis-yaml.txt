@@ -1,7 +1,0 @@
-# 754
-lurantis:
-    primary: '#F5CFD3'
-    secondary: '#CFF5F1'
-    tertiary: '#D3F5CF '
-    unibody: '#F5CFD3'
-

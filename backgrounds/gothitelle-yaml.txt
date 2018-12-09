@@ -1,7 +1,0 @@
-# 576
-gothitelle:
-    primary: '#393738'
-    secondary: '#373938'
-    tertiary: '#383937 '
-    unibody: '#393738'
-

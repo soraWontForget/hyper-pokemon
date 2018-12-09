@@ -1,7 +1,0 @@
-# 196
-espeon:
-    primary: '#D4B7D5'
-    secondary: '#B8D5B7'
-    tertiary: '#D5D4B7 '
-    unibody: '#D4B7D5'
-

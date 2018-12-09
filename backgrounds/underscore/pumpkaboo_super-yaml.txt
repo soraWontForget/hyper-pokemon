@@ -1,5 +1,0 @@
-pumpkaboo_super:
-    primary: #524637
-    secondary: # Image
-    tertiary: # Image
-    unibody: #524637

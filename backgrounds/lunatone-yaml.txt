@@ -1,7 +1,0 @@
-# 337
-lunatone:
-    primary: '#E5DEB4'
-    secondary: '#B4BBE5'
-    tertiary: '#B4E5DE '
-    unibody: '#E5DEB4'
-

@@ -1,7 +1,0 @@
-# 416
-vespiquen:
-    primary: '#F3C053'
-    secondary: '#5386F3'
-    tertiary: '#53F3C0 '
-    unibody: '#F3C053'
-

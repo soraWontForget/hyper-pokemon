@@ -1,7 +1,0 @@
-# 702
-dedenne:
-    primary: '#F2F1C1'
-    secondary: '#C1C2F2'
-    tertiary: '#C1F2F1 '
-    unibody: '#F2F1C1'
-

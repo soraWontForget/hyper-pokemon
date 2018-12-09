@@ -1,7 +1,0 @@
-# 482
-azelf:
-    primary: '#B5CDE5'
-    secondary: '#E5CDB5'
-    tertiary: '#E5B5CD '
-    unibody: '#B5CDE5'
-

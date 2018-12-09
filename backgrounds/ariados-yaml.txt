@@ -1,7 +1,0 @@
-# 168
-ariados:
-    primary: '#BA644D'
-    secondary: '#4DA3BA'
-    tertiary: '#4DBA64 '
-    unibody: '#BA644D'
-

@@ -1,7 +1,0 @@
-# 619
-mienfoo:
-    primary: '#F3F19E'
-    secondary: '#9EA0F3'
-    tertiary: '#9EF3F1 '
-    unibody: '#F3F19E'
-

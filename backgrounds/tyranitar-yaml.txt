@@ -1,7 +1,0 @@
-# 248
-tyranitar:
-    primary: '#C3C19A'
-    secondary: '#9A9CC3'
-    tertiary: '#9AC3C1 '
-    unibody: '#C3C19A'
-

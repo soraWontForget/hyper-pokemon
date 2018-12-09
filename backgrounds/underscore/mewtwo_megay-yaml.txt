@@ -1,5 +1,0 @@
-mewtwo_megay:
-    primary: #E0E2E1
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E0E2E1

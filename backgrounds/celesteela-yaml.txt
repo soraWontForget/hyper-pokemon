@@ -1,7 +1,0 @@
-# 797
-celesteela:
-    primary: '#8FA9A4'
-    secondary: '#A98F94'
-    tertiary: '#A48FA9 '
-    unibody: '#8FA9A4'
-

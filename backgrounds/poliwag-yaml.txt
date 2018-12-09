@@ -1,7 +1,0 @@
-# 
-poliwag:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

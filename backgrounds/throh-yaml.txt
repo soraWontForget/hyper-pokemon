@@ -1,7 +1,0 @@
-# 538
-throh:
-    primary: '#C5655E'
-    secondary: '#5EBEC5'
-    tertiary: '#5EC565 '
-    unibody: '#C5655E'
-

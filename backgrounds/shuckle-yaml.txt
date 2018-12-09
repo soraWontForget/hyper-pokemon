@@ -1,7 +1,0 @@
-# 213
-shuckle:
-    primary: '#D93830'
-    secondary: '#30D1D9'
-    tertiary: '#30D938 '
-    unibody: '#D93830'
-

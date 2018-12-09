@@ -1,5 +1,0 @@
-silvally_ice:
-    primary: #DEE4EC
-    secondary: # Image
-    tertiary: # Image
-    unibody: #DEE4EC

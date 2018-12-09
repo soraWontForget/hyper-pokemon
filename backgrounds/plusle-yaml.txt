@@ -1,7 +1,0 @@
-# 311
-plusle:
-    primary: '#FFEDBF'
-    secondary: '#BFD1FF'
-    tertiary: '#BFFFED '
-    unibody: '#FFEDBF'
-

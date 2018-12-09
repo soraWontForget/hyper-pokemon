@@ -1,7 +1,0 @@
-# 353
-shuppet:
-    primary: '#7887B2'
-    secondary: '#B2A378'
-    tertiary: '#B27887 '
-    unibody: '#7887B2'
-

@@ -1,7 +1,0 @@
-# 189
-jumpluff:
-    primary: '#6F89C4'
-    secondary: '#C4AA6F'
-    tertiary: '#C46F89 '
-    unibody: '#6F89C4'
-

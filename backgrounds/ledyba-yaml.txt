@@ -1,7 +1,0 @@
-# 165
-ledyba:
-    primary: '#C66753'
-    secondary: '#53B2C6'
-    tertiary: '#53C667 '
-    unibody: '#C66753'
-

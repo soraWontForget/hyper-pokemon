@@ -1,7 +1,0 @@
-# 525
-boldore:
-    primary: '#2F3451'
-    secondary: '#514C2F'
-    tertiary: '#512F34 '
-    unibody: '#2F3451'
-

@@ -1,7 +1,0 @@
-# 
-parasect:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

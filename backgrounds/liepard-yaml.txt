@@ -1,7 +1,0 @@
-# 510
-liepard:
-    primary: '#6C5C76'
-    secondary: '#66765C'
-    tertiary: '#766C5C '
-    unibody: '#6C5C76'
-

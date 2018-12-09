@@ -1,7 +1,0 @@
-# 
-hypno:
-    primary: '#F9D855'
-    secondary: '#5576F9'
-    tertiary: '#55F9D8 '
-    unibody: '#F9D855'
-

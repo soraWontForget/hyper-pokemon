@@ -1,7 +1,0 @@
-# 282
-gardevoir:
-    primary: '#7EAE7A'
-    secondary: '#AA7AAE'
-    tertiary: '#7A7EAE '
-    unibody: '#7EAE7A'
-

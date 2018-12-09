@@ -1,7 +1,0 @@
-# 
-primeape:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

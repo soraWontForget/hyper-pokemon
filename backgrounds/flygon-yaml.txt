@@ -1,7 +1,0 @@
-# 330
-flygon:
-    primary: '#B7D188'
-    secondary: '#A288D1'
-    tertiary: '#88B7D1 '
-    unibody: '#B7D188'
-

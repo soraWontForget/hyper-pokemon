@@ -1,7 +1,0 @@
-# 620
-mienshao:
-    primary: '#E5E1DE'
-    secondary: '#DEE2E5'
-    tertiary: '#DEE5E1 '
-    unibody: '#E5E1DE'
-

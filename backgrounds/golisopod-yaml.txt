@@ -1,7 +1,0 @@
-# 768
-golisopod:
-    primary: '#D3DFD8'
-    secondary: '#DFD3DA'
-    tertiary: '#D8D3DF '
-    unibody: '#D3DFD8'
-

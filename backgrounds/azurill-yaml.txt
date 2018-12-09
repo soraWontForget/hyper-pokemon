@@ -1,7 +1,0 @@
-# 298
-azurill:
-    primary: '#2B8FCD'
-    secondary: '#CD692B'
-    tertiary: '#CD2B8F '
-    unibody: '#2B8FCD'
-

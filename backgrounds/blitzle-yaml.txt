@@ -1,7 +1,0 @@
-# 522
-blitzle:
-    primary: '#4F4B48'
-    secondary: '#484C4F'
-    tertiary: '#484F4B '
-    unibody: '#4F4B48'
-

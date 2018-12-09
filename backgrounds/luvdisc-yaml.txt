@@ -1,7 +1,0 @@
-# 370
-luvdisc:
-    primary: '#E69EA9'
-    secondary: '#9EE6DB'
-    tertiary: '#A9E69E '
-    unibody: '#E69EA9'
-

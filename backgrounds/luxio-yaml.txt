@@ -1,7 +1,0 @@
-# 404
-luxio:
-    primary: '#80B8C9'
-    secondary: '#C99180'
-    tertiary: '#C980B8 '
-    unibody: '#80B8C9'
-

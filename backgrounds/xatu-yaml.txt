@@ -1,7 +1,0 @@
-# 178
-xatu:
-    primary: '#8CC63E'
-    secondary: '#783EC6'
-    tertiary: '#3E8CC6 '
-    unibody: '#8CC63E'
-

@@ -1,7 +1,0 @@
-# 682
-spritzee:
-    primary: '#F6B7CC'
-    secondary: '#B7F6E1'
-    tertiary: '#CCF6B7 '
-    unibody: '#F6B7CC'
-

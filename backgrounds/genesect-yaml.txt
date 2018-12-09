@@ -1,7 +1,0 @@
-# 649
-genesect:
-    primary: '#A06C9C'
-    secondary: '#6CA070'
-    tertiary: '#9CA06C '
-    unibody: '#A06C9C'
-

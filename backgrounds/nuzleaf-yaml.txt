@@ -1,7 +1,0 @@
-# 274
-nuzleaf:
-    primary: '#B2968A'
-    secondary: '#8AA6B2'
-    tertiary: '#8AB296 '
-    unibody: '#B2968A'
-

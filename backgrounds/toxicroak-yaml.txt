@@ -1,7 +1,0 @@
-# 454
-toxicroak:
-    primary: '#6191C2'
-    secondary: '#C29261'
-    tertiary: '#C26191 '
-    unibody: '#6191C2'
-

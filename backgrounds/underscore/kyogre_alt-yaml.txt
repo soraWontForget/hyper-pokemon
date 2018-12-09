@@ -1,5 +1,0 @@
-kyogre_alt:
-    primary: #056DB6
-    secondary: # Image
-    tertiary: # Image
-    unibody: #056DB6

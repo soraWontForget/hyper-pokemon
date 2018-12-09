@@ -1,7 +1,0 @@
-# 
-tangela:
-    primary: '#6697C0'
-    secondary: '#C08F66'
-    tertiary: '#C06697 '
-    unibody: '#6697C0'
-

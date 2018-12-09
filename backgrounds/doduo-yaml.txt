@@ -1,7 +1,0 @@
-# 
-doduo:
-    primary: '#CB9573'
-    secondary: '#73A9CB'
-    tertiary: '#73CB95 '
-    unibody: '#CB9573'
-

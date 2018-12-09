@@ -1,7 +1,0 @@
-# 
-krabby:
-    primary: '#F4E5E0'
-    secondary: '#E0EFF4'
-    tertiary: '#E0F4E5 '
-    unibody: '#F4E5E0'
-

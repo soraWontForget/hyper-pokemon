@@ -1,7 +1,0 @@
-# 
-sandslash:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

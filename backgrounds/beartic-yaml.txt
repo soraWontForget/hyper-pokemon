@@ -1,7 +1,0 @@
-# 614
-beartic:
-    primary: '#E9F4FA'
-    secondary: '#FAEFE9'
-    tertiary: '#FAE9F4 '
-    unibody: '#E9F4FA'
-

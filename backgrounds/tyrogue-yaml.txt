@@ -1,7 +1,0 @@
-# 236
-tyrogue:
-    primary: '#D5B3D4'
-    secondary: '#B3D5B4'
-    tertiary: '#D4D5B3 '
-    unibody: '#D5B3D4'
-

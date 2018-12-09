@@ -1,7 +1,0 @@
-# 
-raticate:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

@@ -1,7 +1,0 @@
-# 561
-sigilyph:
-    primary: '#F0B45C'
-    secondary: '#5C98F0'
-    tertiary: '#5CF0B4 '
-    unibody: '#F0B45C'
-

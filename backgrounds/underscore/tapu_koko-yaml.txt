@@ -1,5 +1,0 @@
-tapu_koko:
-    primary: #EEE64D
-    secondary: # Image
-    tertiary: # Image
-    unibody: #EEE64D

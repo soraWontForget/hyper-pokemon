@@ -1,7 +1,0 @@
-# 265
-wurmple:
-    primary: '#EBEAE5'
-    secondary: '#E5E6EB'
-    tertiary: '#E5EBEA '
-    unibody: '#EBEAE5'
-

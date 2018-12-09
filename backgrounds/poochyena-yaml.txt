@@ -1,7 +1,0 @@
-# 261
-poochyena:
-    primary: '#ABB0B4'
-    secondary: '#B4AFAB'
-    tertiary: '#B4ABB0 '
-    unibody: '#ABB0B4'
-

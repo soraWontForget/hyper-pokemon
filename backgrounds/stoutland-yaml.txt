@@ -1,7 +1,0 @@
-# 508
-stoutland:
-    primary: '#A47036'
-    secondary: '#366AA4'
-    tertiary: '#36A470 '
-    unibody: '#A47036'
-

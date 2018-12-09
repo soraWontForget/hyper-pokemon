@@ -1,7 +1,0 @@
-# 383
-groudon:
-    primary: '#09090B'
-    secondary: '#0B0B09'
-    tertiary: '#0B0909 '
-    unibody: '#09090B'
-

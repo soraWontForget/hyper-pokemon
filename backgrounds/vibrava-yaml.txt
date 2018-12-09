@@ -1,7 +1,0 @@
-# 329
-vibrava:
-    primary: '#E1E18B'
-    secondary: '#8B8BE1'
-    tertiary: '#8BE1E1 '
-    unibody: '#E1E18B'
-

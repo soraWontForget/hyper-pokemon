@@ -1,7 +1,0 @@
-# 
-bellsprout:
-    primary: '#DEDA6C'
-    secondary: '#6C70DE'
-    tertiary: '#6CDEDA '
-    unibody: '#DEDA6C'
-

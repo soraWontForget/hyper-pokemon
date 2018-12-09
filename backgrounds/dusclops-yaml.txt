@@ -1,7 +1,0 @@
-# 356
-dusclops:
-    primary: '#B4B9BC'
-    secondary: '#BCB7B4'
-    tertiary: '#BCB4B9 '
-    unibody: '#B4B9BC'
-

@@ -1,5 +1,0 @@
-minior_core_yellow:
-    primary: #FFF462
-    secondary: # Image
-    tertiary: # Image
-    unibody: #FFF462

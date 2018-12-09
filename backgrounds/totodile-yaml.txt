@@ -1,7 +1,0 @@
-# 158
-totodile:
-    primary: '#5DA5D1'
-    secondary: '#D1895D'
-    tertiary: '#D15DA5 '
-    unibody: '#5DA5D1'
-

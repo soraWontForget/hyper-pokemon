@@ -1,7 +1,0 @@
-# 573
-cinccino:
-    primary: '#BAB9B7'
-    secondary: '#B7B8BA'
-    tertiary: '#B7BAB9 '
-    unibody: '#BAB9B7'
-

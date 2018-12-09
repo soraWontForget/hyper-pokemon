@@ -1,7 +1,0 @@
-# 789
-cosmog:
-    primary: '#303A81'
-    secondary: '#817730'
-    tertiary: '#81303A '
-    unibody: '#303A81'
-

@@ -1,7 +1,0 @@
-# 
-ekans:
-    primary: '#8E6992'
-    secondary: '#6D9269'
-    tertiary: '#928E69 '
-    unibody: '#8E6992'
-

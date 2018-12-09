@@ -1,7 +1,0 @@
-# 572
-minccino:
-    primary: '#D9D6D1'
-    secondary: '#D1D4D9'
-    tertiary: '#D1D9D6 '
-    unibody: '#D9D6D1'
-

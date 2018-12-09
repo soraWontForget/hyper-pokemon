@@ -1,7 +1,0 @@
-# 203
-girafarig:
-    primary: '#EDB321'
-    secondary: '#215BED'
-    tertiary: '#21EDB3 '
-    unibody: '#EDB321'
-

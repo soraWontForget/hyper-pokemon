@@ -1,7 +1,0 @@
-# 607
-litwick:
-    primary: '#EFE1EE'
-    secondary: '#E1EFE2'
-    tertiary: '#EEEFE1 '
-    unibody: '#EFE1EE'
-

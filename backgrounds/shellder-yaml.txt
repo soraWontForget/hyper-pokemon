@@ -1,7 +1,0 @@
-# 
-shellder:
-    primary: '#867DB2'
-    secondary: '#A9B27D'
-    tertiary: '#B2867D '
-    unibody: '#867DB2'
-

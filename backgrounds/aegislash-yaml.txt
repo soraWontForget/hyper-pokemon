@@ -1,7 +1,0 @@
-# 681
-aegislash:
-    primary: '#CEC068'
-    secondary: '#6876CE'
-    tertiary: '#68CEC0 '
-    unibody: '#CEC068'
-

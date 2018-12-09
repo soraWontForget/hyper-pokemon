@@ -1,7 +1,0 @@
-# 402
-kricketune:
-    primary: '#CF5138'
-    secondary: '#38B6CF'
-    tertiary: '#38CF51 '
-    unibody: '#CF5138'
-

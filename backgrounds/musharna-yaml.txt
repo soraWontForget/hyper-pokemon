@@ -1,7 +1,0 @@
-# 518
-musharna:
-    primary: '#A291C5'
-    secondary: '#B4C591'
-    tertiary: '#C5A291 '
-    unibody: '#A291C5'
-

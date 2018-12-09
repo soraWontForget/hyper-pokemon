@@ -1,7 +1,0 @@
-# 470
-leafeon:
-    primary: '#FCEDB2'
-    secondary: '#B2C1FC'
-    tertiary: '#B2FCED '
-    unibody: '#FCEDB2'
-

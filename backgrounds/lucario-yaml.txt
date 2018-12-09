@@ -1,7 +1,0 @@
-# 448
-lucario:
-    primary: '#7798AB'
-    secondary: '#AB8A77'
-    tertiary: '#AB7798 '
-    unibody: '#7798AB'
-

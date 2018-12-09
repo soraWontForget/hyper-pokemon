@@ -1,7 +1,0 @@
-# 231
-phanpy:
-    primary: '#96C2CF'
-    secondary: '#CFA396'
-    tertiary: '#CF96C2 '
-    unibody: '#96C2CF'
-

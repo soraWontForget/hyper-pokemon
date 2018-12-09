@@ -1,7 +1,0 @@
-# 
-lapras:
-    primary: '#0793C6'
-    secondary: '#C63A07'
-    tertiary: '#C60793 '
-    unibody: '#0793C6'
-

@@ -1,7 +1,0 @@
-# 346
-cradily:
-    primary: '#A5B473'
-    secondary: '#8273B4'
-    tertiary: '#73A5B4 '
-    unibody: '#A5B473'
-

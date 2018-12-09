@@ -1,7 +1,0 @@
-# 465
-tangrowth:
-    primary: '#5C7DA5'
-    secondary: '#A5845C'
-    tertiary: '#A55C7D '
-    unibody: '#5C7DA5'
-

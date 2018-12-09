@@ -1,7 +1,0 @@
-# 153
-bayleef:
-    primary: '#FBEB9D'
-    secondary: '#9DADFB'
-    tertiary: '#9DFBEB '
-    unibody: '#FBEB9D'
-

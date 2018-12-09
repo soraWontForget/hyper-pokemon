@@ -1,7 +1,0 @@
-# 746
-wishiwashi:
-    primary: '#FAFCFD'
-    secondary: '#FDFBFA'
-    tertiary: '#FDFAFC '
-    unibody: '#FAFCFD'
-

@@ -1,7 +1,0 @@
-# 668
-pyroar:
-    primary: '#4C413F'
-    secondary: '#3F4A4C'
-    tertiary: '#3F4C41 '
-    unibody: '#4C413F'
-

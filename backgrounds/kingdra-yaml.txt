@@ -1,7 +1,0 @@
-# 230
-kingdra:
-    primary: '#7DAECF'
-    secondary: '#CF9E7D'
-    tertiary: '#CF7DAE '
-    unibody: '#7DAECF'
-

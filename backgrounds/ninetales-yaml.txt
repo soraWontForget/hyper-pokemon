@@ -1,7 +1,0 @@
-# 
-ninetales:
-    primary: '#F2F3BA'
-    secondary: '#BBBAF3'
-    tertiary: '#BAF2F3 '
-    unibody: '#F2F3BA'
-

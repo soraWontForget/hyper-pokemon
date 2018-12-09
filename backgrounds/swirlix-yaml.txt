@@ -1,7 +1,0 @@
-# 684
-swirlix:
-    primary: '#EDF0F5'
-    secondary: '#F5F2ED'
-    tertiary: '#F5EDF0 '
-    unibody: '#EDF0F5'
-

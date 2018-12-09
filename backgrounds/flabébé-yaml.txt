@@ -1,7 +1,0 @@
-# 
-flabébé:
-    primary: '#F3F296'
-    secondary: '#9697F3'
-    tertiary: '#96F3F2 '
-    unibody: '#F3F296'
-

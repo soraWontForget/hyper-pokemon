@@ -1,7 +1,0 @@
-# 707
-klefki:
-    primary: '#F0F5F9'
-    secondary: '#F9F4F0'
-    tertiary: '#F9F0F5 '
-    unibody: '#F0F5F9'
-

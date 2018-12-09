@@ -1,7 +1,0 @@
-# 157
-typhlosion:
-    primary: '#FAE997'
-    secondary: '#97A8FA'
-    tertiary: '#97FAE9 '
-    unibody: '#FAE997'
-

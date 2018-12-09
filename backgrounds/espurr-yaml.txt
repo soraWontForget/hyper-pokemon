@@ -1,7 +1,0 @@
-# 677
-espurr:
-    primary: '#A1A3BA'
-    secondary: '#BAB8A1'
-    tertiary: '#BAA1A3 '
-    unibody: '#A1A3BA'
-

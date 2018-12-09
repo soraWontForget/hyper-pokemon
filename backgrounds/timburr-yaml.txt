@@ -1,7 +1,0 @@
-# 532
-timburr:
-    primary: '#CAC2AD'
-    secondary: '#ADB5CA'
-    tertiary: '#ADCAC2 '
-    unibody: '#CAC2AD'
-

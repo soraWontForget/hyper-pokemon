@@ -1,7 +1,0 @@
-# 
-mewtwo:
-    primary: '#DFD9E3'
-    secondary: '#DDE3D9'
-    tertiary: '#E3DFD9 '
-    unibody: '#DFD9E3'
-

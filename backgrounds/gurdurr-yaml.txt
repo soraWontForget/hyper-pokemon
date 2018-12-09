@@ -1,7 +1,0 @@
-# 533
-gurdurr:
-    primary: '#D0C8B5'
-    secondary: '#B5BDD0'
-    tertiary: '#B5D0C8 '
-    unibody: '#D0C8B5'
-

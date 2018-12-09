@@ -1,5 +1,0 @@
-alolan_graveler:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

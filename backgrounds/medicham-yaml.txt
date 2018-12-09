@@ -1,7 +1,0 @@
-# 308
-medicham:
-    primary: '#D7DBDE'
-    secondary: '#DEDAD7'
-    tertiary: '#DED7DB '
-    unibody: '#D7DBDE'
-

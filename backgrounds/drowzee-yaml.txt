@@ -1,7 +1,0 @@
-# 
-drowzee:
-    primary: '#ECC44A'
-    secondary: '#4A72EC'
-    tertiary: '#4AECC4 '
-    unibody: '#ECC44A'
-

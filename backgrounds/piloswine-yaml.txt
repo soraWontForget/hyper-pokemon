@@ -1,7 +1,0 @@
-# 221
-piloswine:
-    primary: '#B28160'
-    secondary: '#6091B2'
-    tertiary: '#60B281 '
-    unibody: '#B28160'
-

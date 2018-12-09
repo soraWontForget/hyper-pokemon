@@ -1,7 +1,0 @@
-# 
-abra:
-    primary: '#EED65F'
-    secondary: '#5F77EE'
-    tertiary: '#5FEED6 '
-    unibody: '#EED65F'
-

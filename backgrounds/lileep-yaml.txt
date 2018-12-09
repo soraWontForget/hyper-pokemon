@@ -1,7 +1,0 @@
-# 345
-lileep:
-    primary: '#826CAA'
-    secondary: '#94AA6C'
-    tertiary: '#AA826C '
-    unibody: '#826CAA'
-

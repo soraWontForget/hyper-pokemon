@@ -1,7 +1,0 @@
-# 634
-zweilous:
-    primary: '#534B48'
-    secondary: '#485053'
-    tertiary: '#48534B '
-    unibody: '#534B48'
-

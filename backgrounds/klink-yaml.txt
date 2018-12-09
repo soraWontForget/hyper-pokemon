@@ -1,7 +1,0 @@
-# 599
-klink:
-    primary: '#C4C7D5'
-    secondary: '#D5D2C4'
-    tertiary: '#D5C4C7 '
-    unibody: '#C4C7D5'
-

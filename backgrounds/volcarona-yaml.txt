@@ -1,7 +1,0 @@
-# 637
-volcarona:
-    primary: '#E6E6E6'
-    secondary: '#E6E6E6'
-    tertiary: '#E6E6E6 '
-    unibody: '#E6E6E6'
-

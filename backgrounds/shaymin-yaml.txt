@@ -1,7 +1,0 @@
-# 492
-shaymin:
-    primary: '#F7F9F8'
-    secondary: '#F9F7F8'
-    tertiary: '#F8F7F9 '
-    unibody: '#F7F9F8'
-

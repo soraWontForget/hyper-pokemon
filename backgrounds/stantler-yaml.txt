@@ -1,7 +1,0 @@
-# 234
-stantler:
-    primary: '#C29D80'
-    secondary: '#80A5C2'
-    tertiary: '#80C29D '
-    unibody: '#C29D80'
-

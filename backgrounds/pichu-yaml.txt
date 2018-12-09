@@ -1,7 +1,0 @@
-# 172
-pichu:
-    primary: '#FCF38C'
-    secondary: '#8C95FC'
-    tertiary: '#8CFCF3 '
-    unibody: '#FCF38C'
-

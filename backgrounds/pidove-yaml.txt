@@ -1,7 +1,0 @@
-# 519
-pidove:
-    primary: '#AAA6A3'
-    secondary: '#A3A7AA'
-    tertiary: '#A3AAA6 '
-    unibody: '#AAA6A3'
-

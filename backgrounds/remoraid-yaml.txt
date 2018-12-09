@@ -1,7 +1,0 @@
-# 223
-remoraid:
-    primary: '#B8D5C1'
-    secondary: '#D5B8CC'
-    tertiary: '#C1B8D5 '
-    unibody: '#B8D5C1'
-

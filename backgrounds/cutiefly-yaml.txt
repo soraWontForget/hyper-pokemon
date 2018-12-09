@@ -1,7 +1,0 @@
-# 742
-cutiefly:
-    primary: '#FEFEF7'
-    secondary: '#F7F7FE'
-    tertiary: '#F7FEFE '
-    unibody: '#FEFEF7'
-

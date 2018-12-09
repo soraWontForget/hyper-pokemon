@@ -1,7 +1,0 @@
-# 776
-turtonator:
-    primary: '#F1D749'
-    secondary: '#4963F1'
-    tertiary: '#49F1D7 '
-    unibody: '#F1D749'
-

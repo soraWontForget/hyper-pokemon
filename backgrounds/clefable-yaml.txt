@@ -1,7 +1,0 @@
-# 
-clefable:
-    primary: '#F6D9D1'
-    secondary: '#D1EEF6'
-    tertiary: '#D1F6D9 '
-    unibody: '#F6D9D1'
-

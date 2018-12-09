@@ -1,7 +1,0 @@
-# 796
-xurkitree:
-    primary: '#43433D'
-    secondary: '#3D3D43'
-    tertiary: '#3D4343 '
-    unibody: '#43433D'
-

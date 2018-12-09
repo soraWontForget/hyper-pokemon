@@ -1,7 +1,0 @@
-# 
-moltres:
-    primary: '#F8C979'
-    secondary: '#79A8F8'
-    tertiary: '#79F8C9 '
-    unibody: '#F8C979'
-

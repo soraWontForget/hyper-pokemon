@@ -1,7 +1,0 @@
-# 
-poliwhirl:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

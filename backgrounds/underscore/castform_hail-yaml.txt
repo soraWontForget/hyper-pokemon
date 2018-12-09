@@ -1,5 +1,0 @@
-castform_hail:
-    primary: #7757A3
-    secondary: # Image
-    tertiary: # Image
-    unibody: #7757A3

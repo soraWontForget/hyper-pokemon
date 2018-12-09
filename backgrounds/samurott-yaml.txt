@@ -1,7 +1,0 @@
-# 503
-samurott:
-    primary: '#205B9D'
-    secondary: '#9D6220'
-    tertiary: '#9D205B '
-    unibody: '#205B9D'
-

@@ -1,7 +1,0 @@
-# 192
-sunflora:
-    primary: '#FFE16E'
-    secondary: '#6E8CFF'
-    tertiary: '#6EFFE1 '
-    unibody: '#FFE16E'
-

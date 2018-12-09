@@ -1,7 +1,0 @@
-# 466
-electivire:
-    primary: '#F2D170'
-    secondary: '#7091F2'
-    tertiary: '#70F2D1 '
-    unibody: '#F2D170'
-

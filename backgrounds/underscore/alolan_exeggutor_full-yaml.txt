@@ -1,5 +1,0 @@
-alolan_exeggutor_full:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

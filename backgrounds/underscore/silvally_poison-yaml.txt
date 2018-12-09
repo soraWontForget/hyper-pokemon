@@ -1,5 +1,0 @@
-silvally_poison:
-    primary: #DEE1EA
-    secondary: # Image
-    tertiary: # Image
-    unibody: #DEE1EA

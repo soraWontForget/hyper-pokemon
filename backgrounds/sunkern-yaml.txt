@@ -1,7 +1,0 @@
-# 191
-sunkern:
-    primary: '#EDDA71'
-    secondary: '#7184ED'
-    tertiary: '#71EDDA '
-    unibody: '#EDDA71'
-

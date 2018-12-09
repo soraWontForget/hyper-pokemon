@@ -1,7 +1,0 @@
-# 305
-lairon:
-    primary: '#5C6061'
-    secondary: '#615D5C'
-    tertiary: '#615C60 '
-    unibody: '#5C6061'
-

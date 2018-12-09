@@ -1,7 +1,0 @@
-# 
-meowth:
-    primary: '#F4EDD1'
-    secondary: '#D1D8F4'
-    tertiary: '#D1F4ED '
-    unibody: '#F4EDD1'
-

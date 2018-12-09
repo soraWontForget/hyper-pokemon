@@ -1,7 +1,0 @@
-# 312
-minun:
-    primary: '#FFEDBF'
-    secondary: '#BFD1FF'
-    tertiary: '#BFFFED '
-    unibody: '#FFEDBF'
-

@@ -1,7 +1,0 @@
-# 273
-seedot:
-    primary: '#96806B'
-    secondary: '#6B8196'
-    tertiary: '#6B9680 '
-    unibody: '#96806B'
-

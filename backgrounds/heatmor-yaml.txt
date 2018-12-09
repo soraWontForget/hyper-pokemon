@@ -1,7 +1,0 @@
-# 631
-heatmor:
-    primary: '#A48C74'
-    secondary: '#748CA4'
-    tertiary: '#74A48C '
-    unibody: '#A48C74'
-

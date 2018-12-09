@@ -1,7 +1,0 @@
-# 581
-swanna:
-    primary: '#F6F8F5'
-    secondary: '#F7F5F8'
-    tertiary: '#F5F6F8 '
-    unibody: '#F6F8F5'
-

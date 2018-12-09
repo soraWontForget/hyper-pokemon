@@ -1,7 +1,0 @@
-# 594
-alomomola:
-    primary: '#F7D5D3'
-    secondary: '#D3F5F7'
-    tertiary: '#D3F7D5 '
-    unibody: '#F7D5D3'
-

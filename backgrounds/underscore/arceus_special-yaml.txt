@@ -1,5 +1,0 @@
-arceus_special:
-    primary: #EBEBEB
-    secondary: # Image
-    tertiary: # Image
-    unibody: #EBEBEB

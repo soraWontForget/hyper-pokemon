@@ -1,7 +1,0 @@
-# 478
-froslass:
-    primary: '#F9F8F3'
-    secondary: '#F3F4F9'
-    tertiary: '#F3F9F8 '
-    unibody: '#F9F8F3'
-

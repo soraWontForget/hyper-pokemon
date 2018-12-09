@@ -1,7 +1,0 @@
-# 326
-grumpig:
-    primary: '#B494C3'
-    secondary: '#A3C394'
-    tertiary: '#C3B494 '
-    unibody: '#B494C3'
-

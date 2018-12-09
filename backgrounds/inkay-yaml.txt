@@ -1,7 +1,0 @@
-# 686
-inkay:
-    primary: '#A3D0F1'
-    secondary: '#F1C4A3'
-    tertiary: '#F1A3D0 '
-    unibody: '#A3D0F1'
-

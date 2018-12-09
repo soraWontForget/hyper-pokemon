@@ -1,7 +1,0 @@
-# 618
-stunfisk:
-    primary: '#AA7450'
-    secondary: '#5086AA'
-    tertiary: '#50AA74 '
-    unibody: '#AA7450'
-

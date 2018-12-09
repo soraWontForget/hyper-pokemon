@@ -1,7 +1,0 @@
-# 575
-gothorita:
-    primary: '#35363A'
-    secondary: '#3A3935'
-    tertiary: '#3A3536 '
-    unibody: '#35363A'
-

@@ -1,7 +1,0 @@
-# 
-voltorb:
-    primary: '#ED2225'
-    secondary: '#22EDEA'
-    tertiary: '#25ED22 '
-    unibody: '#ED2225'
-

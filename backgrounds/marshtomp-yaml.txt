@@ -1,7 +1,0 @@
-# 259
-marshtomp:
-    primary: '#53AEAF'
-    secondary: '#AF5453'
-    tertiary: '#AF53AE '
-    unibody: '#53AEAF'
-

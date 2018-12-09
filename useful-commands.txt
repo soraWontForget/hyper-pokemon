@@ -1,0 +1,19 @@
+convert xc: -modulate 100,100,0 -depth 8 txt:
+convert picture.jpg -colors 2 -unique-colors txt:- 
+convert picture.jpg -colors 8 -format "%c" histogram:info:
+
+for i in $(cat list.txt); do sed '/# ImageMagick pixel enumeration: 1,1,65535,srgb/d' $i-secondary.txt | sed 's/ srgb.*//' | sed 's/0,0.* #/#/' > $i-sec.txt; done 
+
+for i in $(cat list.txt); do sed '/# ImageMagick pixel enumeration: 1,1,65535,srgb/d' $i-tertiary.txt | sed 's/ srgb.*//g' | sed 's/0,0.* #/#/' > $i-tert.txt; done 
+
+for i in $(cat list.txt); do convert xc:$(cat $i-primary.txt) -modulate 100,100,166.6 -depth 8 txt: > $i-tertiary.txt; done
+
+for i in $(cat list.txt); do convert xc:$(cat $i-primary.txt) -modulate 100,100,0 -depth 8 txt: > $i-secondaryy.txt; done
+
+for i in $(cat list.txt); do var=$(cat $i-primary.txt); echo ${var:0:7} > $i-prim.txt; done 
+
+for i in $(cat list.txt); do awk 'NR == 2' $i-colors-sorted.txt > $i-primary-true.txt; done
+
+for i in $(cat list.txt); do sed 's/ .*#/#/' $i-primary-true.txt | sed 's/ srgb.*//' >$i-primary-tru.txt; done
+
+for i in $(cat list.txt); do echo $i":" > $i-yaml.txt; echo "    primary: "$(cat $i-primary.txt) >> $i-yaml.txt; echo "    secondary: "$(cat $i-secondary.txt) >> $i-yaml.txt; echo "    tertiary: "$(cat $i-tertiary.txt) >> $i-yaml.txt; echo "    unibody: "$(cat $i-unibody.txt) >> $i-yaml.txt; done

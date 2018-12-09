@@ -1,7 +1,0 @@
-# 491
-darkrai:
-    primary: '#504742'
-    secondary: '#424B50'
-    tertiary: '#425047 '
-    unibody: '#504742'
-

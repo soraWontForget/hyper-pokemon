@@ -1,5 +1,0 @@
-burmy_trash:
-    primary: #E89DA4
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E89DA4

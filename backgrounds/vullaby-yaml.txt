@@ -1,7 +1,0 @@
-# 629
-vullaby:
-    primary: '#635854'
-    secondary: '#545F63'
-    tertiary: '#546358 '
-    unibody: '#635854'
-

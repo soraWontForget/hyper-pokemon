@@ -1,7 +1,0 @@
-# 
-vulpix:
-    primary: '#C08672'
-    secondary: '#72ACC0'
-    tertiary: '#72C086 '
-    unibody: '#C08672'
-

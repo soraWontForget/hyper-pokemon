@@ -1,7 +1,0 @@
-# 570
-zorua:
-    primary: '#635B73'
-    secondary: '#6B735B'
-    tertiary: '#73635B '
-    unibody: '#635B73'
-

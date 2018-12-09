@@ -1,7 +1,0 @@
-# 524
-roggenrola:
-    primary: '#2D334B'
-    secondary: '#4B452D'
-    tertiary: '#4B2D33 '
-    unibody: '#2D334B'
-

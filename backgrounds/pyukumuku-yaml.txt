@@ -1,7 +1,0 @@
-# 771
-pyukumuku:
-    primary: '#4B4847'
-    secondary: '#474A4B'
-    tertiary: '#474B48 '
-    unibody: '#4B4847'
-

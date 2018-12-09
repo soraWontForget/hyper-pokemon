@@ -1,7 +1,0 @@
-# 632
-durant:
-    primary: '#3A3B3F'
-    secondary: '#3F3E3A'
-    tertiary: '#3F3A3B '
-    unibody: '#3A3B3F'
-

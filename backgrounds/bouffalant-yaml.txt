@@ -1,7 +1,0 @@
-# 626
-bouffalant:
-    primary: '#8F6E29'
-    secondary: '#294A8F'
-    tertiary: '#298F6E '
-    unibody: '#8F6E29'
-

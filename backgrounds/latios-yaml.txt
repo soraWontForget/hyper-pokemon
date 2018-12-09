@@ -1,7 +1,0 @@
-# 381
-latios:
-    primary: '#DEE9ED'
-    secondary: '#EDE2DE'
-    tertiary: '#EDDEE9 '
-    unibody: '#DEE9ED'
-

@@ -1,7 +1,0 @@
-# 445
-garchomp:
-    primary: '#4B537A'
-    secondary: '#7A724B'
-    tertiary: '#7A4B53 '
-    unibody: '#4B537A'
-

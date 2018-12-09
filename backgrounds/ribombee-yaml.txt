@@ -1,7 +1,0 @@
-# 743
-ribombee:
-    primary: '#EDD969'
-    secondary: '#697DED'
-    tertiary: '#69EDD9 '
-    unibody: '#EDD969'
-

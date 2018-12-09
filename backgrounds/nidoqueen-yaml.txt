@@ -1,7 +1,0 @@
-# 
-nidoqueen:
-    primary: '#81ABC3'
-    secondary: '#C39981'
-    tertiary: '#C381AB '
-    unibody: '#81ABC3'
-

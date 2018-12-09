@@ -1,5 +1,0 @@
-alolan_sandslash:
-    primary: #B7DBE9
-    secondary: # Image
-    tertiary: # Image
-    unibody: #B7DBE9

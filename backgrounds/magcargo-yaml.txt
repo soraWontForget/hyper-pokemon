@@ -1,7 +1,0 @@
-# 219
-magcargo:
-    primary: '#D78285'
-    secondary: '#82D7D4'
-    tertiary: '#85D782 '
-    unibody: '#D78285'
-

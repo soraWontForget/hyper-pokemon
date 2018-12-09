@@ -1,7 +1,0 @@
-# 563
-cofagrigus:
-    primary: '#F9BF5E'
-    secondary: '#5E98F9'
-    tertiary: '#5EF9BF '
-    unibody: '#F9BF5E'
-

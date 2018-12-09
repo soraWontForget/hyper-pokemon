@@ -1,7 +1,0 @@
-# 571
-zoroark:
-    primary: '#5C5B6B'
-    secondary: '#6A6B5B'
-    tertiary: '#6B5C5B '
-    unibody: '#5C5B6B'
-

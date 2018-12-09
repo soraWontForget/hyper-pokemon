@@ -1,7 +1,0 @@
-# 
-rattata:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

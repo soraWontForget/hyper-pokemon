@@ -1,7 +1,0 @@
-# 
-machop:
-    primary: '#A6C7CE'
-    secondary: '#CEADA6'
-    tertiary: '#CEA6C7 '
-    unibody: '#A6C7CE'
-

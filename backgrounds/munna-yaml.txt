@@ -1,7 +1,0 @@
-# 517
-munna:
-    primary: '#F4D3DA'
-    secondary: '#D3F4ED'
-    tertiary: '#DAF4D3 '
-    unibody: '#F4D3DA'
-

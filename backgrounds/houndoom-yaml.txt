@@ -1,7 +1,0 @@
-# 229
-houndoom:
-    primary: '#52596B'
-    secondary: '#6B6452'
-    tertiary: '#6B5259 '
-    unibody: '#52596B'
-

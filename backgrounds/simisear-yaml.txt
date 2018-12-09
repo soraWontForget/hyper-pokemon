@@ -1,7 +1,0 @@
-# 514
-simisear:
-    primary: '#B75951'
-    secondary: '#51AFB7'
-    tertiary: '#51B759 '
-    unibody: '#B75951'
-

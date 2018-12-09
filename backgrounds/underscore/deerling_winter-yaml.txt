@@ -1,5 +1,0 @@
-deerling_winter:
-    primary: #FAF5D8
-    secondary: # Image
-    tertiary: # Image
-    unibody: #FAF5D8

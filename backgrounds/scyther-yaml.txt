@@ -1,7 +1,0 @@
-# 
-scyther:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

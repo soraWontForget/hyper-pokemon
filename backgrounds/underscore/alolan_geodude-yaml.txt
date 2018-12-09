@@ -1,5 +1,0 @@
-alolan_geodude:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

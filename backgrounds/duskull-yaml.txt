@@ -1,7 +1,0 @@
-# 355
-duskull:
-    primary: '#53534B'
-    secondary: '#4B4B53'
-    tertiary: '#4B5353 '
-    unibody: '#53534B'
-

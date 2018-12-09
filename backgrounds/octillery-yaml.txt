@@ -1,7 +1,0 @@
-# 224
-octillery:
-    primary: '#C2434E'
-    secondary: '#43C2B7'
-    tertiary: '#4EC243 '
-    unibody: '#C2434E'
-

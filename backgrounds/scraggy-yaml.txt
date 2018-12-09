@@ -1,7 +1,0 @@
-# 559
-scraggy:
-    primary: '#ECE58A'
-    secondary: '#8A91EC'
-    tertiary: '#8AECE5 '
-    unibody: '#ECE58A'
-

@@ -1,7 +1,0 @@
-# 628
-braviary:
-    primary: '#562A2B'
-    secondary: '#2A5655'
-    tertiary: '#2B562A '
-    unibody: '#562A2B'
-

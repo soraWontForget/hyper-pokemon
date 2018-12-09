@@ -1,7 +1,0 @@
-# 413
-wormadam:
-    primary: '#529744'
-    secondary: '#894497'
-    tertiary: '#445297 '
-    unibody: '#529744'
-

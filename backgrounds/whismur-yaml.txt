@@ -1,7 +1,0 @@
-# 293
-whismur:
-    primary: '#D9C1DB'
-    secondary: '#C3DBC1'
-    tertiary: '#DBD9C1 '
-    unibody: '#D9C1DB'
-

@@ -1,7 +1,0 @@
-# 
-oddish:
-    primary: '#587D9A'
-    secondary: '#9A7558'
-    tertiary: '#9A587D '
-    unibody: '#587D9A'
-

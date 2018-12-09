@@ -1,7 +1,0 @@
-# 296
-makuhita:
-    primary: '#FBE18A'
-    secondary: '#8AA4FB'
-    tertiary: '#8AFBE1 '
-    unibody: '#FBE18A'
-

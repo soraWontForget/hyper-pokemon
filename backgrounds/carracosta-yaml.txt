@@ -1,7 +1,0 @@
-# 565
-carracosta:
-    primary: '#6DA5D6'
-    secondary: '#D69E6D'
-    tertiary: '#D66DA5 '
-    unibody: '#6DA5D6'
-

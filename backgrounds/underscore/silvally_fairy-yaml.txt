@@ -1,5 +1,0 @@
-silvally_fairy:
-    primary: #E1E2E9
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E1E2E9

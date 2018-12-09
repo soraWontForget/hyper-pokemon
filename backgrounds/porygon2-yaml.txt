@@ -1,7 +1,0 @@
-# 233
-porygon2:
-    primary: '#E1576E'
-    secondary: '#57E1CA'
-    tertiary: '#6EE157 '
-    unibody: '#E1576E'
-

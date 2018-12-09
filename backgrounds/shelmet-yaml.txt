@@ -1,7 +1,0 @@
-# 616
-shelmet:
-    primary: '#FB717E'
-    secondary: '#71FBEE'
-    tertiary: '#7EFB71 '
-    unibody: '#FB717E'
-

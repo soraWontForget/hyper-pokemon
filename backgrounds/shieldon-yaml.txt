@@ -1,7 +1,0 @@
-# 410
-shieldon:
-    primary: '#FBCF66'
-    secondary: '#6692FB'
-    tertiary: '#66FBCF '
-    unibody: '#FBCF66'
-

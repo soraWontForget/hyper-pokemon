@@ -1,7 +1,0 @@
-# 
-golbat:
-    primary: '#306E93'
-    secondary: '#935530'
-    tertiary: '#93306E '
-    unibody: '#306E93'
-

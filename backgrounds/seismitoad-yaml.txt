@@ -1,7 +1,0 @@
-# 537
-seismitoad:
-    primary: '#7190D0'
-    secondary: '#D0B171'
-    tertiary: '#D07190 '
-    unibody: '#7190D0'
-

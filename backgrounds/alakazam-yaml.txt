@@ -1,7 +1,0 @@
-# 
-alakazam:
-    primary: '#EAD055'
-    secondary: '#556FEA'
-    tertiary: '#55EAD0 '
-    unibody: '#EAD055'
-

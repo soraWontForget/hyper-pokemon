@@ -1,7 +1,0 @@
-# 222
-corsola:
-    primary: '#F397A4'
-    secondary: '#97F3E6'
-    tertiary: '#A4F397 '
-    unibody: '#F397A4'
-

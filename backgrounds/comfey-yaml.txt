@@ -1,7 +1,0 @@
-# 764
-comfey:
-    primary: '#DBE496'
-    secondary: '#9F96E4'
-    tertiary: '#96DBE4 '
-    unibody: '#DBE496'
-

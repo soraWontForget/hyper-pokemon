@@ -1,7 +1,0 @@
-# 
-seel:
-    primary: '#EAEFF2'
-    secondary: '#F2EDEA'
-    tertiary: '#F2EAEF '
-    unibody: '#EAEFF2'
-

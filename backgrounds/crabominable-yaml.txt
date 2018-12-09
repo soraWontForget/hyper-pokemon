@@ -1,7 +1,0 @@
-# 740
-crabominable:
-    primary: '#F5F9FC'
-    secondary: '#FCF8F5'
-    tertiary: '#FCF5F9 '
-    unibody: '#F5F9FC'
-

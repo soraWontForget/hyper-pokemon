@@ -1,7 +1,0 @@
-# 
-machoke:
-    primary: '#9C9EB5'
-    secondary: '#B5B39C'
-    tertiary: '#B59C9E '
-    unibody: '#9C9EB5'
-

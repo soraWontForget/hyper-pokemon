@@ -1,5 +1,0 @@
-alolan_muk:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

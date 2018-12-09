@@ -1,7 +1,0 @@
-# .mime
-mr.mime:
-    primary: '#F9E4E9'
-    secondary: '#E4F9F4'
-    tertiary: '#E9F9E4 '
-    unibody: '#F9E4E9'
-

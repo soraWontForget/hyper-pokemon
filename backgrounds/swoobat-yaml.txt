@@ -1,7 +1,0 @@
-# 528
-swoobat:
-    primary: '#12A4CD'
-    secondary: '#CD3B12'
-    tertiary: '#CD12A4 '
-    unibody: '#12A4CD'
-

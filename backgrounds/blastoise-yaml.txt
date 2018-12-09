@@ -1,7 +1,0 @@
-# 
-blastoise:
-    primary: '#84ACD7'
-    secondary: '#D7AF84'
-    tertiary: '#D784AC '
-    unibody: '#84ACD7'
-

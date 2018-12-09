@@ -1,7 +1,0 @@
-# 179
-mareep:
-    primary: '#FFF6BB'
-    secondary: '#BBC4FF'
-    tertiary: '#BBFFF6 '
-    unibody: '#FFF6BB'
-

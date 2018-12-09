@@ -1,7 +1,0 @@
-# 396
-starly:
-    primary: '#413936'
-    secondary: '#363E41'
-    tertiary: '#364139 '
-    unibody: '#413936'
-

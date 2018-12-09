@@ -1,7 +1,0 @@
-# 257
-blaziken:
-    primary: '#ECDDBE'
-    secondary: '#BECDEC'
-    tertiary: '#BEECDD '
-    unibody: '#ECDDBE'
-

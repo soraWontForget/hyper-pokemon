@@ -1,5 +1,0 @@
-alolan_grimer:
-    primary: 
-    secondary: # Image
-    tertiary: # Image
-    unibody: 

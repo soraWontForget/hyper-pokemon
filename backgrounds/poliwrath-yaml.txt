@@ -1,7 +1,0 @@
-# 
-poliwrath:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

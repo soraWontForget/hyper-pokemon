@@ -1,7 +1,0 @@
-# 
-exeggutor:
-    primary: '#9D927E'
-    secondary: '#7E899D'
-    tertiary: '#7E9D92 '
-    unibody: '#9D927E'
-

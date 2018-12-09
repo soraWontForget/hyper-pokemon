@@ -1,7 +1,0 @@
-# 553
-krookodile:
-    primary: '#C65253'
-    secondary: '#52C6C5'
-    tertiary: '#53C652 '
-    unibody: '#C65253'
-

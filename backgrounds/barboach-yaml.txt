@@ -1,7 +1,0 @@
-# 339
-barboach:
-    primary: '#C7CDCD'
-    secondary: '#CDC7C7'
-    tertiary: '#CDC7CD '
-    unibody: '#C7CDCD'
-

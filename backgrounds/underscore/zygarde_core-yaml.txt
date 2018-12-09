@@ -1,5 +1,0 @@
-zygarde_core:
-    primary: #B4D463
-    secondary: # Image
-    tertiary: # Image
-    unibody: #B4D463

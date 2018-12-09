@@ -1,7 +1,0 @@
-# 588
-karrablast:
-    primary: '#2380C3'
-    secondary: '#C36623'
-    tertiary: '#C32380 '
-    unibody: '#2380C3'
-

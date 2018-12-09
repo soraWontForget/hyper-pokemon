@@ -1,7 +1,0 @@
-# 364
-sealeo:
-    primary: '#58C2E9'
-    secondary: '#E97F58'
-    tertiary: '#E958C2 '
-    unibody: '#58C2E9'
-

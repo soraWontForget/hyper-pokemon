@@ -1,7 +1,0 @@
-# 289
-slaking:
-    primary: '#7D6752'
-    secondary: '#52687D'
-    tertiary: '#527D67 '
-    unibody: '#7D6752'
-

@@ -1,7 +1,0 @@
-# 395
-empoleon:
-    primary: '#303539'
-    secondary: '#393430'
-    tertiary: '#393035 '
-    unibody: '#303539'
-

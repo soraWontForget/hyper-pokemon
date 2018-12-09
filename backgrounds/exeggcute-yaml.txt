@@ -1,7 +1,0 @@
-# 
-exeggcute:
-    primary: '#F6D6D9'
-    secondary: '#D6F6F3'
-    tertiary: '#D9F6D6 '
-    unibody: '#F6D6D9'
-

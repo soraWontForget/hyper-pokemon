@@ -1,7 +1,0 @@
-# 431
-glameow:
-    primary: '#8C98A6'
-    secondary: '#A69A8C'
-    tertiary: '#A68C98 '
-    unibody: '#8C98A6'
-

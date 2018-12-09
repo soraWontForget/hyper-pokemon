@@ -1,7 +1,0 @@
-# 694
-helioptile:
-    primary: '#EFE262'
-    secondary: '#626FEF'
-    tertiary: '#62EFE2 '
-    unibody: '#EFE262'
-

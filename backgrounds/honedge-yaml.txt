@@ -1,7 +1,0 @@
-# 679
-honedge:
-    primary: '#4C576B'
-    secondary: '#6B604C'
-    tertiary: '#6B4C57 '
-    unibody: '#4C576B'
-

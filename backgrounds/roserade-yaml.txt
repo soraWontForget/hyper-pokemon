@@ -1,7 +1,0 @@
-# 407
-roserade:
-    primary: '#A9D8B4'
-    secondary: '#D8A9CD'
-    tertiary: '#B4A9D8 '
-    unibody: '#A9D8B4'
-

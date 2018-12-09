@@ -1,5 +1,0 @@
-tapu_bulu:
-    primary: #CF524D
-    secondary: # Image
-    tertiary: # Image
-    unibody: #CF524D

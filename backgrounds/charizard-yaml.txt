@@ -1,7 +1,0 @@
-# 
-charizard:
-    primary: '#DB8D4C'
-    secondary: '#4C9ADB'
-    tertiary: '#4CDB8D '
-    unibody: '#DB8D4C'
-

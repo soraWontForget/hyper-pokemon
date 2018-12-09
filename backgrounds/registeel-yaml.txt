@@ -1,7 +1,0 @@
-# 379
-registeel:
-    primary: '#C9CDCE'
-    secondary: '#CECAC9'
-    tertiary: '#CEC9CD '
-    unibody: '#C9CDCE'
-

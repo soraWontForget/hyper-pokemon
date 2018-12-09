@@ -1,7 +1,0 @@
-# 331
-cacnea:
-    primary: '#94B469'
-    secondary: '#8969B4'
-    tertiary: '#6994B4 '
-    unibody: '#94B469'
-

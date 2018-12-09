@@ -1,5 +1,0 @@
-rotom_heat:
-    primary: #E57C4B
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E57C4B

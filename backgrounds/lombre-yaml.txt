@@ -1,7 +1,0 @@
-# 271
-lombre:
-    primary: '#9FC163'
-    secondary: '#8563C1'
-    tertiary: '#639FC1 '
-    unibody: '#9FC163'
-

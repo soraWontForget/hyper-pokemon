@@ -1,7 +1,0 @@
-# 320
-wailmer:
-    primary: '#00609A'
-    secondary: '#9A3A00'
-    tertiary: '#9A0060 '
-    unibody: '#00609A'
-

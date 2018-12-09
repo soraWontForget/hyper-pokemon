@@ -1,7 +1,0 @@
-# 316
-gulpin:
-    primary: '#99C39F'
-    secondary: '#C399BD'
-    tertiary: '#9F99C3 '
-    unibody: '#99C39F'
-

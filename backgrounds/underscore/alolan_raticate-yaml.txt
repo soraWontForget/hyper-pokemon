@@ -1,5 +1,0 @@
-alolan_raticate:
-    primary: #4F534E
-    secondary: # Image
-    tertiary: # Image
-    unibody: #4F534E

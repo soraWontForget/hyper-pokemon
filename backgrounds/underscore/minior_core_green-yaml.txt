@@ -1,5 +1,0 @@
-minior_core_green:
-    primary: #8CC66D
-    secondary: # Image
-    tertiary: # Image
-    unibody: #8CC66D

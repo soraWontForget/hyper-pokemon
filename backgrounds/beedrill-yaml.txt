@@ -1,7 +1,0 @@
-# 
-beedrill:
-    primary: '#EDCE64'
-    secondary: '#6483ED'
-    tertiary: '#64EDCE '
-    unibody: '#EDCE64'
-

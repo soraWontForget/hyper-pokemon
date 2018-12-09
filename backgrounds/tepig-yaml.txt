@@ -1,7 +1,0 @@
-# 498
-tepig:
-    primary: '#E99453'
-    secondary: '#53A8E9'
-    tertiary: '#53E994 '
-    unibody: '#E99453'
-

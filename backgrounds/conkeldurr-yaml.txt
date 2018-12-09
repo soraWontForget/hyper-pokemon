@@ -1,7 +1,0 @@
-# 534
-conkeldurr:
-    primary: '#B48F75'
-    secondary: '#759AB4'
-    tertiary: '#75B48F '
-    unibody: '#B48F75'
-

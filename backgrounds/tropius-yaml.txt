@@ -1,7 +1,0 @@
-# 357
-tropius:
-    primary: '#A38D7F'
-    secondary: '#7F95A3'
-    tertiary: '#7FA38D '
-    unibody: '#A38D7F'
-

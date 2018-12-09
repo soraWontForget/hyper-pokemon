@@ -1,5 +1,0 @@
-oricorio_sensu:
-    primary: #9998CB
-    secondary: # Image
-    tertiary: # Image
-    unibody: #9998CB

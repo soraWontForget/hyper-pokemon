@@ -1,7 +1,0 @@
-# 
-ponyta:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

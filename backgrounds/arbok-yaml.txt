@@ -1,7 +1,0 @@
-# 
-arbok:
-    primary: '#A7A1BD'
-    secondary: '#B7BDA1'
-    tertiary: '#BDA7A1 '
-    unibody: '#A7A1BD'
-

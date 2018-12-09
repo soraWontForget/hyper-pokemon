@@ -1,7 +1,0 @@
-# 762
-steenee:
-    primary: '#AB507C'
-    secondary: '#50AB7F'
-    tertiary: '#7CAB50 '
-    unibody: '#AB507C'
-

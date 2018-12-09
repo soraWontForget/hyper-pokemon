@@ -1,7 +1,0 @@
-# 360
-wynaut:
-    primary: '#6AC9CF'
-    secondary: '#CF706A'
-    tertiary: '#CF6AC9 '
-    unibody: '#6AC9CF'
-

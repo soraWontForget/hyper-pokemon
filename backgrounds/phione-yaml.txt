@@ -1,7 +1,0 @@
-# 489
-phione:
-    primary: '#6DB9C9'
-    secondary: '#C97D6D'
-    tertiary: '#C96DB9 '
-    unibody: '#6DB9C9'
-

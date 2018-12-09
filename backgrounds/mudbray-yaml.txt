@@ -1,7 +1,0 @@
-# 749
-mudbray:
-    primary: '#9D7564'
-    secondary: '#648C9D'
-    tertiary: '#649D75 '
-    unibody: '#9D7564'
-

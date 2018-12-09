@@ -1,7 +1,0 @@
-# 
-butterfree:
-    primary: '#978DC1'
-    secondary: '#B7C18D'
-    tertiary: '#C1978D '
-    unibody: '#978DC1'
-

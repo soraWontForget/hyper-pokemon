@@ -1,7 +1,0 @@
-# 240
-magby:
-    primary: '#E47675'
-    secondary: '#75E3E4'
-    tertiary: '#75E476 '
-    unibody: '#E47675'
-

@@ -1,7 +1,0 @@
-# 
-persian:
-    primary: ''
-    secondary: ''
-    tertiary: ' '
-    unibody: ''
-

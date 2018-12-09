@@ -1,7 +1,0 @@
-# 753
-fomantis:
-    primary: '#F4CED1'
-    secondary: '#CEF4F1'
-    tertiary: '#D1F4CE '
-    unibody: '#F4CED1'
-

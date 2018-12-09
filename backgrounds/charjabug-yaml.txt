@@ -1,7 +1,0 @@
-# 737
-charjabug:
-    primary: '#7D9C70'
-    secondary: '#8F709C'
-    tertiary: '#707D9C '
-    unibody: '#7D9C70'
-

@@ -1,7 +1,0 @@
-# 488
-cresselia:
-    primary: '#93B0CE'
-    secondary: '#CEB193'
-    tertiary: '#CE93B0 '
-    unibody: '#93B0CE'
-

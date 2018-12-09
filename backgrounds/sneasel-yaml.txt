@@ -1,7 +1,0 @@
-# 215
-sneasel:
-    primary: '#253F36'
-    secondary: '#3F252E'
-    tertiary: '#36253F '
-    unibody: '#253F36'
-

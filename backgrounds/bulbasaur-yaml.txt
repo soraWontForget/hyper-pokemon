@@ -1,7 +1,0 @@
-# 
-bulbasaur:
-    primary: '#77AC98'
-    secondary: '#AC778B'
-    tertiary: '#9877AC '
-    unibody: '#77AC98'
-

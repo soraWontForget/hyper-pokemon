@@ -1,7 +1,0 @@
-# 427
-buneary:
-    primary: '#B27A63'
-    secondary: '#639BB2'
-    tertiary: '#63B27A '
-    unibody: '#B27A63'
-

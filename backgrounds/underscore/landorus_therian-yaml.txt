@@ -1,5 +1,0 @@
-landorus_therian:
-    primary: #E2935B
-    secondary: # Image
-    tertiary: # Image
-    unibody: #E2935B

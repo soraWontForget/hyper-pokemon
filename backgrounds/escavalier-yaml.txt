@@ -1,7 +1,0 @@
-# 589
-escavalier:
-    primary: '#353535'
-    secondary: '#353535'
-    tertiary: '#353535 '
-    unibody: '#353535'
-

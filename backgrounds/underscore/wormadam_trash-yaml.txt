@@ -1,5 +1,0 @@
-wormadam_trash:
-    primary: #CB797F
-    secondary: # Image
-    tertiary: # Image
-    unibody: #CB797F

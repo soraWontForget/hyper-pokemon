@@ -1,7 +1,0 @@
-# 455
-carnivine:
-    primary: '#B1CE72'
-    secondary: '#8F72CE'
-    tertiary: '#72B1CE '
-    unibody: '#B1CE72'
-

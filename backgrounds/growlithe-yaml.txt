@@ -1,7 +1,0 @@
-# 
-growlithe:
-    primary: '#DB9651'
-    secondary: '#5196DB'
-    tertiary: '#51DB96 '
-    unibody: '#DB9651'
-
