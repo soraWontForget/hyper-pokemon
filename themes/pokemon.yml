@@ -299,7 +299,7 @@ pokemon:
   # 042
   golbat:
     primary: '#82487A'
-    secondary: '#F5F56E'
+    secondary: '#49BAD6' #'#F5F56E'
     tertiary: '#5C421B'
     unibody: '#306E93'
 
@@ -761,7 +761,7 @@ pokemon:
   # 108
   lickitung:
     primary: '#E4B9CA'
-    secondary: '#693F45'
+    secondary: '#FFFFFF' #'#693F45'
     tertiary: '#589196'
     unibody: '#EBA5B0'
 
@@ -1076,49 +1076,57 @@ pokemon:
   # 460
   abomasnow:
       primary: '#CEACCD'
-      secondary: '#ACCEAD'
-      tertiary: '#CDCEAC'
+#      secondary: '#ACCEAD'
+#      tertiary: '#CDCEAC'
+      secondary: '#4c3e4b'
+      tertiary: '#4c3e4b'
       unibody: '#FDFDFD'
 
   # 359
   absol:
       primary: '#3A5A83'
-      secondary: '#83633A'
-      tertiary: '#833A5A'
+#      secondary: '#83633A'
+#      tertiary: '#833A5A'
+      secondary: '#FFFFFF'
+      tertiary: '#FFFFFF'
       unibody: '#D6DCEA'
 
   # 617
   accelgor:
       primary: '#252429'
-      secondary: '#282924'
-      tertiary: '#292524'
+#      secondary: '#282924'
+#      tertiary: '#292524'
+      secondary: '#ced7e7'
+      tertiary: '#ced7e7'
       unibody: '#78849C'
 
   # 681
   aegislash:
       primary: '#887845'
-      secondary: '#455588'
-      tertiary: '#458878'
+ #     secondary: '#455588'
+#      tertiary: '#458878'
+      secondary: '#8f679b'
+      tertiary: '#8f679b'
       unibody: '#CEC068'
 
   # 306
   aggron:
       primary: '#696969'
-      secondary: '#696969'
-      tertiary: '#696969'
+      secondary: '#e4e5ec'
+      tertiary: '#e4e5ec'
       unibody: '#838488'
 
   # 190
   aipom:
       primary: '#F4EAAC'
-      secondary: '#ACB6F4'
+      secondary: '#261628'
       tertiary: '#ACF4EA'
       unibody: '#AA77B0'
 
   # 594
   alomomola:
       primary: '#F09AB7'
-      secondary: '#9AF0D3'
+      secondary: '#FFFFFF' #'#9AF0D3'
       tertiary: '#B7F09A'
       unibody: '#F7D5D3'
 
@@ -1160,14 +1168,14 @@ pokemon:
   # 347
   anorith:
       primary: '#505554'
-      secondary: '#555051'
+      secondary: '#FFFF00' #'#555051'
       tertiary: '#545055'
       unibody: '#7D9678'
 
   # 752
   araquanid:
       primary: '#CCE2EC'
-      secondary: '#ECD6CC'
+      secondary: '#FFFFFF' #'#ECD6CC'
       tertiary: '#ECCCE2'
       unibody: '#505B6BFF'
 
@@ -1195,7 +1203,7 @@ pokemon:
   # 168
   ariados:
       primary: '#FDD575'
-      secondary: '#759DFD'
+      secondary: '#CDBBD8' #'#759DFD'
       tertiary: '#75FDD5'
       unibody: '#BA644D'
 
@@ -1223,14 +1231,14 @@ pokemon:
   # 531
   audino:
       primary: '#F7ABAF'
-      secondary: '#ABF7F3'
+      secondary: '#149DED' #'#ABF7F3'
       tertiary: '#AFF7AB'
       unibody: '#FBF6B6'
 
   # 699
   aurorus:
       primary: '#F6F4A7'
-      secondary: '#A7A9F6'
+      secondary: '#000000' #'#A7A9F6'
       tertiary: '#A7F6F4'
       unibody: '#7D9BD1'
 
@@ -1258,14 +1266,14 @@ pokemon:
   # 184
   azumarill:
       primary: '#FDFBF3'
-      secondary: '#F3F5FD'
+      secondary: '#FF3856' #'#F3F5FD'
       tertiary: '#F3FDFB'
       unibody: '#3897CB'
 
   # 298
   azurill:
       primary: '#167FC3'
-      secondary: '#C35A16'
+      secondary: '#FFA3E0' #'#C35A16'
       tertiary: '#C3167F'
       unibody: '#2B8FCD'
 
@@ -1286,7 +1294,7 @@ pokemon:
   # 354
   banette:
       primary: '#717171'
-      secondary: '#717171'
+      secondary: '#FFFFFF' #'#717171'
       tertiary: '#717171'
       unibody: '#949899'
 
@@ -1307,14 +1315,14 @@ pokemon:
   # 550
   basculin:
       primary: '#F7FAF2'
-      secondary: '#F5F2FA'
+      secondary: '#FF9494' #'#F5F2FA'
       tertiary: '#F2F7FA'
       unibody: '#7AB342'
 
   # 411
   bastiodon:
       primary: '#696768'
-      secondary: '#676968'
+      secondary: '#FFFFFF' #'#676968'
       tertiary: '#686967'
       unibody: '#FBD688'
 
@@ -1342,7 +1350,7 @@ pokemon:
   # 606
   beheeyem:
       primary: '#3C3A3A'
-      secondary: '#3A3C3C'
+      secondary: '#3FE57B' #'#3A3C3C'
       tertiary: '#3A3C3A'
       unibody: '#CEA593'
 
@@ -1370,14 +1378,14 @@ pokemon:
   # 760
   bewear:
       primary: '#EDA5B3'
-      secondary: '#A5EDDF'
+      secondary: '#E3D9D9' #'#A5EDDF'
       tertiary: '#B3EDA5'
       unibody: '#403C39'
 
   # 400
   bibarel:
       primary: '#F7EAA6'
-      secondary: '#A6B3F7'
+      secondary: '#FFFFFF' #'#A6B3F7'
       tertiary: '#A6F7EA'
       unibody: '#BE8D48'
 
@@ -1391,7 +1399,7 @@ pokemon:
   # 688
   binacle:
       primary: '#8D6D46'
-      secondary: '#46668D'
+      secondary: '#F4D33E' #'#46668D'
       tertiary: '#468D6D'
       unibody: '#C3C9D8'
 
@@ -1419,7 +1427,7 @@ pokemon:
   # 522
   blitzle:
       primary: '#EEEBE6'
-      secondary: '#E6E9EE'
+      secondary: '#149DED' #'#E6E9EE'
       tertiary: '#E6EEEB'
       unibody: '#4F4B48'
 
@@ -1447,7 +1455,7 @@ pokemon:
   # 761
   bounsweet:
       primary: '#CC5C87'
-      secondary: '#5CCCA1'
+      secondary: '#000000' #'#5CCCA1'
       tertiary: '#87CC5C'
       unibody: '#768D64FF'
 
@@ -1594,7 +1602,7 @@ pokemon:
   # 351
   castform:
       primary: '#BEC1C8'
-      secondary: '#C8C5BE'
+      secondary: '#000000' #'#C8C5BE'
       tertiary: '#C8BEC1'
       unibody: '#CFD3DC'
 
@@ -1622,28 +1630,28 @@ pokemon:
   # 737
   charjabug:
       primary: '#BDC2BD'
-      secondary: '#C2BDC2'
+      secondary: '#000000' #'#C2BDC2'
       tertiary: '#BDBDC2'
       unibody: '#7D9C70FF'
 
   # 441
   chatot:
       primary: '#393738'
-      secondary: '#373938'
+      secondary: '#FFFFFF' #'#373938'
       tertiary: '#383937'
       unibody: '#3E8CBC'
 
   # 421
   cherrim:
       primary: '#DF9896'
-      secondary: '#96DDDF'
+      secondary: '#FFFFFF' #'#96DDDF'
       tertiary: '#96DF98'
       unibody: '#F6CA35'
 
   # 420
   cherubi:
       primary: '#51B35E'
-      secondary: '#B351A6'
+      secondary: '#FFD1E7' #'#B351A6'
       tertiary: '#5E51B3'
       unibody: '#E8697E'
 
@@ -1678,28 +1686,28 @@ pokemon:
   # 358
   chimecho:
       primary: '#D0667A'
-      secondary: '#66D0BC'
+      secondary: '#552B2B' #'#66D0BC'
       tertiary: '#7AD066'
       unibody: '#BDDCF0'
 
   # 170
   chinchou:
       primary: '#FCDE8E'
-      secondary: '#8EACFC'
+      secondary: '#FFFBE5' #'#8EACFC'
       tertiary: '#8EFCDE'
       unibody: '#749BD2'
 
   # 433
   chingling:
       primary: '#E1645E'
-      secondary: '#5EDBE1'
+      secondary: '#000000' #'#5EDBE1'
       tertiary: '#5EE164'
       unibody: '#EBD158'
 
   # 573
   cinccino:
       primary: '#F7F8FC'
-      secondary: '#FCFBF7'
+      secondary: '#00A8E5' #'#FCFBF7'
       tertiary: '#FCF7F8'
       unibody: '#BAB9B7'
 
@@ -1720,14 +1728,14 @@ pokemon:
   # 693
   clawitzer:
       primary: '#0C70B7'
-      secondary: '#B7530C'
+      secondary: '#FFFFFF' #'#B7530C'
       tertiary: '#B70C70'
       unibody: '#7DCBF1'
 
   # 344
   claydol:
       primary: '#D66E6F'
-      secondary: '#6ED6D5'
+      secondary: '#FF8757' #'#6ED6D5'
       tertiary: '#6FD66E'
       unibody: '#5B514F'
 
@@ -1741,42 +1749,42 @@ pokemon:
   # 638
   cobalion:
       primary: '#DEB683'
-      secondary: '#83ABDE'
+      secondary: '#FADE0A' #'#83ABDE'
       tertiary: '#83DEB6'
       unibody: '#3196A8'
 
   # 563
   cofagrigus:
       primary: '#211F20'
-      secondary: '#1F2120'
+      secondary: '#FFFFFF' #'#1F2120'
       tertiary: '#20211F'
       unibody: '#F9BF5E'
 
   # 415
   combee:
       primary: '#C3CFDD'
-      secondary: '#DDD1C3'
+      secondary: '#000000' #'#DDD1C3'
       tertiary: '#DDC3CF'
       unibody: '#F5C533'
 
   # 256
   combusken:
       primary: '#DCC486'
-      secondary: '#869EDC'
+      secondary: '#F7E9E3' #'#869EDC'
       tertiary: '#86DCC4'
       unibody: '#CD7E53'
 
   # 764
   comfey:
       primary: '#E05C52'
-      secondary: '#52D6E0'
+      secondary: '#FDD14E' #'#52D6E0'
       tertiary: '#52E05C'
       unibody: '#DBE496FF'
 
   # 534
   conkeldurr:
       primary: '#D7C7C8'
-      secondary: '#C7D7D6'
+      secondary: '#000000' #'#C7D7D6'
       tertiary: '#C8D7C7'
       unibody: '#B48F75'
 
@@ -1804,9 +1812,9 @@ pokemon:
   # 789
   cosmog:
       primary: '#1998D4'
-      secondary: '#D45519'
+      secondary: '#FFFFFF' #'#D45519'
       tertiary: '#D41998'
-      unibody: '#303A81FF'
+      unibody: '#303A81'
 
   # 546
   cottonee:
@@ -1846,7 +1854,7 @@ pokemon:
   # 342
   crawdaunt:
       primary: '#BF5847'
-      secondary: '#47AEBF'
+      secondary: '#FFFFFF' #'#47AEBF'
       tertiary: '#47BF58'
       unibody: '#DE5238'
 
@@ -1881,7 +1889,7 @@ pokemon:
   # 558
   crustle:
       primary: '#605148'
-      secondary: '#485760'
+      secondary: '#FFFFFF' #'#485760'
       tertiary: '#486051'
       unibody: '#A59179'
 
@@ -1916,7 +1924,7 @@ pokemon:
   # 491
   darkrai:
       primary: '#FFF8F2'
-      secondary: '#F2F9FF'
+      secondary: '#D75600' #'#F2F9FF'
       tertiary: '#F2FFF8'
       unibody: '#504742'
 
@@ -1937,7 +1945,7 @@ pokemon:
   # 554
   darumaka:
       primary: '#FDCE42'
-      secondary: '#4271FD'
+      secondary: '#482114' #'#4271FD'
       tertiary: '#42FDCE'
       unibody: '#C85A37'
 
@@ -1986,7 +1994,7 @@ pokemon:
   # 386
   deoxys:
       primary: '#C67F61'
-      secondary: '#61A8C6'
+      secondary: '#FFFFFF' #'#61A8C6'
       tertiary: '#61C67F'
       unibody: '#E3946D'
 
@@ -2007,21 +2015,21 @@ pokemon:
   # 781
   dhelmise:
       primary: '#3A8790'
-      secondary: '#90433A'
+      secondary: '#FFFFFF' #'#90433A'
       tertiary: '#903A87'
       unibody: '#8F6335FF'
 
   # 483
   dialga:
       primary: '#CAD2DE'
-      secondary: '#DED6CA'
+      secondary: '#D000FF' #'#DED6CA'
       tertiary: '#DECAD2'
       unibody: '#2B3B6C'
 
   # 719
   diancie:
       primary: '#EAB4CE'
-      secondary: '#B4EAD0'
+      secondary: '#000000' #'#B4EAD0'
       tertiary: '#CEEAB4'
       unibody: '#EFC9DE'
 
@@ -2084,7 +2092,7 @@ pokemon:
   # 529
   drilbur:
       primary: '#DCEBE8'
-      secondary: '#EBDCDF'
+      secondary: '#FFA3E0' #'#EBDCDF'
       tertiary: '#E8DCEB'
       unibody: '#404040'
 
@@ -2098,14 +2106,14 @@ pokemon:
   # 580
   ducklett:
       primary: '#B0DDDE'
-      secondary: '#DEB1B0'
+      secondary: '#E98120' #'#DEB1B0'
       tertiary: '#DEB0DD'
       unibody: '#7FCBE5'
 
   # 206
   dunsparce:
       primary: '#F4F1E7'
-      secondary: '#E7EAF4'
+      secondary: '#2A8795' #'#E7EAF4'
       tertiary: '#E7F4F1'
       unibody: '#F9E09E'
 
@@ -2119,14 +2127,14 @@ pokemon:
   # 632
   durant:
       primary: '#AEAEAE'
-      secondary: '#AEAEAE'
+      secondary: '#FFFFFF' #'#AEAEAE'
       tertiary: '#AEAEAE'
       unibody: '#3A3B3F'
 
   # 356
   dusclops:
       primary: '#B9BDC0'
-      secondary: '#C0BCB9'
+      secondary: '#000000' #'#C0BCB9'
       tertiary: '#C0B9BD'
       unibody: '#B4B9BC'
 
@@ -2154,7 +2162,7 @@ pokemon:
   # 557
   dwebble:
       primary: '#6F6462'
-      secondary: '#626D6F'
+      secondary: '#FFEDD1' #'#626D6F'
       tertiary: '#626F64'
       unibody: '#E89454'
 
@@ -2224,28 +2232,28 @@ pokemon:
   # 244
   entei:
       primary: '#B42524'
-      secondary: '#24B3B4'
-      tertiary: '#24B425'
+      secondary: '#e6e5e0' #'#24B3B4'
+      tertiary: '#e6e5e0' #'#24B425'
       unibody: '#7B0100'
 
   # 589
   escavalier:
       primary: '#D4C7C1'
-      secondary: '#C1CED4'
+      secondary: '#FFFFFF' #'#C1CED4'
       tertiary: '#C1D4C7'
       unibody: '#353535'
 
   # 196
   espeon:
       primary: '#6D4B7E'
-      secondary: '#5C7E4B'
+      secondary: '#FFFFFF' #'#5C7E4B'
       tertiary: '#7E6D4B'
       unibody: '#D4B7D5'
 
   # 677
   espurr:
       primary: '#817E8C'
-      secondary: '#898C7E'
+      secondary: '#000000' #'#898C7E'
       tertiary: '#8C817E'
       unibody: '#A1A3BA'
 
@@ -2273,28 +2281,28 @@ pokemon:
   # 653
   fennekin:
       primary: '#E64D2E'
-      secondary: '#2EC7E6'
+      secondary: '#000000' #'#2EC7E6'
       tertiary: '#2EE64D'
       unibody: '#F7F387'
 
   # 160
   feraligatr:
       primary: '#EC2046'
-      secondary: '#20ECC6'
+      secondary: '#000000' #'#20ECC6'
       tertiary: '#46EC20'
       unibody: '#5FBDD6'
 
   # 597
   ferroseed:
       primary: '#C7C7C7'
-      secondary: '#C7C7C7'
+      secondary: '#000000' #'#C7C7C7'
       tertiary: '#C7C7C7'
       unibody: '#4BA26F'
 
   # 598
   ferrothorn:
       primary: '#DCDCDC'
-      secondary: '#DCDCDC'
+      secondary: '#000000' #'#DCDCDC'
       tertiary: '#DCDCDC'
       unibody: '#4A9665'
 
@@ -2329,7 +2337,7 @@ pokemon:
   # 419
   floatzel:
       primary: '#F2E19B'
-      secondary: '#9BACF2'
+      secondary: '#0000FF' #'#9BACF2'
       tertiary: '#9BF2E1'
       unibody: '#DA713A'
 
@@ -2343,14 +2351,14 @@ pokemon:
   # 671
   florges:
       primary: '#CF91B1'
-      secondary: '#91CFAF'
+      secondary: '#000000' #'#91CFAF'
       tertiary: '#B1CF91'
       unibody: '#EB545D'
 
   # 330
   flygon:
       primary: '#D26572'
-      secondary: '#65D2C5'
+      secondary: '#FFFFFF' #'#65D2C5'
       tertiary: '#72D265'
       unibody: '#B7D188'
 
@@ -2364,7 +2372,7 @@ pokemon:
   # 590
   foongus:
       primary: '#FCF8EC'
-      secondary: '#ECF0FC'
+      secondary: '#FF3D3D' #'#ECF0FC'
       tertiary: '#ECFCF8'
       unibody: '#4F4039'
 
@@ -2413,7 +2421,7 @@ pokemon:
   # 676
   furfrou:
       primary: '#9D9A96'
-      secondary: '#96999D'
+      secondary: '#149DED' #'#96999D'
       tertiary: '#969D9A'
       unibody: '#EFF3E4'
 
@@ -2427,7 +2435,7 @@ pokemon:
   # 444
   gabite:
       primary: '#4C4E74'
-      secondary: '#74724C'
+      secondary: '#FFFFFF' #'#74724C'
       tertiary: '#744C4E'
       unibody: '#5D669D'
 
@@ -2455,7 +2463,7 @@ pokemon:
   # 445
   garchomp:
       primary: '#3A405A'
-      secondary: '#5A543A'
+      secondary: '#FFFFFF' #'#5A543A'
       tertiary: '#5A3A40'
       unibody: '#4B537A'
 
@@ -2469,14 +2477,14 @@ pokemon:
   # 423
   gastrodon:
       primary: '#38ADC1'
-      secondary: '#C14C38'
+      secondary: '#FFFFFF' #'#C14C38'
       tertiary: '#C138AD'
       unibody: '#377F3F'
 
   # 649
   genesect:
       primary: '#D5C6CD'
-      secondary: '#C6D5CE'
+      secondary: '#000000' #'#C6D5CE'
       tertiary: '#CDD5C6'
       unibody: '#A06C9C'
 
@@ -2497,7 +2505,7 @@ pokemon:
   # 203
   girafarig:
       primary: '#37221A'
-      secondary: '#1A2F37'
+      secondary: '#0000FF' #'#1A2F37'
       tertiary: '#1A3722'
       unibody: '#EDB321'
 
@@ -2511,21 +2519,21 @@ pokemon:
   # 471
   glaceon:
       primary: '#3A7C8C'
-      secondary: '#8C4A3A'
+      secondary: '#FFFFFF' #'#8C4A3A'
       tertiary: '#8C3A7C'
       unibody: '#B5DEDA'
 
   # 362
   glalie:
       primary: '#E3EAF4'
-      secondary: '#F4EDE3'
+      secondary: '#149DED' #'#F4EDE3'
       tertiary: '#F4E3EA'
       unibody: '#48494B'
 
   # 431
   glameow:
       primary: '#F8F6F2'
-      secondary: '#F2F4F8'
+      secondary: '#000000' #'#F2F4F8'
       tertiary: '#F2F8F6'
       unibody: '#8C98A6'
 
@@ -2539,14 +2547,14 @@ pokemon:
   # 472
   gliscor:
       primary: '#DD5F5A'
-      secondary: '#5AD8DD'
+      secondary: '#000000' #'#5AD8DD'
       tertiary: '#5ADD5F'
       unibody: '#9CA7C7'
 
   # 673
   gogoat:
       primary: '#1F6F37'
-      secondary: '#6F1F57'
+      secondary: '#8BE0A5' #'#6F1F57'
       tertiary: '#371F6F'
       unibody: '#988A6F'
 
@@ -2560,7 +2568,7 @@ pokemon:
   # 768
   golisopod:
       primary: '#AFADA9'
-      secondary: '#A9ABAF'
+      secondary: '#0B6D85' #'#A9ABAF'
       tertiary: '#A9AFAD'
       unibody: '#D3DFD8FF'
 
@@ -2581,14 +2589,14 @@ pokemon:
   # 704
   goomy:
       primary: '#A49ACC'
-      secondary: '#C2CC9A'
+      secondary: '#000000' #'#C2CC9A'
       tertiary: '#CCA49A'
       unibody: '#E7D6E8'
 
   # 368
   gorebyss:
       primary: '#D199BD'
-      secondary: '#99D1AD'
+      secondary: '#FFFFFF' #'#99D1AD'
       tertiary: '#BDD199'
       unibody: '#EEB0C9'
 
@@ -2602,7 +2610,7 @@ pokemon:
   # 576
   gothitelle:
       primary: '#F5F3F4'
-      secondary: '#F3F5F4'
+      secondary: '#00A8E5' #'#F3F5F4'
       tertiary: '#F4F5F3'
       unibody: '#393738'
 
@@ -2616,7 +2624,7 @@ pokemon:
   # 711
   gourgeist:
       primary: '#E27B58'
-      secondary: '#58BFE2'
+      secondary: '#FFFFFF' #'#58BFE2'
       tertiary: '#58E27B'
       unibody: '#61532E'
 
@@ -2630,7 +2638,7 @@ pokemon:
   # 658
   greninja:
       primary: '#E67A8F'
-      secondary: '#7AE6D1'
+      secondary: '#000000' #'#7AE6D1'
       tertiary: '#8FE67A'
       unibody: '#324496'
 
@@ -2644,7 +2652,7 @@ pokemon:
   # 383
   groudon:
       primary: '#C02427'
-      secondary: '#24C0BD'
+      secondary: '#FFFF00' #'#24C0BD'
       tertiary: '#27C024'
       unibody: '#09090B'
 
@@ -2665,7 +2673,7 @@ pokemon:
   # 326
   grumpig:
       primary: '#4E5253'
-      secondary: '#534F4E'
+      secondary: '#FFFFFF' #'#534F4E'
       tertiary: '#534E52'
       unibody: '#B494C3'
 
@@ -2707,7 +2715,7 @@ pokemon:
   # 297
   hariyama:
       primary: '#EA9674'
-      secondary: '#74C8EA'
+      secondary: '#000000' #'74C8EA'
       tertiary: '#74EA96'
       unibody: '#E8E3DD'
 
@@ -2721,7 +2729,7 @@ pokemon:
   # 612
   haxorus:
       primary: '#362B33'
-      secondary: '#2B362E'
+      secondary: '#FFFFFF' #'#2B362E'
       tertiary: '#33362B'
       unibody: '#A39733'
 
@@ -2756,7 +2764,7 @@ pokemon:
   # 214
   heracross:
       primary: '#1B3E54'
-      secondary: '#54311B'
+      secondary: '#000000' #'#54311B'
       tertiary: '#541B3E'
       unibody: '#255174'
 
@@ -2770,7 +2778,7 @@ pokemon:
   # 449
   hippopotas:
       primary: '#654723'
-      secondary: '#234165'
+      secondary: '#FFFFFF' #'#234165'
       tertiary: '#236547'
       unibody: '#D6C47C'
 
@@ -2798,14 +2806,14 @@ pokemon:
   # 679
   honedge:
       primary: '#22A9E0'
-      secondary: '#E05922'
+      secondary: '#FFFFFF' #'#E05922'
       tertiary: '#E022A9'
       unibody: '#4C576B'
 
   # 720
   hoopa:
       primary: '#D6496E'
-      secondary: '#49D6B1'
+      secondary: '#FFFFFF' #'#49D6B1'
       tertiary: '#6ED649'
       unibody: '#AFA4BFFF'
 
@@ -2840,14 +2848,14 @@ pokemon:
   # 367
   huntail:
       primary: '#EC9D61'
-      secondary: '#61B0EC'
+      secondary: '#381500' #'#61B0EC'
       tertiary: '#61EC9D'
       unibody: '#5AA4C9'
 
   # 635
   hydreigon:
       primary: '#344B6D'
-      secondary: '#6D5634'
+      secondary: '#FFFFFF' #'#6D5634'
       tertiary: '#6D344B'
       unibody: '#222423'
 
@@ -2861,21 +2869,21 @@ pokemon:
   # 314
   illumise:
       primary: '#9879B2'
-      secondary: '#93B279'
+      secondary: '#FFFFFF' #'#93B279'
       tertiary: '#B29879'
       unibody: '#85C3DC'
 
   # 392
   infernape:
       primary: '#CF5444'
-      secondary: '#44BFCF'
+      secondary: '#000000' #'#44BFCF'
       tertiary: '#44CF54'
       unibody: '#FFFFFF'
 
   # 686
   inkay:
       primary: '#E6E7E7'
-      secondary: '#E7E6E6'
+      secondary: '#000000' #'#E7E6E6'
       tertiary: '#E7E6E7'
       unibody: '#A3D0F1'
 
@@ -2903,28 +2911,28 @@ pokemon:
   # 189
   jumpluff:
       primary: '#FEF7D2'
-      secondary: '#D2D9FE'
+      secondary: '#000000' #'#D2D9FE'
       tertiary: '#D2FEF7'
       unibody: '#6F89C4'
 
   # 588
   karrablast:
       primary: '#615D5E'
-      secondary: '#5D6160'
+      secondary: '#FFFFFF' #'#5D6160'
       tertiary: '#5E615D'
       unibody: '#2380C3'
 
   # 798
   kartana:
       primary: '#B7BCB7'
-      secondary: '#BCB7BC'
+      secondary: '#54D05C' #'#BCB7BC'
       tertiary: '#B7B7BC'
       unibody: '#FAFBF9FF'
 
   # 352
   kecleon:
       primary: '#F7D583'
-      secondary: '#83A5F7'
+      secondary: '#000000'#'#83A5F7'
       tertiary: '#83F7D5'
       unibody: '#A7BE64'
 
@@ -2938,7 +2946,7 @@ pokemon:
   # 230
   kingdra:
       primary: '#7098AD'
-      secondary: '#AD8570'
+      secondary: '#FFFFFF'#'#AD8570'
       tertiary: '#AD7098'
       unibody: '#7DAECF'
 
@@ -2966,21 +2974,21 @@ pokemon:
   # 601
   klinklang:
       primary: '#A1A1A2'
-      secondary: '#A2A2A1'
+      secondary: '#FFFFFF' #'#A2A2A1'
       tertiary: '#A2A1A1'
       unibody: '#CDD4E6'
 
   # 599
   klink:
       primary: '#636768'
-      secondary: '#686463'
+      secondary: '#3894CA' #'#686463'
       tertiary: '#686367'
       unibody: '#C4C7D5'
 
   # 775
   komala:
       primary: '#E0C8A9'
-      secondary: '#A9C1E0'
+      secondary: '#FFFFFF' #'#A9C1E0'
       tertiary: '#A9E0C8'
       unibody: '#ABBFD7FF'
 
@@ -2994,7 +3002,7 @@ pokemon:
   # 402
   kricketune:
       primary: '#413C3A'
-      secondary: '#3A3F41'
+      secondary: '#FFFFFF' #'#3A3F41'
       tertiary: '#3A413C'
       unibody: '#CF5138'
 
@@ -3022,7 +3030,7 @@ pokemon:
   # 646
   kyurem:
       primary: '#8DA2A3'
-      secondary: '#A38E8D'
+      secondary: '#D6E8BB' #'#A38E8D'
       tertiary: '#A38DA2'
       unibody: '#656E73'
 
@@ -3043,7 +3051,7 @@ pokemon:
   # 645
   landorus:
       primary: '#806E60'
-      secondary: '#607280'
+      secondary: '#0000FF' #'#607280'
       tertiary: '#60806E'
       unibody: '#F5F4F9'
 
@@ -3057,7 +3065,7 @@ pokemon:
   # 636
   larvesta:
       primary: '#D9784B'
-      secondary: '#4BACD9'
+      secondary: '#02A2FF' #'#4BACD9'
       tertiary: '#4BD978'
       unibody: '#F6FAFB'
 
@@ -3085,7 +3093,7 @@ pokemon:
   # 470
   leafeon:
       primary: '#6ABA87'
-      secondary: '#BA6A9D'
+      secondary: '#381500' #'#BA6A9D'
       tertiary: '#876ABA'
       unibody: '#FCEDB2'
 
@@ -3106,21 +3114,21 @@ pokemon:
   # 165
   ledyba:
       primary: '#E6DA9C'
-      secondary: '#9CA8E6'
+      secondary: '#D3D3D3' #'#9CA8E6'
       tertiary: '#9CE6DA'
       unibody: '#C66753'
 
   # 463
   lickilicky:
       primary: '#FCFAF7'
-      secondary: '#F7F9FC'
+      secondary: '#FFFFFF' #'#F7F9FC'
       tertiary: '#F7FCFA'
       unibody: '#DE869B'
 
   # 510
   liepard:
       primary: '#EBCA3F'
-      secondary: '#3F60EB'
+      secondary: '#FFFFFF' #'#3F60EB'
       tertiary: '#3FEBCA'
       unibody: '#6C5C76'
 
@@ -3141,7 +3149,7 @@ pokemon:
   # 506
   lillipup:
       primary: '#FAED7D'
-      secondary: '#7D8AFA'
+      secondary: '#7B4AC7' #'#7D8AFA'
       tertiary: '#7DFAED'
       unibody: '#F19459'
 
@@ -3162,15 +3170,17 @@ pokemon:
   # 607
   litwick:
       primary: '#8C7AB8'
-      secondary: '#A6B87A'
+      secondary: '#000000' #'#A6B87A'
       tertiary: '#B88C7A'
       unibody: '#EFE1EE'
 
   # 271
   lombre:
       primary: '#B9DDD1'
-      secondary: '#DDB9C5'
-      tertiary: '#D1B9DD'
+#      secondary: '#DDB9C5'
+#      tertiary: '#D1B9DD'
+      secondary: '#1d4336'
+      tertiary: '#1d4336'
       unibody: '#9FC163'
 
   # 428
@@ -3225,21 +3235,21 @@ pokemon:
   # 792
   lunala:
       primary: '#F9FCFE'
-      secondary: '#FEFBF9'
+      secondary: '#D9E01A' #'#FEFBF9'
       tertiary: '#FEF9FC'
       unibody: '#5F3287FF'
 
   # 337
   lunatone:
       primary: '#242527'
-      secondary: '#272624'
+      secondary: '#FFFFFF' #'#272624'
       tertiary: '#272425'
       unibody: '#E5DEB4'
 
   # 754
   lurantis:
       primary: '#E27079'
-      secondary: '#70E2D9'
+      secondary: '#2CA5C4' #'#70E2D9'
       tertiary: '#79E270'
       unibody: '#F5CFD3FF'
 
@@ -3253,7 +3263,7 @@ pokemon:
   # 404
   luxio:
       primary: '#363533'
-      secondary: '#333436'
+      secondary: '#FFFFFF' #'#333436'
       tertiary: '#333635'
       unibody: '#80B8C9'
 
@@ -3267,21 +3277,21 @@ pokemon:
   # 745
   lycanroc:
       primary: '#FEFDFD'
-      secondary: '#FDFEFE'
+      secondary: '#FF8085' #'#FDFEFE'
       tertiary: '#FDFEFD'
-      unibody: '#E2C7AAFF'
+      unibody: '#E2C7AA'
 
   # 240
   magby:
       primary: '#E97B81'
-      secondary: '#7BE9E3'
+      secondary: '#F7B6BF' #'#7BE9E3'
       tertiary: '#81E97B'
       unibody: '#E47675'
 
   # 219
   magcargo:
       primary: '#5E6C86'
-      secondary: '#86785E'
+      secondary: '#FFFFFF' #'#86785E'
       tertiary: '#865E6C'
       unibody: '#D78285'
 
@@ -3316,7 +3326,7 @@ pokemon:
   # 687
   malamar:
       primary: '#F1EFF8'
-      secondary: '#F6F8EF'
+      secondary: '#FFFFFF' #'#F6F8EF'
       tertiary: '#F8F1EF'
       unibody: '#8E71A1'
 
@@ -3344,14 +3354,14 @@ pokemon:
   # 310
   manectric:
       primary: '#EBD99E'
-      secondary: '#9EB0EB'
+      secondary: '#FFFFFF' #'#9EB0EB'
       tertiary: '#9EEBD9'
       unibody: '#74AEC6'
 
   # 226
   mantine:
       primary: '#465983'
-      secondary: '#837046'
+      secondary: '#FFFFFF' #'#837046'
       tertiary: '#834659'
       unibody: '#B9B1C9'
 
@@ -3365,16 +3375,18 @@ pokemon:
   # 556
   maractus:
       primary: '#E38BB5'
-      secondary: '#8BE3B9'
+      secondary: '#FFFFFF' #'#8BE3B9'
       tertiary: '#B5E38B'
       unibody: '#8DC86C'
 
   # 747
   mareanie:
       primary: '#B088BC'
-      secondary: '#94BC88'
-      tertiary: '#BCB088'
-      unibody: '#92D0D6FF'
+#      secondary: '#94BC88'
+      secondary: '#91740c'
+#      tertiary: '#BCB088'
+      tertiary: '#91740c'
+      unibody: '#92D0D6'
 
   # 179
   mareep:
@@ -3386,7 +3398,7 @@ pokemon:
   # 183
   marill:
       primary: '#D9D9D9'
-      secondary: '#D9D9D9'
+      secondary: '#FF3865' #'#D9D9D9'
       tertiary: '#D9D9D9'
       unibody: '#4FB4E5'
 
@@ -3400,7 +3412,7 @@ pokemon:
   # 259
   marshtomp:
       primary: '#E78E6B'
-      secondary: '#6BC4E7'
+      secondary: '#381500' #6BC4E7'
       tertiary: '#6BE78E'
       unibody: '#53AEAF'
 
@@ -3414,7 +3426,7 @@ pokemon:
   # 303
   mawile:
       primary: '#595D5E'
-      secondary: '#5E5A59'
+      secondary: '#F43E3E' #'#5E5A59'
       tertiary: '#5E595D'
       unibody: '#FBE38D'
 
@@ -3428,14 +3440,14 @@ pokemon:
   # 307
   meditite:
       primary: '#DFE3E4'
-      secondary: '#E4E0DF'
+      secondary: '#000000' #'#E4E0DF'
       tertiary: '#E4DFE3'
       unibody: '#75C2EC'
 
   # 154
   meganium:
       primary: '#CE5276'
-      secondary: '#52CEAA'
+      secondary: '#FFFFFF' #'#52CEAA'
       tertiary: '#76CE52'
       unibody: '#BEBD85'
 
@@ -3456,7 +3468,7 @@ pokemon:
   # 481
   mesprit:
       primary: '#E180A6'
-      secondary: '#80E1BB'
+      secondary: '#FFFFFF' #'#80E1BB'
       tertiary: '#A6E180'
       unibody: '#B3CDE6'
 
@@ -3470,7 +3482,7 @@ pokemon:
   # 375
   metang:
       primary: '#F6F9F8'
-      secondary: '#F9F6F7'
+      secondary: '#FF1F48' #'#F9F6F7'
       tertiary: '#F8F6F9'
       unibody: '#5C90A8'
 
@@ -3491,7 +3503,7 @@ pokemon:
   # 262
   mightyena:
       primary: '#36333E'
-      secondary: '#3B3E33'
+      secondary: '#FFFFFF' #'#3B3E33'
       tertiary: '#3E3633'
       unibody: '#C5C2CB'
 
@@ -3519,14 +3531,14 @@ pokemon:
   # 778
   mimikyu:
       primary: '#B1AB8D'
-      secondary: '#8D93B1'
+      secondary: '#F2889A' #'#8D93B1'
       tertiary: '#8DB1AB'
       unibody: '#030202FF'
 
   # 572
   minccino:
       primary: '#A59E9A'
-      secondary: '#9AA1A5'
+      secondary: '#FFFFFF' #'#9AA1A5'
       tertiary: '#9AA59E'
       unibody: '#D9D6D1'
 
@@ -3540,14 +3552,14 @@ pokemon:
   # 200
   misdreavus:
       primary: '#F9CA87'
-      secondary: '#87B6F9'
+      secondary: '#DED1E5' #'#87B6F9'
       tertiary: '#87F9CA'
       unibody: '#366378'
 
   # 429
   mismagius:
       primary: '#846A99'
-      secondary: '#7F996A'
+      secondary: '#FFFFFF' #'#7F996A'
       tertiary: '#99846A'
       unibody: '#504162'
 
@@ -3575,7 +3587,7 @@ pokemon:
   # 749
   mudbray:
       primary: '#5A5B5D'
-      secondary: '#5D5C5A'
+      secondary: '#CDCECA' #'#5D5C5A'
       tertiary: '#5D5A5B'
       unibody: '#9D7564FF'
 
@@ -3596,7 +3608,7 @@ pokemon:
   # 517
   munna:
       primary: '#B389BB'
-      secondary: '#91BB89'
+      secondary: '#FFFFFF' #'#91BB89'
       tertiary: '#BBB389'
       unibody: '#F4D3DA'
 
@@ -3610,7 +3622,7 @@ pokemon:
   # 518
   musharna:
       primary: '#EA92A0'
-      secondary: '#92EADC'
+      secondary: '#FFFFFF' #'#92EADC'
       tertiary: '#A0EA92'
       unibody: '#A291C5'
 
@@ -3659,8 +3671,10 @@ pokemon:
   # 714
   noibat:
       primary: '#BCA8CD'
-      secondary: '#B9CDA8'
-      tertiary: '#CDBCA8'
+#      secondary: '#dad2de'
+      secondary: '#e4d2be'
+#      tertiary: '#CDBCA8'
+      tertiary: '#e4d2be'
       unibody: '#4B3F43'
 
   # 715
@@ -3722,14 +3736,14 @@ pokemon:
   # 484
   palkia:
       primary: '#DFE1F0'
-      secondary: '#F0EEDF'
+      secondary: '#000000' #'#F0EEDF'
       tertiary: '#F0DFE1'
       unibody: '#948D9F'
 
   # 770
   palossand:
       primary: '#4B3121'
-      secondary: '#213B4B'
+      secondary: '#FFFFFF' #'#213B4B'
       tertiary: '#214B31'
       unibody: '#F7C286FF'
 
@@ -3750,7 +3764,7 @@ pokemon:
   # 675
   pangoro:
       primary: '#505558'
-      secondary: '#585350'
+      secondary: '#44E07C' #'#585350'
       tertiary: '#585055'
       unibody: '#9198AA'
 
@@ -3778,14 +3792,14 @@ pokemon:
   # 766
   passimian:
       primary: '#F7F8F0'
-      secondary: '#F1F0F8'
+      secondary: '#EA980B' #'#F1F0F8'
       tertiary: '#F0F7F8'
       unibody: '#5D5B55FF'
 
   # 504
   patrat:
       primary: '#E3D7C5'
-      secondary: '#C5D1E3'
+      secondary: '#0000FF' #'#C5D1E3'
       tertiary: '#C5E3D7'
       unibody: '#B58E57'
 
@@ -3848,7 +3862,7 @@ pokemon:
   # 519
   pidove:
       primary: '#EAE7DE'
-      secondary: '#DEE1EA'
+      secondary: '#0FBFFF' #'#DEE1EA'
       tertiary: '#DEEAE7'
       unibody: '#AAA6A3'
 
@@ -3897,14 +3911,14 @@ pokemon:
   # 261
   poochyena:
       primary: '#525659'
-      secondary: '#595552'
+      secondary: '#FFFFFF' #'#595552'
       tertiary: '#595256'
       unibody: '#ABB0B4'
 
   # 233
   porygon2:
       primary: '#62C0DB'
-      secondary: '#DB7D62'
+      secondary: '#000000' #'#DB7D62'
       tertiary: '#DB62C0'
       unibody: '#E1576E'
 
@@ -3925,7 +3939,7 @@ pokemon:
   # 710
   pumpkaboo:
       primary: '#E29D81'
-      secondary: '#81C6E2'
+      secondary: '#FFFFFF' #'#81C6E2'
       tertiary: '#81E29D'
       unibody: '#524637'
 
@@ -3981,14 +3995,14 @@ pokemon:
   # 651
   quilladin:
       primary: '#66472B'
-      secondary: '#2B4A66'
+      secondary: '#FBE229' #'#2B4A66'
       tertiary: '#2B6647'
       unibody: '#A5CD5A'
 
   # 211
   qwilfish:
       primary: '#3F7778'
-      secondary: '#78403F'
+      secondary: '#17968E' #'#78403F'
       tertiary: '#783F77'
       unibody: '#E0EBB1'
 
@@ -4058,7 +4072,7 @@ pokemon:
   # 223
   remoraid:
       primary: '#E6EDE0'
-      secondary: '#E7E0ED'
+      secondary: '#885966' #'#E7E0ED'
       tertiary: '#E0E6ED'
       unibody: '#B8D5C1'
 
@@ -4086,7 +4100,7 @@ pokemon:
   # 743
   ribombee:
       primary: '#F9F5DB'
-      secondary: '#DBDFF9'
+      secondary: '#E96AB7' #'#DBDFF9'
       tertiary: '#DBF9F5'
       unibody: '#EDD969FF'
 
@@ -4107,7 +4121,7 @@ pokemon:
   # 524
   roggenrola:
       primary: '#8C6C31'
-      secondary: '#31518C'
+      secondary: '#F06C00' #'#31518C'
       tertiary: '#318C6C'
       unibody: '#2D334B'
 
@@ -4128,7 +4142,7 @@ pokemon:
   # 479
   rotom:
       primary: '#FEFEFE'
-      secondary: '#FEFEFE'
+      secondary: '#000000' #'#FEFEFE'
       tertiary: '#FEFEFE'
       unibody: '#E37536'
 
@@ -4142,7 +4156,7 @@ pokemon:
   # 627
   rufflet:
       primary: '#F2F2E0'
-      secondary: '#E0E0F2'
+      secondary: '#FFFFFF' #'#E0E0F2'
       tertiary: '#E0F2F2'
       unibody: '#676477'
 
@@ -4170,7 +4184,7 @@ pokemon:
   # 758
   salazzle:
       primary: '#E62F82'
-      secondary: '#2FE693'
+      secondary: '#FFFFFF' #'#2FE693'
       tertiary: '#82E62F'
       unibody: '#595657FF'
 
@@ -4191,7 +4205,7 @@ pokemon:
   # 769
   sandygast:
       primary: '#453D30'
-      secondary: '#303845'
+      secondary: '#F457FF' #'#303845'
       tertiary: '#30453D'
       unibody: '#D8D3B8FF'
 
@@ -4212,7 +4226,7 @@ pokemon:
   # 664
   scatterbug:
       primary: '#45473A'
-      secondary: '#3C3A47'
+      secondary: '#FFFFFF' #'#3C3A47'
       tertiary: '#3A4547'
       unibody: '#585A4D'
 
@@ -4233,14 +4247,14 @@ pokemon:
   # 545
   scolipede:
       primary: '#3D3B22'
-      secondary: '#22243D'
+      secondary: '#FFFFFF' #'#22243D'
       tertiary: '#223D3B'
       unibody: '#B14F4C'
 
   # 560
   scrafty:
       primary: '#F9CF79'
-      secondary: '#79A3F9'
+      secondary: '#0000FF' #'#79A3F9'
       tertiary: '#79F9CF'
       unibody: '#FA9D72'
 
@@ -4268,15 +4282,15 @@ pokemon:
   # 537
   seismitoad:
       primary: '#B1EAE1'
-      secondary: '#EAB1BA'
+      secondary: '#FFFFFF' #'#EAB1BA'
       tertiary: '#E1B1EA'
       unibody: '#7190D0'
 
   # 161
   sentret:
       primary: '#C27B65'
-      secondary: '#65ACC2'
-      tertiary: '#65C27B'
+      secondary: '#393618' #'#65ACC2'
+      tertiary: '#393618' #'#65C27B'
       unibody: '#B4725B'
 
   # 497
@@ -4296,7 +4310,7 @@ pokemon:
   # 336
   seviper:
       primary: '#E8B870'
-      secondary: '#70A0E8'
+      secondary: '#DDD3E3' #'#70A0E8'
       tertiary: '#70E8B8'
       unibody: '#4A667C'
 
@@ -4310,7 +4324,7 @@ pokemon:
   # 319
   sharpedo:
       primary: '#0D5786'
-      secondary: '#863C0D'
+      secondary: '#F53838' #'#863C0D'
       tertiary: '#860D57'
       unibody: '#D6D7EC'
 
@@ -4338,7 +4352,7 @@ pokemon:
   # 422
   shellos:
       primary: '#E6D864'
-      secondary: '#6472E6'
+      secondary: '#E98120' #'#6472E6'
       tertiary: '#64E6D8'
       unibody: '#43ADC5'
 
@@ -4394,28 +4408,28 @@ pokemon:
   # 353
   shuppet:
       primary: '#050709'
-      secondary: '#090705'
+      secondary: '#FFFFFF' #'#090705'
       tertiary: '#090507'
       unibody: '#7887B2'
 
   # 561
   sigilyph:
       primary: '#393738'
-      secondary: '#373938'
+      secondary: '#6ABA87' #'#373938'
       tertiary: '#383937'
       unibody: '#F0B45C'
 
   # 266
   silcoon:
-      primary: ''
-      secondary: '#FFFFFF'
+      primary: '#D3DEEC'
+      secondary: '#000000'
       tertiary: '#FFFFFF'
       unibody: '#D3DEEC'
 
   # 773
   silvally:
       primary: '#BDC2C6'
-      secondary: '#C6C1BD'
+      secondary: '#C91D1F' # '#C6C1BD'
       tertiary: '#C6BDC2'
       unibody: '#E0E4EBFF'
 
@@ -4429,14 +4443,15 @@ pokemon:
   # 512
   simisage:
       primary: '#F0C64D'
-      secondary: '#4D77F0'
+#      secondary: '#4D77F0'
+      secondary: '#6B5411'
       tertiary: '#4DF0C6'
       unibody: '#51A545'
 
   # 514
   simisear:
       primary: '#F0D98B'
-      secondary: '#8BA2F0'
+      secondary: '#000000' #'#8BA2F0'
       tertiary: '#8BF0D9'
       unibody: '#B75951'
 
@@ -4471,14 +4486,14 @@ pokemon:
   # 451
   skorupi:
       primary: '#FDFCF9'
-      secondary: '#F9FAFD'
+      secondary: '#DCC1EB' #'#F9FAFD'
       tertiary: '#F9FDFC'
       unibody: '#352E57'
 
   # 690
   skrelp:
       primary: '#764C3E'
-      secondary: '#3E6876'
+      secondary: '#F52F46' #'#3E6876'
       tertiary: '#3E764C'
       unibody: '#885A43'
 
@@ -4492,7 +4507,7 @@ pokemon:
   # 289
   slaking:
       primary: '#EBE6E0'
-      secondary: '#E0E5EB'
+      secondary: '#FF7796' #'#E0E5EB'
       tertiary: '#E0EBE6'
       unibody: '#7D6752'
 
@@ -4520,14 +4535,14 @@ pokemon:
   # 218
   slugma:
       primary: '#D7593E'
-      secondary: '#3EBCD7'
+      secondary: '#000000' #'#3EBCD7'
       tertiary: '#3ED759'
       unibody: '#EC6444'
 
   # 685
   slurpuff:
       primary: '#E8B7C9'
-      secondary: '#B7E8D6'
+      secondary: '#330022' #'#B7E8D6'
       tertiary: '#C9E8B7'
       unibody: '#FAF9FC'
 
@@ -4555,7 +4570,7 @@ pokemon:
   # 495
   snivy:
       primary: '#EEF1BC'
-      secondary: '#BFBCF1'
+      secondary: '#000000' #'#BFBCF1'
       tertiary: '#BCEEF1'
       unibody: '#4D8C46'
 
@@ -4576,16 +4591,16 @@ pokemon:
   # 209
   snubbull:
       primary: '#333331'
-      secondary: '#313133'
+      secondary: '#90CEEF' #'#313133'
       tertiary: '#313333'
       unibody: '#EF919F'
 
   # 791
   solgaleo:
       primary: '#FAE254'
-      secondary: '#546CFA'
+      secondary: '#000000' #'#546CFA'
       tertiary: '#54FAE2'
-      unibody: '#FFFFFFFF'
+      unibody: '#FFFFFF'
 
   # 577
   solosis:
@@ -4597,14 +4612,14 @@ pokemon:
   # 338
   solrock:
       primary: '#FBE075'
-      secondary: '#7590FB'
+      secondary: '#000000' #'#7590FB'
       tertiary: '#75FBE0'
       unibody: '#D3642F'
 
   # 665
   spewpa:
       primary: '#E0EBF1'
-      secondary: '#F1E6E0'
+      secondary: '#CF4877' #'#F1E6E0'
       tertiary: '#F1E0EB'
       unibody: '#585A4D'
 
@@ -4632,7 +4647,7 @@ pokemon:
   # 442
   spiritomb:
       primary: '#71BB5C'
-      secondary: '#A65CBB'
+      secondary: '#BE00CC' #'#A65CBB'
       tertiary: '#5C71BB'
       unibody: '#DBA8BB'
 
@@ -4653,7 +4668,7 @@ pokemon:
   # 234
   stantler:
       primary: '#FCF388'
-      secondary: '#8891FC'
+      secondary: '#FFFFFF' #'#8891FC'
       tertiary: '#88FCF3'
       unibody: '#C29D80'
 
@@ -4667,7 +4682,7 @@ pokemon:
   # 397
   staravia:
       primary: '#E0E1DC'
-      secondary: '#DDDCE1'
+      secondary: '#FFFF00' #'#DDDCE1'
       tertiary: '#DCE0E1'
       unibody: '#48413B'
 
@@ -4681,7 +4696,7 @@ pokemon:
   # 208
   steelix:
       primary: '#464976'
-      secondary: '#767346'
+      secondary: '#FFFFFF' #'#767346'
       tertiary: '#764649'
       unibody: '#828EA8'
 
@@ -4758,9 +4773,10 @@ pokemon:
   # 333
   swablu:
       primary: '#FEFFFF'
-      secondary: '#FFFEFE'
+      secondary: '#0D5068'
       tertiary: '#FFFEFF'
       unibody: '#49BDE6'
+
 
   # 541
   swadloon:
@@ -4793,7 +4809,7 @@ pokemon:
   # 277
   swellow:
       primary: '#CA6C86'
-      secondary: '#6CCAB0'
+      secondary: '#FFFFFF' #'#6CCAB0'
       tertiary: '#86CA6C'
       unibody: '#364969'
 
@@ -4807,14 +4823,14 @@ pokemon:
   # 684
   swirlix:
       primary: '#D4B4CE'
-      secondary: '#B4D4BA'
+      secondary: '#EA62F4' #'#B4D4BA'
       tertiary: '#CED4B4'
       unibody: '#EDF0F5'
 
   # 528
   swoobat:
       primary: '#4B4B53'
-      secondary: '#53534B'
+      secondary: '#FFFFFF' #'#53534B'
       tertiary: '#534B4B'
       unibody: '#12A4CD'
 
@@ -4835,7 +4851,7 @@ pokemon:
   # 663
   talonflame:
       primary: '#4C4D4C'
-      secondary: '#4D4C4D'
+      secondary: '#FFFFFF' #'#4D4C4D'
       tertiary: '#4C4C4D'
       unibody: '#E66D40'
 
@@ -4849,7 +4865,7 @@ pokemon:
   # 216
   teddiursa:
       primary: '#F2E38A'
-      secondary: '#8A99F2'
+      secondary: '#0000FF' #'#8A99F2'
       tertiary: '#8AF2E3'
       unibody: '#ED9B51'
 
@@ -4877,8 +4893,10 @@ pokemon:
   # 642
   thundurus:
       primary: '#4D4C4A'
-      secondary: '#4A4B4D'
-      tertiary: '#4A4D4C'
+#      secondary: '#4A4B4D'
+#      tertiary: '#4A4D4C'
+      secondary: '#7a3bee'
+      tertiary: '#7a3bee'
       unibody: '#F5F4F9'
 
   # 532
@@ -4891,7 +4909,7 @@ pokemon:
   # 564
   tirtouga:
       primary: '#586B74'
-      secondary: '#746158'
+      secondary: '#FFFFFF' #'#746158'
       tertiary: '#74586B'
       unibody: '#79B1E0'
 
@@ -4919,7 +4937,7 @@ pokemon:
   # 176
   togetic:
       primary: '#ADBED7'
-      secondary: '#D7C6AD'
+      secondary: '#CC5A60' #'#D7C6AD'
       tertiary: '#D7ADBE'
       unibody: '#E8EDF1'
 
@@ -4940,7 +4958,7 @@ pokemon:
   # 641
   tornadus:
       primary: '#875EA0'
-      secondary: '#77A05E'
+      secondary: '#000000' #'#77A05E'
       tertiary: '#A0875E'
       unibody: '#F5F4F9'
 
@@ -4996,7 +5014,7 @@ pokemon:
   # 252
   treecko:
       primary: '#D57287'
-      secondary: '#72D5C0'
+      secondary: '#FFFFFF' #'#72D5C0'
       tertiary: '#87D572'
       unibody: '#BED978'
 
@@ -5024,7 +5042,7 @@ pokemon:
   # 763
   tsareena:
       primary: '#B8D37F'
-      secondary: '#9A7FD3'
+      secondary: '#000000' #'#9A7FD3'
       tertiary: '#7FB8D3'
       unibody: '#AD4C73FF'
 
@@ -5087,7 +5105,7 @@ pokemon:
   # 696
   tyrunt:
       primary: '#856A5E'
-      secondary: '#5E7985'
+      secondary: '#FFFF00' #'#5E7985'
       tertiary: '#5E856A'
       unibody: '#7F6860'
 
@@ -5108,14 +5126,14 @@ pokemon:
   # 201
   unown:
       primary: '#343434'
-      secondary: '#343434'
+      secondary: '#FFFFFF' #'#343434'
       tertiary: '#343434'
       unibody: '#525252'
 
   # 217
   ursaring:
       primary: '#C6AE68'
-      secondary: '#6880C6'
+      secondary: '#000000' #'#6880C6'
       tertiary: '#68C6AE'
       unibody: '#9F6D50'
 
@@ -5129,7 +5147,7 @@ pokemon:
   # 583
   vanillish:
       primary: '#FDFEFF'
-      secondary: '#FFFEFD'
+      secondary: '#000000' #'#FFFEFD'
       tertiary: '#FFFDFE'
       unibody: '#6AA0CE'
 
@@ -5192,7 +5210,7 @@ pokemon:
   # 640
   virizion:
       primary: '#EAEEDF'
-      secondary: '#E3DFEE'
+      secondary: '#FFE7E5' #'#E3DFEE'
       tertiary: '#DFEAEE'
       unibody: '#A8CB6D'
 
@@ -5213,14 +5231,14 @@ pokemon:
   # 721
   volcanion:
       primary: '#EBA23D'
-      secondary: '#3D86EB'
+      secondary: '#FFFFFF' #'#3D86EB'
       tertiary: '#3DEBA2'
       unibody: '#9D2B2CFF'
 
   # 637
   volcarona:
       primary: '#EE7421'
-      secondary: '#219BEE'
+      secondary: '#FFFFFF' #'#219BEE'
       tertiary: '#21EE74'
       unibody: '#E6E6E6'
 
@@ -5262,14 +5280,14 @@ pokemon:
   # 461
   weavile:
       primary: '#B82746'
-      secondary: '#27B899'
+      secondary: '#D3DEEC' #'#27B899'
       tertiary: '#46B827'
       unibody: '#45465A'
 
   # 547
   whimsicott:
       primary: '#E6DFCD'
-      secondary: '#CDD4E6'
+      secondary: '#021208' #'#CDD4E6'
       tertiary: '#CDE6DF'
       unibody: '#745342'
 
@@ -5304,7 +5322,7 @@ pokemon:
   # 278
   wingull:
       primary: '#F8FDFE'
-      secondary: '#FEF9F8'
+      secondary: '#FFFF00' #'#FEF9F8'
       tertiary: '#FEF8FD'
       unibody: '#9DCFF0'
 
@@ -5325,7 +5343,7 @@ pokemon:
   # 527
   woobat:
       primary: '#1B2C46'
-      secondary: '#46351B'
+      secondary: '#FFFFFF' #'#46351B'
       tertiary: '#461B2C'
       unibody: '#9AC2CA'
 
@@ -5346,14 +5364,14 @@ pokemon:
   # 265
   wurmple:
       primary: '#DF6872'
-      secondary: '#68DFD5'
+      secondary: '#000000' #'#68DFD5'
       tertiary: '#72DF68'
       unibody: '#EBEAE5'
 
   # 360
   wynaut:
       primary: '#5AA9AD'
-      secondary: '#AD5E5A'
+      secondary: '#FFFFFF' #'#AD5E5A'
       tertiary: '#AD5AA9'
       unibody: '#6AC9CF'
 
@@ -5374,7 +5392,7 @@ pokemon:
   # 796
   xurkitree:
       primary: '#E4EDEB'
-      secondary: '#EDE4E6'
+      secondary: '#149DED' #'#EDE4E6'
       tertiary: '#EBE4ED'
       unibody: '#43433DFF'
 
@@ -5388,7 +5406,7 @@ pokemon:
   # 193
   yanma:
       primary: '#FCFBFC'
-      secondary: '#FBFCFB'
+      secondary: '#000000' #'#FBFCFB'
       tertiary: '#FCFCFB'
       unibody: '#D25738'
 
@@ -5409,7 +5427,7 @@ pokemon:
   # 717
   yveltal:
       primary: '#EC6757'
-      secondary: '#57DCEC'
+      secondary: '#FFFFFF' #'#57DCEC'
       tertiary: '#57EC67'
       unibody: '#343633'
 
@@ -5423,14 +5441,14 @@ pokemon:
   # 523
   zebstrika:
       primary: '#F3F6F9'
-      secondary: '#F9F6F3'
+      secondary: '#149DED' #'#F9F6F3'
       tertiary: '#F9F3F6'
       unibody: '#524E4D'
 
   # 644
   zekrom:
       primary: '#2A2625'
-      secondary: '#25292A'
+      secondary: '#02A2FF' #'#25292A'
       tertiary: '#252A26'
       unibody: '#EEF8F7'
 
@@ -5444,7 +5462,7 @@ pokemon:
   # 571
   zoroark:
       primary: '#A53039'
-      secondary: '#30A59C'
+      secondary: '#FFFFFF' #'#30A59C'
       tertiary: '#39A530'
       unibody: '#5C5B6B'
 
@@ -5465,14 +5483,14 @@ pokemon:
   # 718
   zygarde:
       primary: '#96C040'
-      secondary: '#6A40C0'
+      secondary: '#FFFFFF' #'#6A40C0'
       tertiary: '#4096C0'
       unibody: '#2F322E'
 
 
   alolan_diglett:
     primary: '#E2677C'
-    secondary: '#2E5F95'
+    secondary: '#3F0911' #'#2E5F95'
     tertiary: '#2E9564'
     unibody: '#E2677C'
 
@@ -5484,37 +5502,37 @@ pokemon:
 
   alolan_exeggutor_bottom:
     primary: '#578A42'
-    secondary: '#5B7CA0'
+    secondary: '#FFFF00' #'#5B7CA0'
     tertiary: '#5BA07F'
     unibody: '#578A42'
 
   alolan_exeggutor_full:
     primary: '#568A41'
-    secondary: '#5B7CA0'
+    secondary: '#FFFF00' #'#5B7CA0'
     tertiary: '#5BA07F'
     unibody: '#568A41'
 
   alolan_exeggutor_top:
     primary: '#568A41'
-    secondary: '#5B7CA0'
+    secondary: '#FFFF00' #'#5B7CA0'
     tertiary: '#5BA07F'
     unibody: '#568A41'
 
   alolan_geodude:
     primary: '#8C837C'
-    secondary: '#CDCAB8'
+    secondary: '#FFFFFF' #'#CDCAB8'
     tertiary: '#CDB8BB'
     unibody: '#8C837C'
 
   alolan_golem:
     primary: '#555561'
-    secondary: '#95919D'
+    secondary: '#FFFF00' #'#95919D'
     tertiary: '#91999D'
     unibody: '#555561'
 
   alolan_graveler:
     primary: '#7D766B'
-    secondary: '#A3A3AC'
+    secondary: '#FFFF00' #'#A3A3AC'
     tertiary: '#A3ACAC'
     unibody: '#7D766B'
 
@@ -5526,7 +5544,7 @@ pokemon:
 
   alolan_marowak:
     primary: '#D5D3CF'
-    secondary: '#3B4D35'
+    secondary: '#D8CDDF' #'#3B4D35'
     tertiary: '#4D4735'
     unibody: '#D5D3CF'
 
@@ -5538,7 +5556,7 @@ pokemon:
 
   alolan_muk:
     primary: '#E96FA6'
-    secondary: '#997397'
+    secondary: '#000000' #'#997397'
     tertiary: '#757399'
     unibody: '#E96FA6'
 
@@ -5550,8 +5568,10 @@ pokemon:
 
   alolan_persian:
     primary: '#4C5B6E'
-    secondary: '#DCDBD1'
-    tertiary: '#DCD1D2'
+#    secondary: '#497e91'
+    secondary: '#067198'
+#    tertiary: '#DCD1D2'
+    tertiary: '#497e91'
     unibody: '#4C5B6E'
 
   alolan_raichu:
@@ -5568,13 +5588,15 @@ pokemon:
 
   alolan_rattata:
     primary: '#7C7E8B'
-    secondary: '#514E52'
-    tertiary: '#4E4F52'
+#    secondary: '#514E52'
+#    tertiary: '#4E4F52'
+    secondary: '#b5b8d1'
+    tertiary: '#b5b8d1'
     unibody: '#7C7E8B'
 
   alolan_sandshrew:
     primary: '#EBE8B9'
-    secondary: '#E8CEC3'
+    secondary: '#FFFFFF' #'#E8CEC3'
     tertiary: '#E8C3DD'
     unibody: '#EBE8B9'
 
@@ -5586,7 +5608,7 @@ pokemon:
 
   alolan_vulpix:
     primary: '#ACC1D5'
-    secondary: '#FEFAF7'
+    secondary: '#000000' #'#FEFAF7'
     tertiary: '#FEF7FB'
     unibody: '#ACC1D5'
 
@@ -5610,7 +5632,7 @@ pokemon:
 
   burmy_trash:
     primary: '#626063'
-    secondary: '#9DE8E1'
+    secondary: '#FFFFFF' #'#9DE8E1'
     tertiary: '#A4E89D'
     unibody: '#E89DA4'
 
@@ -5628,19 +5650,19 @@ pokemon:
 
   castform_sun:
     primary: '#F79963'
-    secondary: '#4CBDCD'
+    secondary: '#000000' #'#4CBDCD'
     tertiary: '#4CCD5C'
     unibody: '#CD5C4C'
 
   dawn_wings_lunala:
     primary: '#1C1F20'
-    secondary: '#F0DBCB'
+    secondary: '#FF3DBE' #'#F0DBCB'
     tertiary: '#F0CBE0'
     unibody: '#CBE0F0'
 
   deerling_fall:
     primary: '#DE8239'
-    secondary: '#D8DDFA'
+    secondary: '#000000' #'#D8DDFA'
     tertiary: '#D8FAF5'
     unibody: '#FAF5D8'
 
@@ -5652,7 +5674,7 @@ pokemon:
 
   deerling_summer:
     primary: '#80BB47'
-    secondary: '#D8DDFA'
+    secondary: '#000000' #'#D8DDFA'
     tertiary: '#D8FAF5'
     unibody: '#FAF5D8'
 
@@ -5664,7 +5686,7 @@ pokemon:
 
   deoxys_attack:
     primary: '#4A8DA1'
-    secondary: '#6EBDE4'
+    secondary: '#FFFFFF' #'#6EBDE4'
     tertiary: '#6EE495'
     unibody: '#E4956E'
 
@@ -5682,13 +5704,13 @@ pokemon:
 
   dunsparce_alt:
     primary: '#7DB5E4'
-    secondary: '#7A86FE'
+    secondary: '#FFFFFF' #'#7A86FE'
     tertiary: '#7AFEF2'
     unibody: '#FEF27A'
 
   dusk_mane_necrozma:
     primary: '#0E0F0F'
-    secondary: '#E4EFFE'
+    secondary: '#007099' #'#E4EFFE'
     tertiary: '#E4FEF3'
     unibody: '#FEF3E4'
 
@@ -5706,31 +5728,31 @@ pokemon:
 
   gourgeist_average:
     primary: '#E27B58'
-    secondary: '#2E3C61'
+    secondary: '#FFFFFF' #'#2E3C61'
     tertiary: '#2E6153'
     unibody: '#61532E'
 
   gourgeist_large:
     primary: '#E27B58'
-    secondary: '#2E3C61'
+    secondary: '#FFFFFF' #'#2E3C61'
     tertiary: '#2E6153'
     unibody: '#61532E'
 
   gourgeist_super:
     primary: '#E27B58'
-    secondary: '#2E3C61'
+    secondary: '#FFFFFF' #'#2E3C61'
     tertiary: '#2E6153'
     unibody: '#61532E'
 
   gourgeist_tiny:
     primary: '#E27B58'
-    secondary: '#2E3C61'
+    secondary: '#FFFFFF' #'#2E3C61'
     tertiary: '#2E6153'
     unibody: '#61532E'
 
   groudon_alt:
     primary: '#09080A'
-    secondary: '#26C0C0'
+    secondary: '#FFFF00' #'#26C0C0'
     tertiary: '#26C026'
     unibody: '#C02626'
 
@@ -5754,7 +5776,7 @@ pokemon:
 
   jangmo_o:
     primary: '#D9D8D8'
-    secondary: '#9B9C9C'
+    secondary: '#000000' #'#9B9C9C'
     tertiary: '#9B9C9B'
     unibody: '#9C9B9B'
 
@@ -5766,7 +5788,8 @@ pokemon:
 
   kommo_o:
     primary: '#D5C762'
-    secondary: '#979EA2'
+#    secondary: '#979EA2'
+    secondary: '#575201'
     tertiary: '#97A29B'
     unibody: '#A29B97'
 
@@ -5790,7 +5813,7 @@ pokemon:
 
   lycanroc_midnight:
     primary: '#E4E3E0'
-    secondary: '#38ADA2'
+    secondary: '#FFFFFF' #'#38ADA2'
     tertiary: '#43AD38'
     unibody: '#AD3843'
 
@@ -5802,7 +5825,7 @@ pokemon:
 
   mewtwo_megay:
     primary: '#B39597'
-    secondary: '#E2E0E1'
+    secondary: '#000000' #'#E2E0E1'
     tertiary: '#E1E0E2'
     unibody: '#E0E2E1'
 
@@ -5820,7 +5843,7 @@ pokemon:
 
   minior_core_light_blue:
     primary: '#F3F9F4'
-    secondary: '#EEB59F'
+    secondary: '#D04F2F' #'#EEB59F'
     tertiary: '#EE9FD8'
     unibody: '#9FD8EE'
 
@@ -5838,7 +5861,7 @@ pokemon:
 
   minior_core_red:
     primary: '#FEF3F2'
-    secondary: '#52E9B8'
+    secondary: '#FFFF00'#'#52E9B8'
     tertiary: '#83E952'
     unibody: '#E95283'
 
@@ -5856,7 +5879,7 @@ pokemon:
 
   mother_beast_lusamine:
     primary: '#9193A2'
-    secondary: '#46462B'
+    secondary: '#F378F7' #'#46462B'
     tertiary: '#462B2B'
     unibody: '#2B2B46'
 
@@ -5892,37 +5915,37 @@ pokemon:
 
   oricorio_sensu:
     primary: '#B8DFE0'
-    secondary: '#CACB98'
+    secondary: '#FFFFFF' #'#CACB98'
     tertiary: '#CB9998'
     unibody: '#9998CB'
 
   porygon_z:
     primary: '#C13950'
-    secondary: '#3ABFAA'
-    tertiary: '#4FBF3A'
+    secondary: '#5e131f'
+    tertiary: '#458ab3'
     unibody: '#BF3A4F'
 
   pumpkaboo_average:
     primary: '#E29D81'
-    secondary: '#374352'
+    secondary: '#FFFFFF' #'#374352'
     tertiary: '#375246'
     unibody: '#524637'
 
   pumpkaboo_large:
     primary: '#E39D81'
-    secondary: '#374352'
+    secondary: '#FFFFFF' #'#374352'
     tertiary: '#375246'
     unibody: '#524637'
 
   pumpkaboo_super:
     primary: '#E39D81'
-    secondary: '#374352'
+    secondary: '#FFFFFF' #'#374352'
     tertiary: '#375246'
     unibody: '#524637'
 
   pumpkaboo_tiny:
     primary: '#E29D81'
-    secondary: '#374352'
+    secondary: '#FFFFFF' #'#374352'
     tertiary: '#375246'
     unibody: '#524637'
 
@@ -5946,7 +5969,7 @@ pokemon:
 
   rotom_heat:
     primary: '#E6804C'
-    secondary: '#4BB4E5'
+    secondary: '#000000' #'#4BB4E5'
     tertiary: '#4BE57C'
     unibody: '#E57C4B'
 
@@ -5964,13 +5987,13 @@ pokemon:
 
   sawsbuck_fall:
     primary: '#D66652'
-    secondary: '#213C57'
+    secondary: '#FFFFFF' #'#213C57'
     tertiary: '#21573C'
     unibody: '#573C21'
 
   sawsbuck_spring:
     primary: '#F8E467'
-    secondary: '#213C57'
+    secondary: '#FFFFFF'
     tertiary: '#21573C'
     unibody: '#573C21'
 
@@ -6000,109 +6023,111 @@ pokemon:
 
   silvally_bug:
     primary: '#8FC871'
-    secondary: '#E9E5DE'
+    secondary: '#84EA4E' #'#E9E5DE'
     tertiary: '#E9DEE2'
     unibody: '#DEE2E9'
 
   silvally_dark:
     primary: '#121212'
-    secondary: '#EAE6DE'
+    secondary: '#E5414A' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_dragon:
     primary: '#A2D7E7'
-    secondary: '#EAE6DE'
+    secondary: '#0B6D85' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_electric:
     primary: '#F4EE55'
-    secondary: '#E9E5DE'
+    secondary: '#50A2E7' #'#E9E5DE'
     tertiary: '#E9DEE2'
     unibody: '#DEE2E9'
 
   silvally_fairy:
     primary: '#B4B9C5'
-    secondary: '#E9E8E1'
+    secondary: '#FF7093' #'#E9E8E1'
     tertiary: '#E9E1E2'
     unibody: '#E1E2E9'
 
   silvally_fighting:
     primary: '#F39F5B'
-    secondary: '#E9E6DF'
+    secondary: '#552A07' #'#E9E6DF'
     tertiary: '#E9DFE2'
     unibody: '#DFE2E9'
 
   silvally_fire:
     primary: '#E60928'
-    secondary: '#EAE6DE'
+    secondary: '#490812' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_flying:
     primary: '#0377C2'
-    secondary: '#EAE6DE'
+    secondary: '#052133' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_ghost:
     primary: '#675CA5'
-    secondary: '#EAE7DE'
+    secondary: '#A55C99' #'#EAE7DE'
     tertiary: '#EADEE1'
     unibody: '#DEE1EA'
 
   silvally_grass:
     primary: '#119F50'
-    secondary: '#EAE6DE'
+#    secondary: '#000000' #'#EAE6DE'
+    secondary: '#00421E'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_ground:
     primary: '#CF7207'
-    secondary: '#E9E5DE'
+    secondary: '#4D2C09' #'#E9E5DE'
     tertiary: '#E9DEE2'
     unibody: '#DEE2E9'
 
   silvally_gx:
     primary: '#182AFC'
-    secondary: '#EAE6DE'
+    secondary: '#000000' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
   silvally_ice:
     primary: '#ACCFD8'
-    secondary: '#ECE6DE'
+    secondary: '#0D8DB0' #'#ECE6DE'
     tertiary: '#ECDEE4'
     unibody: '#DEE4EC'
 
   silvally_poison:
     primary: '#B879A5'
-    secondary: '#EAE7DE'
+#    secondary: '#B80FB4' #'#EAE7DE'
+    secondary: '#8C79B8'
     tertiary: '#EADEE1'
     unibody: '#DEE1EA'
 
   silvally_psychic:
     primary: '#EC8BB6'
-    secondary: '#EAE8DF'
+    secondary: '#5A1B38' #'#EAE8DF'
     tertiary: '#EADFE1'
     unibody: '#DFE1EA'
 
   silvally_rock:
     primary: '#C6BDA9'
-    secondary: '#E9E5DE'
+    secondary: '#2B2821' #'#E9E5DE'
     tertiary: '#E9DEE2'
     unibody: '#DEE2E9'
 
   silvally_steel:
     primary: '#96ACCA'
-    secondary: '#EAE5DD'
+    secondary: '#282D34' #'#EAE5DD'
     tertiary: '#EADDE2'
     unibody: '#DDE2EA'
 
   silvally_water:
     primary: '#21B9ED'
-    secondary: '#EAE6DE'
+    secondary: '#0E4253' #'#EAE6DE'
     tertiary: '#EADEE2'
     unibody: '#DEE2EA'
 
@@ -6114,7 +6139,7 @@ pokemon:
 
   tapu_bulu:
     primary: '#484945'
-    secondary: '#4DCACF'
+    secondary: '#FFFFFF' #'#4DCACF'
     tertiary: '#4DCF52'
     unibody: '#CF524D'
 
@@ -6156,7 +6181,7 @@ pokemon:
 
   wishiwashi_school:
     primary: '#26364B'
-    secondary: '#B7914E'
+    secondary: '#FFFF00' #'#B7914E'
     tertiary: '#B74E74'
     unibody: '#4E74B7'
 
@@ -6192,13 +6217,13 @@ pokemon:
 
   zygarde_complete:
     primary: '#93C41B'
-    secondary: '#32373A'
+    secondary: '#FFFF00' #'#32373A'
     tertiary: '#323A35'
     unibody: '#3A3532'
 
   zygarde_complete_top:
     primary: '#5B5754'
-    secondary: '#313639'
+    secondary: '#FFFF00' #'#313639'
     tertiary: '#313934'
     unibody: '#393431'
 
