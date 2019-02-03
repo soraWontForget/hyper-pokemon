@@ -1,0 +1,6 @@
+replace='random'
+for i in $(cat list.txt);
+do sed 's/$replace/'$i'/' /home/sora/.hyper.js; 
+replace=$i;
+read -p "Press enter to continue";
+done
