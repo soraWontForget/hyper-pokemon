@@ -28,6 +28,9 @@ function getUserOptions(configObj) {
     },
     get unibody() {
       return (configObj.unibody || 'true') !== 'false';
+    },
+    get pokecursor() {
+      return (configObj.pokecursor || 'false') === 'true';
     }
   });
 }
@@ -92,13 +95,16 @@ exports.decorateConfig = config => {
   const secondHighlight = isSecondaryDark ? '#C7C7C7' : '#686868';
   const tab = color(activeTab).darken(0.1);
 
+  // Pokecursor settings
+    const cursorVisibility = options.pokecursor ? 'transparent' : secondary;
+
   // Set poketab
   const tabContent = options.poketab ? gifPath : '';
 
   const syntax = {
     backgroundColor: transparent,
     borderColor: background,
-    cursorColor: secondary,
+    cursorColor: cursorVisibility,
     foregroundColor: secondary,
     selectionColor: selection,
     colors: {
@@ -122,9 +128,26 @@ exports.decorateConfig = config => {
   };
 
   return Object.assign({}, config, syntax, {
-    termCSS: config.termCSS || '',
+  //config.termCSS || '',
+    termCSS: ` 
+        ${config.termCSS || ''}
+        .cursor-node::after {
+      	content: url("file://${tabContent}");
+      	position: absolute;
+      	left: 0;
+      	right: 0;
+      	bottom: -9;
+        }
+     `,
     css: `
       ${config.css || ''}
+      .cursor-node::after {
+          	content: url("file://${tabContent}");
+          	position: absolute;
+          	left: 0;
+          	right: 0;
+          	bottom: 0;
+      }
       .terms_terms {
         background: url("file://${imagePath}") center;
         background-size: cover;
